@@ -1,0 +1,5678 @@
+max_case_type,min_cases_type,no_of_cases,avg_solving_day
+Fraud,riots,47,6
+riots,claims of negligence,49,11
+marriage affairs,dowry demands,51,15
+Divorce,robbery,53,7
+claims of negligence,unfair dismissal,55,12
+appeal against HR,discrimination,57,10
+Workplace harassment,appeal against HR,59,6
+Murder,Workplace harassment,61,14
+robbery,Murder,63,7
+dowry demands,theft,65,13
+robbery,cybercrime,67,7
+unfair dismissal,sedition,69,8
+theft,Property dispute,71,11
+cybercrime,marriage affairs,73,9
+sedition,Divorce,75,14
+Property dispute,Fraud,77,8
+Fraud,riots,79,4
+riots,claims of negligence,81,3
+marriage affairs,dowry demands,83,7
+Divorce,robbery,85,6
+claims of negligence,unfair dismissal,87,9
+appeal against HR,discrimination,89,7
+Workplace harassment,appeal against HR,91,4
+Murder,Workplace harassment,93,5
+robbery,Murder,95,15
+dowry demands,theft,97,14
+robbery,cybercrime,99,15
+unfair dismissal,sedition,101,4
+theft,Property dispute,103,11
+cybercrime,marriage affairs,105,13
+sedition,Divorce,107,6
+Property dispute,Fraud,109,13
+Fraud,riots,111,3
+riots,claims of negligence,113,3
+marriage affairs,dowry demands,115,13
+Divorce,robbery,117,3
+claims of negligence,unfair dismissal,119,3
+appeal against HR,discrimination,121,12
+Workplace harassment,appeal against HR,123,13
+Murder,Workplace harassment,125,15
+robbery,Murder,127,8
+dowry demands,theft,129,10
+robbery,cybercrime,131,11
+unfair dismissal,sedition,133,5
+theft,Property dispute,135,3
+cybercrime,marriage affairs,137,7
+sedition,Divorce,139,9
+Property dispute,Fraud,141,7
+Fraud,riots,143,6
+riots,claims of negligence,145,10
+marriage affairs,dowry demands,147,15
+Divorce,robbery,149,12
+claims of negligence,unfair dismissal,151,5
+appeal against HR,discrimination,153,11
+Workplace harassment,appeal against HR,155,12
+Murder,Workplace harassment,157,3
+robbery,Murder,159,7
+dowry demands,theft,161,12
+robbery,cybercrime,163,14
+unfair dismissal,sedition,165,13
+theft,Property dispute,167,11
+cybercrime,marriage affairs,169,3
+sedition,Divorce,171,11
+Property dispute,Fraud,173,8
+Fraud,riots,175,5
+riots,claims of negligence,177,12
+marriage affairs,dowry demands,179,11
+Divorce,robbery,181,10
+claims of negligence,unfair dismissal,183,14
+appeal against HR,discrimination,185,4
+Workplace harassment,appeal against HR,187,13
+Murder,Workplace harassment,189,14
+robbery,Murder,191,4
+dowry demands,theft,193,15
+robbery,cybercrime,195,12
+unfair dismissal,sedition,197,14
+theft,Property dispute,199,3
+cybercrime,marriage affairs,201,11
+sedition,Divorce,203,6
+Property dispute,Fraud,205,11
+Fraud,riots,207,15
+riots,claims of negligence,209,10
+marriage affairs,dowry demands,211,8
+Divorce,robbery,213,6
+claims of negligence,unfair dismissal,215,15
+appeal against HR,discrimination,217,10
+Workplace harassment,appeal against HR,219,11
+Murder,Workplace harassment,221,10
+robbery,Murder,223,6
+dowry demands,theft,225,13
+robbery,cybercrime,227,7
+unfair dismissal,sedition,229,5
+theft,Property dispute,231,7
+cybercrime,marriage affairs,233,9
+sedition,Divorce,235,4
+Property dispute,Fraud,237,15
+Fraud,riots,239,12
+riots,claims of negligence,241,6
+marriage affairs,dowry demands,243,13
+Divorce,robbery,245,4
+claims of negligence,unfair dismissal,247,7
+appeal against HR,discrimination,249,7
+Workplace harassment,appeal against HR,251,10
+Murder,Workplace harassment,253,5
+robbery,Murder,255,11
+dowry demands,theft,257,8
+robbery,cybercrime,259,12
+unfair dismissal,sedition,261,15
+theft,Property dispute,263,11
+cybercrime,marriage affairs,265,9
+sedition,Divorce,267,15
+Property dispute,Fraud,269,15
+Fraud,riots,271,8
+riots,claims of negligence,273,13
+marriage affairs,dowry demands,275,13
+Divorce,robbery,277,9
+claims of negligence,unfair dismissal,279,9
+appeal against HR,discrimination,281,5
+Workplace harassment,appeal against HR,283,7
+Murder,Workplace harassment,285,13
+robbery,Murder,287,3
+dowry demands,theft,289,4
+robbery,cybercrime,291,15
+unfair dismissal,sedition,293,14
+theft,Property dispute,295,8
+cybercrime,marriage affairs,297,3
+sedition,Divorce,299,7
+Property dispute,Fraud,301,15
+Fraud,riots,303,12
+riots,claims of negligence,305,4
+marriage affairs,dowry demands,307,14
+Divorce,robbery,309,3
+claims of negligence,unfair dismissal,311,5
+appeal against HR,discrimination,313,13
+Workplace harassment,appeal against HR,315,13
+Murder,Workplace harassment,317,3
+robbery,Murder,319,5
+dowry demands,theft,321,10
+robbery,cybercrime,323,13
+unfair dismissal,sedition,325,8
+theft,Property dispute,327,6
+cybercrime,marriage affairs,329,7
+sedition,Divorce,331,9
+Property dispute,Fraud,333,7
+Fraud,riots,335,6
+riots,claims of negligence,337,7
+marriage affairs,dowry demands,339,12
+Divorce,robbery,341,7
+claims of negligence,unfair dismissal,343,11
+appeal against HR,discrimination,345,15
+Workplace harassment,appeal against HR,347,3
+Murder,Workplace harassment,349,5
+robbery,Murder,351,15
+dowry demands,theft,353,4
+robbery,cybercrime,355,4
+unfair dismissal,sedition,357,14
+theft,Property dispute,359,13
+cybercrime,marriage affairs,361,5
+sedition,Divorce,363,9
+Property dispute,Fraud,365,8
+Fraud,riots,367,15
+riots,claims of negligence,369,15
+marriage affairs,dowry demands,371,8
+Divorce,robbery,373,4
+claims of negligence,unfair dismissal,375,7
+appeal against HR,discrimination,377,14
+Workplace harassment,appeal against HR,379,7
+Murder,Workplace harassment,381,6
+robbery,Murder,383,12
+dowry demands,theft,385,7
+robbery,cybercrime,387,10
+unfair dismissal,sedition,389,13
+theft,Property dispute,391,15
+cybercrime,marriage affairs,393,12
+sedition,Divorce,395,10
+Property dispute,Fraud,397,3
+Fraud,riots,399,11
+riots,claims of negligence,401,7
+marriage affairs,dowry demands,403,3
+Divorce,robbery,405,3
+claims of negligence,unfair dismissal,407,7
+appeal against HR,discrimination,409,9
+Workplace harassment,appeal against HR,411,6
+Murder,Workplace harassment,413,6
+robbery,Murder,415,15
+dowry demands,theft,417,9
+robbery,cybercrime,419,8
+unfair dismissal,sedition,421,8
+theft,Property dispute,423,10
+cybercrime,marriage affairs,425,12
+sedition,Divorce,427,10
+Property dispute,Fraud,429,7
+Fraud,riots,431,11
+riots,claims of negligence,433,10
+marriage affairs,dowry demands,435,14
+Divorce,robbery,437,15
+claims of negligence,unfair dismissal,439,11
+appeal against HR,discrimination,441,6
+Workplace harassment,appeal against HR,443,9
+Murder,Workplace harassment,445,7
+robbery,Murder,447,15
+dowry demands,theft,449,8
+robbery,cybercrime,451,13
+unfair dismissal,sedition,453,5
+theft,Property dispute,455,6
+cybercrime,marriage affairs,457,12
+sedition,Divorce,459,11
+Property dispute,Fraud,461,6
+Fraud,riots,463,6
+riots,claims of negligence,465,3
+marriage affairs,dowry demands,467,11
+Divorce,robbery,469,12
+claims of negligence,unfair dismissal,471,12
+appeal against HR,discrimination,473,3
+Workplace harassment,appeal against HR,475,9
+Murder,Workplace harassment,477,8
+robbery,Murder,479,14
+dowry demands,theft,481,12
+robbery,cybercrime,483,7
+unfair dismissal,sedition,485,13
+theft,Property dispute,487,15
+cybercrime,marriage affairs,489,11
+sedition,Divorce,491,8
+Property dispute,Fraud,493,12
+Fraud,riots,495,9
+riots,claims of negligence,497,10
+marriage affairs,dowry demands,499,11
+Divorce,robbery,501,14
+claims of negligence,unfair dismissal,503,10
+appeal against HR,discrimination,505,14
+Workplace harassment,appeal against HR,507,11
+Murder,Workplace harassment,509,9
+robbery,Murder,511,14
+dowry demands,theft,513,15
+robbery,cybercrime,515,4
+unfair dismissal,sedition,517,3
+theft,Property dispute,519,9
+cybercrime,marriage affairs,521,10
+sedition,Divorce,523,6
+Property dispute,Fraud,525,6
+Fraud,riots,527,14
+riots,claims of negligence,529,8
+marriage affairs,dowry demands,531,6
+Divorce,robbery,533,13
+claims of negligence,unfair dismissal,535,15
+appeal against HR,discrimination,537,12
+Workplace harassment,appeal against HR,539,9
+Murder,Workplace harassment,541,14
+robbery,Murder,543,6
+dowry demands,theft,545,3
+robbery,cybercrime,547,9
+unfair dismissal,sedition,549,14
+theft,Property dispute,551,3
+cybercrime,marriage affairs,553,9
+sedition,Divorce,555,11
+Property dispute,Fraud,557,10
+Fraud,riots,559,14
+riots,claims of negligence,561,12
+marriage affairs,dowry demands,563,8
+Divorce,robbery,565,11
+claims of negligence,unfair dismissal,567,4
+appeal against HR,discrimination,569,14
+Workplace harassment,appeal against HR,571,12
+Murder,Workplace harassment,573,14
+robbery,Murder,575,6
+dowry demands,theft,577,8
+robbery,cybercrime,579,15
+unfair dismissal,sedition,581,3
+theft,Property dispute,583,6
+cybercrime,marriage affairs,585,3
+sedition,Divorce,587,3
+Property dispute,Fraud,589,12
+Fraud,riots,591,11
+riots,claims of negligence,593,10
+marriage affairs,dowry demands,595,12
+Divorce,robbery,597,9
+claims of negligence,unfair dismissal,599,12
+appeal against HR,discrimination,601,14
+Workplace harassment,appeal against HR,603,4
+Murder,Workplace harassment,605,13
+robbery,Murder,607,15
+dowry demands,theft,609,10
+robbery,cybercrime,611,12
+unfair dismissal,sedition,613,8
+theft,Property dispute,615,10
+cybercrime,marriage affairs,617,7
+sedition,Divorce,619,3
+Property dispute,Fraud,621,3
+Fraud,riots,623,14
+riots,claims of negligence,625,10
+marriage affairs,dowry demands,627,9
+Divorce,robbery,629,7
+claims of negligence,unfair dismissal,631,9
+appeal against HR,discrimination,633,11
+Workplace harassment,appeal against HR,635,13
+Murder,Workplace harassment,637,13
+robbery,Murder,639,6
+dowry demands,theft,641,10
+robbery,cybercrime,643,9
+unfair dismissal,sedition,645,14
+theft,Property dispute,647,14
+cybercrime,marriage affairs,649,12
+sedition,Divorce,651,10
+Property dispute,Fraud,653,6
+Fraud,riots,655,5
+riots,claims of negligence,657,3
+marriage affairs,dowry demands,659,5
+Divorce,robbery,661,9
+claims of negligence,unfair dismissal,663,14
+appeal against HR,discrimination,665,14
+Workplace harassment,appeal against HR,667,7
+Murder,Workplace harassment,669,8
+robbery,Murder,671,12
+dowry demands,theft,673,9
+robbery,cybercrime,675,9
+unfair dismissal,sedition,677,7
+theft,Property dispute,679,13
+cybercrime,marriage affairs,681,9
+sedition,Divorce,683,14
+Property dispute,Fraud,685,7
+Fraud,riots,687,10
+riots,claims of negligence,689,10
+marriage affairs,dowry demands,691,13
+Divorce,robbery,693,7
+claims of negligence,unfair dismissal,695,6
+appeal against HR,discrimination,697,15
+Workplace harassment,appeal against HR,699,15
+Murder,Workplace harassment,701,3
+robbery,Murder,703,11
+dowry demands,theft,705,5
+robbery,cybercrime,707,7
+unfair dismissal,sedition,709,9
+theft,Property dispute,711,13
+cybercrime,marriage affairs,713,13
+sedition,Divorce,715,13
+Property dispute,Fraud,717,15
+Fraud,riots,719,15
+riots,claims of negligence,721,3
+marriage affairs,dowry demands,723,9
+Divorce,robbery,725,11
+claims of negligence,unfair dismissal,727,11
+appeal against HR,discrimination,729,9
+Workplace harassment,appeal against HR,731,14
+Murder,Workplace harassment,733,4
+robbery,Murder,735,7
+dowry demands,theft,737,8
+robbery,cybercrime,739,9
+unfair dismissal,sedition,741,8
+theft,Property dispute,743,4
+cybercrime,marriage affairs,745,3
+sedition,Divorce,747,7
+Property dispute,Fraud,749,14
+Fraud,riots,751,12
+riots,claims of negligence,753,3
+marriage affairs,dowry demands,755,7
+Divorce,robbery,757,3
+claims of negligence,unfair dismissal,759,10
+appeal against HR,discrimination,761,4
+Workplace harassment,appeal against HR,763,12
+Murder,Workplace harassment,765,12
+robbery,Murder,767,10
+dowry demands,theft,769,15
+robbery,cybercrime,771,8
+unfair dismissal,sedition,773,15
+theft,Property dispute,775,10
+cybercrime,marriage affairs,777,13
+sedition,Divorce,779,4
+Property dispute,Fraud,781,5
+Fraud,riots,783,5
+riots,claims of negligence,785,12
+marriage affairs,dowry demands,787,14
+Divorce,robbery,789,14
+claims of negligence,unfair dismissal,791,9
+appeal against HR,discrimination,793,13
+Workplace harassment,appeal against HR,795,11
+Murder,Workplace harassment,797,14
+robbery,Murder,799,13
+dowry demands,theft,801,3
+robbery,cybercrime,803,3
+unfair dismissal,sedition,805,14
+theft,Property dispute,807,13
+cybercrime,marriage affairs,809,3
+sedition,Divorce,811,15
+Property dispute,Fraud,813,6
+Fraud,riots,815,3
+riots,claims of negligence,817,3
+marriage affairs,dowry demands,819,11
+Divorce,robbery,821,12
+claims of negligence,unfair dismissal,823,5
+appeal against HR,discrimination,825,6
+Workplace harassment,appeal against HR,827,5
+Murder,Workplace harassment,829,10
+robbery,Murder,831,14
+dowry demands,theft,833,3
+robbery,cybercrime,835,8
+unfair dismissal,sedition,837,8
+theft,Property dispute,839,12
+cybercrime,marriage affairs,841,3
+sedition,Divorce,843,3
+Property dispute,Fraud,845,4
+Fraud,riots,847,7
+riots,claims of negligence,849,5
+marriage affairs,dowry demands,851,5
+Divorce,robbery,853,5
+claims of negligence,unfair dismissal,855,4
+appeal against HR,discrimination,857,9
+Workplace harassment,appeal against HR,859,14
+Murder,Workplace harassment,861,6
+robbery,Murder,863,9
+dowry demands,theft,865,5
+robbery,cybercrime,867,9
+unfair dismissal,sedition,869,5
+theft,Property dispute,871,3
+cybercrime,marriage affairs,873,6
+sedition,Divorce,875,5
+Property dispute,Fraud,877,4
+Fraud,riots,879,3
+riots,claims of negligence,881,12
+marriage affairs,dowry demands,883,4
+Divorce,robbery,885,6
+claims of negligence,unfair dismissal,887,12
+appeal against HR,discrimination,889,6
+Workplace harassment,appeal against HR,891,14
+Murder,Workplace harassment,893,6
+robbery,Murder,895,10
+dowry demands,theft,897,14
+robbery,cybercrime,899,8
+unfair dismissal,sedition,901,5
+theft,Property dispute,903,10
+cybercrime,marriage affairs,905,7
+sedition,Divorce,907,5
+Property dispute,Fraud,909,4
+Fraud,riots,911,12
+riots,claims of negligence,913,12
+marriage affairs,dowry demands,915,11
+Divorce,robbery,917,12
+claims of negligence,unfair dismissal,919,11
+appeal against HR,discrimination,921,14
+Workplace harassment,appeal against HR,923,14
+Murder,Workplace harassment,925,5
+robbery,Murder,927,3
+dowry demands,theft,929,6
+robbery,cybercrime,931,10
+unfair dismissal,sedition,933,5
+theft,Property dispute,935,3
+cybercrime,marriage affairs,937,14
+sedition,Divorce,939,6
+Property dispute,Fraud,941,5
+Fraud,riots,943,3
+riots,claims of negligence,945,10
+marriage affairs,dowry demands,947,3
+Divorce,robbery,949,14
+claims of negligence,unfair dismissal,951,4
+appeal against HR,discrimination,953,14
+Workplace harassment,appeal against HR,955,5
+Murder,Workplace harassment,957,5
+robbery,Murder,959,12
+dowry demands,theft,961,10
+robbery,cybercrime,963,4
+unfair dismissal,sedition,965,3
+theft,Property dispute,967,6
+cybercrime,marriage affairs,969,4
+sedition,Divorce,971,14
+Property dispute,Fraud,973,15
+Fraud,riots,975,3
+riots,claims of negligence,977,13
+marriage affairs,dowry demands,979,5
+Divorce,robbery,981,6
+claims of negligence,unfair dismissal,983,11
+appeal against HR,discrimination,985,7
+Workplace harassment,appeal against HR,987,3
+Murder,Workplace harassment,989,7
+robbery,Murder,991,13
+dowry demands,theft,993,3
+robbery,cybercrime,995,3
+unfair dismissal,sedition,997,5
+theft,Property dispute,999,15
+cybercrime,marriage affairs,1001,9
+sedition,Divorce,1003,5
+Property dispute,Fraud,1005,15
+Fraud,riots,1007,4
+riots,claims of negligence,1009,9
+marriage affairs,dowry demands,1011,15
+Divorce,robbery,1013,10
+claims of negligence,unfair dismissal,1015,8
+appeal against HR,discrimination,1017,5
+Workplace harassment,appeal against HR,1019,11
+Murder,Workplace harassment,1021,7
+robbery,Murder,1023,10
+dowry demands,theft,1025,4
+robbery,cybercrime,1027,8
+unfair dismissal,sedition,1029,14
+theft,Property dispute,1031,5
+cybercrime,marriage affairs,1033,4
+sedition,Divorce,1035,15
+Property dispute,Fraud,1037,3
+Fraud,riots,1039,6
+riots,claims of negligence,1041,4
+marriage affairs,dowry demands,1043,11
+Divorce,robbery,1045,3
+claims of negligence,unfair dismissal,1047,9
+appeal against HR,discrimination,1049,11
+Workplace harassment,appeal against HR,1051,14
+Murder,Workplace harassment,1053,13
+robbery,Murder,1055,3
+dowry demands,theft,1057,10
+robbery,cybercrime,1059,15
+unfair dismissal,sedition,1061,5
+theft,Property dispute,1063,11
+cybercrime,marriage affairs,1065,4
+sedition,Divorce,1067,10
+Property dispute,Fraud,1069,9
+Fraud,riots,1071,14
+riots,claims of negligence,1073,10
+marriage affairs,dowry demands,1075,9
+Divorce,robbery,1077,7
+claims of negligence,unfair dismissal,1079,14
+appeal against HR,discrimination,1081,14
+Workplace harassment,appeal against HR,1083,3
+Murder,Workplace harassment,1085,12
+robbery,Murder,1087,14
+dowry demands,theft,1089,13
+robbery,cybercrime,1091,10
+unfair dismissal,sedition,1093,8
+theft,Property dispute,1095,8
+cybercrime,marriage affairs,1097,12
+sedition,Divorce,1099,9
+Property dispute,Fraud,1101,12
+Fraud,riots,1103,10
+riots,claims of negligence,1105,6
+marriage affairs,dowry demands,1107,5
+Divorce,robbery,1109,5
+claims of negligence,unfair dismissal,1111,14
+appeal against HR,discrimination,1113,9
+Workplace harassment,appeal against HR,1115,15
+Murder,Workplace harassment,1117,14
+robbery,Murder,1119,5
+dowry demands,theft,1121,9
+robbery,cybercrime,1123,12
+unfair dismissal,sedition,1125,3
+theft,Property dispute,1127,15
+cybercrime,marriage affairs,1129,7
+sedition,Divorce,1131,8
+Property dispute,Fraud,1133,5
+Fraud,riots,1135,11
+riots,claims of negligence,1137,8
+marriage affairs,dowry demands,1139,8
+Divorce,robbery,1141,3
+claims of negligence,unfair dismissal,1143,13
+appeal against HR,discrimination,1145,7
+Workplace harassment,appeal against HR,1147,6
+Murder,Workplace harassment,1149,14
+robbery,Murder,1151,3
+dowry demands,theft,1153,5
+robbery,cybercrime,1155,8
+unfair dismissal,sedition,1157,7
+theft,Property dispute,1159,13
+cybercrime,marriage affairs,1161,9
+sedition,Divorce,1163,15
+Property dispute,Fraud,1165,7
+Fraud,riots,1167,4
+riots,claims of negligence,1169,5
+marriage affairs,dowry demands,1171,6
+Divorce,robbery,1173,7
+claims of negligence,unfair dismissal,1175,4
+appeal against HR,discrimination,1177,4
+Workplace harassment,appeal against HR,1179,3
+Murder,Workplace harassment,1181,15
+robbery,Murder,1183,4
+dowry demands,theft,1185,9
+robbery,cybercrime,1187,7
+unfair dismissal,sedition,1189,11
+theft,Property dispute,1191,11
+cybercrime,marriage affairs,1193,4
+sedition,Divorce,1195,12
+Property dispute,Fraud,1197,8
+Fraud,riots,1199,14
+riots,claims of negligence,1201,12
+marriage affairs,dowry demands,1203,12
+Divorce,robbery,1205,5
+claims of negligence,unfair dismissal,1207,11
+appeal against HR,discrimination,1209,10
+Workplace harassment,appeal against HR,1211,12
+Murder,Workplace harassment,1213,3
+robbery,Murder,1215,11
+dowry demands,theft,1217,6
+robbery,cybercrime,1219,7
+unfair dismissal,sedition,1221,10
+theft,Property dispute,1223,7
+cybercrime,marriage affairs,1225,14
+sedition,Divorce,1227,11
+Property dispute,Fraud,1229,3
+Fraud,riots,1231,11
+riots,claims of negligence,1233,8
+marriage affairs,dowry demands,1235,8
+Divorce,robbery,1237,13
+claims of negligence,unfair dismissal,1239,5
+appeal against HR,discrimination,1241,8
+Workplace harassment,appeal against HR,1243,9
+Murder,Workplace harassment,1245,13
+robbery,Murder,1247,15
+dowry demands,theft,1249,10
+robbery,cybercrime,1251,11
+unfair dismissal,sedition,1253,15
+theft,Property dispute,1255,10
+cybercrime,marriage affairs,1257,6
+sedition,Divorce,1259,7
+Property dispute,Fraud,1261,10
+Fraud,riots,1263,8
+riots,claims of negligence,1265,4
+marriage affairs,dowry demands,1267,14
+Divorce,robbery,1269,7
+claims of negligence,unfair dismissal,1271,8
+appeal against HR,discrimination,1273,15
+Workplace harassment,appeal against HR,1275,4
+Murder,Workplace harassment,1277,6
+robbery,Murder,1279,8
+dowry demands,theft,1281,11
+robbery,cybercrime,1283,14
+unfair dismissal,sedition,1285,11
+theft,Property dispute,1287,11
+cybercrime,marriage affairs,1289,8
+sedition,Divorce,1291,5
+Property dispute,Fraud,1293,4
+Fraud,riots,1295,13
+riots,claims of negligence,1297,13
+marriage affairs,dowry demands,1299,6
+Divorce,robbery,1301,5
+claims of negligence,unfair dismissal,1303,12
+appeal against HR,discrimination,1305,10
+Workplace harassment,appeal against HR,1307,15
+Murder,Workplace harassment,1309,14
+robbery,Murder,1311,7
+dowry demands,theft,1313,7
+robbery,cybercrime,1315,15
+unfair dismissal,sedition,1317,4
+theft,Property dispute,1319,9
+cybercrime,marriage affairs,1321,4
+sedition,Divorce,1323,8
+Property dispute,Fraud,1325,5
+Fraud,riots,1327,5
+riots,claims of negligence,1329,10
+marriage affairs,dowry demands,1331,11
+Divorce,robbery,1333,7
+claims of negligence,unfair dismissal,1335,12
+appeal against HR,discrimination,1337,13
+Workplace harassment,appeal against HR,1339,9
+Murder,Workplace harassment,1341,5
+robbery,Murder,1343,4
+dowry demands,theft,1345,14
+robbery,cybercrime,1347,11
+unfair dismissal,sedition,1349,6
+theft,Property dispute,1351,14
+cybercrime,marriage affairs,1353,10
+sedition,Divorce,1355,6
+Property dispute,Fraud,1357,13
+Fraud,riots,1359,7
+riots,claims of negligence,1361,5
+marriage affairs,dowry demands,1363,10
+Divorce,robbery,1365,11
+claims of negligence,unfair dismissal,1367,7
+appeal against HR,discrimination,1369,9
+Workplace harassment,appeal against HR,1371,5
+Murder,Workplace harassment,1373,12
+robbery,Murder,1375,10
+dowry demands,theft,1377,4
+robbery,cybercrime,1379,8
+unfair dismissal,sedition,1381,4
+theft,Property dispute,1383,4
+cybercrime,marriage affairs,1385,12
+sedition,Divorce,1387,7
+Property dispute,Fraud,1389,9
+Fraud,riots,1391,4
+riots,claims of negligence,1393,14
+marriage affairs,dowry demands,1395,12
+Divorce,robbery,1397,6
+claims of negligence,unfair dismissal,1399,4
+appeal against HR,discrimination,1401,11
+Workplace harassment,appeal against HR,1403,4
+Murder,Workplace harassment,1405,5
+robbery,Murder,1407,15
+dowry demands,theft,1409,12
+robbery,cybercrime,1411,11
+unfair dismissal,sedition,1413,4
+theft,Property dispute,1415,5
+cybercrime,marriage affairs,1417,8
+sedition,Divorce,1419,14
+Property dispute,Fraud,1421,8
+Fraud,riots,1423,14
+riots,claims of negligence,1425,15
+marriage affairs,dowry demands,1427,12
+Divorce,robbery,1429,3
+claims of negligence,unfair dismissal,1431,8
+appeal against HR,discrimination,1433,4
+Workplace harassment,appeal against HR,1435,10
+Murder,Workplace harassment,1437,7
+robbery,Murder,1439,11
+dowry demands,theft,1441,15
+robbery,cybercrime,1443,6
+unfair dismissal,sedition,1445,5
+theft,Property dispute,1447,6
+cybercrime,marriage affairs,1449,11
+sedition,Divorce,1451,5
+Property dispute,Fraud,1453,10
+Fraud,riots,1455,14
+riots,claims of negligence,1457,5
+marriage affairs,dowry demands,1459,4
+Divorce,robbery,1461,11
+claims of negligence,unfair dismissal,1463,12
+appeal against HR,discrimination,1465,11
+Workplace harassment,appeal against HR,1467,14
+Murder,Workplace harassment,1469,11
+robbery,Murder,1471,4
+dowry demands,theft,1473,13
+robbery,cybercrime,1475,14
+unfair dismissal,sedition,1477,12
+theft,Property dispute,1479,5
+cybercrime,marriage affairs,1481,5
+sedition,Divorce,1483,10
+Property dispute,Fraud,1485,9
+Fraud,riots,1487,15
+riots,claims of negligence,1489,9
+marriage affairs,dowry demands,1491,6
+Divorce,robbery,1493,6
+claims of negligence,unfair dismissal,1495,9
+appeal against HR,discrimination,1497,15
+Workplace harassment,appeal against HR,1499,7
+Murder,Workplace harassment,1501,3
+robbery,Murder,1503,10
+dowry demands,theft,1505,7
+robbery,cybercrime,1507,5
+unfair dismissal,sedition,1509,15
+theft,Property dispute,1511,6
+cybercrime,marriage affairs,1513,5
+sedition,Divorce,1515,15
+Property dispute,Fraud,1517,3
+Fraud,riots,1519,14
+riots,claims of negligence,1521,10
+marriage affairs,dowry demands,1523,7
+Divorce,robbery,1525,15
+claims of negligence,unfair dismissal,1527,11
+appeal against HR,discrimination,1529,3
+Workplace harassment,appeal against HR,1531,13
+Murder,Workplace harassment,1533,15
+robbery,Murder,1535,13
+dowry demands,theft,1537,12
+robbery,cybercrime,1539,12
+unfair dismissal,sedition,1541,7
+theft,Property dispute,1543,7
+cybercrime,marriage affairs,1545,3
+sedition,Divorce,1547,12
+Property dispute,Fraud,1549,5
+Fraud,riots,1551,11
+riots,claims of negligence,1553,8
+marriage affairs,dowry demands,1555,6
+Divorce,robbery,1557,10
+claims of negligence,unfair dismissal,1559,9
+appeal against HR,discrimination,1561,7
+Workplace harassment,appeal against HR,1563,4
+Murder,Workplace harassment,1565,14
+robbery,Murder,1567,10
+dowry demands,theft,1569,13
+robbery,cybercrime,1571,10
+unfair dismissal,sedition,1573,8
+theft,Property dispute,1575,11
+cybercrime,marriage affairs,1577,8
+sedition,Divorce,1579,10
+Property dispute,Fraud,1581,10
+Fraud,riots,1583,6
+riots,claims of negligence,1585,9
+marriage affairs,dowry demands,1587,11
+Divorce,robbery,1589,5
+claims of negligence,unfair dismissal,1591,3
+appeal against HR,discrimination,1593,5
+Workplace harassment,appeal against HR,1595,13
+Murder,Workplace harassment,1597,3
+robbery,Murder,1599,9
+dowry demands,theft,1601,9
+robbery,cybercrime,1603,15
+unfair dismissal,sedition,1605,7
+theft,Property dispute,1607,10
+cybercrime,marriage affairs,1609,14
+sedition,Divorce,1611,5
+Property dispute,Fraud,1613,7
+Fraud,riots,1615,5
+riots,claims of negligence,1617,8
+marriage affairs,dowry demands,1619,15
+Divorce,robbery,1621,15
+claims of negligence,unfair dismissal,1623,12
+appeal against HR,discrimination,1625,6
+Workplace harassment,appeal against HR,1627,9
+Murder,Workplace harassment,1629,12
+robbery,Murder,1631,8
+dowry demands,theft,1633,7
+robbery,cybercrime,1635,12
+unfair dismissal,sedition,1637,7
+theft,Property dispute,1639,13
+cybercrime,marriage affairs,1641,5
+sedition,Divorce,1643,7
+Property dispute,Fraud,1645,14
+Fraud,riots,1647,15
+riots,claims of negligence,1649,13
+marriage affairs,dowry demands,1651,8
+Divorce,robbery,1653,13
+claims of negligence,unfair dismissal,1655,3
+appeal against HR,discrimination,1657,12
+Workplace harassment,appeal against HR,1659,10
+Murder,Workplace harassment,1661,10
+robbery,Murder,1663,7
+dowry demands,theft,1665,5
+robbery,cybercrime,1667,8
+unfair dismissal,sedition,1669,14
+theft,Property dispute,1671,8
+cybercrime,marriage affairs,1673,3
+sedition,Divorce,1675,15
+Property dispute,Fraud,1677,14
+Fraud,riots,1679,10
+riots,claims of negligence,1681,5
+marriage affairs,dowry demands,1683,6
+Divorce,robbery,1685,4
+claims of negligence,unfair dismissal,1687,6
+appeal against HR,discrimination,1689,3
+Workplace harassment,appeal against HR,1691,3
+Murder,Workplace harassment,1693,8
+robbery,Murder,1695,9
+dowry demands,theft,1697,8
+robbery,cybercrime,1699,3
+unfair dismissal,sedition,1701,13
+theft,Property dispute,1703,9
+cybercrime,marriage affairs,1705,7
+sedition,Divorce,1707,10
+Property dispute,Fraud,1709,8
+Fraud,riots,1711,15
+riots,claims of negligence,1713,11
+marriage affairs,dowry demands,1715,3
+Divorce,robbery,1717,3
+claims of negligence,unfair dismissal,1719,11
+appeal against HR,discrimination,1721,15
+Workplace harassment,appeal against HR,1723,12
+Murder,Workplace harassment,1725,10
+robbery,Murder,1727,4
+dowry demands,theft,1729,15
+robbery,cybercrime,1731,9
+unfair dismissal,sedition,1733,5
+theft,Property dispute,1735,6
+cybercrime,marriage affairs,1737,14
+sedition,Divorce,1739,12
+Property dispute,Fraud,1741,8
+Fraud,riots,1743,10
+riots,claims of negligence,1745,13
+marriage affairs,dowry demands,1747,3
+Divorce,robbery,1749,13
+claims of negligence,unfair dismissal,1751,11
+appeal against HR,discrimination,1753,14
+Workplace harassment,appeal against HR,1755,6
+Murder,Workplace harassment,1757,6
+robbery,Murder,1759,4
+dowry demands,theft,1761,3
+robbery,cybercrime,1763,10
+unfair dismissal,sedition,1765,10
+theft,Property dispute,1767,7
+cybercrime,marriage affairs,1769,5
+sedition,Divorce,1771,15
+Property dispute,Fraud,1773,11
+Fraud,riots,1775,4
+riots,claims of negligence,1777,5
+marriage affairs,dowry demands,1779,3
+Divorce,robbery,1781,7
+claims of negligence,unfair dismissal,1783,12
+appeal against HR,discrimination,1785,14
+Workplace harassment,appeal against HR,1787,14
+Murder,Workplace harassment,1789,4
+robbery,Murder,1791,4
+dowry demands,theft,1793,13
+robbery,cybercrime,1795,7
+unfair dismissal,sedition,1797,3
+theft,Property dispute,1799,10
+cybercrime,marriage affairs,1801,15
+sedition,Divorce,1803,5
+Property dispute,Fraud,1805,11
+Fraud,riots,1807,4
+riots,claims of negligence,1809,13
+marriage affairs,dowry demands,1811,3
+Divorce,robbery,1813,15
+claims of negligence,unfair dismissal,1815,7
+appeal against HR,discrimination,1817,4
+Workplace harassment,appeal against HR,1819,6
+Murder,Workplace harassment,1821,9
+robbery,Murder,1823,3
+dowry demands,theft,1825,6
+robbery,cybercrime,1827,14
+unfair dismissal,sedition,1829,4
+theft,Property dispute,1831,7
+cybercrime,marriage affairs,1833,14
+sedition,Divorce,1835,13
+Property dispute,Fraud,1837,12
+Fraud,riots,1839,13
+riots,claims of negligence,1841,5
+marriage affairs,dowry demands,1843,8
+Divorce,robbery,1845,6
+claims of negligence,unfair dismissal,1847,4
+appeal against HR,discrimination,1849,4
+Workplace harassment,appeal against HR,1851,12
+Murder,Workplace harassment,1853,8
+robbery,Murder,1855,10
+dowry demands,theft,1857,3
+robbery,cybercrime,1859,14
+unfair dismissal,sedition,1861,8
+theft,Property dispute,1863,6
+cybercrime,marriage affairs,1865,13
+sedition,Divorce,1867,3
+Property dispute,Fraud,1869,9
+Fraud,riots,1871,7
+riots,claims of negligence,1873,14
+marriage affairs,dowry demands,1875,5
+Divorce,robbery,1877,7
+claims of negligence,unfair dismissal,1879,3
+appeal against HR,discrimination,1881,15
+Workplace harassment,appeal against HR,1883,15
+Murder,Workplace harassment,1885,6
+robbery,Murder,1887,3
+dowry demands,theft,1889,13
+robbery,cybercrime,1891,8
+unfair dismissal,sedition,1893,12
+theft,Property dispute,1895,15
+cybercrime,marriage affairs,1897,9
+sedition,Divorce,1899,12
+Property dispute,Fraud,1901,9
+Fraud,riots,1903,14
+riots,claims of negligence,1905,4
+marriage affairs,dowry demands,1907,10
+Divorce,robbery,1909,8
+claims of negligence,unfair dismissal,1911,12
+appeal against HR,discrimination,1913,15
+Workplace harassment,appeal against HR,1915,11
+Murder,Workplace harassment,1917,8
+robbery,Murder,1919,7
+dowry demands,theft,1921,6
+robbery,cybercrime,1923,4
+unfair dismissal,sedition,1925,3
+theft,Property dispute,1927,11
+cybercrime,marriage affairs,1929,12
+sedition,Divorce,1931,10
+Property dispute,Fraud,1933,13
+Fraud,riots,1935,9
+riots,claims of negligence,1937,7
+marriage affairs,dowry demands,1939,5
+Divorce,robbery,1941,13
+claims of negligence,unfair dismissal,1943,13
+appeal against HR,discrimination,1945,13
+Workplace harassment,appeal against HR,1947,15
+Murder,Workplace harassment,1949,15
+robbery,Murder,1951,14
+dowry demands,theft,1953,7
+robbery,cybercrime,1955,7
+unfair dismissal,sedition,1957,14
+theft,Property dispute,1959,15
+cybercrime,marriage affairs,1961,8
+sedition,Divorce,1963,9
+Property dispute,Fraud,1965,14
+Fraud,riots,1967,15
+riots,claims of negligence,1969,15
+marriage affairs,dowry demands,1971,7
+Divorce,robbery,1973,9
+claims of negligence,unfair dismissal,1975,5
+appeal against HR,discrimination,1977,11
+Workplace harassment,appeal against HR,1979,9
+Murder,Workplace harassment,1981,10
+robbery,Murder,1983,9
+dowry demands,theft,1985,6
+robbery,cybercrime,1987,11
+unfair dismissal,sedition,1989,3
+theft,Property dispute,1991,13
+cybercrime,marriage affairs,1993,9
+sedition,Divorce,1995,6
+Property dispute,Fraud,1997,6
+Fraud,riots,1999,6
+riots,claims of negligence,2001,12
+marriage affairs,dowry demands,2003,3
+Divorce,robbery,2005,7
+claims of negligence,unfair dismissal,2007,8
+appeal against HR,discrimination,2009,11
+Workplace harassment,appeal against HR,2011,8
+Murder,Workplace harassment,2013,8
+robbery,Murder,2015,13
+dowry demands,theft,2017,3
+robbery,cybercrime,2019,15
+unfair dismissal,sedition,2021,13
+theft,Property dispute,2023,11
+cybercrime,marriage affairs,2025,15
+sedition,Divorce,2027,5
+Property dispute,Fraud,2029,8
+Fraud,riots,2031,15
+riots,claims of negligence,2033,8
+marriage affairs,dowry demands,2035,8
+Divorce,robbery,2037,7
+claims of negligence,unfair dismissal,2039,14
+appeal against HR,discrimination,2041,8
+Workplace harassment,appeal against HR,2043,12
+Murder,Workplace harassment,2045,11
+robbery,Murder,2047,14
+dowry demands,theft,2049,10
+robbery,cybercrime,2051,10
+unfair dismissal,sedition,2053,13
+theft,Property dispute,2055,9
+cybercrime,marriage affairs,2057,6
+sedition,Divorce,2059,4
+Property dispute,Fraud,2061,10
+Fraud,riots,2063,5
+riots,claims of negligence,2065,9
+marriage affairs,dowry demands,2067,15
+Divorce,robbery,2069,4
+claims of negligence,unfair dismissal,2071,3
+appeal against HR,discrimination,2073,14
+Workplace harassment,appeal against HR,2075,10
+Murder,Workplace harassment,2077,6
+robbery,Murder,2079,6
+dowry demands,theft,2081,3
+robbery,cybercrime,2083,8
+unfair dismissal,sedition,2085,12
+theft,Property dispute,2087,6
+cybercrime,marriage affairs,2089,4
+sedition,Divorce,2091,9
+Property dispute,Fraud,2093,7
+Fraud,riots,2095,10
+riots,claims of negligence,2097,3
+marriage affairs,dowry demands,2099,14
+Divorce,robbery,2101,3
+claims of negligence,unfair dismissal,2103,13
+appeal against HR,discrimination,2105,15
+Workplace harassment,appeal against HR,2107,9
+Murder,Workplace harassment,2109,9
+robbery,Murder,2111,15
+dowry demands,theft,2113,3
+robbery,cybercrime,2115,6
+unfair dismissal,sedition,2117,6
+theft,Property dispute,2119,6
+cybercrime,marriage affairs,2121,8
+sedition,Divorce,2123,11
+Property dispute,Fraud,2125,15
+Fraud,riots,2127,11
+riots,claims of negligence,2129,6
+marriage affairs,dowry demands,2131,12
+Divorce,robbery,2133,15
+claims of negligence,unfair dismissal,2135,12
+appeal against HR,discrimination,2137,5
+Workplace harassment,appeal against HR,2139,3
+Murder,Workplace harassment,2141,15
+robbery,Murder,2143,14
+dowry demands,theft,2145,8
+robbery,cybercrime,2147,7
+unfair dismissal,sedition,2149,11
+theft,Property dispute,2151,7
+cybercrime,marriage affairs,2153,15
+sedition,Divorce,2155,3
+Property dispute,Fraud,2157,15
+Fraud,riots,2159,11
+riots,claims of negligence,2161,13
+marriage affairs,dowry demands,2163,14
+Divorce,robbery,2165,14
+claims of negligence,unfair dismissal,2167,15
+appeal against HR,discrimination,2169,6
+Workplace harassment,appeal against HR,2171,13
+Murder,Workplace harassment,2173,7
+robbery,Murder,2175,13
+dowry demands,theft,2177,14
+robbery,cybercrime,2179,14
+unfair dismissal,sedition,2181,8
+theft,Property dispute,2183,7
+cybercrime,marriage affairs,2185,7
+sedition,Divorce,2187,11
+Property dispute,Fraud,2189,13
+Fraud,riots,2191,13
+riots,claims of negligence,2193,4
+marriage affairs,dowry demands,2195,4
+Divorce,robbery,2197,11
+claims of negligence,unfair dismissal,2199,6
+appeal against HR,discrimination,2201,9
+Workplace harassment,appeal against HR,2203,10
+Murder,Workplace harassment,2205,12
+robbery,Murder,2207,5
+dowry demands,theft,2209,7
+robbery,cybercrime,2211,13
+unfair dismissal,sedition,2213,10
+theft,Property dispute,2215,6
+cybercrime,marriage affairs,2217,3
+sedition,Divorce,2219,3
+Property dispute,Fraud,2221,10
+Fraud,riots,2223,10
+riots,claims of negligence,2225,10
+marriage affairs,dowry demands,2227,13
+Divorce,robbery,2229,7
+claims of negligence,unfair dismissal,2231,3
+appeal against HR,discrimination,2233,5
+Workplace harassment,appeal against HR,2235,6
+Murder,Workplace harassment,2237,3
+robbery,Murder,2239,6
+dowry demands,theft,2241,14
+robbery,cybercrime,2243,13
+unfair dismissal,sedition,2245,14
+theft,Property dispute,2247,3
+cybercrime,marriage affairs,2249,6
+sedition,Divorce,2251,4
+Property dispute,Fraud,2253,13
+Fraud,riots,2255,5
+riots,claims of negligence,2257,9
+marriage affairs,dowry demands,2259,9
+Divorce,robbery,2261,15
+claims of negligence,unfair dismissal,2263,15
+appeal against HR,discrimination,2265,3
+Workplace harassment,appeal against HR,2267,8
+Murder,Workplace harassment,2269,10
+robbery,Murder,2271,6
+dowry demands,theft,2273,11
+robbery,cybercrime,2275,9
+unfair dismissal,sedition,2277,11
+theft,Property dispute,2279,12
+cybercrime,marriage affairs,2281,4
+sedition,Divorce,2283,15
+Property dispute,Fraud,2285,5
+Fraud,riots,2287,11
+riots,claims of negligence,2289,5
+marriage affairs,dowry demands,2291,5
+Divorce,robbery,2293,3
+claims of negligence,unfair dismissal,2295,14
+appeal against HR,discrimination,2297,4
+Workplace harassment,appeal against HR,2299,11
+Murder,Workplace harassment,2301,4
+robbery,Murder,2303,10
+dowry demands,theft,2305,4
+robbery,cybercrime,2307,9
+unfair dismissal,sedition,2309,12
+theft,Property dispute,2311,9
+cybercrime,marriage affairs,2313,4
+sedition,Divorce,2315,15
+Property dispute,Fraud,2317,8
+Fraud,riots,2319,6
+riots,claims of negligence,2321,3
+marriage affairs,dowry demands,2323,6
+Divorce,robbery,2325,11
+claims of negligence,unfair dismissal,2327,14
+appeal against HR,discrimination,2329,4
+Workplace harassment,appeal against HR,2331,12
+Murder,Workplace harassment,2333,6
+robbery,Murder,2335,11
+dowry demands,theft,2337,7
+robbery,cybercrime,2339,15
+unfair dismissal,sedition,2341,14
+theft,Property dispute,2343,15
+cybercrime,marriage affairs,2345,9
+sedition,Divorce,2347,3
+Property dispute,Fraud,2349,8
+Fraud,riots,2351,14
+riots,claims of negligence,2353,6
+marriage affairs,dowry demands,2355,11
+Divorce,robbery,2357,14
+claims of negligence,unfair dismissal,2359,11
+appeal against HR,discrimination,2361,12
+Workplace harassment,appeal against HR,2363,6
+Murder,Workplace harassment,2365,3
+robbery,Murder,2367,8
+dowry demands,theft,2369,13
+robbery,cybercrime,2371,15
+unfair dismissal,sedition,2373,12
+theft,Property dispute,2375,3
+cybercrime,marriage affairs,2377,3
+sedition,Divorce,2379,6
+Property dispute,Fraud,2381,6
+Fraud,riots,2383,8
+riots,claims of negligence,2385,12
+marriage affairs,dowry demands,2387,15
+Divorce,robbery,2389,4
+claims of negligence,unfair dismissal,2391,4
+appeal against HR,discrimination,2393,15
+Workplace harassment,appeal against HR,2395,15
+Murder,Workplace harassment,2397,11
+robbery,Murder,2399,15
+dowry demands,theft,2401,8
+robbery,cybercrime,2403,15
+unfair dismissal,sedition,2405,10
+theft,Property dispute,2407,5
+cybercrime,marriage affairs,2409,4
+sedition,Divorce,2411,4
+Property dispute,Fraud,2413,13
+Fraud,riots,2415,4
+riots,claims of negligence,2417,9
+marriage affairs,dowry demands,2419,15
+Divorce,robbery,2421,3
+claims of negligence,unfair dismissal,2423,3
+appeal against HR,discrimination,2425,15
+Workplace harassment,appeal against HR,2427,5
+Murder,Workplace harassment,2429,6
+robbery,Murder,2431,7
+dowry demands,theft,2433,11
+robbery,cybercrime,2435,15
+unfair dismissal,sedition,2437,9
+theft,Property dispute,2439,15
+cybercrime,marriage affairs,2441,6
+sedition,Divorce,2443,3
+Property dispute,Fraud,2445,9
+Fraud,riots,2447,13
+riots,claims of negligence,2449,9
+marriage affairs,dowry demands,2451,11
+Divorce,robbery,2453,4
+claims of negligence,unfair dismissal,2455,7
+appeal against HR,discrimination,2457,9
+Workplace harassment,appeal against HR,2459,12
+Murder,Workplace harassment,2461,5
+robbery,Murder,2463,10
+dowry demands,theft,2465,11
+robbery,cybercrime,2467,9
+unfair dismissal,sedition,2469,7
+theft,Property dispute,2471,3
+cybercrime,marriage affairs,2473,15
+sedition,Divorce,2475,9
+Property dispute,Fraud,2477,15
+Fraud,riots,2479,15
+riots,claims of negligence,2481,12
+marriage affairs,dowry demands,2483,6
+Divorce,robbery,2485,7
+claims of negligence,unfair dismissal,2487,7
+appeal against HR,discrimination,2489,12
+Workplace harassment,appeal against HR,2491,3
+Murder,Workplace harassment,2493,10
+robbery,Murder,2495,14
+dowry demands,theft,2497,6
+robbery,cybercrime,2499,14
+unfair dismissal,sedition,2501,10
+theft,Property dispute,2503,9
+cybercrime,marriage affairs,2505,9
+sedition,Divorce,2507,8
+Property dispute,Fraud,2509,15
+Fraud,riots,2511,4
+riots,claims of negligence,2513,4
+marriage affairs,dowry demands,2515,14
+Divorce,robbery,2517,9
+claims of negligence,unfair dismissal,2519,4
+appeal against HR,discrimination,2521,10
+Workplace harassment,appeal against HR,2523,8
+Murder,Workplace harassment,2525,8
+robbery,Murder,2527,14
+dowry demands,theft,2529,10
+robbery,cybercrime,2531,3
+unfair dismissal,sedition,2533,6
+theft,Property dispute,2535,3
+cybercrime,marriage affairs,2537,10
+sedition,Divorce,2539,10
+Property dispute,Fraud,2541,12
+Fraud,riots,2543,6
+riots,claims of negligence,2545,5
+marriage affairs,dowry demands,2547,15
+Divorce,robbery,2549,7
+claims of negligence,unfair dismissal,2551,3
+appeal against HR,discrimination,2553,7
+Workplace harassment,appeal against HR,2555,12
+Murder,Workplace harassment,2557,9
+robbery,Murder,2559,7
+dowry demands,theft,2561,10
+robbery,cybercrime,2563,5
+unfair dismissal,sedition,2565,12
+theft,Property dispute,2567,12
+cybercrime,marriage affairs,2569,6
+sedition,Divorce,2571,5
+Property dispute,Fraud,2573,3
+Fraud,riots,2575,12
+riots,claims of negligence,2577,13
+marriage affairs,dowry demands,2579,6
+Divorce,robbery,2581,4
+claims of negligence,unfair dismissal,2583,3
+appeal against HR,discrimination,2585,12
+Workplace harassment,appeal against HR,2587,8
+Murder,Workplace harassment,2589,9
+robbery,Murder,2591,9
+dowry demands,theft,2593,7
+robbery,cybercrime,2595,8
+unfair dismissal,sedition,2597,6
+theft,Property dispute,2599,15
+cybercrime,marriage affairs,2601,14
+sedition,Divorce,2603,7
+Property dispute,Fraud,2605,12
+Fraud,riots,2607,7
+riots,claims of negligence,2609,15
+marriage affairs,dowry demands,2611,8
+Divorce,robbery,2613,9
+claims of negligence,unfair dismissal,2615,13
+appeal against HR,discrimination,2617,14
+Workplace harassment,appeal against HR,2619,3
+Murder,Workplace harassment,2621,3
+robbery,Murder,2623,10
+dowry demands,theft,2625,9
+robbery,cybercrime,2627,6
+unfair dismissal,sedition,2629,5
+theft,Property dispute,2631,3
+cybercrime,marriage affairs,2633,9
+sedition,Divorce,2635,10
+Property dispute,Fraud,2637,3
+Fraud,riots,2639,11
+riots,claims of negligence,2641,4
+marriage affairs,dowry demands,2643,3
+Divorce,robbery,2645,7
+claims of negligence,unfair dismissal,2647,9
+appeal against HR,discrimination,2649,6
+Workplace harassment,appeal against HR,2651,8
+Murder,Workplace harassment,2653,8
+robbery,Murder,2655,15
+dowry demands,theft,2657,13
+robbery,cybercrime,2659,15
+unfair dismissal,sedition,2661,10
+theft,Property dispute,2663,14
+cybercrime,marriage affairs,2665,10
+sedition,Divorce,2667,5
+Property dispute,Fraud,2669,7
+Fraud,riots,2671,7
+riots,claims of negligence,2673,8
+marriage affairs,dowry demands,2675,12
+Divorce,robbery,2677,13
+claims of negligence,unfair dismissal,2679,4
+appeal against HR,discrimination,2681,6
+Workplace harassment,appeal against HR,2683,13
+Murder,Workplace harassment,2685,13
+robbery,Murder,2687,10
+dowry demands,theft,2689,4
+robbery,cybercrime,2691,14
+unfair dismissal,sedition,2693,11
+theft,Property dispute,2695,10
+cybercrime,marriage affairs,2697,15
+sedition,Divorce,2699,14
+Property dispute,Fraud,2701,12
+Fraud,riots,2703,12
+riots,claims of negligence,2705,3
+marriage affairs,dowry demands,2707,14
+Divorce,robbery,2709,5
+claims of negligence,unfair dismissal,2711,8
+appeal against HR,discrimination,2713,9
+Workplace harassment,appeal against HR,2715,9
+Murder,Workplace harassment,2717,7
+robbery,Murder,2719,6
+dowry demands,theft,2721,6
+robbery,cybercrime,2723,10
+unfair dismissal,sedition,2725,9
+theft,Property dispute,2727,3
+cybercrime,marriage affairs,2729,11
+sedition,Divorce,2731,11
+Property dispute,Fraud,2733,9
+Fraud,riots,2735,5
+riots,claims of negligence,2737,7
+marriage affairs,dowry demands,2739,4
+Divorce,robbery,2741,12
+claims of negligence,unfair dismissal,2743,9
+appeal against HR,discrimination,2745,4
+Workplace harassment,appeal against HR,2747,3
+Murder,Workplace harassment,2749,11
+robbery,Murder,2751,7
+dowry demands,theft,2753,8
+robbery,cybercrime,2755,7
+unfair dismissal,sedition,2757,4
+theft,Property dispute,2759,14
+cybercrime,marriage affairs,2761,7
+sedition,Divorce,2763,5
+Property dispute,Fraud,2765,12
+Fraud,riots,2767,3
+riots,claims of negligence,2769,7
+marriage affairs,dowry demands,2771,7
+Divorce,robbery,2773,11
+claims of negligence,unfair dismissal,2775,4
+appeal against HR,discrimination,2777,3
+Workplace harassment,appeal against HR,2779,8
+Murder,Workplace harassment,2781,3
+robbery,Murder,2783,4
+dowry demands,theft,2785,14
+robbery,cybercrime,2787,3
+unfair dismissal,sedition,2789,12
+theft,Property dispute,2791,11
+cybercrime,marriage affairs,2793,12
+sedition,Divorce,2795,6
+Property dispute,Fraud,2797,9
+Fraud,riots,2799,7
+riots,claims of negligence,2801,15
+marriage affairs,dowry demands,2803,9
+Divorce,robbery,2805,7
+claims of negligence,unfair dismissal,2807,11
+appeal against HR,discrimination,2809,11
+Workplace harassment,appeal against HR,2811,8
+Murder,Workplace harassment,2813,10
+robbery,Murder,2815,13
+dowry demands,theft,2817,4
+robbery,cybercrime,2819,6
+unfair dismissal,sedition,2821,11
+theft,Property dispute,2823,5
+cybercrime,marriage affairs,2825,9
+sedition,Divorce,2827,13
+Property dispute,Fraud,2829,5
+Fraud,riots,2831,11
+riots,claims of negligence,2833,8
+marriage affairs,dowry demands,2835,10
+Divorce,robbery,2837,7
+claims of negligence,unfair dismissal,2839,13
+appeal against HR,discrimination,2841,7
+Workplace harassment,appeal against HR,2843,10
+Murder,Workplace harassment,2845,5
+robbery,Murder,2847,5
+dowry demands,theft,2849,8
+robbery,cybercrime,2851,14
+unfair dismissal,sedition,2853,5
+theft,Property dispute,2855,9
+cybercrime,marriage affairs,2857,7
+sedition,Divorce,2859,4
+Property dispute,Fraud,2861,15
+Fraud,riots,2863,10
+riots,claims of negligence,2865,12
+marriage affairs,dowry demands,2867,15
+Divorce,robbery,2869,3
+claims of negligence,unfair dismissal,2871,5
+appeal against HR,discrimination,2873,14
+Workplace harassment,appeal against HR,2875,10
+Murder,Workplace harassment,2877,9
+robbery,Murder,2879,4
+dowry demands,theft,2881,11
+robbery,cybercrime,2883,5
+unfair dismissal,sedition,2885,6
+theft,Property dispute,2887,14
+cybercrime,marriage affairs,2889,12
+sedition,Divorce,2891,11
+Property dispute,Fraud,2893,9
+Fraud,riots,2895,7
+riots,claims of negligence,2897,8
+marriage affairs,dowry demands,2899,12
+Divorce,robbery,2901,14
+claims of negligence,unfair dismissal,2903,9
+appeal against HR,discrimination,2905,11
+Workplace harassment,appeal against HR,2907,3
+Murder,Workplace harassment,2909,9
+robbery,Murder,2911,3
+dowry demands,theft,2913,15
+robbery,cybercrime,2915,13
+unfair dismissal,sedition,2917,8
+theft,Property dispute,2919,3
+cybercrime,marriage affairs,2921,5
+sedition,Divorce,2923,7
+Property dispute,Fraud,2925,4
+Fraud,riots,2927,15
+riots,claims of negligence,2929,7
+marriage affairs,dowry demands,2931,11
+Divorce,robbery,2933,5
+claims of negligence,unfair dismissal,2935,10
+appeal against HR,discrimination,2937,7
+Workplace harassment,appeal against HR,2939,12
+Murder,Workplace harassment,2941,11
+robbery,Murder,2943,4
+dowry demands,theft,2945,5
+robbery,cybercrime,2947,8
+unfair dismissal,sedition,2949,6
+theft,Property dispute,2951,15
+cybercrime,marriage affairs,2953,8
+sedition,Divorce,2955,10
+Property dispute,Fraud,2957,12
+Fraud,riots,2959,5
+riots,claims of negligence,2961,9
+marriage affairs,dowry demands,2963,3
+Divorce,robbery,2965,8
+claims of negligence,unfair dismissal,2967,7
+appeal against HR,discrimination,2969,3
+Workplace harassment,appeal against HR,2971,14
+Murder,Workplace harassment,2973,4
+robbery,Murder,2975,9
+dowry demands,theft,2977,11
+robbery,cybercrime,2979,15
+unfair dismissal,sedition,2981,5
+theft,Property dispute,2983,14
+cybercrime,marriage affairs,2985,11
+sedition,Divorce,2987,15
+Property dispute,Fraud,2989,9
+Fraud,riots,2991,14
+riots,claims of negligence,2993,15
+marriage affairs,dowry demands,2995,4
+Divorce,robbery,2997,7
+claims of negligence,unfair dismissal,2999,3
+appeal against HR,discrimination,3001,10
+Workplace harassment,appeal against HR,3003,8
+Murder,Workplace harassment,3005,5
+robbery,Murder,3007,12
+dowry demands,theft,3009,14
+robbery,cybercrime,3011,12
+unfair dismissal,sedition,3013,4
+theft,Property dispute,3015,4
+cybercrime,marriage affairs,3017,8
+sedition,Divorce,3019,8
+Property dispute,Fraud,3021,14
+Fraud,riots,3023,12
+riots,claims of negligence,3025,5
+marriage affairs,dowry demands,3027,9
+Divorce,robbery,3029,11
+claims of negligence,unfair dismissal,3031,15
+appeal against HR,discrimination,3033,4
+Workplace harassment,appeal against HR,3035,8
+Murder,Workplace harassment,3037,3
+robbery,Murder,3039,11
+dowry demands,theft,3041,11
+robbery,cybercrime,3043,3
+unfair dismissal,sedition,3045,9
+theft,Property dispute,3047,5
+cybercrime,marriage affairs,3049,14
+sedition,Divorce,3051,15
+Property dispute,Fraud,3053,3
+Fraud,riots,3055,3
+riots,claims of negligence,3057,9
+marriage affairs,dowry demands,3059,6
+Divorce,robbery,3061,12
+claims of negligence,unfair dismissal,3063,15
+appeal against HR,discrimination,3065,10
+Workplace harassment,appeal against HR,3067,8
+Murder,Workplace harassment,3069,14
+robbery,Murder,3071,12
+dowry demands,theft,3073,12
+robbery,cybercrime,3075,6
+unfair dismissal,sedition,3077,14
+theft,Property dispute,3079,5
+cybercrime,marriage affairs,3081,14
+sedition,Divorce,3083,13
+Property dispute,Fraud,3085,7
+Fraud,riots,3087,12
+riots,claims of negligence,3089,11
+marriage affairs,dowry demands,3091,4
+Divorce,robbery,3093,4
+claims of negligence,unfair dismissal,3095,4
+appeal against HR,discrimination,3097,14
+Workplace harassment,appeal against HR,3099,11
+Murder,Workplace harassment,3101,4
+robbery,Murder,3103,8
+dowry demands,theft,3105,4
+robbery,cybercrime,3107,10
+unfair dismissal,sedition,3109,13
+theft,Property dispute,3111,5
+cybercrime,marriage affairs,3113,5
+sedition,Divorce,3115,13
+Property dispute,Fraud,3117,15
+Fraud,riots,3119,3
+riots,claims of negligence,3121,5
+marriage affairs,dowry demands,3123,9
+Divorce,robbery,3125,5
+claims of negligence,unfair dismissal,3127,11
+appeal against HR,discrimination,3129,3
+Workplace harassment,appeal against HR,3131,13
+Murder,Workplace harassment,3133,12
+robbery,Murder,3135,14
+dowry demands,theft,3137,8
+robbery,cybercrime,3139,3
+unfair dismissal,sedition,3141,7
+theft,Property dispute,3143,4
+cybercrime,marriage affairs,3145,8
+sedition,Divorce,3147,9
+Property dispute,Fraud,3149,15
+Fraud,riots,3151,9
+riots,claims of negligence,3153,6
+marriage affairs,dowry demands,3155,8
+Divorce,robbery,3157,9
+claims of negligence,unfair dismissal,3159,7
+appeal against HR,discrimination,3161,9
+Workplace harassment,appeal against HR,3163,8
+Murder,Workplace harassment,3165,14
+robbery,Murder,3167,3
+dowry demands,theft,3169,15
+robbery,cybercrime,3171,4
+unfair dismissal,sedition,3173,3
+theft,Property dispute,3175,6
+cybercrime,marriage affairs,3177,7
+sedition,Divorce,3179,11
+Property dispute,Fraud,3181,3
+Fraud,riots,3183,15
+riots,claims of negligence,3185,8
+marriage affairs,dowry demands,3187,10
+Divorce,robbery,3189,14
+claims of negligence,unfair dismissal,3191,7
+appeal against HR,discrimination,3193,6
+Workplace harassment,appeal against HR,3195,12
+Murder,Workplace harassment,3197,10
+robbery,Murder,3199,9
+dowry demands,theft,3201,10
+robbery,cybercrime,3203,7
+unfair dismissal,sedition,3205,10
+theft,Property dispute,3207,12
+cybercrime,marriage affairs,3209,5
+sedition,Divorce,3211,13
+Property dispute,Fraud,3213,5
+Fraud,riots,3215,13
+riots,claims of negligence,3217,14
+marriage affairs,dowry demands,3219,4
+Divorce,robbery,3221,8
+claims of negligence,unfair dismissal,3223,11
+appeal against HR,discrimination,3225,15
+Workplace harassment,appeal against HR,3227,4
+Murder,Workplace harassment,3229,5
+robbery,Murder,3231,3
+dowry demands,theft,3233,9
+robbery,cybercrime,3235,4
+unfair dismissal,sedition,3237,12
+theft,Property dispute,3239,6
+cybercrime,marriage affairs,3241,15
+sedition,Divorce,3243,8
+Property dispute,Fraud,3245,12
+Fraud,riots,3247,6
+riots,claims of negligence,3249,11
+marriage affairs,dowry demands,3251,9
+Divorce,robbery,3253,14
+claims of negligence,unfair dismissal,3255,6
+appeal against HR,discrimination,3257,10
+Workplace harassment,appeal against HR,3259,14
+Murder,Workplace harassment,3261,12
+robbery,Murder,3263,12
+dowry demands,theft,3265,7
+robbery,cybercrime,3267,10
+unfair dismissal,sedition,3269,13
+theft,Property dispute,3271,13
+cybercrime,marriage affairs,3273,15
+sedition,Divorce,3275,6
+Property dispute,Fraud,3277,7
+Fraud,riots,3279,10
+riots,claims of negligence,3281,8
+marriage affairs,dowry demands,3283,3
+Divorce,robbery,3285,12
+claims of negligence,unfair dismissal,3287,9
+appeal against HR,discrimination,3289,12
+Workplace harassment,appeal against HR,3291,7
+Murder,Workplace harassment,3293,15
+robbery,Murder,3295,6
+dowry demands,theft,3297,11
+robbery,cybercrime,3299,5
+unfair dismissal,sedition,3301,14
+theft,Property dispute,3303,5
+cybercrime,marriage affairs,3305,10
+sedition,Divorce,3307,5
+Property dispute,Fraud,3309,12
+Fraud,riots,3311,11
+riots,claims of negligence,3313,4
+marriage affairs,dowry demands,3315,10
+Divorce,robbery,3317,5
+claims of negligence,unfair dismissal,3319,11
+appeal against HR,discrimination,3321,4
+Workplace harassment,appeal against HR,3323,12
+Murder,Workplace harassment,3325,13
+robbery,Murder,3327,12
+dowry demands,theft,3329,8
+robbery,cybercrime,3331,9
+unfair dismissal,sedition,3333,3
+theft,Property dispute,3335,9
+cybercrime,marriage affairs,3337,7
+sedition,Divorce,3339,10
+Property dispute,Fraud,3341,14
+Fraud,riots,3343,3
+riots,claims of negligence,3345,13
+marriage affairs,dowry demands,3347,5
+Divorce,robbery,3349,13
+claims of negligence,unfair dismissal,3351,7
+appeal against HR,discrimination,3353,8
+Workplace harassment,appeal against HR,3355,14
+Murder,Workplace harassment,3357,9
+robbery,Murder,3359,9
+dowry demands,theft,3361,7
+robbery,cybercrime,3363,7
+unfair dismissal,sedition,3365,7
+theft,Property dispute,3367,5
+cybercrime,marriage affairs,3369,7
+sedition,Divorce,3371,3
+Property dispute,Fraud,3373,15
+Fraud,riots,3375,15
+riots,claims of negligence,3377,9
+marriage affairs,dowry demands,3379,9
+Divorce,robbery,3381,15
+claims of negligence,unfair dismissal,3383,6
+appeal against HR,discrimination,3385,3
+Workplace harassment,appeal against HR,3387,10
+Murder,Workplace harassment,3389,8
+robbery,Murder,3391,13
+dowry demands,theft,3393,6
+robbery,cybercrime,3395,6
+unfair dismissal,sedition,3397,9
+theft,Property dispute,3399,3
+cybercrime,marriage affairs,3401,9
+sedition,Divorce,3403,9
+Property dispute,Fraud,3405,14
+Fraud,riots,3407,8
+riots,claims of negligence,3409,6
+marriage affairs,dowry demands,3411,11
+Divorce,robbery,3413,6
+claims of negligence,unfair dismissal,3415,7
+appeal against HR,discrimination,3417,5
+Workplace harassment,appeal against HR,3419,11
+Murder,Workplace harassment,3421,8
+robbery,Murder,3423,15
+dowry demands,theft,3425,9
+robbery,cybercrime,3427,5
+unfair dismissal,sedition,3429,10
+theft,Property dispute,3431,10
+cybercrime,marriage affairs,3433,7
+sedition,Divorce,3435,14
+Property dispute,Fraud,3437,11
+Fraud,riots,3439,3
+riots,claims of negligence,3441,14
+marriage affairs,dowry demands,3443,4
+Divorce,robbery,3445,4
+claims of negligence,unfair dismissal,3447,7
+appeal against HR,discrimination,3449,13
+Workplace harassment,appeal against HR,3451,13
+Murder,Workplace harassment,3453,13
+robbery,Murder,3455,5
+dowry demands,theft,3457,9
+robbery,cybercrime,3459,5
+unfair dismissal,sedition,3461,9
+theft,Property dispute,3463,7
+cybercrime,marriage affairs,3465,9
+sedition,Divorce,3467,7
+Property dispute,Fraud,3469,3
+Fraud,riots,3471,15
+riots,claims of negligence,3473,9
+marriage affairs,dowry demands,3475,4
+Divorce,robbery,3477,8
+claims of negligence,unfair dismissal,3479,9
+appeal against HR,discrimination,3481,14
+Workplace harassment,appeal against HR,3483,9
+Murder,Workplace harassment,3485,3
+robbery,Murder,3487,4
+dowry demands,theft,3489,13
+robbery,cybercrime,3491,11
+unfair dismissal,sedition,3493,13
+theft,Property dispute,3495,14
+cybercrime,marriage affairs,3497,9
+sedition,Divorce,3499,3
+Property dispute,Fraud,3501,8
+Fraud,riots,3503,15
+riots,claims of negligence,3505,10
+marriage affairs,dowry demands,3507,8
+Divorce,robbery,3509,7
+claims of negligence,unfair dismissal,3511,10
+appeal against HR,discrimination,3513,8
+Workplace harassment,appeal against HR,3515,12
+Murder,Workplace harassment,3517,10
+robbery,Murder,3519,3
+dowry demands,theft,3521,6
+robbery,cybercrime,3523,8
+unfair dismissal,sedition,3525,8
+theft,Property dispute,3527,12
+cybercrime,marriage affairs,3529,11
+sedition,Divorce,3531,5
+Property dispute,Fraud,3533,15
+Fraud,riots,3535,15
+riots,claims of negligence,3537,14
+marriage affairs,dowry demands,3539,8
+Divorce,robbery,3541,8
+claims of negligence,unfair dismissal,3543,12
+appeal against HR,discrimination,3545,6
+Workplace harassment,appeal against HR,3547,14
+Murder,Workplace harassment,3549,4
+robbery,Murder,3551,13
+dowry demands,theft,3553,12
+robbery,cybercrime,3555,11
+unfair dismissal,sedition,3557,15
+theft,Property dispute,3559,15
+cybercrime,marriage affairs,3561,10
+sedition,Divorce,3563,10
+Property dispute,Fraud,3565,7
+Fraud,riots,3567,9
+riots,claims of negligence,3569,11
+marriage affairs,dowry demands,3571,15
+Divorce,robbery,3573,13
+claims of negligence,unfair dismissal,3575,15
+appeal against HR,discrimination,3577,13
+Workplace harassment,appeal against HR,3579,5
+Murder,Workplace harassment,3581,8
+robbery,Murder,3583,7
+dowry demands,theft,3585,12
+robbery,cybercrime,3587,10
+unfair dismissal,sedition,3589,3
+theft,Property dispute,3591,6
+cybercrime,marriage affairs,3593,7
+sedition,Divorce,3595,4
+Property dispute,Fraud,3597,3
+Fraud,riots,3599,7
+riots,claims of negligence,3601,3
+marriage affairs,dowry demands,3603,5
+Divorce,robbery,3605,13
+claims of negligence,unfair dismissal,3607,9
+appeal against HR,discrimination,3609,4
+Workplace harassment,appeal against HR,3611,15
+Murder,Workplace harassment,3613,8
+robbery,Murder,3615,9
+dowry demands,theft,3617,10
+robbery,cybercrime,3619,4
+unfair dismissal,sedition,3621,7
+theft,Property dispute,3623,9
+cybercrime,marriage affairs,3625,8
+sedition,Divorce,3627,11
+Property dispute,Fraud,3629,11
+Fraud,riots,3631,5
+riots,claims of negligence,3633,13
+marriage affairs,dowry demands,3635,10
+Divorce,robbery,3637,5
+claims of negligence,unfair dismissal,3639,11
+appeal against HR,discrimination,3641,4
+Workplace harassment,appeal against HR,3643,5
+Murder,Workplace harassment,3645,14
+robbery,Murder,3647,3
+dowry demands,theft,3649,11
+robbery,cybercrime,3651,4
+unfair dismissal,sedition,3653,10
+theft,Property dispute,3655,15
+cybercrime,marriage affairs,3657,6
+sedition,Divorce,3659,6
+Property dispute,Fraud,3661,11
+Fraud,riots,3663,15
+riots,claims of negligence,3665,13
+marriage affairs,dowry demands,3667,9
+Divorce,robbery,3669,7
+claims of negligence,unfair dismissal,3671,6
+appeal against HR,discrimination,3673,6
+Workplace harassment,appeal against HR,3675,8
+Murder,Workplace harassment,3677,15
+robbery,Murder,3679,8
+dowry demands,theft,3681,8
+robbery,cybercrime,3683,8
+unfair dismissal,sedition,3685,11
+theft,Property dispute,3687,12
+cybercrime,marriage affairs,3689,4
+sedition,Divorce,3691,8
+Property dispute,Fraud,3693,14
+Fraud,riots,3695,12
+riots,claims of negligence,3697,10
+marriage affairs,dowry demands,3699,3
+Divorce,robbery,3701,6
+claims of negligence,unfair dismissal,3703,8
+appeal against HR,discrimination,3705,8
+Workplace harassment,appeal against HR,3707,11
+Murder,Workplace harassment,3709,10
+robbery,Murder,3711,11
+dowry demands,theft,3713,3
+robbery,cybercrime,3715,9
+unfair dismissal,sedition,3717,14
+theft,Property dispute,3719,9
+cybercrime,marriage affairs,3721,7
+sedition,Divorce,3723,5
+Property dispute,Fraud,3725,14
+Fraud,riots,3727,12
+riots,claims of negligence,3729,3
+marriage affairs,dowry demands,3731,14
+Divorce,robbery,3733,15
+claims of negligence,unfair dismissal,3735,10
+appeal against HR,discrimination,3737,14
+Workplace harassment,appeal against HR,3739,10
+Murder,Workplace harassment,3741,5
+robbery,Murder,3743,3
+dowry demands,theft,3745,3
+robbery,cybercrime,3747,7
+unfair dismissal,sedition,3749,14
+theft,Property dispute,3751,12
+cybercrime,marriage affairs,3753,10
+sedition,Divorce,3755,7
+Property dispute,Fraud,3757,8
+Fraud,riots,3759,3
+riots,claims of negligence,3761,13
+marriage affairs,dowry demands,3763,7
+Divorce,robbery,3765,10
+claims of negligence,unfair dismissal,3767,15
+appeal against HR,discrimination,3769,3
+Workplace harassment,appeal against HR,3771,9
+Murder,Workplace harassment,3773,11
+robbery,Murder,3775,3
+dowry demands,theft,3777,4
+robbery,cybercrime,3779,7
+unfair dismissal,sedition,3781,10
+theft,Property dispute,3783,7
+cybercrime,marriage affairs,3785,3
+sedition,Divorce,3787,10
+Property dispute,Fraud,3789,7
+Fraud,riots,3791,6
+riots,claims of negligence,3793,12
+marriage affairs,dowry demands,3795,11
+Divorce,robbery,3797,11
+claims of negligence,unfair dismissal,3799,6
+appeal against HR,discrimination,3801,3
+Workplace harassment,appeal against HR,3803,12
+Murder,Workplace harassment,3805,7
+robbery,Murder,3807,7
+dowry demands,theft,3809,7
+robbery,cybercrime,3811,12
+unfair dismissal,sedition,3813,7
+theft,Property dispute,3815,4
+cybercrime,marriage affairs,3817,5
+sedition,Divorce,3819,6
+Property dispute,Fraud,3821,4
+Fraud,riots,3823,15
+riots,claims of negligence,3825,12
+marriage affairs,dowry demands,3827,12
+Divorce,robbery,3829,8
+claims of negligence,unfair dismissal,3831,14
+appeal against HR,discrimination,3833,5
+Workplace harassment,appeal against HR,3835,10
+Murder,Workplace harassment,3837,6
+robbery,Murder,3839,5
+dowry demands,theft,3841,6
+robbery,cybercrime,3843,7
+unfair dismissal,sedition,3845,5
+theft,Property dispute,3847,5
+cybercrime,marriage affairs,3849,15
+sedition,Divorce,3851,14
+Property dispute,Fraud,3853,8
+Fraud,riots,3855,4
+riots,claims of negligence,3857,4
+marriage affairs,dowry demands,3859,4
+Divorce,robbery,3861,15
+claims of negligence,unfair dismissal,3863,11
+appeal against HR,discrimination,3865,11
+Workplace harassment,appeal against HR,3867,15
+Murder,Workplace harassment,3869,5
+robbery,Murder,3871,6
+dowry demands,theft,3873,13
+robbery,cybercrime,3875,15
+unfair dismissal,sedition,3877,6
+theft,Property dispute,3879,12
+cybercrime,marriage affairs,3881,3
+sedition,Divorce,3883,5
+Property dispute,Fraud,3885,12
+Fraud,riots,3887,9
+riots,claims of negligence,3889,12
+marriage affairs,dowry demands,3891,7
+Divorce,robbery,3893,14
+claims of negligence,unfair dismissal,3895,9
+appeal against HR,discrimination,3897,3
+Workplace harassment,appeal against HR,3899,5
+Murder,Workplace harassment,3901,3
+robbery,Murder,3903,6
+dowry demands,theft,3905,14
+robbery,cybercrime,3907,5
+unfair dismissal,sedition,3909,8
+theft,Property dispute,3911,13
+cybercrime,marriage affairs,3913,3
+sedition,Divorce,3915,8
+Property dispute,Fraud,3917,11
+Fraud,riots,3919,15
+riots,claims of negligence,3921,7
+marriage affairs,dowry demands,3923,3
+Divorce,robbery,3925,7
+claims of negligence,unfair dismissal,3927,6
+appeal against HR,discrimination,3929,14
+Workplace harassment,appeal against HR,3931,7
+Murder,Workplace harassment,3933,11
+robbery,Murder,3935,6
+dowry demands,theft,3937,13
+robbery,cybercrime,3939,4
+unfair dismissal,sedition,3941,5
+theft,Property dispute,3943,14
+cybercrime,marriage affairs,3945,11
+sedition,Divorce,3947,10
+Property dispute,Fraud,3949,12
+Fraud,riots,3951,11
+riots,claims of negligence,3953,15
+marriage affairs,dowry demands,3955,5
+Divorce,robbery,3957,4
+claims of negligence,unfair dismissal,3959,3
+appeal against HR,discrimination,3961,13
+Workplace harassment,appeal against HR,3963,8
+Murder,Workplace harassment,3965,14
+robbery,Murder,3967,15
+dowry demands,theft,3969,10
+robbery,cybercrime,3971,5
+unfair dismissal,sedition,3973,6
+theft,Property dispute,3975,3
+cybercrime,marriage affairs,3977,9
+sedition,Divorce,3979,14
+Property dispute,Fraud,3981,12
+Fraud,riots,3983,12
+riots,claims of negligence,3985,15
+marriage affairs,dowry demands,3987,5
+Divorce,robbery,3989,5
+claims of negligence,unfair dismissal,3991,15
+appeal against HR,discrimination,3993,14
+Workplace harassment,appeal against HR,3995,13
+Murder,Workplace harassment,3997,5
+robbery,Murder,3999,13
+dowry demands,theft,4001,9
+robbery,cybercrime,4003,3
+unfair dismissal,sedition,4005,4
+theft,Property dispute,4007,9
+cybercrime,marriage affairs,4009,5
+sedition,Divorce,4011,7
+Property dispute,Fraud,4013,11
+Fraud,riots,4015,6
+riots,claims of negligence,4017,4
+marriage affairs,dowry demands,4019,9
+Divorce,robbery,4021,8
+claims of negligence,unfair dismissal,4023,13
+appeal against HR,discrimination,4025,13
+Workplace harassment,appeal against HR,4027,7
+Murder,Workplace harassment,4029,10
+robbery,Murder,4031,15
+dowry demands,theft,4033,7
+robbery,cybercrime,4035,10
+unfair dismissal,sedition,4037,9
+theft,Property dispute,4039,15
+cybercrime,marriage affairs,4041,7
+sedition,Divorce,4043,11
+Property dispute,Fraud,4045,4
+Fraud,riots,4047,5
+riots,claims of negligence,4049,15
+marriage affairs,dowry demands,4051,5
+Divorce,robbery,4053,12
+claims of negligence,unfair dismissal,4055,5
+appeal against HR,discrimination,4057,3
+Workplace harassment,appeal against HR,4059,7
+Murder,Workplace harassment,4061,3
+robbery,Murder,4063,12
+dowry demands,theft,4065,15
+robbery,cybercrime,4067,13
+unfair dismissal,sedition,4069,11
+theft,Property dispute,4071,14
+cybercrime,marriage affairs,4073,3
+sedition,Divorce,4075,11
+Property dispute,Fraud,4077,10
+Fraud,riots,4079,10
+riots,claims of negligence,4081,14
+marriage affairs,dowry demands,4083,11
+Divorce,robbery,4085,8
+claims of negligence,unfair dismissal,4087,15
+appeal against HR,discrimination,4089,13
+Workplace harassment,appeal against HR,4091,4
+Murder,Workplace harassment,4093,9
+robbery,Murder,4095,6
+dowry demands,theft,4097,7
+robbery,cybercrime,4099,3
+unfair dismissal,sedition,4101,9
+theft,Property dispute,4103,3
+cybercrime,marriage affairs,4105,15
+sedition,Divorce,4107,7
+Property dispute,Fraud,4109,15
+Fraud,riots,4111,10
+riots,claims of negligence,4113,10
+marriage affairs,dowry demands,4115,10
+Divorce,robbery,4117,10
+claims of negligence,unfair dismissal,4119,11
+appeal against HR,discrimination,4121,7
+Workplace harassment,appeal against HR,4123,12
+Murder,Workplace harassment,4125,15
+robbery,Murder,4127,15
+dowry demands,theft,4129,4
+robbery,cybercrime,4131,12
+unfair dismissal,sedition,4133,3
+theft,Property dispute,4135,7
+cybercrime,marriage affairs,4137,6
+sedition,Divorce,4139,5
+Property dispute,Fraud,4141,10
+Fraud,riots,4143,15
+riots,claims of negligence,4145,7
+marriage affairs,dowry demands,4147,7
+Divorce,robbery,4149,15
+claims of negligence,unfair dismissal,4151,6
+appeal against HR,discrimination,4153,8
+Workplace harassment,appeal against HR,4155,4
+Murder,Workplace harassment,4157,13
+robbery,Murder,4159,12
+dowry demands,theft,4161,15
+robbery,cybercrime,4163,9
+unfair dismissal,sedition,4165,10
+theft,Property dispute,4167,9
+cybercrime,marriage affairs,4169,3
+sedition,Divorce,4171,7
+Property dispute,Fraud,4173,6
+Fraud,riots,4175,9
+riots,claims of negligence,4177,14
+marriage affairs,dowry demands,4179,7
+Divorce,robbery,4181,12
+claims of negligence,unfair dismissal,4183,4
+appeal against HR,discrimination,4185,5
+Workplace harassment,appeal against HR,4187,9
+Murder,Workplace harassment,4189,3
+robbery,Murder,4191,4
+dowry demands,theft,4193,9
+robbery,cybercrime,4195,7
+unfair dismissal,sedition,4197,15
+theft,Property dispute,4199,14
+cybercrime,marriage affairs,4201,12
+sedition,Divorce,4203,11
+Property dispute,Fraud,4205,4
+Fraud,riots,4207,4
+riots,claims of negligence,4209,9
+marriage affairs,dowry demands,4211,5
+Divorce,robbery,4213,3
+claims of negligence,unfair dismissal,4215,15
+appeal against HR,discrimination,4217,15
+Workplace harassment,appeal against HR,4219,9
+Murder,Workplace harassment,4221,7
+robbery,Murder,4223,11
+dowry demands,theft,4225,12
+robbery,cybercrime,4227,3
+unfair dismissal,sedition,4229,5
+theft,Property dispute,4231,9
+cybercrime,marriage affairs,4233,13
+sedition,Divorce,4235,14
+Property dispute,Fraud,4237,8
+Fraud,riots,4239,3
+riots,claims of negligence,4241,15
+marriage affairs,dowry demands,4243,3
+Divorce,robbery,4245,10
+claims of negligence,unfair dismissal,4247,15
+appeal against HR,discrimination,4249,14
+Workplace harassment,appeal against HR,4251,4
+Murder,Workplace harassment,4253,15
+robbery,Murder,4255,15
+dowry demands,theft,4257,10
+robbery,cybercrime,4259,8
+unfair dismissal,sedition,4261,8
+theft,Property dispute,4263,8
+cybercrime,marriage affairs,4265,13
+sedition,Divorce,4267,7
+Property dispute,Fraud,4269,11
+Fraud,riots,4271,6
+riots,claims of negligence,4273,7
+marriage affairs,dowry demands,4275,10
+Divorce,robbery,4277,3
+claims of negligence,unfair dismissal,4279,5
+appeal against HR,discrimination,4281,9
+Workplace harassment,appeal against HR,4283,5
+Murder,Workplace harassment,4285,5
+robbery,Murder,4287,11
+dowry demands,theft,4289,7
+robbery,cybercrime,4291,15
+unfair dismissal,sedition,4293,5
+theft,Property dispute,4295,14
+cybercrime,marriage affairs,4297,9
+sedition,Divorce,4299,4
+Property dispute,Fraud,4301,9
+Fraud,riots,4303,15
+riots,claims of negligence,4305,12
+marriage affairs,dowry demands,4307,11
+Divorce,robbery,4309,11
+claims of negligence,unfair dismissal,4311,4
+appeal against HR,discrimination,4313,7
+Workplace harassment,appeal against HR,4315,12
+Murder,Workplace harassment,4317,15
+robbery,Murder,4319,7
+dowry demands,theft,4321,13
+robbery,cybercrime,4323,14
+unfair dismissal,sedition,4325,4
+theft,Property dispute,4327,12
+cybercrime,marriage affairs,4329,11
+sedition,Divorce,4331,6
+Property dispute,Fraud,4333,3
+Fraud,riots,4335,4
+riots,claims of negligence,4337,4
+marriage affairs,dowry demands,4339,15
+Divorce,robbery,4341,13
+claims of negligence,unfair dismissal,4343,6
+appeal against HR,discrimination,4345,9
+Workplace harassment,appeal against HR,4347,13
+Murder,Workplace harassment,4349,3
+robbery,Murder,4351,13
+dowry demands,theft,4353,12
+robbery,cybercrime,4355,5
+unfair dismissal,sedition,4357,11
+theft,Property dispute,4359,11
+cybercrime,marriage affairs,4361,4
+sedition,Divorce,4363,7
+Property dispute,Fraud,4365,5
+Fraud,riots,4367,7
+riots,claims of negligence,4369,11
+marriage affairs,dowry demands,4371,3
+Divorce,robbery,4373,15
+claims of negligence,unfair dismissal,4375,3
+appeal against HR,discrimination,4377,11
+Workplace harassment,appeal against HR,4379,8
+Murder,Workplace harassment,4381,6
+robbery,Murder,4383,11
+dowry demands,theft,4385,13
+robbery,cybercrime,4387,8
+unfair dismissal,sedition,4389,12
+theft,Property dispute,4391,9
+cybercrime,marriage affairs,4393,3
+sedition,Divorce,4395,4
+Property dispute,Fraud,4397,3
+Fraud,riots,4399,14
+riots,claims of negligence,4401,10
+marriage affairs,dowry demands,4403,6
+Divorce,robbery,4405,6
+claims of negligence,unfair dismissal,4407,7
+appeal against HR,discrimination,4409,10
+Workplace harassment,appeal against HR,4411,11
+Murder,Workplace harassment,4413,14
+robbery,Murder,4415,11
+dowry demands,theft,4417,6
+robbery,cybercrime,4419,13
+unfair dismissal,sedition,4421,15
+theft,Property dispute,4423,7
+cybercrime,marriage affairs,4425,10
+sedition,Divorce,4427,13
+Property dispute,Fraud,4429,4
+Fraud,riots,4431,4
+riots,claims of negligence,4433,13
+marriage affairs,dowry demands,4435,5
+Divorce,robbery,4437,15
+claims of negligence,unfair dismissal,4439,13
+appeal against HR,discrimination,4441,13
+Workplace harassment,appeal against HR,4443,14
+Murder,Workplace harassment,4445,8
+robbery,Murder,4447,4
+dowry demands,theft,4449,4
+robbery,cybercrime,4451,8
+unfair dismissal,sedition,4453,11
+theft,Property dispute,4455,3
+cybercrime,marriage affairs,4457,13
+sedition,Divorce,4459,14
+Property dispute,Fraud,4461,15
+Fraud,riots,4463,9
+riots,claims of negligence,4465,12
+marriage affairs,dowry demands,4467,15
+Divorce,robbery,4469,11
+claims of negligence,unfair dismissal,4471,11
+appeal against HR,discrimination,4473,4
+Workplace harassment,appeal against HR,4475,14
+Murder,Workplace harassment,4477,3
+robbery,Murder,4479,15
+dowry demands,theft,4481,13
+robbery,cybercrime,4483,14
+unfair dismissal,sedition,4485,4
+theft,Property dispute,4487,6
+cybercrime,marriage affairs,4489,5
+sedition,Divorce,4491,13
+Property dispute,Fraud,4493,10
+Fraud,riots,4495,6
+riots,claims of negligence,4497,13
+marriage affairs,dowry demands,4499,8
+Divorce,robbery,4501,6
+claims of negligence,unfair dismissal,4503,14
+appeal against HR,discrimination,4505,12
+Workplace harassment,appeal against HR,4507,11
+Murder,Workplace harassment,4509,8
+robbery,Murder,4511,10
+dowry demands,theft,4513,8
+robbery,cybercrime,4515,8
+unfair dismissal,sedition,4517,15
+theft,Property dispute,4519,6
+cybercrime,marriage affairs,4521,6
+sedition,Divorce,4523,6
+Property dispute,Fraud,4525,13
+Fraud,riots,4527,9
+riots,claims of negligence,4529,15
+marriage affairs,dowry demands,4531,9
+Divorce,robbery,4533,5
+claims of negligence,unfair dismissal,4535,5
+appeal against HR,discrimination,4537,5
+Workplace harassment,appeal against HR,4539,3
+Murder,Workplace harassment,4541,7
+robbery,Murder,4543,5
+dowry demands,theft,4545,12
+robbery,cybercrime,4547,13
+unfair dismissal,sedition,4549,12
+theft,Property dispute,4551,11
+cybercrime,marriage affairs,4553,5
+sedition,Divorce,4555,3
+Property dispute,Fraud,4557,4
+Fraud,riots,4559,10
+riots,claims of negligence,4561,6
+marriage affairs,dowry demands,4563,9
+Divorce,robbery,4565,14
+claims of negligence,unfair dismissal,4567,4
+appeal against HR,discrimination,4569,8
+Workplace harassment,appeal against HR,4571,13
+Murder,Workplace harassment,4573,14
+robbery,Murder,4575,7
+dowry demands,theft,4577,7
+robbery,cybercrime,4579,9
+unfair dismissal,sedition,4581,9
+theft,Property dispute,4583,9
+cybercrime,marriage affairs,4585,6
+sedition,Divorce,4587,5
+Property dispute,Fraud,4589,11
+Fraud,riots,4591,9
+riots,claims of negligence,4593,7
+marriage affairs,dowry demands,4595,14
+Divorce,robbery,4597,12
+claims of negligence,unfair dismissal,4599,7
+appeal against HR,discrimination,4601,10
+Workplace harassment,appeal against HR,4603,15
+Murder,Workplace harassment,4605,9
+robbery,Murder,4607,8
+dowry demands,theft,4609,14
+robbery,cybercrime,4611,14
+unfair dismissal,sedition,4613,13
+theft,Property dispute,4615,13
+cybercrime,marriage affairs,4617,4
+sedition,Divorce,4619,14
+Property dispute,Fraud,4621,4
+Fraud,riots,4623,10
+riots,claims of negligence,4625,14
+marriage affairs,dowry demands,4627,7
+Divorce,robbery,4629,12
+claims of negligence,unfair dismissal,4631,15
+appeal against HR,discrimination,4633,15
+Workplace harassment,appeal against HR,4635,8
+Murder,Workplace harassment,4637,4
+robbery,Murder,4639,3
+dowry demands,theft,4641,8
+robbery,cybercrime,4643,15
+unfair dismissal,sedition,4645,15
+theft,Property dispute,4647,11
+cybercrime,marriage affairs,4649,5
+sedition,Divorce,4651,6
+Property dispute,Fraud,4653,14
+Fraud,riots,4655,11
+riots,claims of negligence,4657,9
+marriage affairs,dowry demands,4659,8
+Divorce,robbery,4661,10
+claims of negligence,unfair dismissal,4663,9
+appeal against HR,discrimination,4665,7
+Workplace harassment,appeal against HR,4667,6
+Murder,Workplace harassment,4669,12
+robbery,Murder,4671,15
+dowry demands,theft,4673,4
+robbery,cybercrime,4675,9
+unfair dismissal,sedition,4677,14
+theft,Property dispute,4679,7
+cybercrime,marriage affairs,4681,10
+sedition,Divorce,4683,7
+Property dispute,Fraud,4685,8
+Fraud,riots,4687,14
+riots,claims of negligence,4689,5
+marriage affairs,dowry demands,4691,10
+Divorce,robbery,4693,5
+claims of negligence,unfair dismissal,4695,3
+appeal against HR,discrimination,4697,3
+Workplace harassment,appeal against HR,4699,12
+Murder,Workplace harassment,4701,11
+robbery,Murder,4703,10
+dowry demands,theft,4705,9
+robbery,cybercrime,4707,7
+unfair dismissal,sedition,4709,3
+theft,Property dispute,4711,11
+cybercrime,marriage affairs,4713,5
+sedition,Divorce,4715,14
+Property dispute,Fraud,4717,3
+Fraud,riots,4719,12
+riots,claims of negligence,4721,3
+marriage affairs,dowry demands,4723,11
+Divorce,robbery,4725,12
+claims of negligence,unfair dismissal,4727,11
+appeal against HR,discrimination,4729,4
+Workplace harassment,appeal against HR,4731,5
+Murder,Workplace harassment,4733,11
+robbery,Murder,4735,15
+dowry demands,theft,4737,11
+robbery,cybercrime,4739,9
+unfair dismissal,sedition,4741,7
+theft,Property dispute,4743,8
+cybercrime,marriage affairs,4745,8
+sedition,Divorce,4747,5
+Property dispute,Fraud,4749,7
+Fraud,riots,4751,3
+riots,claims of negligence,4753,13
+marriage affairs,dowry demands,4755,5
+Divorce,robbery,4757,14
+claims of negligence,unfair dismissal,4759,3
+appeal against HR,discrimination,4761,15
+Workplace harassment,appeal against HR,4763,15
+Murder,Workplace harassment,4765,15
+robbery,Murder,4767,5
+dowry demands,theft,4769,5
+robbery,cybercrime,4771,3
+unfair dismissal,sedition,4773,9
+theft,Property dispute,4775,4
+cybercrime,marriage affairs,4777,3
+sedition,Divorce,4779,15
+Property dispute,Fraud,4781,3
+Fraud,riots,4783,14
+riots,claims of negligence,4785,9
+marriage affairs,dowry demands,4787,12
+Divorce,robbery,4789,10
+claims of negligence,unfair dismissal,4791,4
+appeal against HR,discrimination,4793,12
+Workplace harassment,appeal against HR,4795,15
+Murder,Workplace harassment,4797,14
+robbery,Murder,4799,9
+dowry demands,theft,4801,9
+robbery,cybercrime,4803,9
+unfair dismissal,sedition,4805,9
+theft,Property dispute,4807,7
+cybercrime,marriage affairs,4809,13
+sedition,Divorce,4811,13
+Property dispute,Fraud,4813,15
+Fraud,riots,4815,12
+riots,claims of negligence,4817,4
+marriage affairs,dowry demands,4819,3
+Divorce,robbery,4821,11
+claims of negligence,unfair dismissal,4823,10
+appeal against HR,discrimination,4825,11
+Workplace harassment,appeal against HR,4827,5
+Murder,Workplace harassment,4829,7
+robbery,Murder,4831,11
+dowry demands,theft,4833,12
+robbery,cybercrime,4835,11
+unfair dismissal,sedition,4837,6
+theft,Property dispute,4839,10
+cybercrime,marriage affairs,4841,14
+sedition,Divorce,4843,7
+Property dispute,Fraud,4845,5
+Fraud,riots,4847,11
+riots,claims of negligence,4849,5
+marriage affairs,dowry demands,4851,7
+Divorce,robbery,4853,10
+claims of negligence,unfair dismissal,4855,9
+appeal against HR,discrimination,4857,15
+Workplace harassment,appeal against HR,4859,4
+Murder,Workplace harassment,4861,8
+robbery,Murder,4863,13
+dowry demands,theft,4865,3
+robbery,cybercrime,4867,4
+unfair dismissal,sedition,4869,4
+theft,Property dispute,4871,3
+cybercrime,marriage affairs,4873,10
+sedition,Divorce,4875,9
+Property dispute,Fraud,4877,7
+Fraud,riots,4879,5
+riots,claims of negligence,4881,14
+marriage affairs,dowry demands,4883,9
+Divorce,robbery,4885,4
+claims of negligence,unfair dismissal,4887,13
+appeal against HR,discrimination,4889,12
+Workplace harassment,appeal against HR,4891,10
+Murder,Workplace harassment,4893,4
+robbery,Murder,4895,13
+dowry demands,theft,4897,3
+robbery,cybercrime,4899,10
+unfair dismissal,sedition,4901,12
+theft,Property dispute,4903,3
+cybercrime,marriage affairs,4905,11
+sedition,Divorce,4907,8
+Property dispute,Fraud,4909,12
+Fraud,riots,4911,14
+riots,claims of negligence,4913,13
+marriage affairs,dowry demands,4915,7
+Divorce,robbery,4917,9
+claims of negligence,unfair dismissal,4919,6
+appeal against HR,discrimination,4921,13
+Workplace harassment,appeal against HR,4923,14
+Murder,Workplace harassment,4925,12
+robbery,Murder,4927,5
+dowry demands,theft,4929,3
+robbery,cybercrime,4931,11
+unfair dismissal,sedition,4933,3
+theft,Property dispute,4935,9
+cybercrime,marriage affairs,4937,5
+sedition,Divorce,4939,12
+Property dispute,Fraud,4941,13
+Fraud,riots,4943,11
+riots,claims of negligence,4945,10
+marriage affairs,dowry demands,4947,6
+Divorce,robbery,4949,10
+claims of negligence,unfair dismissal,4951,12
+appeal against HR,discrimination,4953,13
+Workplace harassment,appeal against HR,4955,11
+Murder,Workplace harassment,4957,13
+robbery,Murder,4959,9
+dowry demands,theft,4961,13
+robbery,cybercrime,4963,10
+unfair dismissal,sedition,4965,15
+theft,Property dispute,4967,10
+cybercrime,marriage affairs,4969,4
+sedition,Divorce,4971,9
+Property dispute,Fraud,4973,7
+Fraud,riots,4975,4
+riots,claims of negligence,4977,6
+marriage affairs,dowry demands,4979,5
+Divorce,robbery,4981,8
+claims of negligence,unfair dismissal,4983,15
+appeal against HR,discrimination,4985,13
+Workplace harassment,appeal against HR,4987,9
+Murder,Workplace harassment,4989,6
+robbery,Murder,4991,11
+dowry demands,theft,4993,11
+robbery,cybercrime,4995,3
+unfair dismissal,sedition,4997,4
+theft,Property dispute,4999,14
+cybercrime,marriage affairs,5001,6
+sedition,Divorce,5003,12
+Property dispute,Fraud,5005,9
+Fraud,riots,5007,3
+riots,claims of negligence,5009,3
+marriage affairs,dowry demands,5011,3
+Divorce,robbery,5013,14
+claims of negligence,unfair dismissal,5015,11
+appeal against HR,discrimination,5017,12
+Workplace harassment,appeal against HR,5019,9
+Murder,Workplace harassment,5021,11
+robbery,Murder,5023,10
+dowry demands,theft,5025,14
+robbery,cybercrime,5027,8
+unfair dismissal,sedition,5029,13
+theft,Property dispute,5031,9
+cybercrime,marriage affairs,5033,6
+sedition,Divorce,5035,9
+Property dispute,Fraud,5037,13
+Fraud,riots,5039,9
+riots,claims of negligence,5041,3
+marriage affairs,dowry demands,5043,14
+Divorce,robbery,5045,11
+claims of negligence,unfair dismissal,5047,14
+appeal against HR,discrimination,5049,8
+Workplace harassment,appeal against HR,5051,15
+Murder,Workplace harassment,5053,13
+robbery,Murder,5055,15
+dowry demands,theft,5057,3
+robbery,cybercrime,5059,4
+unfair dismissal,sedition,5061,3
+theft,Property dispute,5063,4
+cybercrime,marriage affairs,5065,6
+sedition,Divorce,5067,12
+Property dispute,Fraud,5069,6
+Fraud,riots,5071,7
+riots,claims of negligence,5073,10
+marriage affairs,dowry demands,5075,15
+Divorce,robbery,5077,7
+claims of negligence,unfair dismissal,5079,15
+appeal against HR,discrimination,5081,14
+Workplace harassment,appeal against HR,5083,4
+Murder,Workplace harassment,5085,13
+robbery,Murder,5087,10
+dowry demands,theft,5089,14
+robbery,cybercrime,5091,5
+unfair dismissal,sedition,5093,7
+theft,Property dispute,5095,11
+cybercrime,marriage affairs,5097,9
+sedition,Divorce,5099,11
+Property dispute,Fraud,5101,8
+Fraud,riots,5103,13
+riots,claims of negligence,5105,5
+marriage affairs,dowry demands,5107,11
+Divorce,robbery,5109,13
+claims of negligence,unfair dismissal,5111,8
+appeal against HR,discrimination,5113,10
+Workplace harassment,appeal against HR,5115,6
+Murder,Workplace harassment,5117,15
+robbery,Murder,5119,3
+dowry demands,theft,5121,14
+robbery,cybercrime,5123,12
+unfair dismissal,sedition,5125,12
+theft,Property dispute,5127,13
+cybercrime,marriage affairs,5129,12
+sedition,Divorce,5131,3
+Property dispute,Fraud,5133,7
+Fraud,riots,5135,15
+riots,claims of negligence,5137,11
+marriage affairs,dowry demands,5139,5
+Divorce,robbery,5141,8
+claims of negligence,unfair dismissal,5143,5
+appeal against HR,discrimination,5145,6
+Workplace harassment,appeal against HR,5147,4
+Murder,Workplace harassment,5149,6
+robbery,Murder,5151,8
+dowry demands,theft,5153,12
+robbery,cybercrime,5155,9
+unfair dismissal,sedition,5157,12
+theft,Property dispute,5159,9
+cybercrime,marriage affairs,5161,14
+sedition,Divorce,5163,8
+Property dispute,Fraud,5165,15
+Fraud,riots,5167,9
+riots,claims of negligence,5169,15
+marriage affairs,dowry demands,5171,15
+Divorce,robbery,5173,15
+claims of negligence,unfair dismissal,5175,14
+appeal against HR,discrimination,5177,12
+Workplace harassment,appeal against HR,5179,14
+Murder,Workplace harassment,5181,15
+robbery,Murder,5183,11
+dowry demands,theft,5185,7
+robbery,cybercrime,5187,14
+unfair dismissal,sedition,5189,5
+theft,Property dispute,5191,13
+cybercrime,marriage affairs,5193,14
+sedition,Divorce,5195,8
+Property dispute,Fraud,5197,9
+Fraud,riots,5199,3
+riots,claims of negligence,5201,9
+marriage affairs,dowry demands,5203,5
+Divorce,robbery,5205,10
+claims of negligence,unfair dismissal,5207,13
+appeal against HR,discrimination,5209,7
+Workplace harassment,appeal against HR,5211,7
+Murder,Workplace harassment,5213,11
+robbery,Murder,5215,8
+dowry demands,theft,5217,3
+robbery,cybercrime,5219,8
+unfair dismissal,sedition,5221,12
+theft,Property dispute,5223,13
+cybercrime,marriage affairs,5225,4
+sedition,Divorce,5227,5
+Property dispute,Fraud,5229,14
+Fraud,riots,5231,14
+riots,claims of negligence,5233,11
+marriage affairs,dowry demands,5235,9
+Divorce,robbery,5237,9
+claims of negligence,unfair dismissal,5239,4
+appeal against HR,discrimination,5241,5
+Workplace harassment,appeal against HR,5243,3
+Murder,Workplace harassment,5245,12
+robbery,Murder,5247,11
+dowry demands,theft,5249,3
+robbery,cybercrime,5251,3
+unfair dismissal,sedition,5253,4
+theft,Property dispute,5255,12
+cybercrime,marriage affairs,5257,4
+sedition,Divorce,5259,4
+Property dispute,Fraud,5261,4
+Fraud,riots,5263,10
+riots,claims of negligence,5265,14
+marriage affairs,dowry demands,5267,9
+Divorce,robbery,5269,6
+claims of negligence,unfair dismissal,5271,7
+appeal against HR,discrimination,5273,11
+Workplace harassment,appeal against HR,5275,5
+Murder,Workplace harassment,5277,5
+robbery,Murder,5279,15
+dowry demands,theft,5281,5
+robbery,cybercrime,5283,3
+unfair dismissal,sedition,5285,10
+theft,Property dispute,5287,3
+cybercrime,marriage affairs,5289,11
+sedition,Divorce,5291,9
+Property dispute,Fraud,5293,5
+Fraud,riots,5295,11
+riots,claims of negligence,5297,13
+marriage affairs,dowry demands,5299,8
+Divorce,robbery,5301,13
+claims of negligence,unfair dismissal,5303,5
+appeal against HR,discrimination,5305,12
+Workplace harassment,appeal against HR,5307,13
+Murder,Workplace harassment,5309,13
+robbery,Murder,5311,12
+dowry demands,theft,5313,6
+robbery,cybercrime,5315,11
+unfair dismissal,sedition,5317,7
+theft,Property dispute,5319,15
+cybercrime,marriage affairs,5321,15
+sedition,Divorce,5323,15
+Property dispute,Fraud,5325,6
+Fraud,riots,5327,14
+riots,claims of negligence,5329,13
+marriage affairs,dowry demands,5331,4
+Divorce,robbery,5333,7
+claims of negligence,unfair dismissal,5335,13
+appeal against HR,discrimination,5337,7
+Workplace harassment,appeal against HR,5339,6
+Murder,Workplace harassment,5341,9
+robbery,Murder,5343,11
+dowry demands,theft,5345,3
+robbery,cybercrime,5347,9
+unfair dismissal,sedition,5349,3
+theft,Property dispute,5351,4
+cybercrime,marriage affairs,5353,7
+sedition,Divorce,5355,4
+Property dispute,Fraud,5357,14
+Fraud,riots,5359,11
+riots,claims of negligence,5361,9
+marriage affairs,dowry demands,5363,10
+Divorce,robbery,5365,15
+claims of negligence,unfair dismissal,5367,15
+appeal against HR,discrimination,5369,5
+Workplace harassment,appeal against HR,5371,4
+Murder,Workplace harassment,5373,5
+robbery,Murder,5375,3
+dowry demands,theft,5377,3
+robbery,cybercrime,5379,4
+unfair dismissal,sedition,5381,4
+theft,Property dispute,5383,14
+cybercrime,marriage affairs,5385,14
+sedition,Divorce,5387,12
+Property dispute,Fraud,5389,10
+Fraud,riots,5391,5
+riots,claims of negligence,5393,7
+marriage affairs,dowry demands,5395,10
+Divorce,robbery,5397,10
+claims of negligence,unfair dismissal,5399,12
+appeal against HR,discrimination,5401,14
+Workplace harassment,appeal against HR,5403,9
+Murder,Workplace harassment,5405,12
+robbery,Murder,5407,3
+dowry demands,theft,5409,9
+robbery,cybercrime,5411,9
+unfair dismissal,sedition,5413,12
+theft,Property dispute,5415,13
+cybercrime,marriage affairs,5417,7
+sedition,Divorce,5419,3
+Property dispute,Fraud,5421,4
+Fraud,riots,5423,7
+riots,claims of negligence,5425,8
+marriage affairs,dowry demands,5427,13
+Divorce,robbery,5429,12
+claims of negligence,unfair dismissal,5431,10
+appeal against HR,discrimination,5433,3
+Workplace harassment,appeal against HR,5435,12
+Murder,Workplace harassment,5437,11
+robbery,Murder,5439,4
+dowry demands,theft,5441,9
+robbery,cybercrime,5443,10
+unfair dismissal,sedition,5445,6
+theft,Property dispute,5447,9
+cybercrime,marriage affairs,5449,5
+sedition,Divorce,5451,6
+Property dispute,Fraud,5453,7
+Fraud,riots,5455,14
+riots,claims of negligence,5457,15
+marriage affairs,dowry demands,5459,13
+Divorce,robbery,5461,8
+claims of negligence,unfair dismissal,5463,15
+appeal against HR,discrimination,5465,15
+Workplace harassment,appeal against HR,5467,5
+Murder,Workplace harassment,5469,3
+robbery,Murder,5471,4
+dowry demands,theft,5473,13
+robbery,cybercrime,5475,6
+unfair dismissal,sedition,5477,6
+theft,Property dispute,5479,9
+cybercrime,marriage affairs,5481,9
+sedition,Divorce,5483,11
+Property dispute,Fraud,5485,4
+Fraud,riots,5487,5
+riots,claims of negligence,5489,14
+marriage affairs,dowry demands,5491,8
+Divorce,robbery,5493,15
+claims of negligence,unfair dismissal,5495,15
+appeal against HR,discrimination,5497,10
+Workplace harassment,appeal against HR,5499,7
+Murder,Workplace harassment,5501,9
+robbery,Murder,5503,13
+dowry demands,theft,5505,3
+robbery,cybercrime,5507,10
+unfair dismissal,sedition,5509,14
+theft,Property dispute,5511,5
+cybercrime,marriage affairs,5513,4
+sedition,Divorce,5515,13
+Property dispute,Fraud,5517,4
+Fraud,riots,5519,3
+riots,claims of negligence,5521,13
+marriage affairs,dowry demands,5523,13
+Divorce,robbery,5525,10
+claims of negligence,unfair dismissal,5527,7
+appeal against HR,discrimination,5529,5
+Workplace harassment,appeal against HR,5531,12
+Murder,Workplace harassment,5533,10
+robbery,Murder,5535,4
+dowry demands,theft,5537,3
+robbery,cybercrime,5539,7
+unfair dismissal,sedition,5541,10
+theft,Property dispute,5543,5
+cybercrime,marriage affairs,5545,9
+sedition,Divorce,5547,3
+Property dispute,Fraud,5549,14
+Fraud,riots,5551,4
+riots,claims of negligence,5553,13
+marriage affairs,dowry demands,5555,15
+Divorce,robbery,5557,11
+claims of negligence,unfair dismissal,5559,5
+appeal against HR,discrimination,5561,13
+Workplace harassment,appeal against HR,5563,7
+Murder,Workplace harassment,5565,15
+robbery,Murder,5567,8
+dowry demands,theft,5569,3
+robbery,cybercrime,5571,8
+unfair dismissal,sedition,5573,9
+theft,Property dispute,5575,13
+cybercrime,marriage affairs,5577,7
+sedition,Divorce,5579,3
+Property dispute,Fraud,5581,12
+Fraud,riots,5583,12
+riots,claims of negligence,5585,3
+marriage affairs,dowry demands,5587,5
+Divorce,robbery,5589,4
+claims of negligence,unfair dismissal,5591,10
+appeal against HR,discrimination,5593,7
+Workplace harassment,appeal against HR,5595,13
+Murder,Workplace harassment,5597,12
+robbery,Murder,5599,11
+dowry demands,theft,5601,5
+robbery,cybercrime,5603,4
+unfair dismissal,sedition,5605,8
+theft,Property dispute,5607,10
+cybercrime,marriage affairs,5609,9
+sedition,Divorce,5611,10
+Property dispute,Fraud,5613,8
+Fraud,riots,5615,9
+riots,claims of negligence,5617,4
+marriage affairs,dowry demands,5619,6
+Divorce,robbery,5621,4
+claims of negligence,unfair dismissal,5623,14
+appeal against HR,discrimination,5625,4
+Workplace harassment,appeal against HR,5627,3
+Murder,Workplace harassment,5629,7
+robbery,Murder,5631,13
+dowry demands,theft,5633,3
+robbery,cybercrime,5635,15
+unfair dismissal,sedition,5637,13
+theft,Property dispute,5639,14
+cybercrime,marriage affairs,5641,14
+sedition,Divorce,5643,10
+Property dispute,Fraud,5645,9
+Fraud,riots,5647,5
+riots,claims of negligence,5649,7
+marriage affairs,dowry demands,5651,6
+Divorce,robbery,5653,3
+claims of negligence,unfair dismissal,5655,6
+appeal against HR,discrimination,5657,7
+Workplace harassment,appeal against HR,5659,6
+Murder,Workplace harassment,5661,6
+robbery,Murder,5663,9
+dowry demands,theft,5665,12
+robbery,cybercrime,5667,14
+unfair dismissal,sedition,5669,7
+theft,Property dispute,5671,8
+cybercrime,marriage affairs,5673,9
+sedition,Divorce,5675,10
+Property dispute,Fraud,5677,15
+Fraud,riots,5679,11
+riots,claims of negligence,5681,5
+marriage affairs,dowry demands,5683,4
+Divorce,robbery,5685,4
+claims of negligence,unfair dismissal,5687,6
+appeal against HR,discrimination,5689,5
+Workplace harassment,appeal against HR,5691,9
+Murder,Workplace harassment,5693,13
+robbery,Murder,5695,10
+dowry demands,theft,5697,7
+robbery,cybercrime,5699,13
+unfair dismissal,sedition,5701,3
+theft,Property dispute,5703,8
+cybercrime,marriage affairs,5705,12
+sedition,Divorce,5707,10
+Property dispute,Fraud,5709,6
+Fraud,riots,5711,11
+riots,claims of negligence,5713,6
+marriage affairs,dowry demands,5715,12
+Divorce,robbery,5717,14
+claims of negligence,unfair dismissal,5719,9
+appeal against HR,discrimination,5721,7
+Workplace harassment,appeal against HR,5723,9
+Murder,Workplace harassment,5725,8
+robbery,Murder,5727,11
+dowry demands,theft,5729,3
+robbery,cybercrime,5731,6
+unfair dismissal,sedition,5733,14
+theft,Property dispute,5735,6
+cybercrime,marriage affairs,5737,11
+sedition,Divorce,5739,6
+Property dispute,Fraud,5741,6
+Fraud,riots,5743,5
+riots,claims of negligence,5745,8
+marriage affairs,dowry demands,5747,15
+Divorce,robbery,5749,15
+claims of negligence,unfair dismissal,5751,4
+appeal against HR,discrimination,5753,7
+Workplace harassment,appeal against HR,5755,3
+Murder,Workplace harassment,5757,9
+robbery,Murder,5759,14
+dowry demands,theft,5761,8
+robbery,cybercrime,5763,5
+unfair dismissal,sedition,5765,6
+theft,Property dispute,5767,10
+cybercrime,marriage affairs,5769,7
+sedition,Divorce,5771,11
+Property dispute,Fraud,5773,11
+Fraud,riots,5775,12
+riots,claims of negligence,5777,9
+marriage affairs,dowry demands,5779,4
+Divorce,robbery,5781,5
+claims of negligence,unfair dismissal,5783,11
+appeal against HR,discrimination,5785,13
+Workplace harassment,appeal against HR,5787,13
+Murder,Workplace harassment,5789,11
+robbery,Murder,5791,6
+dowry demands,theft,5793,10
+robbery,cybercrime,5795,12
+unfair dismissal,sedition,5797,15
+theft,Property dispute,5799,14
+cybercrime,marriage affairs,5801,13
+sedition,Divorce,5803,14
+Property dispute,Fraud,5805,8
+Fraud,riots,5807,9
+riots,claims of negligence,5809,7
+marriage affairs,dowry demands,5811,11
+Divorce,robbery,5813,12
+claims of negligence,unfair dismissal,5815,4
+appeal against HR,discrimination,5817,7
+Workplace harassment,appeal against HR,5819,6
+Murder,Workplace harassment,5821,7
+robbery,Murder,5823,8
+dowry demands,theft,5825,6
+robbery,cybercrime,5827,10
+unfair dismissal,sedition,5829,9
+theft,Property dispute,5831,5
+cybercrime,marriage affairs,5833,4
+sedition,Divorce,5835,9
+Property dispute,Fraud,5837,11
+Fraud,riots,5839,10
+riots,claims of negligence,5841,12
+marriage affairs,dowry demands,5843,8
+Divorce,robbery,5845,8
+claims of negligence,unfair dismissal,5847,9
+appeal against HR,discrimination,5849,13
+Workplace harassment,appeal against HR,5851,9
+Murder,Workplace harassment,5853,4
+robbery,Murder,5855,15
+dowry demands,theft,5857,13
+robbery,cybercrime,5859,9
+unfair dismissal,sedition,5861,14
+theft,Property dispute,5863,5
+cybercrime,marriage affairs,5865,5
+sedition,Divorce,5867,3
+Property dispute,Fraud,5869,8
+Fraud,riots,5871,7
+riots,claims of negligence,5873,7
+marriage affairs,dowry demands,5875,5
+Divorce,robbery,5877,12
+claims of negligence,unfair dismissal,5879,9
+appeal against HR,discrimination,5881,13
+Workplace harassment,appeal against HR,5883,8
+Murder,Workplace harassment,5885,4
+robbery,Murder,5887,9
+dowry demands,theft,5889,3
+robbery,cybercrime,5891,13
+unfair dismissal,sedition,5893,8
+theft,Property dispute,5895,4
+cybercrime,marriage affairs,5897,15
+sedition,Divorce,5899,12
+Property dispute,Fraud,5901,12
+Fraud,riots,5903,13
+riots,claims of negligence,5905,11
+marriage affairs,dowry demands,5907,6
+Divorce,robbery,5909,9
+claims of negligence,unfair dismissal,5911,3
+appeal against HR,discrimination,5913,8
+Workplace harassment,appeal against HR,5915,14
+Murder,Workplace harassment,5917,5
+robbery,Murder,5919,13
+dowry demands,theft,5921,11
+robbery,cybercrime,5923,4
+unfair dismissal,sedition,5925,3
+theft,Property dispute,5927,10
+cybercrime,marriage affairs,5929,10
+sedition,Divorce,5931,13
+Property dispute,Fraud,5933,9
+Fraud,riots,5935,8
+riots,claims of negligence,5937,6
+marriage affairs,dowry demands,5939,12
+Divorce,robbery,5941,7
+claims of negligence,unfair dismissal,5943,14
+appeal against HR,discrimination,5945,6
+Workplace harassment,appeal against HR,5947,4
+Murder,Workplace harassment,5949,4
+robbery,Murder,5951,4
+dowry demands,theft,5953,15
+robbery,cybercrime,5955,14
+unfair dismissal,sedition,5957,3
+theft,Property dispute,5959,5
+cybercrime,marriage affairs,5961,3
+sedition,Divorce,5963,6
+Property dispute,Fraud,5965,13
+Fraud,riots,5967,12
+riots,claims of negligence,5969,7
+marriage affairs,dowry demands,5971,5
+Divorce,robbery,5973,9
+claims of negligence,unfair dismissal,5975,9
+appeal against HR,discrimination,5977,4
+Workplace harassment,appeal against HR,5979,12
+Murder,Workplace harassment,5981,4
+robbery,Murder,5983,3
+dowry demands,theft,5985,5
+robbery,cybercrime,5987,13
+unfair dismissal,sedition,5989,15
+theft,Property dispute,5991,13
+cybercrime,marriage affairs,5993,12
+sedition,Divorce,5995,6
+Property dispute,Fraud,5997,9
+Fraud,riots,5999,15
+riots,claims of negligence,6001,12
+marriage affairs,dowry demands,6003,7
+Divorce,robbery,6005,5
+claims of negligence,unfair dismissal,6007,6
+appeal against HR,discrimination,6009,5
+Workplace harassment,appeal against HR,6011,15
+Murder,Workplace harassment,6013,8
+robbery,Murder,6015,6
+dowry demands,theft,6017,11
+robbery,cybercrime,6019,15
+unfair dismissal,sedition,6021,14
+theft,Property dispute,6023,11
+cybercrime,marriage affairs,6025,7
+sedition,Divorce,6027,11
+Property dispute,Fraud,6029,15
+Fraud,riots,6031,15
+riots,claims of negligence,6033,4
+marriage affairs,dowry demands,6035,4
+Divorce,robbery,6037,6
+claims of negligence,unfair dismissal,6039,4
+appeal against HR,discrimination,6041,14
+Workplace harassment,appeal against HR,6043,15
+Murder,Workplace harassment,6045,5
+robbery,Murder,6047,3
+dowry demands,theft,6049,15
+robbery,cybercrime,6051,8
+unfair dismissal,sedition,6053,7
+theft,Property dispute,6055,15
+cybercrime,marriage affairs,6057,11
+sedition,Divorce,6059,6
+Property dispute,Fraud,6061,3
+Fraud,riots,6063,11
+riots,claims of negligence,6065,4
+marriage affairs,dowry demands,6067,11
+Divorce,robbery,6069,3
+claims of negligence,unfair dismissal,6071,12
+appeal against HR,discrimination,6073,7
+Workplace harassment,appeal against HR,6075,11
+Murder,Workplace harassment,6077,8
+robbery,Murder,6079,11
+dowry demands,theft,6081,4
+robbery,cybercrime,6083,3
+unfair dismissal,sedition,6085,9
+theft,Property dispute,6087,3
+cybercrime,marriage affairs,6089,12
+sedition,Divorce,6091,8
+Property dispute,Fraud,6093,15
+Fraud,riots,6095,4
+riots,claims of negligence,6097,9
+marriage affairs,dowry demands,6099,10
+Divorce,robbery,6101,8
+claims of negligence,unfair dismissal,6103,6
+appeal against HR,discrimination,6105,4
+Workplace harassment,appeal against HR,6107,14
+Murder,Workplace harassment,6109,8
+robbery,Murder,6111,12
+dowry demands,theft,6113,6
+robbery,cybercrime,6115,14
+unfair dismissal,sedition,6117,14
+theft,Property dispute,6119,13
+cybercrime,marriage affairs,6121,12
+sedition,Divorce,6123,13
+Property dispute,Fraud,6125,13
+Fraud,riots,6127,10
+riots,claims of negligence,6129,8
+marriage affairs,dowry demands,6131,6
+Divorce,robbery,6133,5
+claims of negligence,unfair dismissal,6135,5
+appeal against HR,discrimination,6137,7
+Workplace harassment,appeal against HR,6139,5
+Murder,Workplace harassment,6141,5
+robbery,Murder,6143,3
+dowry demands,theft,6145,12
+robbery,cybercrime,6147,5
+unfair dismissal,sedition,6149,12
+theft,Property dispute,6151,7
+cybercrime,marriage affairs,6153,4
+sedition,Divorce,6155,4
+Property dispute,Fraud,6157,11
+Fraud,riots,6159,3
+riots,claims of negligence,6161,15
+marriage affairs,dowry demands,6163,10
+Divorce,robbery,6165,9
+claims of negligence,unfair dismissal,6167,6
+appeal against HR,discrimination,6169,10
+Workplace harassment,appeal against HR,6171,10
+Murder,Workplace harassment,6173,4
+robbery,Murder,6175,13
+dowry demands,theft,6177,15
+robbery,cybercrime,6179,4
+unfair dismissal,sedition,6181,12
+theft,Property dispute,6183,6
+cybercrime,marriage affairs,6185,9
+sedition,Divorce,6187,3
+Property dispute,Fraud,6189,14
+Fraud,riots,6191,6
+riots,claims of negligence,6193,6
+marriage affairs,dowry demands,6195,11
+Divorce,robbery,6197,15
+claims of negligence,unfair dismissal,6199,5
+appeal against HR,discrimination,6201,7
+Workplace harassment,appeal against HR,6203,4
+Murder,Workplace harassment,6205,7
+robbery,Murder,6207,10
+dowry demands,theft,6209,8
+robbery,cybercrime,6211,5
+unfair dismissal,sedition,6213,12
+theft,Property dispute,6215,4
+cybercrime,marriage affairs,6217,6
+sedition,Divorce,6219,3
+Property dispute,Fraud,6221,3
+Fraud,riots,6223,5
+riots,claims of negligence,6225,11
+marriage affairs,dowry demands,6227,5
+Divorce,robbery,6229,7
+claims of negligence,unfair dismissal,6231,10
+appeal against HR,discrimination,6233,11
+Workplace harassment,appeal against HR,6235,12
+Murder,Workplace harassment,6237,14
+robbery,Murder,6239,13
+dowry demands,theft,6241,12
+robbery,cybercrime,6243,15
+unfair dismissal,sedition,6245,8
+theft,Property dispute,6247,3
+cybercrime,marriage affairs,6249,11
+sedition,Divorce,6251,15
+Property dispute,Fraud,6253,4
+Fraud,riots,6255,15
+riots,claims of negligence,6257,13
+marriage affairs,dowry demands,6259,7
+Divorce,robbery,6261,9
+claims of negligence,unfair dismissal,6263,8
+appeal against HR,discrimination,6265,15
+Workplace harassment,appeal against HR,6267,8
+Murder,Workplace harassment,6269,6
+robbery,Murder,6271,7
+dowry demands,theft,6273,4
+robbery,cybercrime,6275,10
+unfair dismissal,sedition,6277,13
+theft,Property dispute,6279,7
+cybercrime,marriage affairs,6281,14
+sedition,Divorce,6283,11
+Property dispute,Fraud,6285,12
+Fraud,riots,6287,13
+riots,claims of negligence,6289,11
+marriage affairs,dowry demands,6291,6
+Divorce,robbery,6293,11
+claims of negligence,unfair dismissal,6295,14
+appeal against HR,discrimination,6297,8
+Workplace harassment,appeal against HR,6299,15
+Murder,Workplace harassment,6301,13
+robbery,Murder,6303,13
+dowry demands,theft,6305,4
+robbery,cybercrime,6307,4
+unfair dismissal,sedition,6309,11
+theft,Property dispute,6311,9
+cybercrime,marriage affairs,6313,5
+sedition,Divorce,6315,14
+Property dispute,Fraud,6317,13
+Fraud,riots,6319,5
+riots,claims of negligence,6321,5
+marriage affairs,dowry demands,6323,9
+Divorce,robbery,6325,14
+claims of negligence,unfair dismissal,6327,8
+appeal against HR,discrimination,6329,15
+Workplace harassment,appeal against HR,6331,14
+Murder,Workplace harassment,6333,5
+robbery,Murder,6335,8
+dowry demands,theft,6337,7
+robbery,cybercrime,6339,14
+unfair dismissal,sedition,6341,14
+theft,Property dispute,6343,14
+cybercrime,marriage affairs,6345,4
+sedition,Divorce,6347,8
+Property dispute,Fraud,6349,15
+Fraud,riots,6351,11
+riots,claims of negligence,6353,5
+marriage affairs,dowry demands,6355,9
+Divorce,robbery,6357,10
+claims of negligence,unfair dismissal,6359,8
+appeal against HR,discrimination,6361,12
+Workplace harassment,appeal against HR,6363,10
+Murder,Workplace harassment,6365,9
+robbery,Murder,6367,12
+dowry demands,theft,6369,3
+robbery,cybercrime,6371,12
+unfair dismissal,sedition,6373,4
+theft,Property dispute,6375,12
+cybercrime,marriage affairs,6377,12
+sedition,Divorce,6379,10
+Property dispute,Fraud,6381,6
+Fraud,riots,6383,14
+riots,claims of negligence,6385,7
+marriage affairs,dowry demands,6387,9
+Divorce,robbery,6389,15
+claims of negligence,unfair dismissal,6391,5
+appeal against HR,discrimination,6393,13
+Workplace harassment,appeal against HR,6395,9
+Murder,Workplace harassment,6397,14
+robbery,Murder,6399,10
+dowry demands,theft,6401,5
+robbery,cybercrime,6403,8
+unfair dismissal,sedition,6405,6
+theft,Property dispute,6407,10
+cybercrime,marriage affairs,6409,4
+sedition,Divorce,6411,10
+Property dispute,Fraud,6413,13
+Fraud,riots,6415,12
+riots,claims of negligence,6417,9
+marriage affairs,dowry demands,6419,8
+Divorce,robbery,6421,8
+claims of negligence,unfair dismissal,6423,7
+appeal against HR,discrimination,6425,14
+Workplace harassment,appeal against HR,6427,15
+Murder,Workplace harassment,6429,7
+robbery,Murder,6431,13
+dowry demands,theft,6433,7
+robbery,cybercrime,6435,5
+unfair dismissal,sedition,6437,9
+theft,Property dispute,6439,14
+cybercrime,marriage affairs,6441,13
+sedition,Divorce,6443,10
+Property dispute,Fraud,6445,3
+Fraud,riots,6447,7
+riots,claims of negligence,6449,8
+marriage affairs,dowry demands,6451,14
+Divorce,robbery,6453,3
+claims of negligence,unfair dismissal,6455,3
+appeal against HR,discrimination,6457,5
+Workplace harassment,appeal against HR,6459,8
+Murder,Workplace harassment,6461,12
+robbery,Murder,6463,9
+dowry demands,theft,6465,8
+robbery,cybercrime,6467,8
+unfair dismissal,sedition,6469,10
+theft,Property dispute,6471,14
+cybercrime,marriage affairs,6473,12
+sedition,Divorce,6475,8
+Property dispute,Fraud,6477,12
+Fraud,riots,6479,3
+riots,claims of negligence,6481,11
+marriage affairs,dowry demands,6483,12
+Divorce,robbery,6485,7
+claims of negligence,unfair dismissal,6487,6
+appeal against HR,discrimination,6489,11
+Workplace harassment,appeal against HR,6491,13
+Murder,Workplace harassment,6493,5
+robbery,Murder,6495,3
+dowry demands,theft,6497,5
+robbery,cybercrime,6499,12
+unfair dismissal,sedition,6501,5
+theft,Property dispute,6503,5
+cybercrime,marriage affairs,6505,5
+sedition,Divorce,6507,4
+Property dispute,Fraud,6509,4
+Fraud,riots,6511,14
+riots,claims of negligence,6513,8
+marriage affairs,dowry demands,6515,5
+Divorce,robbery,6517,4
+claims of negligence,unfair dismissal,6519,5
+appeal against HR,discrimination,6521,3
+Workplace harassment,appeal against HR,6523,14
+Murder,Workplace harassment,6525,7
+robbery,Murder,6527,11
+dowry demands,theft,6529,10
+robbery,cybercrime,6531,13
+unfair dismissal,sedition,6533,6
+theft,Property dispute,6535,13
+cybercrime,marriage affairs,6537,12
+sedition,Divorce,6539,12
+Property dispute,Fraud,6541,4
+Fraud,riots,6543,13
+riots,claims of negligence,6545,14
+marriage affairs,dowry demands,6547,15
+Divorce,robbery,6549,6
+claims of negligence,unfair dismissal,6551,3
+appeal against HR,discrimination,6553,4
+Workplace harassment,appeal against HR,6555,8
+Murder,Workplace harassment,6557,12
+robbery,Murder,6559,4
+dowry demands,theft,6561,11
+robbery,cybercrime,6563,5
+unfair dismissal,sedition,6565,10
+theft,Property dispute,6567,14
+cybercrime,marriage affairs,6569,9
+sedition,Divorce,6571,10
+Property dispute,Fraud,6573,13
+Fraud,riots,6575,4
+riots,claims of negligence,6577,13
+marriage affairs,dowry demands,6579,15
+Divorce,robbery,6581,12
+claims of negligence,unfair dismissal,6583,7
+appeal against HR,discrimination,6585,11
+Workplace harassment,appeal against HR,6587,5
+Murder,Workplace harassment,6589,13
+robbery,Murder,6591,11
+dowry demands,theft,6593,7
+robbery,cybercrime,6595,8
+unfair dismissal,sedition,6597,13
+theft,Property dispute,6599,10
+cybercrime,marriage affairs,6601,10
+sedition,Divorce,6603,15
+Property dispute,Fraud,6605,4
+Fraud,riots,6607,10
+riots,claims of negligence,6609,11
+marriage affairs,dowry demands,6611,12
+Divorce,robbery,6613,8
+claims of negligence,unfair dismissal,6615,10
+appeal against HR,discrimination,6617,14
+Workplace harassment,appeal against HR,6619,6
+Murder,Workplace harassment,6621,7
+robbery,Murder,6623,6
+dowry demands,theft,6625,10
+robbery,cybercrime,6627,6
+unfair dismissal,sedition,6629,4
+theft,Property dispute,6631,5
+cybercrime,marriage affairs,6633,12
+sedition,Divorce,6635,6
+Property dispute,Fraud,6637,8
+Fraud,riots,6639,14
+riots,claims of negligence,6641,7
+marriage affairs,dowry demands,6643,9
+Divorce,robbery,6645,5
+claims of negligence,unfair dismissal,6647,5
+appeal against HR,discrimination,6649,11
+Workplace harassment,appeal against HR,6651,6
+Murder,Workplace harassment,6653,7
+robbery,Murder,6655,7
+dowry demands,theft,6657,14
+robbery,cybercrime,6659,6
+unfair dismissal,sedition,6661,14
+theft,Property dispute,6663,13
+cybercrime,marriage affairs,6665,4
+sedition,Divorce,6667,8
+Property dispute,Fraud,6669,13
+Fraud,riots,6671,15
+riots,claims of negligence,6673,15
+marriage affairs,dowry demands,6675,9
+Divorce,robbery,6677,13
+claims of negligence,unfair dismissal,6679,3
+appeal against HR,discrimination,6681,8
+Workplace harassment,appeal against HR,6683,15
+Murder,Workplace harassment,6685,14
+robbery,Murder,6687,9
+dowry demands,theft,6689,3
+robbery,cybercrime,6691,14
+unfair dismissal,sedition,6693,10
+theft,Property dispute,6695,11
+cybercrime,marriage affairs,6697,10
+sedition,Divorce,6699,14
+Property dispute,Fraud,6701,7
+Fraud,riots,6703,3
+riots,claims of negligence,6705,8
+marriage affairs,dowry demands,6707,7
+Divorce,robbery,6709,14
+claims of negligence,unfair dismissal,6711,6
+appeal against HR,discrimination,6713,9
+Workplace harassment,appeal against HR,6715,4
+Murder,Workplace harassment,6717,3
+robbery,Murder,6719,3
+dowry demands,theft,6721,5
+robbery,cybercrime,6723,10
+unfair dismissal,sedition,6725,4
+theft,Property dispute,6727,15
+cybercrime,marriage affairs,6729,11
+sedition,Divorce,6731,12
+Property dispute,Fraud,6733,4
+Fraud,riots,6735,11
+riots,claims of negligence,6737,3
+marriage affairs,dowry demands,6739,13
+Divorce,robbery,6741,12
+claims of negligence,unfair dismissal,6743,11
+appeal against HR,discrimination,6745,4
+Workplace harassment,appeal against HR,6747,3
+Murder,Workplace harassment,6749,14
+robbery,Murder,6751,6
+dowry demands,theft,6753,6
+robbery,cybercrime,6755,6
+unfair dismissal,sedition,6757,3
+theft,Property dispute,6759,11
+cybercrime,marriage affairs,6761,14
+sedition,Divorce,6763,9
+Property dispute,Fraud,6765,8
+Fraud,riots,6767,3
+riots,claims of negligence,6769,5
+marriage affairs,dowry demands,6771,5
+Divorce,robbery,6773,15
+claims of negligence,unfair dismissal,6775,6
+appeal against HR,discrimination,6777,7
+Workplace harassment,appeal against HR,6779,4
+Murder,Workplace harassment,6781,8
+robbery,Murder,6783,10
+dowry demands,theft,6785,4
+robbery,cybercrime,6787,12
+unfair dismissal,sedition,6789,7
+theft,Property dispute,6791,11
+cybercrime,marriage affairs,6793,8
+sedition,Divorce,6795,10
+Property dispute,Fraud,6797,6
+Fraud,riots,6799,12
+riots,claims of negligence,6801,9
+marriage affairs,dowry demands,6803,5
+Divorce,robbery,6805,11
+claims of negligence,unfair dismissal,6807,11
+appeal against HR,discrimination,6809,8
+Workplace harassment,appeal against HR,6811,10
+Murder,Workplace harassment,6813,3
+robbery,Murder,6815,9
+dowry demands,theft,6817,11
+robbery,cybercrime,6819,8
+unfair dismissal,sedition,6821,14
+theft,Property dispute,6823,11
+cybercrime,marriage affairs,6825,14
+sedition,Divorce,6827,15
+Property dispute,Fraud,6829,15
+Fraud,riots,6831,4
+riots,claims of negligence,6833,11
+marriage affairs,dowry demands,6835,12
+Divorce,robbery,6837,15
+claims of negligence,unfair dismissal,6839,8
+appeal against HR,discrimination,6841,12
+Workplace harassment,appeal against HR,6843,15
+Murder,Workplace harassment,6845,5
+robbery,Murder,6847,14
+dowry demands,theft,6849,4
+robbery,cybercrime,6851,15
+unfair dismissal,sedition,6853,4
+theft,Property dispute,6855,8
+cybercrime,marriage affairs,6857,9
+sedition,Divorce,6859,3
+Property dispute,Fraud,6861,10
+Fraud,riots,6863,15
+riots,claims of negligence,6865,4
+marriage affairs,dowry demands,6867,12
+Divorce,robbery,6869,3
+claims of negligence,unfair dismissal,6871,3
+appeal against HR,discrimination,6873,15
+Workplace harassment,appeal against HR,6875,12
+Murder,Workplace harassment,6877,11
+robbery,Murder,6879,8
+dowry demands,theft,6881,9
+robbery,cybercrime,6883,14
+unfair dismissal,sedition,6885,7
+theft,Property dispute,6887,11
+cybercrime,marriage affairs,6889,10
+sedition,Divorce,6891,10
+Property dispute,Fraud,6893,7
+Fraud,riots,6895,15
+riots,claims of negligence,6897,8
+marriage affairs,dowry demands,6899,7
+Divorce,robbery,6901,4
+claims of negligence,unfair dismissal,6903,11
+appeal against HR,discrimination,6905,6
+Workplace harassment,appeal against HR,6907,7
+Murder,Workplace harassment,6909,8
+robbery,Murder,6911,10
+dowry demands,theft,6913,4
+robbery,cybercrime,6915,4
+unfair dismissal,sedition,6917,15
+theft,Property dispute,6919,8
+cybercrime,marriage affairs,6921,8
+sedition,Divorce,6923,6
+Property dispute,Fraud,6925,10
+Fraud,riots,6927,8
+riots,claims of negligence,6929,15
+marriage affairs,dowry demands,6931,12
+Divorce,robbery,6933,3
+claims of negligence,unfair dismissal,6935,15
+appeal against HR,discrimination,6937,12
+Workplace harassment,appeal against HR,6939,14
+Murder,Workplace harassment,6941,10
+robbery,Murder,6943,8
+dowry demands,theft,6945,9
+robbery,cybercrime,6947,14
+unfair dismissal,sedition,6949,13
+theft,Property dispute,6951,7
+cybercrime,marriage affairs,6953,7
+sedition,Divorce,6955,5
+Property dispute,Fraud,6957,14
+Fraud,riots,6959,10
+riots,claims of negligence,6961,13
+marriage affairs,dowry demands,6963,14
+Divorce,robbery,6965,10
+claims of negligence,unfair dismissal,6967,14
+appeal against HR,discrimination,6969,4
+Workplace harassment,appeal against HR,6971,9
+Murder,Workplace harassment,6973,11
+robbery,Murder,6975,4
+dowry demands,theft,6977,13
+robbery,cybercrime,6979,11
+unfair dismissal,sedition,6981,4
+theft,Property dispute,6983,14
+cybercrime,marriage affairs,6985,15
+sedition,Divorce,6987,9
+Property dispute,Fraud,6989,9
+Fraud,riots,6991,3
+riots,claims of negligence,6993,5
+marriage affairs,dowry demands,6995,6
+Divorce,robbery,6997,15
+claims of negligence,unfair dismissal,6999,3
+appeal against HR,discrimination,7001,4
+Workplace harassment,appeal against HR,7003,3
+Murder,Workplace harassment,7005,7
+robbery,Murder,7007,6
+dowry demands,theft,7009,15
+robbery,cybercrime,7011,6
+unfair dismissal,sedition,7013,14
+theft,Property dispute,7015,3
+cybercrime,marriage affairs,7017,11
+sedition,Divorce,7019,8
+Property dispute,Fraud,7021,10
+Fraud,riots,7023,14
+riots,claims of negligence,7025,7
+marriage affairs,dowry demands,7027,10
+Divorce,robbery,7029,6
+claims of negligence,unfair dismissal,7031,8
+appeal against HR,discrimination,7033,9
+Workplace harassment,appeal against HR,7035,5
+Murder,Workplace harassment,7037,11
+robbery,Murder,7039,6
+dowry demands,theft,7041,4
+robbery,cybercrime,7043,8
+unfair dismissal,sedition,7045,3
+theft,Property dispute,7047,8
+cybercrime,marriage affairs,7049,5
+sedition,Divorce,7051,9
+Property dispute,Fraud,7053,4
+Fraud,riots,7055,10
+riots,claims of negligence,7057,13
+marriage affairs,dowry demands,7059,7
+Divorce,robbery,7061,14
+claims of negligence,unfair dismissal,7063,3
+appeal against HR,discrimination,7065,9
+Workplace harassment,appeal against HR,7067,10
+Murder,Workplace harassment,7069,11
+robbery,Murder,7071,11
+dowry demands,theft,7073,13
+robbery,cybercrime,7075,10
+unfair dismissal,sedition,7077,3
+theft,Property dispute,7079,3
+cybercrime,marriage affairs,7081,10
+sedition,Divorce,7083,10
+Property dispute,Fraud,7085,5
+Fraud,riots,7087,4
+riots,claims of negligence,7089,4
+marriage affairs,dowry demands,7091,5
+Divorce,robbery,7093,3
+claims of negligence,unfair dismissal,7095,8
+appeal against HR,discrimination,7097,9
+Workplace harassment,appeal against HR,7099,13
+Murder,Workplace harassment,7101,5
+robbery,Murder,7103,5
+dowry demands,theft,7105,6
+robbery,cybercrime,7107,10
+unfair dismissal,sedition,7109,11
+theft,Property dispute,7111,7
+cybercrime,marriage affairs,7113,15
+sedition,Divorce,7115,3
+Property dispute,Fraud,7117,8
+Fraud,riots,7119,5
+riots,claims of negligence,7121,11
+marriage affairs,dowry demands,7123,7
+Divorce,robbery,7125,4
+claims of negligence,unfair dismissal,7127,8
+appeal against HR,discrimination,7129,11
+Workplace harassment,appeal against HR,7131,9
+Murder,Workplace harassment,7133,10
+robbery,Murder,7135,4
+dowry demands,theft,7137,3
+robbery,cybercrime,7139,6
+unfair dismissal,sedition,7141,6
+theft,Property dispute,7143,6
+cybercrime,marriage affairs,7145,7
+sedition,Divorce,7147,6
+Property dispute,Fraud,7149,15
+Fraud,riots,7151,5
+riots,claims of negligence,7153,13
+marriage affairs,dowry demands,7155,8
+Divorce,robbery,7157,5
+claims of negligence,unfair dismissal,7159,6
+appeal against HR,discrimination,7161,9
+Workplace harassment,appeal against HR,7163,12
+Murder,Workplace harassment,7165,13
+robbery,Murder,7167,9
+dowry demands,theft,7169,6
+robbery,cybercrime,7171,6
+unfair dismissal,sedition,7173,12
+theft,Property dispute,7175,5
+cybercrime,marriage affairs,7177,15
+sedition,Divorce,7179,4
+Property dispute,Fraud,7181,8
+Fraud,riots,7183,6
+riots,claims of negligence,7185,7
+marriage affairs,dowry demands,7187,11
+Divorce,robbery,7189,5
+claims of negligence,unfair dismissal,7191,10
+appeal against HR,discrimination,7193,13
+Workplace harassment,appeal against HR,7195,5
+Murder,Workplace harassment,7197,11
+robbery,Murder,7199,6
+dowry demands,theft,7201,11
+robbery,cybercrime,7203,13
+unfair dismissal,sedition,7205,14
+theft,Property dispute,7207,11
+cybercrime,marriage affairs,7209,15
+sedition,Divorce,7211,8
+Property dispute,Fraud,7213,8
+Fraud,riots,7215,13
+riots,claims of negligence,7217,3
+marriage affairs,dowry demands,7219,4
+Divorce,robbery,7221,10
+claims of negligence,unfair dismissal,7223,9
+appeal against HR,discrimination,7225,3
+Workplace harassment,appeal against HR,7227,13
+Murder,Workplace harassment,7229,11
+robbery,Murder,7231,10
+dowry demands,theft,7233,11
+robbery,cybercrime,7235,11
+unfair dismissal,sedition,7237,10
+theft,Property dispute,7239,5
+cybercrime,marriage affairs,7241,4
+sedition,Divorce,7243,3
+Property dispute,Fraud,7245,7
+Fraud,riots,7247,15
+riots,claims of negligence,7249,6
+marriage affairs,dowry demands,7251,4
+Divorce,robbery,7253,5
+claims of negligence,unfair dismissal,7255,11
+appeal against HR,discrimination,7257,4
+Workplace harassment,appeal against HR,7259,7
+Murder,Workplace harassment,7261,8
+robbery,Murder,7263,11
+dowry demands,theft,7265,6
+robbery,cybercrime,7267,13
+unfair dismissal,sedition,7269,4
+theft,Property dispute,7271,13
+cybercrime,marriage affairs,7273,4
+sedition,Divorce,7275,12
+Property dispute,Fraud,7277,8
+Fraud,riots,7279,6
+riots,claims of negligence,7281,9
+marriage affairs,dowry demands,7283,5
+Divorce,robbery,7285,4
+claims of negligence,unfair dismissal,7287,9
+appeal against HR,discrimination,7289,3
+Workplace harassment,appeal against HR,7291,11
+Murder,Workplace harassment,7293,5
+robbery,Murder,7295,4
+dowry demands,theft,7297,3
+robbery,cybercrime,7299,9
+unfair dismissal,sedition,7301,5
+theft,Property dispute,7303,9
+cybercrime,marriage affairs,7305,9
+sedition,Divorce,7307,7
+Property dispute,Fraud,7309,8
+Fraud,riots,7311,6
+riots,claims of negligence,7313,9
+marriage affairs,dowry demands,7315,6
+Divorce,robbery,7317,6
+claims of negligence,unfair dismissal,7319,6
+appeal against HR,discrimination,7321,7
+Workplace harassment,appeal against HR,7323,10
+Murder,Workplace harassment,7325,7
+robbery,Murder,7327,11
+dowry demands,theft,7329,11
+robbery,cybercrime,7331,7
+unfair dismissal,sedition,7333,6
+theft,Property dispute,7335,15
+cybercrime,marriage affairs,7337,5
+sedition,Divorce,7339,8
+Property dispute,Fraud,7341,4
+Fraud,riots,7343,15
+riots,claims of negligence,7345,8
+marriage affairs,dowry demands,7347,11
+Divorce,robbery,7349,10
+claims of negligence,unfair dismissal,7351,10
+appeal against HR,discrimination,7353,15
+Workplace harassment,appeal against HR,7355,14
+Murder,Workplace harassment,7357,9
+robbery,Murder,7359,12
+dowry demands,theft,7361,3
+robbery,cybercrime,7363,11
+unfair dismissal,sedition,7365,15
+theft,Property dispute,7367,9
+cybercrime,marriage affairs,7369,3
+sedition,Divorce,7371,4
+Property dispute,Fraud,7373,12
+Fraud,riots,7375,12
+riots,claims of negligence,7377,3
+marriage affairs,dowry demands,7379,9
+Divorce,robbery,7381,5
+claims of negligence,unfair dismissal,7383,5
+appeal against HR,discrimination,7385,13
+Workplace harassment,appeal against HR,7387,5
+Murder,Workplace harassment,7389,12
+robbery,Murder,7391,7
+dowry demands,theft,7393,6
+robbery,cybercrime,7395,9
+unfair dismissal,sedition,7397,9
+theft,Property dispute,7399,4
+cybercrime,marriage affairs,7401,11
+sedition,Divorce,7403,12
+Property dispute,Fraud,7405,15
+Fraud,riots,7407,13
+riots,claims of negligence,7409,5
+marriage affairs,dowry demands,7411,13
+Divorce,robbery,7413,9
+claims of negligence,unfair dismissal,7415,6
+appeal against HR,discrimination,7417,6
+Workplace harassment,appeal against HR,7419,10
+Murder,Workplace harassment,7421,14
+robbery,Murder,7423,10
+dowry demands,theft,7425,7
+robbery,cybercrime,7427,12
+unfair dismissal,sedition,7429,12
+theft,Property dispute,7431,10
+cybercrime,marriage affairs,7433,12
+sedition,Divorce,7435,10
+Property dispute,Fraud,7437,10
+Fraud,riots,7439,6
+riots,claims of negligence,7441,8
+marriage affairs,dowry demands,7443,5
+Divorce,robbery,7445,6
+claims of negligence,unfair dismissal,7447,11
+appeal against HR,discrimination,7449,4
+Workplace harassment,appeal against HR,7451,4
+Murder,Workplace harassment,7453,14
+robbery,Murder,7455,10
+dowry demands,theft,7457,14
+robbery,cybercrime,7459,11
+unfair dismissal,sedition,7461,10
+theft,Property dispute,7463,14
+cybercrime,marriage affairs,7465,3
+sedition,Divorce,7467,8
+Property dispute,Fraud,7469,3
+Fraud,riots,7471,11
+riots,claims of negligence,7473,7
+marriage affairs,dowry demands,7475,9
+Divorce,robbery,7477,4
+claims of negligence,unfair dismissal,7479,3
+appeal against HR,discrimination,7481,9
+Workplace harassment,appeal against HR,7483,5
+Murder,Workplace harassment,7485,15
+robbery,Murder,7487,5
+dowry demands,theft,7489,11
+robbery,cybercrime,7491,6
+unfair dismissal,sedition,7493,10
+theft,Property dispute,7495,9
+cybercrime,marriage affairs,7497,10
+sedition,Divorce,7499,13
+Property dispute,Fraud,7501,8
+Fraud,riots,7503,10
+riots,claims of negligence,7505,15
+marriage affairs,dowry demands,7507,8
+Divorce,robbery,7509,3
+claims of negligence,unfair dismissal,7511,14
+appeal against HR,discrimination,7513,12
+Workplace harassment,appeal against HR,7515,3
+Murder,Workplace harassment,7517,3
+robbery,Murder,7519,12
+dowry demands,theft,7521,9
+robbery,cybercrime,7523,15
+unfair dismissal,sedition,7525,9
+theft,Property dispute,7527,10
+cybercrime,marriage affairs,7529,12
+sedition,Divorce,7531,4
+Property dispute,Fraud,7533,7
+Fraud,riots,7535,12
+riots,claims of negligence,7537,15
+marriage affairs,dowry demands,7539,7
+Divorce,robbery,7541,5
+claims of negligence,unfair dismissal,7543,9
+appeal against HR,discrimination,7545,12
+Workplace harassment,appeal against HR,7547,6
+Murder,Workplace harassment,7549,8
+robbery,Murder,7551,6
+dowry demands,theft,7553,14
+robbery,cybercrime,7555,11
+unfair dismissal,sedition,7557,4
+theft,Property dispute,7559,11
+cybercrime,marriage affairs,7561,12
+sedition,Divorce,7563,5
+Property dispute,Fraud,7565,7
+Fraud,riots,7567,13
+riots,claims of negligence,7569,9
+marriage affairs,dowry demands,7571,9
+Divorce,robbery,7573,7
+claims of negligence,unfair dismissal,7575,8
+appeal against HR,discrimination,7577,13
+Workplace harassment,appeal against HR,7579,5
+Murder,Workplace harassment,7581,12
+robbery,Murder,7583,14
+dowry demands,theft,7585,10
+robbery,cybercrime,7587,8
+unfair dismissal,sedition,7589,5
+theft,Property dispute,7591,6
+cybercrime,marriage affairs,7593,6
+sedition,Divorce,7595,7
+Property dispute,Fraud,7597,4
+Fraud,riots,7599,6
+riots,claims of negligence,7601,11
+marriage affairs,dowry demands,7603,13
+Divorce,robbery,7605,13
+claims of negligence,unfair dismissal,7607,14
+appeal against HR,discrimination,7609,5
+Workplace harassment,appeal against HR,7611,4
+Murder,Workplace harassment,7613,15
+robbery,Murder,7615,13
+dowry demands,theft,7617,5
+robbery,cybercrime,7619,10
+unfair dismissal,sedition,7621,4
+theft,Property dispute,7623,10
+cybercrime,marriage affairs,7625,12
+sedition,Divorce,7627,3
+Property dispute,Fraud,7629,8
+Fraud,riots,7631,9
+riots,claims of negligence,7633,14
+marriage affairs,dowry demands,7635,8
+Divorce,robbery,7637,4
+claims of negligence,unfair dismissal,7639,3
+appeal against HR,discrimination,7641,11
+Workplace harassment,appeal against HR,7643,12
+Murder,Workplace harassment,7645,4
+robbery,Murder,7647,3
+dowry demands,theft,7649,15
+robbery,cybercrime,7651,14
+unfair dismissal,sedition,7653,5
+theft,Property dispute,7655,5
+cybercrime,marriage affairs,7657,5
+sedition,Divorce,7659,5
+Property dispute,Fraud,7661,11
+Fraud,riots,7663,12
+riots,claims of negligence,7665,3
+marriage affairs,dowry demands,7667,6
+Divorce,robbery,7669,10
+claims of negligence,unfair dismissal,7671,15
+appeal against HR,discrimination,7673,10
+Workplace harassment,appeal against HR,7675,7
+Murder,Workplace harassment,7677,12
+robbery,Murder,7679,8
+dowry demands,theft,7681,3
+robbery,cybercrime,7683,14
+unfair dismissal,sedition,7685,7
+theft,Property dispute,7687,3
+cybercrime,marriage affairs,7689,12
+sedition,Divorce,7691,10
+Property dispute,Fraud,7693,5
+Fraud,riots,7695,13
+riots,claims of negligence,7697,5
+marriage affairs,dowry demands,7699,7
+Divorce,robbery,7701,8
+claims of negligence,unfair dismissal,7703,8
+appeal against HR,discrimination,7705,6
+Workplace harassment,appeal against HR,7707,12
+Murder,Workplace harassment,7709,10
+robbery,Murder,7711,15
+dowry demands,theft,7713,12
+robbery,cybercrime,7715,6
+unfair dismissal,sedition,7717,15
+theft,Property dispute,7719,3
+cybercrime,marriage affairs,7721,6
+sedition,Divorce,7723,3
+Property dispute,Fraud,7725,13
+Fraud,riots,7727,8
+riots,claims of negligence,7729,12
+marriage affairs,dowry demands,7731,7
+Divorce,robbery,7733,5
+claims of negligence,unfair dismissal,7735,4
+appeal against HR,discrimination,7737,10
+Workplace harassment,appeal against HR,7739,3
+Murder,Workplace harassment,7741,5
+robbery,Murder,7743,9
+dowry demands,theft,7745,4
+robbery,cybercrime,7747,8
+unfair dismissal,sedition,7749,3
+theft,Property dispute,7751,7
+cybercrime,marriage affairs,7753,3
+sedition,Divorce,7755,7
+Property dispute,Fraud,7757,6
+Fraud,riots,7759,4
+riots,claims of negligence,7761,12
+marriage affairs,dowry demands,7763,5
+Divorce,robbery,7765,5
+claims of negligence,unfair dismissal,7767,8
+appeal against HR,discrimination,7769,8
+Workplace harassment,appeal against HR,7771,9
+Murder,Workplace harassment,7773,6
+robbery,Murder,7775,15
+dowry demands,theft,7777,7
+robbery,cybercrime,7779,14
+unfair dismissal,sedition,7781,11
+theft,Property dispute,7783,6
+cybercrime,marriage affairs,7785,11
+sedition,Divorce,7787,14
+Property dispute,Fraud,7789,5
+Fraud,riots,7791,8
+riots,claims of negligence,7793,5
+marriage affairs,dowry demands,7795,6
+Divorce,robbery,7797,7
+claims of negligence,unfair dismissal,7799,4
+appeal against HR,discrimination,7801,5
+Workplace harassment,appeal against HR,7803,4
+Murder,Workplace harassment,7805,4
+robbery,Murder,7807,4
+dowry demands,theft,7809,5
+robbery,cybercrime,7811,6
+unfair dismissal,sedition,7813,14
+theft,Property dispute,7815,7
+cybercrime,marriage affairs,7817,3
+sedition,Divorce,7819,14
+Property dispute,Fraud,7821,4
+Fraud,riots,7823,11
+riots,claims of negligence,7825,8
+marriage affairs,dowry demands,7827,11
+Divorce,robbery,7829,9
+claims of negligence,unfair dismissal,7831,12
+appeal against HR,discrimination,7833,13
+Workplace harassment,appeal against HR,7835,12
+Murder,Workplace harassment,7837,15
+robbery,Murder,7839,15
+dowry demands,theft,7841,3
+robbery,cybercrime,7843,6
+unfair dismissal,sedition,7845,11
+theft,Property dispute,7847,13
+cybercrime,marriage affairs,7849,14
+sedition,Divorce,7851,6
+Property dispute,Fraud,7853,4
+Fraud,riots,7855,6
+riots,claims of negligence,7857,7
+marriage affairs,dowry demands,7859,6
+Divorce,robbery,7861,9
+claims of negligence,unfair dismissal,7863,3
+appeal against HR,discrimination,7865,11
+Workplace harassment,appeal against HR,7867,10
+Murder,Workplace harassment,7869,15
+robbery,Murder,7871,11
+dowry demands,theft,7873,5
+robbery,cybercrime,7875,6
+unfair dismissal,sedition,7877,3
+theft,Property dispute,7879,10
+cybercrime,marriage affairs,7881,7
+sedition,Divorce,7883,13
+Property dispute,Fraud,7885,9
+Fraud,riots,7887,9
+riots,claims of negligence,7889,8
+marriage affairs,dowry demands,7891,3
+Divorce,robbery,7893,4
+claims of negligence,unfair dismissal,7895,6
+appeal against HR,discrimination,7897,12
+Workplace harassment,appeal against HR,7899,14
+Murder,Workplace harassment,7901,13
+robbery,Murder,7903,4
+dowry demands,theft,7905,6
+robbery,cybercrime,7907,9
+unfair dismissal,sedition,7909,15
+theft,Property dispute,7911,8
+cybercrime,marriage affairs,7913,3
+sedition,Divorce,7915,6
+Property dispute,Fraud,7917,6
+Fraud,riots,7919,12
+riots,claims of negligence,7921,6
+marriage affairs,dowry demands,7923,14
+Divorce,robbery,7925,3
+claims of negligence,unfair dismissal,7927,13
+appeal against HR,discrimination,7929,7
+Workplace harassment,appeal against HR,7931,14
+Murder,Workplace harassment,7933,9
+robbery,Murder,7935,7
+dowry demands,theft,7937,10
+robbery,cybercrime,7939,11
+unfair dismissal,sedition,7941,8
+theft,Property dispute,7943,13
+cybercrime,marriage affairs,7945,13
+sedition,Divorce,7947,6
+Property dispute,Fraud,7949,12
+Fraud,riots,7951,11
+riots,claims of negligence,7953,9
+marriage affairs,dowry demands,7955,7
+Divorce,robbery,7957,9
+claims of negligence,unfair dismissal,7959,3
+appeal against HR,discrimination,7961,5
+Workplace harassment,appeal against HR,7963,8
+Murder,Workplace harassment,7965,10
+robbery,Murder,7967,9
+dowry demands,theft,7969,8
+robbery,cybercrime,7971,3
+unfair dismissal,sedition,7973,9
+theft,Property dispute,7975,9
+cybercrime,marriage affairs,7977,8
+sedition,Divorce,7979,9
+Property dispute,Fraud,7981,7
+Fraud,riots,7983,12
+riots,claims of negligence,7985,4
+marriage affairs,dowry demands,7987,6
+Divorce,robbery,7989,13
+claims of negligence,unfair dismissal,7991,12
+appeal against HR,discrimination,7993,10
+Workplace harassment,appeal against HR,7995,3
+Murder,Workplace harassment,7997,8
+robbery,Murder,7999,15
+dowry demands,theft,8001,9
+robbery,cybercrime,8003,5
+unfair dismissal,sedition,8005,5
+theft,Property dispute,8007,4
+cybercrime,marriage affairs,8009,7
+sedition,Divorce,8011,11
+Property dispute,Fraud,8013,6
+Fraud,riots,8015,5
+riots,claims of negligence,8017,5
+marriage affairs,dowry demands,8019,14
+Divorce,robbery,8021,14
+claims of negligence,unfair dismissal,8023,6
+appeal against HR,discrimination,8025,13
+Workplace harassment,appeal against HR,8027,6
+Murder,Workplace harassment,8029,9
+robbery,Murder,8031,3
+dowry demands,theft,8033,15
+robbery,cybercrime,8035,13
+unfair dismissal,sedition,8037,10
+theft,Property dispute,8039,7
+cybercrime,marriage affairs,8041,7
+sedition,Divorce,8043,12
+Property dispute,Fraud,8045,11
+Fraud,riots,8047,11
+riots,claims of negligence,8049,5
+marriage affairs,dowry demands,8051,7
+Divorce,robbery,8053,15
+claims of negligence,unfair dismissal,8055,11
+appeal against HR,discrimination,8057,5
+Workplace harassment,appeal against HR,8059,10
+Murder,Workplace harassment,8061,7
+robbery,Murder,8063,6
+dowry demands,theft,8065,13
+robbery,cybercrime,8067,13
+unfair dismissal,sedition,8069,9
+theft,Property dispute,8071,10
+cybercrime,marriage affairs,8073,9
+sedition,Divorce,8075,8
+Property dispute,Fraud,8077,3
+Fraud,riots,8079,6
+riots,claims of negligence,8081,13
+marriage affairs,dowry demands,8083,9
+Divorce,robbery,8085,10
+claims of negligence,unfair dismissal,8087,7
+appeal against HR,discrimination,8089,3
+Workplace harassment,appeal against HR,8091,11
+Murder,Workplace harassment,8093,9
+robbery,Murder,8095,5
+dowry demands,theft,8097,7
+robbery,cybercrime,8099,10
+unfair dismissal,sedition,8101,3
+theft,Property dispute,8103,15
+cybercrime,marriage affairs,8105,10
+sedition,Divorce,8107,7
+Property dispute,Fraud,8109,4
+Fraud,riots,8111,3
+riots,claims of negligence,8113,12
+marriage affairs,dowry demands,8115,7
+Divorce,robbery,8117,6
+claims of negligence,unfair dismissal,8119,9
+appeal against HR,discrimination,8121,11
+Workplace harassment,appeal against HR,8123,11
+Murder,Workplace harassment,8125,14
+robbery,Murder,8127,10
+dowry demands,theft,8129,13
+robbery,cybercrime,8131,12
+unfair dismissal,sedition,8133,13
+theft,Property dispute,8135,8
+cybercrime,marriage affairs,8137,3
+sedition,Divorce,8139,7
+Property dispute,Fraud,8141,13
+Fraud,riots,8143,3
+riots,claims of negligence,8145,9
+marriage affairs,dowry demands,8147,10
+Divorce,robbery,8149,15
+claims of negligence,unfair dismissal,8151,9
+appeal against HR,discrimination,8153,9
+Workplace harassment,appeal against HR,8155,6
+Murder,Workplace harassment,8157,6
+robbery,Murder,8159,4
+dowry demands,theft,8161,3
+robbery,cybercrime,8163,13
+unfair dismissal,sedition,8165,11
+theft,Property dispute,8167,4
+cybercrime,marriage affairs,8169,6
+sedition,Divorce,8171,7
+Property dispute,Fraud,8173,14
+Fraud,riots,8175,6
+riots,claims of negligence,8177,14
+marriage affairs,dowry demands,8179,10
+Divorce,robbery,8181,14
+claims of negligence,unfair dismissal,8183,6
+appeal against HR,discrimination,8185,7
+Workplace harassment,appeal against HR,8187,5
+Murder,Workplace harassment,8189,10
+robbery,Murder,8191,7
+dowry demands,theft,8193,6
+robbery,cybercrime,8195,9
+unfair dismissal,sedition,8197,11
+theft,Property dispute,8199,14
+cybercrime,marriage affairs,8201,14
+sedition,Divorce,8203,15
+Property dispute,Fraud,8205,6
+Fraud,riots,8207,5
+riots,claims of negligence,8209,3
+marriage affairs,dowry demands,8211,15
+Divorce,robbery,8213,9
+claims of negligence,unfair dismissal,8215,10
+appeal against HR,discrimination,8217,4
+Workplace harassment,appeal against HR,8219,10
+Murder,Workplace harassment,8221,11
+robbery,Murder,8223,13
+dowry demands,theft,8225,12
+robbery,cybercrime,8227,12
+unfair dismissal,sedition,8229,9
+theft,Property dispute,8231,4
+cybercrime,marriage affairs,8233,12
+sedition,Divorce,8235,9
+Property dispute,Fraud,8237,6
+Fraud,riots,8239,12
+riots,claims of negligence,8241,11
+marriage affairs,dowry demands,8243,4
+Divorce,robbery,8245,15
+claims of negligence,unfair dismissal,8247,15
+appeal against HR,discrimination,8249,7
+Workplace harassment,appeal against HR,8251,3
+Murder,Workplace harassment,8253,15
+robbery,Murder,8255,7
+dowry demands,theft,8257,8
+robbery,cybercrime,8259,13
+unfair dismissal,sedition,8261,6
+theft,Property dispute,8263,7
+cybercrime,marriage affairs,8265,5
+sedition,Divorce,8267,11
+Property dispute,Fraud,8269,3
+Fraud,riots,8271,13
+riots,claims of negligence,8273,10
+marriage affairs,dowry demands,8275,4
+Divorce,robbery,8277,5
+claims of negligence,unfair dismissal,8279,8
+appeal against HR,discrimination,8281,14
+Workplace harassment,appeal against HR,8283,4
+Murder,Workplace harassment,8285,15
+robbery,Murder,8287,4
+dowry demands,theft,8289,3
+robbery,cybercrime,8291,9
+unfair dismissal,sedition,8293,12
+theft,Property dispute,8295,11
+cybercrime,marriage affairs,8297,13
+sedition,Divorce,8299,3
+Property dispute,Fraud,8301,11
+Fraud,riots,8303,3
+riots,claims of negligence,8305,10
+marriage affairs,dowry demands,8307,6
+Divorce,robbery,8309,3
+claims of negligence,unfair dismissal,8311,15
+appeal against HR,discrimination,8313,14
+Workplace harassment,appeal against HR,8315,10
+Murder,Workplace harassment,8317,14
+robbery,Murder,8319,9
+dowry demands,theft,8321,12
+robbery,cybercrime,8323,9
+unfair dismissal,sedition,8325,15
+theft,Property dispute,8327,14
+cybercrime,marriage affairs,8329,6
+sedition,Divorce,8331,5
+Property dispute,Fraud,8333,7
+Fraud,riots,8335,3
+riots,claims of negligence,8337,15
+marriage affairs,dowry demands,8339,7
+Divorce,robbery,8341,12
+claims of negligence,unfair dismissal,8343,14
+appeal against HR,discrimination,8345,7
+Workplace harassment,appeal against HR,8347,9
+Murder,Workplace harassment,8349,10
+robbery,Murder,8351,10
+dowry demands,theft,8353,10
+robbery,cybercrime,8355,5
+unfair dismissal,sedition,8357,6
+theft,Property dispute,8359,13
+cybercrime,marriage affairs,8361,8
+sedition,Divorce,8363,7
+Property dispute,Fraud,8365,5
+Fraud,riots,8367,7
+riots,claims of negligence,8369,5
+marriage affairs,dowry demands,8371,13
+Divorce,robbery,8373,11
+claims of negligence,unfair dismissal,8375,14
+appeal against HR,discrimination,8377,15
+Workplace harassment,appeal against HR,8379,3
+Murder,Workplace harassment,8381,11
+robbery,Murder,8383,14
+dowry demands,theft,8385,13
+robbery,cybercrime,8387,6
+unfair dismissal,sedition,8389,9
+theft,Property dispute,8391,3
+cybercrime,marriage affairs,8393,13
+sedition,Divorce,8395,3
+Property dispute,Fraud,8397,15
+Fraud,riots,8399,11
+riots,claims of negligence,8401,4
+marriage affairs,dowry demands,8403,6
+Divorce,robbery,8405,9
+claims of negligence,unfair dismissal,8407,11
+appeal against HR,discrimination,8409,15
+Workplace harassment,appeal against HR,8411,8
+Murder,Workplace harassment,8413,5
+robbery,Murder,8415,12
+dowry demands,theft,8417,11
+robbery,cybercrime,8419,8
+unfair dismissal,sedition,8421,9
+theft,Property dispute,8423,11
+cybercrime,marriage affairs,8425,15
+sedition,Divorce,8427,7
+Property dispute,Fraud,8429,15
+Fraud,riots,8431,11
+riots,claims of negligence,8433,13
+marriage affairs,dowry demands,8435,6
+Divorce,robbery,8437,13
+claims of negligence,unfair dismissal,8439,9
+appeal against HR,discrimination,8441,15
+Workplace harassment,appeal against HR,8443,4
+Murder,Workplace harassment,8445,14
+robbery,Murder,8447,10
+dowry demands,theft,8449,14
+robbery,cybercrime,8451,6
+unfair dismissal,sedition,8453,7
+theft,Property dispute,8455,13
+cybercrime,marriage affairs,8457,3
+sedition,Divorce,8459,12
+Property dispute,Fraud,8461,15
+Fraud,riots,8463,4
+riots,claims of negligence,8465,14
+marriage affairs,dowry demands,8467,3
+Divorce,robbery,8469,10
+claims of negligence,unfair dismissal,8471,11
+appeal against HR,discrimination,8473,14
+Workplace harassment,appeal against HR,8475,15
+Murder,Workplace harassment,8477,13
+robbery,Murder,8479,4
+dowry demands,theft,8481,6
+robbery,cybercrime,8483,14
+unfair dismissal,sedition,8485,10
+theft,Property dispute,8487,4
+cybercrime,marriage affairs,8489,6
+sedition,Divorce,8491,12
+Property dispute,Fraud,8493,11
+Fraud,riots,8495,11
+riots,claims of negligence,8497,5
+marriage affairs,dowry demands,8499,15
+Divorce,robbery,8501,9
+claims of negligence,unfair dismissal,8503,15
+appeal against HR,discrimination,8505,3
+Workplace harassment,appeal against HR,8507,7
+Murder,Workplace harassment,8509,9
+robbery,Murder,8511,4
+dowry demands,theft,8513,14
+robbery,cybercrime,8515,13
+unfair dismissal,sedition,8517,6
+theft,Property dispute,8519,11
+cybercrime,marriage affairs,8521,7
+sedition,Divorce,8523,10
+Property dispute,Fraud,8525,10
+Fraud,riots,8527,14
+riots,claims of negligence,8529,5
+marriage affairs,dowry demands,8531,13
+Divorce,robbery,8533,15
+claims of negligence,unfair dismissal,8535,14
+appeal against HR,discrimination,8537,15
+Workplace harassment,appeal against HR,8539,14
+Murder,Workplace harassment,8541,3
+robbery,Murder,8543,5
+dowry demands,theft,8545,8
+robbery,cybercrime,8547,15
+unfair dismissal,sedition,8549,5
+theft,Property dispute,8551,12
+cybercrime,marriage affairs,8553,14
+sedition,Divorce,8555,15
+Property dispute,Fraud,8557,11
+Fraud,riots,8559,4
+riots,claims of negligence,8561,9
+marriage affairs,dowry demands,8563,3
+Divorce,robbery,8565,15
+claims of negligence,unfair dismissal,8567,10
+appeal against HR,discrimination,8569,8
+Workplace harassment,appeal against HR,8571,3
+Murder,Workplace harassment,8573,5
+robbery,Murder,8575,5
+dowry demands,theft,8577,15
+robbery,cybercrime,8579,8
+unfair dismissal,sedition,8581,3
+theft,Property dispute,8583,4
+cybercrime,marriage affairs,8585,12
+sedition,Divorce,8587,14
+Property dispute,Fraud,8589,11
+Fraud,riots,8591,14
+riots,claims of negligence,8593,3
+marriage affairs,dowry demands,8595,4
+Divorce,robbery,8597,4
+claims of negligence,unfair dismissal,8599,14
+appeal against HR,discrimination,8601,9
+Workplace harassment,appeal against HR,8603,7
+Murder,Workplace harassment,8605,3
+robbery,Murder,8607,15
+dowry demands,theft,8609,8
+robbery,cybercrime,8611,3
+unfair dismissal,sedition,8613,12
+theft,Property dispute,8615,15
+cybercrime,marriage affairs,8617,10
+sedition,Divorce,8619,5
+Property dispute,Fraud,8621,5
+Fraud,riots,8623,7
+riots,claims of negligence,8625,12
+marriage affairs,dowry demands,8627,15
+Divorce,robbery,8629,13
+claims of negligence,unfair dismissal,8631,12
+appeal against HR,discrimination,8633,5
+Workplace harassment,appeal against HR,8635,12
+Murder,Workplace harassment,8637,3
+robbery,Murder,8639,6
+dowry demands,theft,8641,15
+robbery,cybercrime,8643,13
+unfair dismissal,sedition,8645,8
+theft,Property dispute,8647,7
+cybercrime,marriage affairs,8649,8
+sedition,Divorce,8651,12
+Property dispute,Fraud,8653,10
+Fraud,riots,8655,14
+riots,claims of negligence,8657,3
+marriage affairs,dowry demands,8659,13
+Divorce,robbery,8661,8
+claims of negligence,unfair dismissal,8663,12
+appeal against HR,discrimination,8665,7
+Workplace harassment,appeal against HR,8667,10
+Murder,Workplace harassment,8669,14
+robbery,Murder,8671,15
+dowry demands,theft,8673,12
+robbery,cybercrime,8675,10
+unfair dismissal,sedition,8677,5
+theft,Property dispute,8679,4
+cybercrime,marriage affairs,8681,10
+sedition,Divorce,8683,6
+Property dispute,Fraud,8685,4
+Fraud,riots,8687,11
+riots,claims of negligence,8689,14
+marriage affairs,dowry demands,8691,10
+Divorce,robbery,8693,11
+claims of negligence,unfair dismissal,8695,8
+appeal against HR,discrimination,8697,9
+Workplace harassment,appeal against HR,8699,15
+Murder,Workplace harassment,8701,15
+robbery,Murder,8703,3
+dowry demands,theft,8705,15
+robbery,cybercrime,8707,5
+unfair dismissal,sedition,8709,13
+theft,Property dispute,8711,14
+cybercrime,marriage affairs,8713,14
+sedition,Divorce,8715,12
+Property dispute,Fraud,8717,11
+Fraud,riots,8719,15
+riots,claims of negligence,8721,8
+marriage affairs,dowry demands,8723,7
+Divorce,robbery,8725,12
+claims of negligence,unfair dismissal,8727,15
+appeal against HR,discrimination,8729,4
+Workplace harassment,appeal against HR,8731,3
+Murder,Workplace harassment,8733,4
+robbery,Murder,8735,7
+dowry demands,theft,8737,10
+robbery,cybercrime,8739,14
+unfair dismissal,sedition,8741,5
+theft,Property dispute,8743,13
+cybercrime,marriage affairs,8745,13
+sedition,Divorce,8747,5
+Property dispute,Fraud,8749,5
+Fraud,riots,8751,5
+riots,claims of negligence,8753,10
+marriage affairs,dowry demands,8755,12
+Divorce,robbery,8757,3
+claims of negligence,unfair dismissal,8759,7
+appeal against HR,discrimination,8761,14
+Workplace harassment,appeal against HR,8763,3
+Murder,Workplace harassment,8765,8
+robbery,Murder,8767,6
+dowry demands,theft,8769,15
+robbery,cybercrime,8771,3
+unfair dismissal,sedition,8773,9
+theft,Property dispute,8775,14
+cybercrime,marriage affairs,8777,9
+sedition,Divorce,8779,8
+Property dispute,Fraud,8781,11
+Fraud,riots,8783,8
+riots,claims of negligence,8785,6
+marriage affairs,dowry demands,8787,15
+Divorce,robbery,8789,12
+claims of negligence,unfair dismissal,8791,4
+appeal against HR,discrimination,8793,11
+Workplace harassment,appeal against HR,8795,6
+Murder,Workplace harassment,8797,8
+robbery,Murder,8799,11
+dowry demands,theft,8801,12
+robbery,cybercrime,8803,4
+unfair dismissal,sedition,8805,4
+theft,Property dispute,8807,6
+cybercrime,marriage affairs,8809,4
+sedition,Divorce,8811,12
+Property dispute,Fraud,8813,8
+Fraud,riots,8815,3
+riots,claims of negligence,8817,5
+marriage affairs,dowry demands,8819,4
+Divorce,robbery,8821,12
+claims of negligence,unfair dismissal,8823,6
+appeal against HR,discrimination,8825,7
+Workplace harassment,appeal against HR,8827,8
+Murder,Workplace harassment,8829,9
+robbery,Murder,8831,5
+dowry demands,theft,8833,13
+robbery,cybercrime,8835,12
+unfair dismissal,sedition,8837,11
+theft,Property dispute,8839,13
+cybercrime,marriage affairs,8841,7
+sedition,Divorce,8843,13
+Property dispute,Fraud,8845,4
+Fraud,riots,8847,15
+riots,claims of negligence,8849,7
+marriage affairs,dowry demands,8851,3
+Divorce,robbery,8853,5
+claims of negligence,unfair dismissal,8855,3
+appeal against HR,discrimination,8857,8
+Workplace harassment,appeal against HR,8859,13
+Murder,Workplace harassment,8861,5
+robbery,Murder,8863,10
+dowry demands,theft,8865,4
+robbery,cybercrime,8867,11
+unfair dismissal,sedition,8869,9
+theft,Property dispute,8871,10
+cybercrime,marriage affairs,8873,3
+sedition,Divorce,8875,13
+Property dispute,Fraud,8877,5
+Fraud,riots,8879,9
+riots,claims of negligence,8881,5
+marriage affairs,dowry demands,8883,11
+Divorce,robbery,8885,13
+claims of negligence,unfair dismissal,8887,7
+appeal against HR,discrimination,8889,14
+Workplace harassment,appeal against HR,8891,9
+Murder,Workplace harassment,8893,12
+robbery,Murder,8895,13
+dowry demands,theft,8897,13
+robbery,cybercrime,8899,12
+unfair dismissal,sedition,8901,15
+theft,Property dispute,8903,8
+cybercrime,marriage affairs,8905,14
+sedition,Divorce,8907,10
+Property dispute,Fraud,8909,10
+Fraud,riots,8911,3
+riots,claims of negligence,8913,14
+marriage affairs,dowry demands,8915,15
+Divorce,robbery,8917,3
+claims of negligence,unfair dismissal,8919,9
+appeal against HR,discrimination,8921,12
+Workplace harassment,appeal against HR,8923,4
+Murder,Workplace harassment,8925,8
+robbery,Murder,8927,5
+dowry demands,theft,8929,15
+robbery,cybercrime,8931,15
+unfair dismissal,sedition,8933,6
+theft,Property dispute,8935,7
+cybercrime,marriage affairs,8937,10
+sedition,Divorce,8939,3
+Property dispute,Fraud,8941,12
+Fraud,riots,8943,6
+riots,claims of negligence,8945,9
+marriage affairs,dowry demands,8947,10
+Divorce,robbery,8949,6
+claims of negligence,unfair dismissal,8951,7
+appeal against HR,discrimination,8953,10
+Workplace harassment,appeal against HR,8955,6
+Murder,Workplace harassment,8957,14
+robbery,Murder,8959,13
+dowry demands,theft,8961,4
+robbery,cybercrime,8963,13
+unfair dismissal,sedition,8965,11
+theft,Property dispute,8967,11
+cybercrime,marriage affairs,8969,3
+sedition,Divorce,8971,12
+Property dispute,Fraud,8973,6
+Fraud,riots,8975,14
+riots,claims of negligence,8977,3
+marriage affairs,dowry demands,8979,8
+Divorce,robbery,8981,13
+claims of negligence,unfair dismissal,8983,13
+appeal against HR,discrimination,8985,4
+Workplace harassment,appeal against HR,8987,7
+Murder,Workplace harassment,8989,9
+robbery,Murder,8991,9
+dowry demands,theft,8993,5
+robbery,cybercrime,8995,10
+unfair dismissal,sedition,8997,14
+theft,Property dispute,8999,14
+cybercrime,marriage affairs,9001,13
+sedition,Divorce,9003,13
+Property dispute,Fraud,9005,15
+Fraud,riots,9007,14
+riots,claims of negligence,9009,13
+marriage affairs,dowry demands,9011,8
+Divorce,robbery,9013,8
+claims of negligence,unfair dismissal,9015,11
+appeal against HR,discrimination,9017,9
+Workplace harassment,appeal against HR,9019,14
+Murder,Workplace harassment,9021,15
+robbery,Murder,9023,15
+dowry demands,theft,9025,6
+robbery,cybercrime,9027,6
+unfair dismissal,sedition,9029,14
+theft,Property dispute,9031,9
+cybercrime,marriage affairs,9033,7
+sedition,Divorce,9035,4
+Property dispute,Fraud,9037,4
+Fraud,riots,9039,13
+riots,claims of negligence,9041,4
+marriage affairs,dowry demands,9043,4
+Divorce,robbery,9045,9
+claims of negligence,unfair dismissal,9047,4
+appeal against HR,discrimination,9049,7
+Workplace harassment,appeal against HR,9051,14
+Murder,Workplace harassment,9053,14
+robbery,Murder,9055,10
+dowry demands,theft,9057,12
+robbery,cybercrime,9059,5
+unfair dismissal,sedition,9061,11
+theft,Property dispute,9063,7
+cybercrime,marriage affairs,9065,13
+sedition,Divorce,9067,8
+Property dispute,Fraud,9069,10
+Fraud,riots,9071,15
+riots,claims of negligence,9073,6
+marriage affairs,dowry demands,9075,3
+Divorce,robbery,9077,4
+claims of negligence,unfair dismissal,9079,9
+appeal against HR,discrimination,9081,4
+Workplace harassment,appeal against HR,9083,14
+Murder,Workplace harassment,9085,8
+robbery,Murder,9087,3
+dowry demands,theft,9089,10
+robbery,cybercrime,9091,6
+unfair dismissal,sedition,9093,13
+theft,Property dispute,9095,5
+cybercrime,marriage affairs,9097,8
+sedition,Divorce,9099,7
+Property dispute,Fraud,9101,8
+Fraud,riots,9103,3
+riots,claims of negligence,9105,11
+marriage affairs,dowry demands,9107,10
+Divorce,robbery,9109,6
+claims of negligence,unfair dismissal,9111,13
+appeal against HR,discrimination,9113,3
+Workplace harassment,appeal against HR,9115,15
+Murder,Workplace harassment,9117,13
+robbery,Murder,9119,3
+dowry demands,theft,9121,15
+robbery,cybercrime,9123,8
+unfair dismissal,sedition,9125,11
+theft,Property dispute,9127,15
+cybercrime,marriage affairs,9129,11
+sedition,Divorce,9131,4
+Property dispute,Fraud,9133,4
+Fraud,riots,9135,9
+riots,claims of negligence,9137,3
+marriage affairs,dowry demands,9139,6
+Divorce,robbery,9141,15
+claims of negligence,unfair dismissal,9143,3
+appeal against HR,discrimination,9145,13
+Workplace harassment,appeal against HR,9147,14
+Murder,Workplace harassment,9149,8
+robbery,Murder,9151,15
+dowry demands,theft,9153,3
+robbery,cybercrime,9155,11
+unfair dismissal,sedition,9157,15
+theft,Property dispute,9159,9
+cybercrime,marriage affairs,9161,12
+sedition,Divorce,9163,4
+Property dispute,Fraud,9165,12
+Fraud,riots,9167,15
+riots,claims of negligence,9169,8
+marriage affairs,dowry demands,9171,10
+Divorce,robbery,9173,10
+claims of negligence,unfair dismissal,9175,9
+appeal against HR,discrimination,9177,9
+Workplace harassment,appeal against HR,9179,11
+Murder,Workplace harassment,9181,4
+robbery,Murder,9183,12
+dowry demands,theft,9185,5
+robbery,cybercrime,9187,5
+unfair dismissal,sedition,9189,11
+theft,Property dispute,9191,14
+cybercrime,marriage affairs,9193,8
+sedition,Divorce,9195,13
+Property dispute,Fraud,9197,11
+Fraud,riots,9199,9
+riots,claims of negligence,9201,3
+marriage affairs,dowry demands,9203,6
+Divorce,robbery,9205,3
+claims of negligence,unfair dismissal,9207,11
+appeal against HR,discrimination,9209,12
+Workplace harassment,appeal against HR,9211,6
+Murder,Workplace harassment,9213,13
+robbery,Murder,9215,7
+dowry demands,theft,9217,10
+robbery,cybercrime,9219,13
+unfair dismissal,sedition,9221,8
+theft,Property dispute,9223,6
+cybercrime,marriage affairs,9225,13
+sedition,Divorce,9227,6
+Property dispute,Fraud,9229,14
+Fraud,riots,9231,13
+riots,claims of negligence,9233,13
+marriage affairs,dowry demands,9235,10
+Divorce,robbery,9237,13
+claims of negligence,unfair dismissal,9239,3
+appeal against HR,discrimination,9241,6
+Workplace harassment,appeal against HR,9243,8
+Murder,Workplace harassment,9245,5
+robbery,Murder,9247,7
+dowry demands,theft,9249,3
+robbery,cybercrime,9251,10
+unfair dismissal,sedition,9253,8
+theft,Property dispute,9255,11
+cybercrime,marriage affairs,9257,12
+sedition,Divorce,9259,10
+Property dispute,Fraud,9261,7
+Fraud,riots,9263,15
+riots,claims of negligence,9265,10
+marriage affairs,dowry demands,9267,3
+Divorce,robbery,9269,11
+claims of negligence,unfair dismissal,9271,7
+appeal against HR,discrimination,9273,7
+Workplace harassment,appeal against HR,9275,13
+Murder,Workplace harassment,9277,13
+robbery,Murder,9279,7
+dowry demands,theft,9281,7
+robbery,cybercrime,9283,5
+unfair dismissal,sedition,9285,6
+theft,Property dispute,9287,14
+cybercrime,marriage affairs,9289,14
+sedition,Divorce,9291,3
+Property dispute,Fraud,9293,13
+Fraud,riots,9295,5
+riots,claims of negligence,9297,7
+marriage affairs,dowry demands,9299,4
+Divorce,robbery,9301,10
+claims of negligence,unfair dismissal,9303,8
+appeal against HR,discrimination,9305,5
+Workplace harassment,appeal against HR,9307,11
+Murder,Workplace harassment,9309,12
+robbery,Murder,9311,15
+dowry demands,theft,9313,4
+robbery,cybercrime,9315,9
+unfair dismissal,sedition,9317,5
+theft,Property dispute,9319,9
+cybercrime,marriage affairs,9321,12
+sedition,Divorce,9323,11
+Property dispute,Fraud,9325,4
+Fraud,riots,9327,8
+riots,claims of negligence,9329,5
+marriage affairs,dowry demands,9331,5
+Divorce,robbery,9333,13
+claims of negligence,unfair dismissal,9335,13
+appeal against HR,discrimination,9337,5
+Workplace harassment,appeal against HR,9339,7
+Murder,Workplace harassment,9341,9
+robbery,Murder,9343,12
+dowry demands,theft,9345,5
+robbery,cybercrime,9347,12
+unfair dismissal,sedition,9349,3
+theft,Property dispute,9351,10
+cybercrime,marriage affairs,9353,8
+sedition,Divorce,9355,9
+Property dispute,Fraud,9357,9
+Fraud,riots,9359,11
+riots,claims of negligence,9361,5
+marriage affairs,dowry demands,9363,4
+Divorce,robbery,9365,7
+claims of negligence,unfair dismissal,9367,3
+appeal against HR,discrimination,9369,8
+Workplace harassment,appeal against HR,9371,14
+Murder,Workplace harassment,9373,7
+robbery,Murder,9375,15
+dowry demands,theft,9377,11
+robbery,cybercrime,9379,11
+unfair dismissal,sedition,9381,8
+theft,Property dispute,9383,14
+cybercrime,marriage affairs,9385,15
+sedition,Divorce,9387,13
+Property dispute,Fraud,9389,10
+Fraud,riots,9391,10
+riots,claims of negligence,9393,11
+marriage affairs,dowry demands,9395,5
+Divorce,robbery,9397,6
+claims of negligence,unfair dismissal,9399,11
+appeal against HR,discrimination,9401,3
+Workplace harassment,appeal against HR,9403,9
+Murder,Workplace harassment,9405,7
+robbery,Murder,9407,7
+dowry demands,theft,9409,15
+robbery,cybercrime,9411,14
+unfair dismissal,sedition,9413,8
+theft,Property dispute,9415,15
+cybercrime,marriage affairs,9417,10
+sedition,Divorce,9419,11
+Property dispute,Fraud,9421,7
+Fraud,riots,9423,5
+riots,claims of negligence,9425,5
+marriage affairs,dowry demands,9427,6
+Divorce,robbery,9429,11
+claims of negligence,unfair dismissal,9431,13
+appeal against HR,discrimination,9433,3
+Workplace harassment,appeal against HR,9435,11
+Murder,Workplace harassment,9437,13
+robbery,Murder,9439,14
+dowry demands,theft,9441,4
+robbery,cybercrime,9443,6
+unfair dismissal,sedition,9445,3
+theft,Property dispute,9447,13
+cybercrime,marriage affairs,9449,14
+sedition,Divorce,9451,8
+Property dispute,Fraud,9453,8
+Fraud,riots,9455,8
+riots,claims of negligence,9457,11
+marriage affairs,dowry demands,9459,15
+Divorce,robbery,9461,9
+claims of negligence,unfair dismissal,9463,3
+appeal against HR,discrimination,9465,8
+Workplace harassment,appeal against HR,9467,3
+Murder,Workplace harassment,9469,4
+robbery,Murder,9471,5
+dowry demands,theft,9473,7
+robbery,cybercrime,9475,8
+unfair dismissal,sedition,9477,7
+theft,Property dispute,9479,3
+cybercrime,marriage affairs,9481,7
+sedition,Divorce,9483,12
+Property dispute,Fraud,9485,15
+Fraud,riots,9487,4
+riots,claims of negligence,9489,13
+marriage affairs,dowry demands,9491,5
+Divorce,robbery,9493,11
+claims of negligence,unfair dismissal,9495,5
+appeal against HR,discrimination,9497,7
+Workplace harassment,appeal against HR,9499,11
+Murder,Workplace harassment,9501,13
+robbery,Murder,9503,11
+dowry demands,theft,9505,15
+robbery,cybercrime,9507,7
+unfair dismissal,sedition,9509,4
+theft,Property dispute,9511,9
+cybercrime,marriage affairs,9513,9
+sedition,Divorce,9515,3
+Property dispute,Fraud,9517,4
+Fraud,riots,9519,5
+riots,claims of negligence,9521,11
+marriage affairs,dowry demands,9523,15
+Divorce,robbery,9525,10
+claims of negligence,unfair dismissal,9527,7
+appeal against HR,discrimination,9529,9
+Workplace harassment,appeal against HR,9531,15
+Murder,Workplace harassment,9533,14
+robbery,Murder,9535,4
+dowry demands,theft,9537,12
+robbery,cybercrime,9539,12
+unfair dismissal,sedition,9541,14
+theft,Property dispute,9543,8
+cybercrime,marriage affairs,9545,3
+sedition,Divorce,9547,5
+Property dispute,Fraud,9549,3
+Fraud,riots,9551,7
+riots,claims of negligence,9553,5
+marriage affairs,dowry demands,9555,8
+Divorce,robbery,9557,7
+claims of negligence,unfair dismissal,9559,14
+appeal against HR,discrimination,9561,9
+Workplace harassment,appeal against HR,9563,5
+Murder,Workplace harassment,9565,15
+robbery,Murder,9567,13
+dowry demands,theft,9569,7
+robbery,cybercrime,9571,7
+unfair dismissal,sedition,9573,5
+theft,Property dispute,9575,14
+cybercrime,marriage affairs,9577,14
+sedition,Divorce,9579,13
+Property dispute,Fraud,9581,4
+Fraud,riots,9583,10
+riots,claims of negligence,9585,10
+marriage affairs,dowry demands,9587,3
+Divorce,robbery,9589,12
+claims of negligence,unfair dismissal,9591,4
+appeal against HR,discrimination,9593,10
+Workplace harassment,appeal against HR,9595,5
+Murder,Workplace harassment,9597,3
+robbery,Murder,9599,13
+dowry demands,theft,9601,7
+robbery,cybercrime,9603,5
+unfair dismissal,sedition,9605,13
+theft,Property dispute,9607,15
+cybercrime,marriage affairs,9609,4
+sedition,Divorce,9611,7
+Property dispute,Fraud,9613,8
+Fraud,riots,9615,13
+riots,claims of negligence,9617,13
+marriage affairs,dowry demands,9619,14
+Divorce,robbery,9621,4
+claims of negligence,unfair dismissal,9623,9
+appeal against HR,discrimination,9625,6
+Workplace harassment,appeal against HR,9627,3
+Murder,Workplace harassment,9629,10
+robbery,Murder,9631,13
+dowry demands,theft,9633,12
+robbery,cybercrime,9635,10
+unfair dismissal,sedition,9637,12
+theft,Property dispute,9639,15
+cybercrime,marriage affairs,9641,5
+sedition,Divorce,9643,4
+Property dispute,Fraud,9645,10
+Fraud,riots,9647,14
+riots,claims of negligence,9649,4
+marriage affairs,dowry demands,9651,10
+Divorce,robbery,9653,3
+claims of negligence,unfair dismissal,9655,5
+appeal against HR,discrimination,9657,9
+Workplace harassment,appeal against HR,9659,15
+Murder,Workplace harassment,9661,10
+robbery,Murder,9663,3
+dowry demands,theft,9665,6
+robbery,cybercrime,9667,10
+unfair dismissal,sedition,9669,7
+theft,Property dispute,9671,11
+cybercrime,marriage affairs,9673,7
+sedition,Divorce,9675,10
+Property dispute,Fraud,9677,3
+Fraud,riots,9679,3
+riots,claims of negligence,9681,8
+marriage affairs,dowry demands,9683,6
+Divorce,robbery,9685,15
+claims of negligence,unfair dismissal,9687,8
+appeal against HR,discrimination,9689,6
+Workplace harassment,appeal against HR,9691,14
+Murder,Workplace harassment,9693,7
+robbery,Murder,9695,15
+dowry demands,theft,9697,9
+robbery,cybercrime,9699,10
+unfair dismissal,sedition,9701,8
+theft,Property dispute,9703,4
+cybercrime,marriage affairs,9705,4
+sedition,Divorce,9707,10
+Property dispute,Fraud,9709,5
+Fraud,riots,9711,14
+riots,claims of negligence,9713,5
+marriage affairs,dowry demands,9715,5
+Divorce,robbery,9717,12
+claims of negligence,unfair dismissal,9719,15
+appeal against HR,discrimination,9721,10
+Workplace harassment,appeal against HR,9723,10
+Murder,Workplace harassment,9725,6
+robbery,Murder,9727,14
+dowry demands,theft,9729,13
+robbery,cybercrime,9731,5
+unfair dismissal,sedition,9733,3
+theft,Property dispute,9735,15
+cybercrime,marriage affairs,9737,9
+sedition,Divorce,9739,15
+Property dispute,Fraud,9741,6
+Fraud,riots,9743,8
+riots,claims of negligence,9745,3
+marriage affairs,dowry demands,9747,9
+Divorce,robbery,9749,14
+claims of negligence,unfair dismissal,9751,12
+appeal against HR,discrimination,9753,8
+Workplace harassment,appeal against HR,9755,15
+Murder,Workplace harassment,9757,8
+robbery,Murder,9759,14
+dowry demands,theft,9761,14
+robbery,cybercrime,9763,7
+unfair dismissal,sedition,9765,14
+theft,Property dispute,9767,6
+cybercrime,marriage affairs,9769,7
+sedition,Divorce,9771,11
+Property dispute,Fraud,9773,5
+Fraud,riots,9775,10
+riots,claims of negligence,9777,7
+marriage affairs,dowry demands,9779,12
+Divorce,robbery,9781,10
+claims of negligence,unfair dismissal,9783,11
+appeal against HR,discrimination,9785,8
+Workplace harassment,appeal against HR,9787,10
+Murder,Workplace harassment,9789,4
+robbery,Murder,9791,14
+dowry demands,theft,9793,10
+robbery,cybercrime,9795,7
+unfair dismissal,sedition,9797,5
+theft,Property dispute,9799,10
+cybercrime,marriage affairs,9801,10
+sedition,Divorce,9803,13
+Property dispute,Fraud,9805,7
+Fraud,riots,9807,5
+riots,claims of negligence,9809,6
+marriage affairs,dowry demands,9811,12
+Divorce,robbery,9813,6
+claims of negligence,unfair dismissal,9815,15
+appeal against HR,discrimination,9817,13
+Workplace harassment,appeal against HR,9819,6
+Murder,Workplace harassment,9821,3
+robbery,Murder,9823,6
+dowry demands,theft,9825,10
+robbery,cybercrime,9827,5
+unfair dismissal,sedition,9829,14
+theft,Property dispute,9831,10
+cybercrime,marriage affairs,9833,15
+sedition,Divorce,9835,6
+Property dispute,Fraud,9837,5
+Fraud,riots,9839,9
+riots,claims of negligence,9841,4
+marriage affairs,dowry demands,9843,5
+Divorce,robbery,9845,4
+claims of negligence,unfair dismissal,9847,14
+appeal against HR,discrimination,9849,14
+Workplace harassment,appeal against HR,9851,5
+Murder,Workplace harassment,9853,5
+robbery,Murder,9855,12
+dowry demands,theft,9857,3
+robbery,cybercrime,9859,15
+unfair dismissal,sedition,9861,8
+theft,Property dispute,9863,4
+cybercrime,marriage affairs,9865,6
+sedition,Divorce,9867,5
+Property dispute,Fraud,9869,4
+Fraud,riots,9871,7
+riots,claims of negligence,9873,10
+marriage affairs,dowry demands,9875,7
+Divorce,robbery,9877,12
+claims of negligence,unfair dismissal,9879,7
+appeal against HR,discrimination,9881,15
+Workplace harassment,appeal against HR,9883,11
+Murder,Workplace harassment,9885,12
+robbery,Murder,9887,13
+dowry demands,theft,9889,14
+robbery,cybercrime,9891,10
+unfair dismissal,sedition,9893,8
+theft,Property dispute,9895,7
+cybercrime,marriage affairs,9897,3
+sedition,Divorce,9899,10
+Property dispute,Fraud,9901,6
+Fraud,riots,9903,3
+riots,claims of negligence,9905,5
+marriage affairs,dowry demands,9907,5
+Divorce,robbery,9909,13
+claims of negligence,unfair dismissal,9911,7
+appeal against HR,discrimination,9913,9
+Workplace harassment,appeal against HR,9915,13
+Murder,Workplace harassment,9917,13
+robbery,Murder,9919,4
+dowry demands,theft,9921,4
+robbery,cybercrime,9923,4
+unfair dismissal,sedition,9925,7
+theft,Property dispute,9927,10
+cybercrime,marriage affairs,9929,11
+sedition,Divorce,9931,5
+Property dispute,Fraud,9933,4
+Fraud,riots,9935,8
+riots,claims of negligence,9937,12
+marriage affairs,dowry demands,9939,11
+Divorce,robbery,9941,5
+claims of negligence,unfair dismissal,9943,11
+appeal against HR,discrimination,9945,9
+Workplace harassment,appeal against HR,9947,7
+Murder,Workplace harassment,9949,13
+robbery,Murder,9951,13
+dowry demands,theft,9953,8
+robbery,cybercrime,9955,14
+unfair dismissal,sedition,9957,10
+theft,Property dispute,9959,5
+cybercrime,marriage affairs,9961,15
+sedition,Divorce,9963,9
+Property dispute,Fraud,9965,8
+Fraud,riots,9967,7
+riots,claims of negligence,9969,13
+marriage affairs,dowry demands,9971,8
+Divorce,robbery,9973,11
+claims of negligence,unfair dismissal,9975,7
+appeal against HR,discrimination,9977,4
+Workplace harassment,appeal against HR,9979,5
+Murder,Workplace harassment,9981,8
+robbery,Murder,9983,10
+dowry demands,theft,9985,3
+robbery,cybercrime,9987,13
+unfair dismissal,sedition,9989,14
+theft,Property dispute,9991,14
+cybercrime,marriage affairs,9993,12
+sedition,Divorce,9995,12
+Property dispute,Fraud,9997,7
+Fraud,riots,9999,11
+riots,claims of negligence,10001,15
+marriage affairs,dowry demands,10003,13
+Divorce,robbery,10005,7
+claims of negligence,unfair dismissal,10007,9
+appeal against HR,discrimination,10009,10
+Workplace harassment,appeal against HR,10011,7
+Murder,Workplace harassment,10013,3
+robbery,Murder,10015,13
+dowry demands,theft,10017,6
+robbery,cybercrime,10019,3
+unfair dismissal,sedition,10021,5
+theft,Property dispute,10023,10
+cybercrime,marriage affairs,10025,3
+sedition,Divorce,10027,11
+Property dispute,Fraud,10029,7
+Fraud,riots,10031,7
+riots,claims of negligence,10033,6
+marriage affairs,dowry demands,10035,4
+Divorce,robbery,10037,6
+claims of negligence,unfair dismissal,10039,10
+appeal against HR,discrimination,10041,6
+Workplace harassment,appeal against HR,10043,3
+Murder,Workplace harassment,10045,15
+robbery,Murder,10047,5
+dowry demands,theft,10049,12
+robbery,cybercrime,10051,8
+unfair dismissal,sedition,10053,5
+theft,Property dispute,10055,14
+cybercrime,marriage affairs,10057,14
+sedition,Divorce,10059,12
+Property dispute,Fraud,10061,12
+Fraud,riots,10063,3
+riots,claims of negligence,10065,11
+marriage affairs,dowry demands,10067,9
+Divorce,robbery,10069,5
+claims of negligence,unfair dismissal,10071,10
+appeal against HR,discrimination,10073,12
+Workplace harassment,appeal against HR,10075,4
+Murder,Workplace harassment,10077,7
+robbery,Murder,10079,9
+dowry demands,theft,10081,4
+robbery,cybercrime,10083,6
+unfair dismissal,sedition,10085,5
+theft,Property dispute,10087,8
+cybercrime,marriage affairs,10089,4
+sedition,Divorce,10091,4
+Property dispute,Fraud,10093,8
+Fraud,riots,10095,5
+riots,claims of negligence,10097,6
+marriage affairs,dowry demands,10099,14
+Divorce,robbery,10101,12
+claims of negligence,unfair dismissal,10103,5
+appeal against HR,discrimination,10105,8
+Workplace harassment,appeal against HR,10107,3
+Murder,Workplace harassment,10109,13
+robbery,Murder,10111,7
+dowry demands,theft,10113,8
+robbery,cybercrime,10115,14
+unfair dismissal,sedition,10117,8
+theft,Property dispute,10119,7
+cybercrime,marriage affairs,10121,3
+sedition,Divorce,10123,8
+Property dispute,Fraud,10125,8
+Fraud,riots,10127,9
+riots,claims of negligence,10129,5
+marriage affairs,dowry demands,10131,5
+Divorce,robbery,10133,13
+claims of negligence,unfair dismissal,10135,11
+appeal against HR,discrimination,10137,13
+Workplace harassment,appeal against HR,10139,4
+Murder,Workplace harassment,10141,4
+robbery,Murder,10143,9
+dowry demands,theft,10145,4
+robbery,cybercrime,10147,3
+unfair dismissal,sedition,10149,12
+theft,Property dispute,10151,12
+cybercrime,marriage affairs,10153,7
+sedition,Divorce,10155,7
+Property dispute,Fraud,10157,11
+Fraud,riots,10159,10
+riots,claims of negligence,10161,9
+marriage affairs,dowry demands,10163,15
+Divorce,robbery,10165,3
+claims of negligence,unfair dismissal,10167,4
+appeal against HR,discrimination,10169,5
+Workplace harassment,appeal against HR,10171,5
+Murder,Workplace harassment,10173,13
+robbery,Murder,10175,10
+dowry demands,theft,10177,12
+robbery,cybercrime,10179,9
+unfair dismissal,sedition,10181,13
+theft,Property dispute,10183,7
+cybercrime,marriage affairs,10185,11
+sedition,Divorce,10187,7
+Property dispute,Fraud,10189,4
+Fraud,riots,10191,3
+riots,claims of negligence,10193,14
+marriage affairs,dowry demands,10195,14
+Divorce,robbery,10197,8
+claims of negligence,unfair dismissal,10199,11
+appeal against HR,discrimination,10201,10
+Workplace harassment,appeal against HR,10203,3
+Murder,Workplace harassment,10205,13
+robbery,Murder,10207,3
+dowry demands,theft,10209,14
+robbery,cybercrime,10211,10
+unfair dismissal,sedition,10213,14
+theft,Property dispute,10215,14
+cybercrime,marriage affairs,10217,7
+sedition,Divorce,10219,7
+Property dispute,Fraud,10221,12
+Fraud,riots,10223,3
+riots,claims of negligence,10225,5
+marriage affairs,dowry demands,10227,8
+Divorce,robbery,10229,3
+claims of negligence,unfair dismissal,10231,4
+appeal against HR,discrimination,10233,7
+Workplace harassment,appeal against HR,10235,14
+Murder,Workplace harassment,10237,5
+robbery,Murder,10239,12
+dowry demands,theft,10241,15
+robbery,cybercrime,10243,12
+unfair dismissal,sedition,10245,9
+theft,Property dispute,10247,4
+cybercrime,marriage affairs,10249,11
+sedition,Divorce,10251,8
+Property dispute,Fraud,10253,9
+Fraud,riots,10255,5
+riots,claims of negligence,10257,6
+marriage affairs,dowry demands,10259,10
+Divorce,robbery,10261,6
+claims of negligence,unfair dismissal,10263,11
+appeal against HR,discrimination,10265,8
+Workplace harassment,appeal against HR,10267,6
+Murder,Workplace harassment,10269,8
+robbery,Murder,10271,9
+dowry demands,theft,10273,7
+robbery,cybercrime,10275,8
+unfair dismissal,sedition,10277,4
+theft,Property dispute,10279,11
+cybercrime,marriage affairs,10281,7
+sedition,Divorce,10283,7
+Property dispute,Fraud,10285,6
+Fraud,riots,10287,5
+riots,claims of negligence,10289,14
+marriage affairs,dowry demands,10291,6
+Divorce,robbery,10293,6
+claims of negligence,unfair dismissal,10295,8
+appeal against HR,discrimination,10297,15
+Workplace harassment,appeal against HR,10299,8
+Murder,Workplace harassment,10301,13
+robbery,Murder,10303,11
+dowry demands,theft,10305,3
+robbery,cybercrime,10307,11
+unfair dismissal,sedition,10309,7
+theft,Property dispute,10311,15
+cybercrime,marriage affairs,10313,6
+sedition,Divorce,10315,15
+Property dispute,Fraud,10317,6
+Fraud,riots,10319,9
+riots,claims of negligence,10321,12
+marriage affairs,dowry demands,10323,4
+Divorce,robbery,10325,10
+claims of negligence,unfair dismissal,10327,4
+appeal against HR,discrimination,10329,12
+Workplace harassment,appeal against HR,10331,15
+Murder,Workplace harassment,10333,8
+robbery,Murder,10335,11
+dowry demands,theft,10337,10
+robbery,cybercrime,10339,3
+unfair dismissal,sedition,10341,15
+theft,Property dispute,10343,6
+cybercrime,marriage affairs,10345,4
+sedition,Divorce,10347,12
+Property dispute,Fraud,10349,8
+Fraud,riots,10351,6
+riots,claims of negligence,10353,5
+marriage affairs,dowry demands,10355,4
+Divorce,robbery,10357,13
+claims of negligence,unfair dismissal,10359,9
+appeal against HR,discrimination,10361,13
+Workplace harassment,appeal against HR,10363,10
+Murder,Workplace harassment,10365,4
+robbery,Murder,10367,8
+dowry demands,theft,10369,11
+robbery,cybercrime,10371,13
+unfair dismissal,sedition,10373,8
+theft,Property dispute,10375,12
+cybercrime,marriage affairs,10377,11
+sedition,Divorce,10379,9
+Property dispute,Fraud,10381,11
+Fraud,riots,10383,8
+riots,claims of negligence,10385,4
+marriage affairs,dowry demands,10387,8
+Divorce,robbery,10389,7
+claims of negligence,unfair dismissal,10391,12
+appeal against HR,discrimination,10393,14
+Workplace harassment,appeal against HR,10395,14
+Murder,Workplace harassment,10397,5
+robbery,Murder,10399,11
+dowry demands,theft,10401,7
+robbery,cybercrime,10403,13
+unfair dismissal,sedition,10405,4
+theft,Property dispute,10407,5
+cybercrime,marriage affairs,10409,9
+sedition,Divorce,10411,4
+Property dispute,Fraud,10413,14
+Fraud,riots,10415,4
+riots,claims of negligence,10417,12
+marriage affairs,dowry demands,10419,14
+Divorce,robbery,10421,3
+claims of negligence,unfair dismissal,10423,5
+appeal against HR,discrimination,10425,9
+Workplace harassment,appeal against HR,10427,11
+Murder,Workplace harassment,10429,6
+robbery,Murder,10431,12
+dowry demands,theft,10433,12
+robbery,cybercrime,10435,9
+unfair dismissal,sedition,10437,3
+theft,Property dispute,10439,11
+cybercrime,marriage affairs,10441,9
+sedition,Divorce,10443,8
+Property dispute,Fraud,10445,3
+Fraud,riots,10447,14
+riots,claims of negligence,10449,10
+marriage affairs,dowry demands,10451,7
+Divorce,robbery,10453,7
+claims of negligence,unfair dismissal,10455,10
+appeal against HR,discrimination,10457,15
+Workplace harassment,appeal against HR,10459,4
+Murder,Workplace harassment,10461,11
+robbery,Murder,10463,10
+dowry demands,theft,10465,5
+robbery,cybercrime,10467,5
+unfair dismissal,sedition,10469,9
+theft,Property dispute,10471,5
+cybercrime,marriage affairs,10473,10
+sedition,Divorce,10475,8
+Property dispute,Fraud,10477,13
+Fraud,riots,10479,4
+riots,claims of negligence,10481,15
+marriage affairs,dowry demands,10483,3
+Divorce,robbery,10485,15
+claims of negligence,unfair dismissal,10487,3
+appeal against HR,discrimination,10489,5
+Workplace harassment,appeal against HR,10491,13
+Murder,Workplace harassment,10493,14
+robbery,Murder,10495,14
+dowry demands,theft,10497,13
+robbery,cybercrime,10499,6
+unfair dismissal,sedition,10501,15
+theft,Property dispute,10503,4
+cybercrime,marriage affairs,10505,5
+sedition,Divorce,10507,14
+Property dispute,Fraud,10509,3
+Fraud,riots,10511,7
+riots,claims of negligence,10513,4
+marriage affairs,dowry demands,10515,6
+Divorce,robbery,10517,8
+claims of negligence,unfair dismissal,10519,9
+appeal against HR,discrimination,10521,11
+Workplace harassment,appeal against HR,10523,5
+Murder,Workplace harassment,10525,6
+robbery,Murder,10527,10
+dowry demands,theft,10529,12
+robbery,cybercrime,10531,14
+unfair dismissal,sedition,10533,3
+theft,Property dispute,10535,7
+cybercrime,marriage affairs,10537,6
+sedition,Divorce,10539,8
+Property dispute,Fraud,10541,12
+Fraud,riots,10543,6
+riots,claims of negligence,10545,15
+marriage affairs,dowry demands,10547,7
+Divorce,robbery,10549,5
+claims of negligence,unfair dismissal,10551,12
+appeal against HR,discrimination,10553,7
+Workplace harassment,appeal against HR,10555,4
+Murder,Workplace harassment,10557,3
+robbery,Murder,10559,9
+dowry demands,theft,10561,7
+robbery,cybercrime,10563,4
+unfair dismissal,sedition,10565,3
+theft,Property dispute,10567,8
+cybercrime,marriage affairs,10569,9
+sedition,Divorce,10571,7
+Property dispute,Fraud,10573,8
+Fraud,riots,10575,3
+riots,claims of negligence,10577,12
+marriage affairs,dowry demands,10579,9
+Divorce,robbery,10581,11
+claims of negligence,unfair dismissal,10583,3
+appeal against HR,discrimination,10585,6
+Workplace harassment,appeal against HR,10587,7
+Murder,Workplace harassment,10589,13
+robbery,Murder,10591,3
+dowry demands,theft,10593,4
+robbery,cybercrime,10595,3
+unfair dismissal,sedition,10597,10
+theft,Property dispute,10599,9
+cybercrime,marriage affairs,10601,3
+sedition,Divorce,10603,4
+Property dispute,Fraud,10605,13
+Fraud,riots,10607,8
+riots,claims of negligence,10609,14
+marriage affairs,dowry demands,10611,14
+Divorce,robbery,10613,9
+claims of negligence,unfair dismissal,10615,13
+appeal against HR,discrimination,10617,7
+Workplace harassment,appeal against HR,10619,9
+Murder,Workplace harassment,10621,8
+robbery,Murder,10623,15
+dowry demands,theft,10625,14
+robbery,cybercrime,10627,12
+unfair dismissal,sedition,10629,6
+theft,Property dispute,10631,3
+cybercrime,marriage affairs,10633,14
+sedition,Divorce,10635,14
+Property dispute,Fraud,10637,6
+Fraud,riots,10639,14
+riots,claims of negligence,10641,15
+marriage affairs,dowry demands,10643,14
+Divorce,robbery,10645,10
+claims of negligence,unfair dismissal,10647,14
+appeal against HR,discrimination,10649,4
+Workplace harassment,appeal against HR,10651,13
+Murder,Workplace harassment,10653,11
+robbery,Murder,10655,10
+dowry demands,theft,10657,7
+robbery,cybercrime,10659,7
+unfair dismissal,sedition,10661,14
+theft,Property dispute,10663,6
+cybercrime,marriage affairs,10665,13
+sedition,Divorce,10667,15
+Property dispute,Fraud,10669,10
+Fraud,riots,10671,15
+riots,claims of negligence,10673,8
+marriage affairs,dowry demands,10675,8
+Divorce,robbery,10677,13
+claims of negligence,unfair dismissal,10679,4
+appeal against HR,discrimination,10681,8
+Workplace harassment,appeal against HR,10683,11
+Murder,Workplace harassment,10685,6
+robbery,Murder,10687,14
+dowry demands,theft,10689,11
+robbery,cybercrime,10691,11
+unfair dismissal,sedition,10693,14
+theft,Property dispute,10695,11
+cybercrime,marriage affairs,10697,3
+sedition,Divorce,10699,4
+Property dispute,Fraud,10701,14
+Fraud,riots,10703,14
+riots,claims of negligence,10705,8
+marriage affairs,dowry demands,10707,10
+Divorce,robbery,10709,15
+claims of negligence,unfair dismissal,10711,6
+appeal against HR,discrimination,10713,4
+Workplace harassment,appeal against HR,10715,14
+Murder,Workplace harassment,10717,10
+robbery,Murder,10719,4
+dowry demands,theft,10721,15
+robbery,cybercrime,10723,10
+unfair dismissal,sedition,10725,9
+theft,Property dispute,10727,5
+cybercrime,marriage affairs,10729,13
+sedition,Divorce,10731,8
+Property dispute,Fraud,10733,7
+Fraud,riots,10735,13
+riots,claims of negligence,10737,8
+marriage affairs,dowry demands,10739,8
+Divorce,robbery,10741,5
+claims of negligence,unfair dismissal,10743,5
+appeal against HR,discrimination,10745,5
+Workplace harassment,appeal against HR,10747,10
+Murder,Workplace harassment,10749,3
+robbery,Murder,10751,14
+dowry demands,theft,10753,11
+robbery,cybercrime,10755,14
+unfair dismissal,sedition,10757,6
+theft,Property dispute,10759,8
+cybercrime,marriage affairs,10761,5
+sedition,Divorce,10763,14
+Property dispute,Fraud,10765,5
+Fraud,riots,10767,5
+riots,claims of negligence,10769,6
+marriage affairs,dowry demands,10771,9
+Divorce,robbery,10773,9
+claims of negligence,unfair dismissal,10775,6
+appeal against HR,discrimination,10777,8
+Workplace harassment,appeal against HR,10779,9
+Murder,Workplace harassment,10781,11
+robbery,Murder,10783,5
+dowry demands,theft,10785,14
+robbery,cybercrime,10787,8
+unfair dismissal,sedition,10789,7
+theft,Property dispute,10791,15
+cybercrime,marriage affairs,10793,11
+sedition,Divorce,10795,4
+Property dispute,Fraud,10797,12
+Fraud,riots,10799,4
+riots,claims of negligence,10801,6
+marriage affairs,dowry demands,10803,15
+Divorce,robbery,10805,10
+claims of negligence,unfair dismissal,10807,11
+appeal against HR,discrimination,10809,10
+Workplace harassment,appeal against HR,10811,5
+Murder,Workplace harassment,10813,6
+robbery,Murder,10815,3
+dowry demands,theft,10817,11
+robbery,cybercrime,10819,11
+unfair dismissal,sedition,10821,11
+theft,Property dispute,10823,6
+cybercrime,marriage affairs,10825,7
+sedition,Divorce,10827,8
+Property dispute,Fraud,10829,9
+Fraud,riots,10831,7
+riots,claims of negligence,10833,14
+marriage affairs,dowry demands,10835,6
+Divorce,robbery,10837,4
+claims of negligence,unfair dismissal,10839,5
+appeal against HR,discrimination,10841,10
+Workplace harassment,appeal against HR,10843,6
+Murder,Workplace harassment,10845,14
+robbery,Murder,10847,3
+dowry demands,theft,10849,6
+robbery,cybercrime,10851,14
+unfair dismissal,sedition,10853,14
+theft,Property dispute,10855,11
+cybercrime,marriage affairs,10857,7
+sedition,Divorce,10859,3
+Property dispute,Fraud,10861,14
+Fraud,riots,10863,13
+riots,claims of negligence,10865,7
+marriage affairs,dowry demands,10867,15
+Divorce,robbery,10869,7
+claims of negligence,unfair dismissal,10871,9
+appeal against HR,discrimination,10873,15
+Workplace harassment,appeal against HR,10875,11
+Murder,Workplace harassment,10877,5
+robbery,Murder,10879,15
+dowry demands,theft,10881,8
+robbery,cybercrime,10883,9
+unfair dismissal,sedition,10885,8
+theft,Property dispute,10887,10
+cybercrime,marriage affairs,10889,14
+sedition,Divorce,10891,6
+Property dispute,Fraud,10893,12
+Fraud,riots,10895,10
+riots,claims of negligence,10897,11
+marriage affairs,dowry demands,10899,12
+Divorce,robbery,10901,15
+claims of negligence,unfair dismissal,10903,8
+appeal against HR,discrimination,10905,7
+Workplace harassment,appeal against HR,10907,13
+Murder,Workplace harassment,10909,4
+robbery,Murder,10911,14
+dowry demands,theft,10913,15
+robbery,cybercrime,10915,14
+unfair dismissal,sedition,10917,15
+theft,Property dispute,10919,3
+cybercrime,marriage affairs,10921,4
+sedition,Divorce,10923,8
+Property dispute,Fraud,10925,10
+Fraud,riots,10927,6
+riots,claims of negligence,10929,4
+marriage affairs,dowry demands,10931,14
+Divorce,robbery,10933,13
+claims of negligence,unfair dismissal,10935,6
+appeal against HR,discrimination,10937,9
+Workplace harassment,appeal against HR,10939,6
+Murder,Workplace harassment,10941,15
+robbery,Murder,10943,14
+dowry demands,theft,10945,9
+robbery,cybercrime,10947,11
+unfair dismissal,sedition,10949,3
+theft,Property dispute,10951,14
+cybercrime,marriage affairs,10953,7
+sedition,Divorce,10955,14
+Property dispute,Fraud,10957,15
+Fraud,riots,10959,7
+riots,claims of negligence,10961,4
+marriage affairs,dowry demands,10963,3
+Divorce,robbery,10965,5
+claims of negligence,unfair dismissal,10967,13
+appeal against HR,discrimination,10969,7
+Workplace harassment,appeal against HR,10971,14
+Murder,Workplace harassment,10973,7
+robbery,Murder,10975,13
+dowry demands,theft,10977,9
+robbery,cybercrime,10979,12
+unfair dismissal,sedition,10981,6
+theft,Property dispute,10983,15
+cybercrime,marriage affairs,10985,3
+sedition,Divorce,10987,11
+Property dispute,Fraud,10989,4
+Fraud,riots,10991,9
+riots,claims of negligence,10993,8
+marriage affairs,dowry demands,10995,12
+Divorce,robbery,10997,11
+claims of negligence,unfair dismissal,10999,13
+appeal against HR,discrimination,11001,4
+Workplace harassment,appeal against HR,11003,6
+Murder,Workplace harassment,11005,11
+robbery,Murder,11007,4
+dowry demands,theft,11009,15
+robbery,cybercrime,11011,12
+unfair dismissal,sedition,11013,14
+theft,Property dispute,11015,5
+cybercrime,marriage affairs,11017,4
+sedition,Divorce,11019,7
+Property dispute,Fraud,11021,4
+Fraud,riots,11023,4
+riots,claims of negligence,11025,8
+marriage affairs,dowry demands,11027,12
+Divorce,robbery,11029,7
+claims of negligence,unfair dismissal,11031,13
+appeal against HR,discrimination,11033,13
+Workplace harassment,appeal against HR,11035,7
+Murder,Workplace harassment,11037,7
+robbery,Murder,11039,11
+dowry demands,theft,11041,14
+robbery,cybercrime,11043,14
+unfair dismissal,sedition,11045,12
+theft,Property dispute,11047,8
+cybercrime,marriage affairs,11049,7
+sedition,Divorce,11051,5
+Property dispute,Fraud,11053,10
+Fraud,riots,11055,7
+riots,claims of negligence,11057,15
+marriage affairs,dowry demands,11059,5
+Divorce,robbery,11061,5
+claims of negligence,unfair dismissal,11063,15
+appeal against HR,discrimination,11065,13
+Workplace harassment,appeal against HR,11067,13
+Murder,Workplace harassment,11069,8
+robbery,Murder,11071,11
+dowry demands,theft,11073,4
+robbery,cybercrime,11075,11
+unfair dismissal,sedition,11077,3
+theft,Property dispute,11079,4
+cybercrime,marriage affairs,11081,13
+sedition,Divorce,11083,7
+Property dispute,Fraud,11085,13
+Fraud,riots,11087,12
+riots,claims of negligence,11089,4
+marriage affairs,dowry demands,11091,10
+Divorce,robbery,11093,12
+claims of negligence,unfair dismissal,11095,13
+appeal against HR,discrimination,11097,5
+Workplace harassment,appeal against HR,11099,5
+Murder,Workplace harassment,11101,6
+robbery,Murder,11103,3
+dowry demands,theft,11105,10
+robbery,cybercrime,11107,7
+unfair dismissal,sedition,11109,8
+theft,Property dispute,11111,14
+cybercrime,marriage affairs,11113,11
+sedition,Divorce,11115,10
+Property dispute,Fraud,11117,3
+Fraud,riots,11119,9
+riots,claims of negligence,11121,12
+marriage affairs,dowry demands,11123,4
+Divorce,robbery,11125,14
+claims of negligence,unfair dismissal,11127,4
+appeal against HR,discrimination,11129,3
+Workplace harassment,appeal against HR,11131,13
+Murder,Workplace harassment,11133,6
+robbery,Murder,11135,15
+dowry demands,theft,11137,10
+robbery,cybercrime,11139,3
+unfair dismissal,sedition,11141,5
+theft,Property dispute,11143,14
+cybercrime,marriage affairs,11145,5
+sedition,Divorce,11147,4
+Property dispute,Fraud,11149,11
+Fraud,riots,11151,5
+riots,claims of negligence,11153,14
+marriage affairs,dowry demands,11155,4
+Divorce,robbery,11157,7
+claims of negligence,unfair dismissal,11159,13
+appeal against HR,discrimination,11161,4
+Workplace harassment,appeal against HR,11163,7
+Murder,Workplace harassment,11165,7
+robbery,Murder,11167,11
+dowry demands,theft,11169,12
+robbery,cybercrime,11171,13
+unfair dismissal,sedition,11173,12
+theft,Property dispute,11175,5
+cybercrime,marriage affairs,11177,14
+sedition,Divorce,11179,10
+Property dispute,Fraud,11181,4
+Fraud,riots,11183,13
+riots,claims of negligence,11185,12
+marriage affairs,dowry demands,11187,5
+Divorce,robbery,11189,13
+claims of negligence,unfair dismissal,11191,4
+appeal against HR,discrimination,11193,10
+Workplace harassment,appeal against HR,11195,10
+Murder,Workplace harassment,11197,6
+robbery,Murder,11199,9
+dowry demands,theft,11201,10
+robbery,cybercrime,11203,4
+unfair dismissal,sedition,11205,14
+theft,Property dispute,11207,15
+cybercrime,marriage affairs,11209,14
+sedition,Divorce,11211,11
+Property dispute,Fraud,11213,7
+Fraud,riots,11215,4
+riots,claims of negligence,11217,7
+marriage affairs,dowry demands,11219,3
+Divorce,robbery,11221,15
+claims of negligence,unfair dismissal,11223,11
+appeal against HR,discrimination,11225,11
+Workplace harassment,appeal against HR,11227,12
+Murder,Workplace harassment,11229,6
+robbery,Murder,11231,7
+dowry demands,theft,11233,4
+robbery,cybercrime,11235,4
+unfair dismissal,sedition,11237,5
+theft,Property dispute,11239,3
+cybercrime,marriage affairs,11241,4
+sedition,Divorce,11243,7
+Property dispute,Fraud,11245,9
+Fraud,riots,11247,14
+riots,claims of negligence,11249,9
+marriage affairs,dowry demands,11251,7
+Divorce,robbery,11253,15
+claims of negligence,unfair dismissal,11255,5
+appeal against HR,discrimination,11257,13
+Workplace harassment,appeal against HR,11259,10
+Murder,Workplace harassment,11261,8
+robbery,Murder,11263,5
+dowry demands,theft,11265,12
+robbery,cybercrime,11267,14
+unfair dismissal,sedition,11269,11
+theft,Property dispute,11271,11
+cybercrime,marriage affairs,11273,13
+sedition,Divorce,11275,9
+Property dispute,Fraud,11277,7
+Fraud,riots,11279,15
+riots,claims of negligence,11281,5
+marriage affairs,dowry demands,11283,15
+Divorce,robbery,11285,13
+claims of negligence,unfair dismissal,11287,15
+appeal against HR,discrimination,11289,13
+Workplace harassment,appeal against HR,11291,10
+Murder,Workplace harassment,11293,9
+robbery,Murder,11295,11
+dowry demands,theft,11297,15
+robbery,cybercrime,11299,10
+unfair dismissal,sedition,11301,8
+theft,Property dispute,11303,4
+cybercrime,marriage affairs,11305,9
+sedition,Divorce,11307,11
+Property dispute,Fraud,11309,15
+Fraud,riots,11311,4
+riots,claims of negligence,11313,12
+marriage affairs,dowry demands,11315,15
+Divorce,robbery,11317,13
+claims of negligence,unfair dismissal,11319,12
+appeal against HR,discrimination,11321,13
+Workplace harassment,appeal against HR,11323,3
+Murder,Workplace harassment,11325,7
+robbery,Murder,11327,14
+dowry demands,theft,11329,9
+robbery,cybercrime,11331,15
+unfair dismissal,sedition,11333,4
+theft,Property dispute,11335,5
+cybercrime,marriage affairs,11337,10
+sedition,Divorce,11339,7
+Property dispute,Fraud,11341,10
+Fraud,riots,11343,5
+riots,claims of negligence,11345,14
+marriage affairs,dowry demands,11347,6
+Divorce,robbery,11349,9
+claims of negligence,unfair dismissal,11351,3
+appeal against HR,discrimination,11353,13
+Workplace harassment,appeal against HR,11355,10
+Murder,Workplace harassment,11357,14
+robbery,Murder,11359,7
+dowry demands,theft,11361,8
+robbery,cybercrime,11363,8
+unfair dismissal,sedition,11365,12
+theft,Property dispute,11367,7
+cybercrime,marriage affairs,11369,7
+sedition,Divorce,11371,11
+Property dispute,Fraud,11373,15
+Fraud,riots,11375,6
+riots,claims of negligence,11377,11
+marriage affairs,dowry demands,11379,9
+Divorce,robbery,11381,8
+claims of negligence,unfair dismissal,11383,5
+appeal against HR,discrimination,11385,15
+Workplace harassment,appeal against HR,11387,5
+Murder,Workplace harassment,11389,8
+robbery,Murder,11391,14
+dowry demands,theft,11393,3
+robbery,cybercrime,11395,6
+unfair dismissal,sedition,11397,5
+theft,Property dispute,,10

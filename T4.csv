@@ -1,0 +1,5677 @@
+station_pincode,station_zone,city,state
+485715,EAST,Mumbai,Maharashtra
+485717,WEST,Delhi,Delhi
+485719,SOUTH,Bangalore,Karnataka
+485721,NORTH,Hyderabad,Andhra Pradesh
+485723,CENTRAL,Ahmedabad,Arunachal Pradesh
+485725,EAST,Chennai,Assam
+485727,WEST,Kolkata,Bihar
+485729,SOUTH,Surat,Chhattisgarh
+485731,NORTH,Pune,Goa
+485733,CENTRAL,Jaipur,Gujarat
+485735,EAST,Lucknow,Haryana
+485737,WEST,Kanpur,Himachal Pradesh
+485739,SOUTH,Nagpur,Jharkhand
+485741,NORTH,Indore,Karnataka
+485743,CENTRAL,Thane,Kerala
+485745,EAST,Bhopal,Madhya Pradesh
+485747,WEST,Visakhapatnam,Maharashtra
+485749,SOUTH,Vadodara,Manipur
+485751,NORTH,Firozabad,Meghalaya
+485753,CENTRAL,Ludhiana,Mizoram
+485755,EAST,Rajkot,Nagaland
+485757,WEST,Agra,Odisha
+485759,SOUTH,Siliguri,Punjab
+485761,NORTH,Nashik,Rajasthan
+485763,CENTRAL,Faridabad,Sikkim
+485765,EAST,Patna,Tamil Nadu
+485767,WEST,Meerut,Telangana
+485769,SOUTH,Kalyan-Dombivli,Tripura
+485771,NORTH,Vasai-Virar,Uttar Pradesh
+485773,CENTRAL,Varanasi,Uttarakhand
+485775,EAST,Srinagar,West Bengal
+485777,WEST,Dhanbad,Andaman and Nicobar Islands
+485779,SOUTH,Jodhpur,Chandigarh
+485781,NORTH,Amritsar,Dadra and Nagar Haveli and Daman and Diu
+485783,CENTRAL,Raipur,Lakshadweep
+485785,EAST,Allahabad,Delhi
+485787,WEST,Coimbatore,Puducherry
+485789,SOUTH,Jabalpur,Ladakh
+485791,NORTH,Gwalior,Jammu and Kashmir
+485793,CENTRAL,Vijayawada,Maharashtra
+485795,EAST,Madurai,Delhi
+485797,WEST,Guwahati,Karnataka
+485799,SOUTH,Chandigarh,Andhra Pradesh
+485801,NORTH,Hubli-Dharwad,Arunachal Pradesh
+485803,CENTRAL,Amroha,Assam
+485805,EAST,Moradabad,Bihar
+485807,WEST,Gurgaon,Chhattisgarh
+485809,SOUTH,Aligarh,Goa
+485811,NORTH,Solapur,Gujarat
+485813,CENTRAL,Ranchi,Haryana
+485815,EAST,Jalandhar,Himachal Pradesh
+485817,WEST,Tiruchirappalli,Jharkhand
+485819,SOUTH,Bhubaneswar,Karnataka
+485821,NORTH,Salem,Kerala
+485823,CENTRAL,Mysore,Madhya Pradesh
+485825,EAST,Thiruvananthapuram,Maharashtra
+485827,WEST,Tiruppur,Manipur
+485829,SOUTH,Gwalior,Meghalaya
+485831,NORTH,Chandrapur,Mizoram
+485833,CENTRAL,Mumbai,Nagaland
+485835,EAST,Delhi,Odisha
+485837,WEST,Bangalore,Punjab
+485839,SOUTH,Hyderabad,Rajasthan
+485841,NORTH,Ahmedabad,Sikkim
+485843,CENTRAL,Chennai,Tamil Nadu
+485845,EAST,Kolkata,Telangana
+485847,WEST,Surat,Tripura
+485849,SOUTH,Pune,Uttar Pradesh
+485851,NORTH,Jaipur,Uttarakhand
+485853,CENTRAL,Lucknow,West Bengal
+485855,EAST,Kanpur,Andaman and Nicobar Islands
+485857,WEST,Nagpur,Chandigarh
+485859,SOUTH,Indore,Dadra and Nagar Haveli and Daman and Diu
+485861,NORTH,Thane,Lakshadweep
+485863,CENTRAL,Bhopal,Delhi
+485865,EAST,Visakhapatnam,Puducherry
+485867,WEST,Vadodara,Ladakh
+485869,SOUTH,Firozabad,Jammu and Kashmir
+485871,NORTH,Ludhiana,Maharashtra
+485873,CENTRAL,Rajkot,Delhi
+485875,EAST,Agra,Karnataka
+485877,WEST,Siliguri,Andhra Pradesh
+485879,SOUTH,Nashik,Arunachal Pradesh
+485881,NORTH,Faridabad,Assam
+485883,CENTRAL,Patna,Bihar
+485885,EAST,Meerut,Chhattisgarh
+485887,WEST,Kalyan-Dombivli,Goa
+485889,SOUTH,Vasai-Virar,Gujarat
+485891,NORTH,Varanasi,Haryana
+485893,CENTRAL,Srinagar,Himachal Pradesh
+485895,EAST,Dhanbad,Jharkhand
+485897,WEST,Jodhpur,Karnataka
+485899,SOUTH,Amritsar,Kerala
+485901,NORTH,Raipur,Madhya Pradesh
+485903,CENTRAL,Allahabad,Maharashtra
+485905,EAST,Coimbatore,Manipur
+485907,WEST,Jabalpur,Meghalaya
+485909,SOUTH,Gwalior,Mizoram
+485911,NORTH,Vijayawada,Nagaland
+485913,CENTRAL,Madurai,Odisha
+485915,EAST,Guwahati,Punjab
+485917,WEST,Chandigarh,Rajasthan
+485919,SOUTH,Hubli-Dharwad,Sikkim
+485921,NORTH,Amroha,Tamil Nadu
+485923,CENTRAL,Moradabad,Telangana
+485925,EAST,Gurgaon,Tripura
+485927,WEST,Aligarh,Uttar Pradesh
+485929,SOUTH,Solapur,Uttarakhand
+485931,NORTH,Ranchi,West Bengal
+485933,CENTRAL,Jalandhar,Andaman and Nicobar Islands
+485935,EAST,Tiruchirappalli,Chandigarh
+485937,WEST,Bhubaneswar,Dadra and Nagar Haveli and Daman and Diu
+485939,SOUTH,Salem,Lakshadweep
+485941,NORTH,Mysore,Delhi
+485943,CENTRAL,Thiruvananthapuram,Puducherry
+485945,EAST,Tiruppur,Ladakh
+485947,WEST,Gwalior,Jammu and Kashmir
+485949,SOUTH,Chandrapur,Maharashtra
+485951,NORTH,Mumbai,Delhi
+485953,CENTRAL,Delhi,Karnataka
+485955,EAST,Bangalore,Andhra Pradesh
+485957,WEST,Hyderabad,Arunachal Pradesh
+485959,SOUTH,Ahmedabad,Assam
+485961,NORTH,Chennai,Bihar
+485963,CENTRAL,Kolkata,Chhattisgarh
+485965,EAST,Surat,Goa
+485967,WEST,Pune,Gujarat
+485969,SOUTH,Jaipur,Haryana
+485971,NORTH,Lucknow,Himachal Pradesh
+485973,CENTRAL,Kanpur,Jharkhand
+485975,EAST,Nagpur,Karnataka
+485977,WEST,Indore,Kerala
+485979,SOUTH,Thane,Madhya Pradesh
+485981,NORTH,Bhopal,Maharashtra
+485983,CENTRAL,Visakhapatnam,Manipur
+485985,EAST,Vadodara,Meghalaya
+485987,WEST,Firozabad,Mizoram
+485989,SOUTH,Ludhiana,Nagaland
+485991,NORTH,Rajkot,Odisha
+485993,CENTRAL,Agra,Punjab
+485995,EAST,Siliguri,Rajasthan
+485997,WEST,Nashik,Sikkim
+485999,SOUTH,Faridabad,Tamil Nadu
+486001,NORTH,Patna,Telangana
+486003,CENTRAL,Meerut,Tripura
+486005,EAST,Kalyan-Dombivli,Uttar Pradesh
+486007,WEST,Vasai-Virar,Uttarakhand
+486009,SOUTH,Varanasi,West Bengal
+486011,NORTH,Srinagar,Andaman and Nicobar Islands
+486013,CENTRAL,Dhanbad,Chandigarh
+486015,EAST,Jodhpur,Dadra and Nagar Haveli and Daman and Diu
+486017,WEST,Amritsar,Lakshadweep
+486019,SOUTH,Raipur,Delhi
+486021,NORTH,Allahabad,Puducherry
+486023,CENTRAL,Coimbatore,Ladakh
+486025,EAST,Jabalpur,Jammu and Kashmir
+486027,WEST,Gwalior,Maharashtra
+486029,SOUTH,Vijayawada,Delhi
+486031,NORTH,Madurai,Karnataka
+486033,CENTRAL,Guwahati,Andhra Pradesh
+486035,EAST,Chandigarh,Arunachal Pradesh
+486037,WEST,Hubli-Dharwad,Assam
+486039,SOUTH,Amroha,Bihar
+486041,NORTH,Moradabad,Chhattisgarh
+486043,CENTRAL,Gurgaon,Goa
+486045,EAST,Aligarh,Gujarat
+486047,WEST,Solapur,Haryana
+486049,SOUTH,Ranchi,Himachal Pradesh
+486051,NORTH,Jalandhar,Jharkhand
+486053,CENTRAL,Tiruchirappalli,Karnataka
+486055,EAST,Bhubaneswar,Kerala
+486057,WEST,Salem,Madhya Pradesh
+486059,SOUTH,Mysore,Maharashtra
+486061,NORTH,Thiruvananthapuram,Manipur
+486063,CENTRAL,Tiruppur,Meghalaya
+486065,EAST,Gwalior,Mizoram
+486067,WEST,Chandrapur,Nagaland
+486069,SOUTH,Mumbai,Odisha
+486071,NORTH,Delhi,Punjab
+486073,CENTRAL,Bangalore,Rajasthan
+486075,EAST,Hyderabad,Sikkim
+486077,WEST,Ahmedabad,Tamil Nadu
+486079,SOUTH,Chennai,Telangana
+486081,NORTH,Kolkata,Tripura
+486083,CENTRAL,Surat,Uttar Pradesh
+486085,EAST,Pune,Uttarakhand
+486087,WEST,Jaipur,West Bengal
+486089,SOUTH,Lucknow,Andaman and Nicobar Islands
+486091,NORTH,Kanpur,Chandigarh
+486093,CENTRAL,Nagpur,Dadra and Nagar Haveli and Daman and Diu
+486095,EAST,Indore,Lakshadweep
+486097,WEST,Thane,Delhi
+486099,SOUTH,Bhopal,Puducherry
+486101,NORTH,Visakhapatnam,Ladakh
+486103,CENTRAL,Vadodara,Jammu and Kashmir
+486105,EAST,Firozabad,Maharashtra
+486107,WEST,Ludhiana,Delhi
+486109,SOUTH,Rajkot,Karnataka
+486111,NORTH,Agra,Andhra Pradesh
+486113,CENTRAL,Siliguri,Arunachal Pradesh
+486115,EAST,Nashik,Assam
+486117,WEST,Faridabad,Bihar
+486119,SOUTH,Patna,Chhattisgarh
+486121,NORTH,Meerut,Goa
+486123,CENTRAL,Kalyan-Dombivli,Gujarat
+486125,EAST,Vasai-Virar,Haryana
+486127,WEST,Varanasi,Himachal Pradesh
+486129,SOUTH,Srinagar,Jharkhand
+486131,NORTH,Dhanbad,Karnataka
+486133,CENTRAL,Jodhpur,Kerala
+486135,EAST,Amritsar,Madhya Pradesh
+486137,WEST,Raipur,Maharashtra
+486139,SOUTH,Allahabad,Manipur
+486141,NORTH,Coimbatore,Meghalaya
+486143,CENTRAL,Jabalpur,Mizoram
+486145,EAST,Gwalior,Nagaland
+486147,WEST,Vijayawada,Odisha
+486149,SOUTH,Madurai,Punjab
+486151,NORTH,Guwahati,Rajasthan
+486153,CENTRAL,Chandigarh,Sikkim
+486155,EAST,Hubli-Dharwad,Tamil Nadu
+486157,WEST,Amroha,Telangana
+486159,SOUTH,Moradabad,Tripura
+486161,NORTH,Gurgaon,Uttar Pradesh
+486163,CENTRAL,Aligarh,Uttarakhand
+486165,EAST,Solapur,West Bengal
+486167,WEST,Ranchi,Andaman and Nicobar Islands
+486169,SOUTH,Jalandhar,Chandigarh
+486171,NORTH,Tiruchirappalli,Dadra and Nagar Haveli and Daman and Diu
+486173,CENTRAL,Bhubaneswar,Lakshadweep
+486175,EAST,Salem,Delhi
+486177,WEST,Mysore,Puducherry
+486179,SOUTH,Thiruvananthapuram,Ladakh
+486181,NORTH,Tiruppur,Jammu and Kashmir
+486183,CENTRAL,Gwalior,Maharashtra
+486185,EAST,Chandrapur,Delhi
+486187,WEST,Mumbai,Karnataka
+486189,SOUTH,Delhi,Andhra Pradesh
+486191,NORTH,Bangalore,Arunachal Pradesh
+486193,CENTRAL,Hyderabad,Assam
+486195,EAST,Ahmedabad,Bihar
+486197,WEST,Chennai,Chhattisgarh
+486199,SOUTH,Kolkata,Goa
+486201,NORTH,Surat,Gujarat
+486203,CENTRAL,Pune,Haryana
+486205,EAST,Jaipur,Himachal Pradesh
+486207,WEST,Lucknow,Jharkhand
+486209,SOUTH,Kanpur,Karnataka
+486211,NORTH,Nagpur,Kerala
+486213,CENTRAL,Indore,Madhya Pradesh
+486215,EAST,Thane,Maharashtra
+486217,WEST,Bhopal,Manipur
+486219,SOUTH,Visakhapatnam,Meghalaya
+486221,NORTH,Vadodara,Mizoram
+486223,CENTRAL,Firozabad,Nagaland
+486225,EAST,Ludhiana,Odisha
+486227,WEST,Rajkot,Punjab
+486229,SOUTH,Agra,Rajasthan
+486231,NORTH,Siliguri,Sikkim
+486233,CENTRAL,Nashik,Tamil Nadu
+486235,EAST,Faridabad,Telangana
+486237,WEST,Patna,Tripura
+486239,SOUTH,Meerut,Uttar Pradesh
+486241,NORTH,Kalyan-Dombivli,Uttarakhand
+486243,CENTRAL,Vasai-Virar,West Bengal
+486245,EAST,Varanasi,Andaman and Nicobar Islands
+486247,WEST,Srinagar,Chandigarh
+486249,SOUTH,Dhanbad,Dadra and Nagar Haveli and Daman and Diu
+486251,NORTH,Jodhpur,Lakshadweep
+486253,CENTRAL,Amritsar,Delhi
+486255,EAST,Raipur,Puducherry
+486257,WEST,Allahabad,Ladakh
+486259,SOUTH,Coimbatore,Jammu and Kashmir
+486261,NORTH,Jabalpur,Maharashtra
+486263,CENTRAL,Gwalior,Delhi
+486265,EAST,Vijayawada,Karnataka
+486267,WEST,Madurai,Andhra Pradesh
+486269,SOUTH,Guwahati,Arunachal Pradesh
+486271,NORTH,Chandigarh,Assam
+486273,CENTRAL,Hubli-Dharwad,Bihar
+486275,EAST,Amroha,Chhattisgarh
+486277,WEST,Moradabad,Goa
+486279,SOUTH,Gurgaon,Gujarat
+486281,NORTH,Aligarh,Haryana
+486283,CENTRAL,Solapur,Himachal Pradesh
+486285,EAST,Ranchi,Jharkhand
+486287,WEST,Jalandhar,Karnataka
+486289,SOUTH,Tiruchirappalli,Kerala
+486291,NORTH,Bhubaneswar,Madhya Pradesh
+486293,CENTRAL,Salem,Maharashtra
+486295,EAST,Mysore,Manipur
+486297,WEST,Thiruvananthapuram,Meghalaya
+486299,SOUTH,Tiruppur,Mizoram
+486301,NORTH,Gwalior,Nagaland
+486303,CENTRAL,Chandrapur,Odisha
+486305,EAST,Mumbai,Punjab
+486307,WEST,Delhi,Rajasthan
+486309,SOUTH,Bangalore,Sikkim
+486311,NORTH,Hyderabad,Tamil Nadu
+486313,CENTRAL,Ahmedabad,Telangana
+486315,EAST,Chennai,Tripura
+486317,WEST,Kolkata,Uttar Pradesh
+486319,SOUTH,Surat,Uttarakhand
+486321,NORTH,Pune,West Bengal
+486323,CENTRAL,Jaipur,Andaman and Nicobar Islands
+486325,EAST,Lucknow,Chandigarh
+486327,WEST,Kanpur,Dadra and Nagar Haveli and Daman and Diu
+486329,SOUTH,Nagpur,Lakshadweep
+486331,NORTH,Indore,Delhi
+486333,CENTRAL,Thane,Puducherry
+486335,EAST,Bhopal,Ladakh
+486337,WEST,Visakhapatnam,Jammu and Kashmir
+486339,SOUTH,Vadodara,Maharashtra
+486341,NORTH,Firozabad,Delhi
+486343,CENTRAL,Ludhiana,Karnataka
+486345,EAST,Rajkot,Andhra Pradesh
+486347,WEST,Agra,Arunachal Pradesh
+486349,SOUTH,Siliguri,Assam
+486351,NORTH,Nashik,Bihar
+486353,CENTRAL,Faridabad,Chhattisgarh
+486355,EAST,Patna,Goa
+486357,WEST,Meerut,Gujarat
+486359,SOUTH,Kalyan-Dombivli,Haryana
+486361,NORTH,Vasai-Virar,Himachal Pradesh
+486363,CENTRAL,Varanasi,Jharkhand
+486365,EAST,Srinagar,Karnataka
+486367,WEST,Dhanbad,Kerala
+486369,SOUTH,Jodhpur,Madhya Pradesh
+486371,NORTH,Amritsar,Maharashtra
+486373,CENTRAL,Raipur,Manipur
+486375,EAST,Allahabad,Meghalaya
+486377,WEST,Coimbatore,Mizoram
+486379,SOUTH,Jabalpur,Nagaland
+486381,NORTH,Gwalior,Odisha
+486383,CENTRAL,Vijayawada,Punjab
+486385,EAST,Madurai,Rajasthan
+486387,WEST,Guwahati,Sikkim
+486389,SOUTH,Chandigarh,Tamil Nadu
+486391,NORTH,Hubli-Dharwad,Telangana
+486393,CENTRAL,Amroha,Tripura
+486395,EAST,Moradabad,Uttar Pradesh
+486397,WEST,Gurgaon,Uttarakhand
+486399,SOUTH,Aligarh,West Bengal
+486401,NORTH,Solapur,Andaman and Nicobar Islands
+486403,CENTRAL,Ranchi,Chandigarh
+486405,EAST,Jalandhar,Dadra and Nagar Haveli and Daman and Diu
+486407,WEST,Tiruchirappalli,Lakshadweep
+486409,SOUTH,Bhubaneswar,Delhi
+486411,NORTH,Salem,Puducherry
+486413,CENTRAL,Mysore,Ladakh
+486415,EAST,Thiruvananthapuram,Jammu and Kashmir
+486417,WEST,Tiruppur,Maharashtra
+486419,SOUTH,Gwalior,Delhi
+486421,NORTH,Chandrapur,Karnataka
+486423,CENTRAL,Mumbai,Andhra Pradesh
+486425,EAST,Delhi,Arunachal Pradesh
+486427,WEST,Bangalore,Assam
+486429,SOUTH,Hyderabad,Bihar
+486431,NORTH,Ahmedabad,Chhattisgarh
+486433,CENTRAL,Chennai,Goa
+486435,EAST,Kolkata,Gujarat
+486437,WEST,Surat,Haryana
+486439,SOUTH,Pune,Himachal Pradesh
+486441,NORTH,Jaipur,Jharkhand
+486443,CENTRAL,Lucknow,Karnataka
+486445,EAST,Kanpur,Kerala
+486447,WEST,Nagpur,Madhya Pradesh
+486449,SOUTH,Indore,Maharashtra
+486451,NORTH,Thane,Manipur
+486453,CENTRAL,Bhopal,Meghalaya
+486455,EAST,Visakhapatnam,Mizoram
+486457,WEST,Vadodara,Nagaland
+486459,SOUTH,Firozabad,Odisha
+486461,NORTH,Ludhiana,Punjab
+486463,CENTRAL,Rajkot,Rajasthan
+486465,EAST,Agra,Sikkim
+486467,WEST,Siliguri,Tamil Nadu
+486469,SOUTH,Nashik,Telangana
+486471,NORTH,Faridabad,Tripura
+486473,CENTRAL,Patna,Uttar Pradesh
+486475,EAST,Meerut,Uttarakhand
+486477,WEST,Kalyan-Dombivli,West Bengal
+486479,SOUTH,Vasai-Virar,Andaman and Nicobar Islands
+486481,NORTH,Varanasi,Chandigarh
+486483,CENTRAL,Srinagar,Dadra and Nagar Haveli and Daman and Diu
+486485,EAST,Dhanbad,Lakshadweep
+486487,WEST,Jodhpur,Delhi
+486489,SOUTH,Amritsar,Puducherry
+486491,NORTH,Raipur,Ladakh
+486493,CENTRAL,Allahabad,Jammu and Kashmir
+486495,EAST,Coimbatore,Maharashtra
+486497,WEST,Jabalpur,Delhi
+486499,SOUTH,Gwalior,Karnataka
+486501,NORTH,Vijayawada,Andhra Pradesh
+486503,CENTRAL,Madurai,Arunachal Pradesh
+486505,EAST,Guwahati,Assam
+486507,WEST,Chandigarh,Bihar
+486509,SOUTH,Hubli-Dharwad,Chhattisgarh
+486511,NORTH,Amroha,Goa
+486513,CENTRAL,Moradabad,Gujarat
+486515,EAST,Gurgaon,Haryana
+486517,WEST,Aligarh,Himachal Pradesh
+486519,SOUTH,Solapur,Jharkhand
+486521,NORTH,Ranchi,Karnataka
+486523,CENTRAL,Jalandhar,Kerala
+486525,EAST,Tiruchirappalli,Madhya Pradesh
+486527,WEST,Bhubaneswar,Maharashtra
+486529,SOUTH,Salem,Manipur
+486531,NORTH,Mysore,Meghalaya
+486533,CENTRAL,Thiruvananthapuram,Mizoram
+486535,EAST,Tiruppur,Nagaland
+486537,WEST,Gwalior,Odisha
+486539,SOUTH,Chandrapur,Punjab
+486541,NORTH,Mumbai,Rajasthan
+486543,CENTRAL,Delhi,Sikkim
+486545,EAST,Bangalore,Tamil Nadu
+486547,WEST,Hyderabad,Telangana
+486549,SOUTH,Ahmedabad,Tripura
+486551,NORTH,Chennai,Uttar Pradesh
+486553,CENTRAL,Kolkata,Uttarakhand
+486555,EAST,Surat,West Bengal
+486557,WEST,Pune,Andaman and Nicobar Islands
+486559,SOUTH,Jaipur,Chandigarh
+486561,NORTH,Lucknow,Dadra and Nagar Haveli and Daman and Diu
+486563,CENTRAL,Kanpur,Lakshadweep
+486565,EAST,Nagpur,Delhi
+486567,WEST,Indore,Puducherry
+486569,SOUTH,Thane,Ladakh
+486571,NORTH,Bhopal,Jammu and Kashmir
+486573,CENTRAL,Visakhapatnam,Maharashtra
+486575,EAST,Vadodara,Delhi
+486577,WEST,Firozabad,Karnataka
+486579,SOUTH,Ludhiana,Andhra Pradesh
+486581,NORTH,Rajkot,Arunachal Pradesh
+486583,CENTRAL,Agra,Assam
+486585,EAST,Siliguri,Bihar
+486587,WEST,Nashik,Chhattisgarh
+486589,SOUTH,Faridabad,Goa
+486591,NORTH,Patna,Gujarat
+486593,CENTRAL,Meerut,Haryana
+486595,EAST,Kalyan-Dombivli,Himachal Pradesh
+486597,WEST,Vasai-Virar,Jharkhand
+486599,SOUTH,Varanasi,Karnataka
+486601,NORTH,Srinagar,Kerala
+486603,CENTRAL,Dhanbad,Madhya Pradesh
+486605,EAST,Jodhpur,Maharashtra
+486607,WEST,Amritsar,Manipur
+486609,SOUTH,Raipur,Meghalaya
+486611,NORTH,Allahabad,Mizoram
+486613,CENTRAL,Coimbatore,Nagaland
+486615,EAST,Jabalpur,Odisha
+486617,WEST,Gwalior,Punjab
+486619,SOUTH,Vijayawada,Rajasthan
+486621,NORTH,Madurai,Sikkim
+486623,CENTRAL,Guwahati,Tamil Nadu
+486625,EAST,Chandigarh,Telangana
+486627,WEST,Hubli-Dharwad,Tripura
+486629,SOUTH,Amroha,Uttar Pradesh
+486631,NORTH,Moradabad,Uttarakhand
+486633,CENTRAL,Gurgaon,West Bengal
+486635,EAST,Aligarh,Andaman and Nicobar Islands
+486637,WEST,Solapur,Chandigarh
+486639,SOUTH,Ranchi,Dadra and Nagar Haveli and Daman and Diu
+486641,NORTH,Jalandhar,Lakshadweep
+486643,CENTRAL,Tiruchirappalli,Delhi
+486645,EAST,Bhubaneswar,Puducherry
+486647,WEST,Salem,Ladakh
+486649,SOUTH,Mysore,Jammu and Kashmir
+486651,NORTH,Thiruvananthapuram,Maharashtra
+486653,CENTRAL,Tiruppur,Delhi
+486655,EAST,Gwalior,Karnataka
+486657,WEST,Chandrapur,Andhra Pradesh
+486659,SOUTH,Mumbai,Arunachal Pradesh
+486661,NORTH,Delhi,Assam
+486663,CENTRAL,Bangalore,Bihar
+486665,EAST,Hyderabad,Chhattisgarh
+486667,WEST,Ahmedabad,Goa
+486669,SOUTH,Chennai,Gujarat
+486671,NORTH,Kolkata,Haryana
+486673,CENTRAL,Surat,Himachal Pradesh
+486675,EAST,Pune,Jharkhand
+486677,WEST,Jaipur,Karnataka
+486679,SOUTH,Lucknow,Kerala
+486681,NORTH,Kanpur,Madhya Pradesh
+486683,CENTRAL,Nagpur,Maharashtra
+486685,EAST,Indore,Manipur
+486687,WEST,Thane,Meghalaya
+486689,SOUTH,Bhopal,Mizoram
+486691,NORTH,Visakhapatnam,Nagaland
+486693,CENTRAL,Vadodara,Odisha
+486695,EAST,Firozabad,Punjab
+486697,WEST,Ludhiana,Rajasthan
+486699,SOUTH,Rajkot,Sikkim
+486701,NORTH,Agra,Tamil Nadu
+486703,CENTRAL,Siliguri,Telangana
+486705,EAST,Nashik,Tripura
+486707,WEST,Faridabad,Uttar Pradesh
+486709,SOUTH,Patna,Uttarakhand
+486711,NORTH,Meerut,West Bengal
+486713,CENTRAL,Kalyan-Dombivli,Andaman and Nicobar Islands
+486715,EAST,Vasai-Virar,Chandigarh
+486717,WEST,Varanasi,Dadra and Nagar Haveli and Daman and Diu
+486719,SOUTH,Srinagar,Lakshadweep
+486721,NORTH,Dhanbad,Delhi
+486723,CENTRAL,Jodhpur,Puducherry
+486725,EAST,Amritsar,Ladakh
+486727,WEST,Raipur,Jammu and Kashmir
+486729,SOUTH,Allahabad,Maharashtra
+486731,NORTH,Coimbatore,Delhi
+486733,CENTRAL,Jabalpur,Karnataka
+486735,EAST,Gwalior,Andhra Pradesh
+486737,WEST,Vijayawada,Arunachal Pradesh
+486739,SOUTH,Madurai,Assam
+486741,NORTH,Guwahati,Bihar
+486743,CENTRAL,Chandigarh,Chhattisgarh
+486745,EAST,Hubli-Dharwad,Goa
+486747,WEST,Amroha,Gujarat
+486749,SOUTH,Moradabad,Haryana
+486751,NORTH,Gurgaon,Himachal Pradesh
+486753,CENTRAL,Aligarh,Jharkhand
+486755,EAST,Solapur,Karnataka
+486757,WEST,Ranchi,Kerala
+486759,SOUTH,Jalandhar,Madhya Pradesh
+486761,NORTH,Tiruchirappalli,Maharashtra
+486763,CENTRAL,Bhubaneswar,Manipur
+486765,EAST,Salem,Meghalaya
+486767,WEST,Mysore,Mizoram
+486769,SOUTH,Thiruvananthapuram,Nagaland
+486771,NORTH,Tiruppur,Odisha
+486773,CENTRAL,Gwalior,Punjab
+486775,EAST,Chandrapur,Rajasthan
+486777,WEST,Mumbai,Sikkim
+486779,SOUTH,Delhi,Tamil Nadu
+486781,NORTH,Bangalore,Telangana
+486783,CENTRAL,Hyderabad,Tripura
+486785,EAST,Ahmedabad,Uttar Pradesh
+486787,WEST,Chennai,Uttarakhand
+486789,SOUTH,Kolkata,West Bengal
+486791,NORTH,Surat,Andaman and Nicobar Islands
+486793,CENTRAL,Pune,Chandigarh
+486795,EAST,Jaipur,Dadra and Nagar Haveli and Daman and Diu
+486797,WEST,Lucknow,Lakshadweep
+486799,SOUTH,Kanpur,Delhi
+486801,NORTH,Nagpur,Puducherry
+486803,CENTRAL,Indore,Ladakh
+486805,EAST,Thane,Jammu and Kashmir
+486807,WEST,Bhopal,Maharashtra
+486809,SOUTH,Visakhapatnam,Delhi
+486811,NORTH,Vadodara,Karnataka
+486813,CENTRAL,Firozabad,Andhra Pradesh
+486815,EAST,Ludhiana,Arunachal Pradesh
+486817,WEST,Rajkot,Assam
+486819,SOUTH,Agra,Bihar
+486821,NORTH,Siliguri,Chhattisgarh
+486823,CENTRAL,Nashik,Goa
+486825,EAST,Faridabad,Gujarat
+486827,WEST,Patna,Haryana
+486829,SOUTH,Meerut,Himachal Pradesh
+486831,NORTH,Kalyan-Dombivli,Jharkhand
+486833,CENTRAL,Vasai-Virar,Karnataka
+486835,EAST,Varanasi,Kerala
+486837,WEST,Srinagar,Madhya Pradesh
+486839,SOUTH,Dhanbad,Maharashtra
+486841,NORTH,Jodhpur,Manipur
+486843,CENTRAL,Amritsar,Meghalaya
+486845,EAST,Raipur,Mizoram
+486847,WEST,Allahabad,Nagaland
+486849,SOUTH,Coimbatore,Odisha
+486851,NORTH,Jabalpur,Punjab
+486853,CENTRAL,Gwalior,Rajasthan
+486855,EAST,Vijayawada,Sikkim
+486857,WEST,Madurai,Tamil Nadu
+486859,SOUTH,Guwahati,Telangana
+486861,NORTH,Chandigarh,Tripura
+486863,CENTRAL,Hubli-Dharwad,Uttar Pradesh
+486865,EAST,Amroha,Uttarakhand
+486867,WEST,Moradabad,West Bengal
+486869,SOUTH,Gurgaon,Andaman and Nicobar Islands
+486871,NORTH,Aligarh,Chandigarh
+486873,CENTRAL,Solapur,Dadra and Nagar Haveli and Daman and Diu
+486875,EAST,Ranchi,Lakshadweep
+486877,WEST,Jalandhar,Delhi
+486879,SOUTH,Tiruchirappalli,Puducherry
+486881,NORTH,Bhubaneswar,Ladakh
+486883,CENTRAL,Salem,Jammu and Kashmir
+486885,EAST,Mysore,Maharashtra
+486887,WEST,Thiruvananthapuram,Delhi
+486889,SOUTH,Tiruppur,Karnataka
+486891,NORTH,Gwalior,Andhra Pradesh
+486893,CENTRAL,Chandrapur,Arunachal Pradesh
+486895,EAST,Mumbai,Assam
+486897,WEST,Delhi,Bihar
+486899,SOUTH,Bangalore,Chhattisgarh
+486901,NORTH,Hyderabad,Goa
+486903,CENTRAL,Ahmedabad,Gujarat
+486905,EAST,Chennai,Haryana
+486907,WEST,Kolkata,Himachal Pradesh
+486909,SOUTH,Surat,Jharkhand
+486911,NORTH,Pune,Karnataka
+486913,CENTRAL,Jaipur,Kerala
+486915,EAST,Lucknow,Madhya Pradesh
+486917,WEST,Kanpur,Maharashtra
+486919,SOUTH,Nagpur,Manipur
+486921,NORTH,Indore,Meghalaya
+486923,CENTRAL,Thane,Mizoram
+486925,EAST,Bhopal,Nagaland
+486927,WEST,Visakhapatnam,Odisha
+486929,SOUTH,Vadodara,Punjab
+486931,NORTH,Firozabad,Rajasthan
+486933,CENTRAL,Ludhiana,Sikkim
+486935,EAST,Rajkot,Tamil Nadu
+486937,WEST,Agra,Telangana
+486939,SOUTH,Siliguri,Tripura
+486941,NORTH,Nashik,Uttar Pradesh
+486943,CENTRAL,Faridabad,Uttarakhand
+486945,EAST,Patna,West Bengal
+486947,WEST,Meerut,Andaman and Nicobar Islands
+486949,SOUTH,Kalyan-Dombivli,Chandigarh
+486951,NORTH,Vasai-Virar,Dadra and Nagar Haveli and Daman and Diu
+486953,CENTRAL,Varanasi,Lakshadweep
+486955,EAST,Srinagar,Delhi
+486957,WEST,Dhanbad,Puducherry
+486959,SOUTH,Jodhpur,Ladakh
+486961,NORTH,Amritsar,Jammu and Kashmir
+486963,CENTRAL,Raipur,Maharashtra
+486965,EAST,Allahabad,Delhi
+486967,WEST,Coimbatore,Karnataka
+486969,SOUTH,Jabalpur,Andhra Pradesh
+486971,NORTH,Gwalior,Arunachal Pradesh
+486973,CENTRAL,Vijayawada,Assam
+486975,EAST,Madurai,Bihar
+486977,WEST,Guwahati,Chhattisgarh
+486979,SOUTH,Chandigarh,Goa
+486981,NORTH,Hubli-Dharwad,Gujarat
+486983,CENTRAL,Amroha,Haryana
+486985,EAST,Moradabad,Himachal Pradesh
+486987,WEST,Gurgaon,Jharkhand
+486989,SOUTH,Aligarh,Karnataka
+486991,NORTH,Solapur,Kerala
+486993,CENTRAL,Ranchi,Madhya Pradesh
+486995,EAST,Jalandhar,Maharashtra
+486997,WEST,Tiruchirappalli,Manipur
+486999,SOUTH,Bhubaneswar,Meghalaya
+487001,NORTH,Salem,Mizoram
+487003,CENTRAL,Mysore,Nagaland
+487005,EAST,Thiruvananthapuram,Odisha
+487007,WEST,Tiruppur,Punjab
+487009,SOUTH,Gwalior,Rajasthan
+487011,NORTH,Chandrapur,Sikkim
+487013,CENTRAL,Mumbai,Tamil Nadu
+487015,EAST,Delhi,Telangana
+487017,WEST,Bangalore,Tripura
+487019,SOUTH,Hyderabad,Uttar Pradesh
+487021,NORTH,Ahmedabad,Uttarakhand
+487023,CENTRAL,Chennai,West Bengal
+487025,EAST,Kolkata,Andaman and Nicobar Islands
+487027,WEST,Surat,Chandigarh
+487029,SOUTH,Pune,Dadra and Nagar Haveli and Daman and Diu
+487031,NORTH,Jaipur,Lakshadweep
+487033,CENTRAL,Lucknow,Delhi
+487035,EAST,Kanpur,Puducherry
+487037,WEST,Nagpur,Ladakh
+487039,SOUTH,Indore,Jammu and Kashmir
+487041,NORTH,Thane,Maharashtra
+487043,CENTRAL,Bhopal,Delhi
+487045,EAST,Visakhapatnam,Karnataka
+487047,WEST,Vadodara,Andhra Pradesh
+487049,SOUTH,Firozabad,Arunachal Pradesh
+487051,NORTH,Ludhiana,Assam
+487053,CENTRAL,Rajkot,Bihar
+487055,EAST,Agra,Chhattisgarh
+487057,WEST,Siliguri,Goa
+487059,SOUTH,Nashik,Gujarat
+487061,NORTH,Faridabad,Haryana
+487063,CENTRAL,Patna,Himachal Pradesh
+487065,EAST,Meerut,Jharkhand
+487067,WEST,Kalyan-Dombivli,Karnataka
+487069,SOUTH,Vasai-Virar,Kerala
+487071,NORTH,Varanasi,Madhya Pradesh
+487073,CENTRAL,Srinagar,Maharashtra
+487075,EAST,Dhanbad,Manipur
+487077,WEST,Jodhpur,Meghalaya
+487079,SOUTH,Amritsar,Mizoram
+487081,NORTH,Raipur,Nagaland
+487083,CENTRAL,Allahabad,Odisha
+487085,EAST,Coimbatore,Punjab
+487087,WEST,Jabalpur,Rajasthan
+487089,SOUTH,Gwalior,Sikkim
+487091,NORTH,Vijayawada,Tamil Nadu
+487093,CENTRAL,Madurai,Telangana
+487095,EAST,Guwahati,Tripura
+487097,WEST,Chandigarh,Uttar Pradesh
+487099,SOUTH,Hubli-Dharwad,Uttarakhand
+487101,NORTH,Amroha,West Bengal
+487103,CENTRAL,Moradabad,Andaman and Nicobar Islands
+487105,EAST,Gurgaon,Chandigarh
+487107,WEST,Aligarh,Dadra and Nagar Haveli and Daman and Diu
+487109,SOUTH,Solapur,Lakshadweep
+487111,NORTH,Ranchi,Delhi
+487113,CENTRAL,Jalandhar,Puducherry
+487115,EAST,Tiruchirappalli,Ladakh
+487117,WEST,Bhubaneswar,Jammu and Kashmir
+487119,SOUTH,Salem,Maharashtra
+487121,NORTH,Mysore,Delhi
+487123,CENTRAL,Thiruvananthapuram,Karnataka
+487125,EAST,Tiruppur,Andhra Pradesh
+487127,WEST,Gwalior,Arunachal Pradesh
+487129,SOUTH,Chandrapur,Assam
+487131,NORTH,Mumbai,Bihar
+487133,CENTRAL,Delhi,Chhattisgarh
+487135,EAST,Bangalore,Goa
+487137,WEST,Hyderabad,Gujarat
+487139,SOUTH,Ahmedabad,Haryana
+487141,NORTH,Chennai,Himachal Pradesh
+487143,CENTRAL,Kolkata,Jharkhand
+487145,EAST,Surat,Karnataka
+487147,WEST,Pune,Kerala
+487149,SOUTH,Jaipur,Madhya Pradesh
+487151,NORTH,Lucknow,Maharashtra
+487153,CENTRAL,Kanpur,Manipur
+487155,EAST,Nagpur,Meghalaya
+487157,WEST,Indore,Mizoram
+487159,SOUTH,Thane,Nagaland
+487161,NORTH,Bhopal,Odisha
+487163,CENTRAL,Visakhapatnam,Punjab
+487165,EAST,Vadodara,Rajasthan
+487167,WEST,Firozabad,Sikkim
+487169,SOUTH,Ludhiana,Tamil Nadu
+487171,NORTH,Rajkot,Telangana
+487173,CENTRAL,Agra,Tripura
+487175,EAST,Siliguri,Uttar Pradesh
+487177,WEST,Nashik,Uttarakhand
+487179,SOUTH,Faridabad,West Bengal
+487181,NORTH,Patna,Andaman and Nicobar Islands
+487183,CENTRAL,Meerut,Chandigarh
+487185,EAST,Kalyan-Dombivli,Dadra and Nagar Haveli and Daman and Diu
+487187,WEST,Vasai-Virar,Lakshadweep
+487189,SOUTH,Varanasi,Delhi
+487191,NORTH,Srinagar,Puducherry
+487193,CENTRAL,Dhanbad,Ladakh
+487195,EAST,Jodhpur,Jammu and Kashmir
+487197,WEST,Amritsar,Maharashtra
+487199,SOUTH,Raipur,Delhi
+487201,NORTH,Allahabad,Karnataka
+487203,CENTRAL,Coimbatore,Andhra Pradesh
+487205,EAST,Jabalpur,Arunachal Pradesh
+487207,WEST,Gwalior,Assam
+487209,SOUTH,Vijayawada,Bihar
+487211,NORTH,Madurai,Chhattisgarh
+487213,CENTRAL,Guwahati,Goa
+487215,EAST,Chandigarh,Gujarat
+487217,WEST,Hubli-Dharwad,Haryana
+487219,SOUTH,Amroha,Himachal Pradesh
+487221,NORTH,Moradabad,Jharkhand
+487223,CENTRAL,Gurgaon,Karnataka
+487225,EAST,Aligarh,Kerala
+487227,WEST,Solapur,Madhya Pradesh
+487229,SOUTH,Ranchi,Maharashtra
+487231,NORTH,Jalandhar,Manipur
+487233,CENTRAL,Tiruchirappalli,Meghalaya
+487235,EAST,Bhubaneswar,Mizoram
+487237,WEST,Salem,Nagaland
+487239,SOUTH,Mysore,Odisha
+487241,NORTH,Thiruvananthapuram,Punjab
+487243,CENTRAL,Tiruppur,Rajasthan
+487245,EAST,Gwalior,Sikkim
+487247,WEST,Chandrapur,Tamil Nadu
+487249,SOUTH,Mumbai,Telangana
+487251,NORTH,Delhi,Tripura
+487253,CENTRAL,Bangalore,Uttar Pradesh
+487255,EAST,Hyderabad,Uttarakhand
+487257,WEST,Ahmedabad,West Bengal
+487259,SOUTH,Chennai,Andaman and Nicobar Islands
+487261,NORTH,Kolkata,Chandigarh
+487263,CENTRAL,Surat,Dadra and Nagar Haveli and Daman and Diu
+487265,EAST,Pune,Lakshadweep
+487267,WEST,Jaipur,Delhi
+487269,SOUTH,Lucknow,Puducherry
+487271,NORTH,Kanpur,Ladakh
+487273,CENTRAL,Nagpur,Jammu and Kashmir
+487275,EAST,Indore,Maharashtra
+487277,WEST,Thane,Delhi
+487279,SOUTH,Bhopal,Karnataka
+487281,NORTH,Visakhapatnam,Andhra Pradesh
+487283,CENTRAL,Vadodara,Arunachal Pradesh
+487285,EAST,Firozabad,Assam
+487287,WEST,Ludhiana,Bihar
+487289,SOUTH,Rajkot,Chhattisgarh
+487291,NORTH,Agra,Goa
+487293,CENTRAL,Siliguri,Gujarat
+487295,EAST,Nashik,Haryana
+487297,WEST,Faridabad,Himachal Pradesh
+487299,SOUTH,Patna,Jharkhand
+487301,NORTH,Meerut,Karnataka
+487303,CENTRAL,Kalyan-Dombivli,Kerala
+487305,EAST,Vasai-Virar,Madhya Pradesh
+487307,WEST,Varanasi,Maharashtra
+487309,SOUTH,Srinagar,Manipur
+487311,NORTH,Dhanbad,Meghalaya
+487313,CENTRAL,Jodhpur,Mizoram
+487315,EAST,Amritsar,Nagaland
+487317,WEST,Raipur,Odisha
+487319,SOUTH,Allahabad,Punjab
+487321,NORTH,Coimbatore,Rajasthan
+487323,CENTRAL,Jabalpur,Sikkim
+487325,EAST,Gwalior,Tamil Nadu
+487327,WEST,Vijayawada,Telangana
+487329,SOUTH,Madurai,Tripura
+487331,NORTH,Guwahati,Uttar Pradesh
+487333,CENTRAL,Chandigarh,Uttarakhand
+487335,EAST,Hubli-Dharwad,West Bengal
+487337,WEST,Amroha,Andaman and Nicobar Islands
+487339,SOUTH,Moradabad,Chandigarh
+487341,NORTH,Gurgaon,Dadra and Nagar Haveli and Daman and Diu
+487343,CENTRAL,Aligarh,Lakshadweep
+487345,EAST,Solapur,Delhi
+487347,WEST,Ranchi,Puducherry
+487349,SOUTH,Jalandhar,Ladakh
+487351,NORTH,Tiruchirappalli,Jammu and Kashmir
+487353,CENTRAL,Bhubaneswar,Maharashtra
+487355,EAST,Salem,Delhi
+487357,WEST,Mysore,Karnataka
+487359,SOUTH,Thiruvananthapuram,Andhra Pradesh
+487361,NORTH,Tiruppur,Arunachal Pradesh
+487363,CENTRAL,Gwalior,Assam
+487365,EAST,Chandrapur,Bihar
+487367,WEST,Mumbai,Chhattisgarh
+487369,SOUTH,Delhi,Goa
+487371,NORTH,Bangalore,Gujarat
+487373,CENTRAL,Hyderabad,Haryana
+487375,EAST,Ahmedabad,Himachal Pradesh
+487377,WEST,Chennai,Jharkhand
+487379,SOUTH,Kolkata,Karnataka
+487381,NORTH,Surat,Kerala
+487383,CENTRAL,Pune,Madhya Pradesh
+487385,EAST,Jaipur,Maharashtra
+487387,WEST,Lucknow,Manipur
+487389,SOUTH,Kanpur,Meghalaya
+487391,NORTH,Nagpur,Mizoram
+487393,CENTRAL,Indore,Nagaland
+487395,EAST,Thane,Odisha
+487397,WEST,Bhopal,Punjab
+487399,SOUTH,Visakhapatnam,Rajasthan
+487401,NORTH,Vadodara,Sikkim
+487403,CENTRAL,Firozabad,Tamil Nadu
+487405,EAST,Ludhiana,Telangana
+487407,WEST,Rajkot,Tripura
+487409,SOUTH,Agra,Uttar Pradesh
+487411,NORTH,Siliguri,Uttarakhand
+487413,CENTRAL,Nashik,West Bengal
+487415,EAST,Faridabad,Andaman and Nicobar Islands
+487417,WEST,Patna,Chandigarh
+487419,SOUTH,Meerut,Dadra and Nagar Haveli and Daman and Diu
+487421,NORTH,Kalyan-Dombivli,Lakshadweep
+487423,CENTRAL,Vasai-Virar,Delhi
+487425,EAST,Varanasi,Puducherry
+487427,WEST,Srinagar,Ladakh
+487429,SOUTH,Dhanbad,Jammu and Kashmir
+487431,NORTH,Jodhpur,Maharashtra
+487433,CENTRAL,Amritsar,Delhi
+487435,EAST,Raipur,Karnataka
+487437,WEST,Allahabad,Andhra Pradesh
+487439,SOUTH,Coimbatore,Arunachal Pradesh
+487441,NORTH,Jabalpur,Assam
+487443,CENTRAL,Gwalior,Bihar
+487445,EAST,Vijayawada,Chhattisgarh
+487447,WEST,Madurai,Goa
+487449,SOUTH,Guwahati,Gujarat
+487451,NORTH,Chandigarh,Haryana
+487453,CENTRAL,Hubli-Dharwad,Himachal Pradesh
+487455,EAST,Amroha,Jharkhand
+487457,WEST,Moradabad,Karnataka
+487459,SOUTH,Gurgaon,Kerala
+487461,NORTH,Aligarh,Madhya Pradesh
+487463,CENTRAL,Solapur,Maharashtra
+487465,EAST,Ranchi,Manipur
+487467,WEST,Jalandhar,Meghalaya
+487469,SOUTH,Tiruchirappalli,Mizoram
+487471,NORTH,Bhubaneswar,Nagaland
+487473,CENTRAL,Salem,Odisha
+487475,EAST,Mysore,Punjab
+487477,WEST,Thiruvananthapuram,Rajasthan
+487479,SOUTH,Tiruppur,Sikkim
+487481,NORTH,Gwalior,Tamil Nadu
+487483,CENTRAL,Chandrapur,Telangana
+487485,EAST,Mumbai,Tripura
+487487,WEST,Delhi,Uttar Pradesh
+487489,SOUTH,Bangalore,Uttarakhand
+487491,NORTH,Hyderabad,West Bengal
+487493,CENTRAL,Ahmedabad,Andaman and Nicobar Islands
+487495,EAST,Chennai,Chandigarh
+487497,WEST,Kolkata,Dadra and Nagar Haveli and Daman and Diu
+487499,SOUTH,Surat,Lakshadweep
+487501,NORTH,Pune,Delhi
+487503,CENTRAL,Jaipur,Puducherry
+487505,EAST,Lucknow,Ladakh
+487507,WEST,Kanpur,Jammu and Kashmir
+487509,SOUTH,Nagpur,Maharashtra
+487511,NORTH,Indore,Delhi
+487513,CENTRAL,Thane,Karnataka
+487515,EAST,Bhopal,Andhra Pradesh
+487517,WEST,Visakhapatnam,Arunachal Pradesh
+487519,SOUTH,Vadodara,Assam
+487521,NORTH,Firozabad,Bihar
+487523,CENTRAL,Ludhiana,Chhattisgarh
+487525,EAST,Rajkot,Goa
+487527,WEST,Agra,Gujarat
+487529,SOUTH,Siliguri,Haryana
+487531,NORTH,Nashik,Himachal Pradesh
+487533,CENTRAL,Faridabad,Jharkhand
+487535,EAST,Patna,Karnataka
+487537,WEST,Meerut,Kerala
+487539,SOUTH,Kalyan-Dombivli,Madhya Pradesh
+487541,NORTH,Vasai-Virar,Maharashtra
+487543,CENTRAL,Varanasi,Manipur
+487545,EAST,Srinagar,Meghalaya
+487547,WEST,Dhanbad,Mizoram
+487549,SOUTH,Jodhpur,Nagaland
+487551,NORTH,Amritsar,Odisha
+487553,CENTRAL,Raipur,Punjab
+487555,EAST,Allahabad,Rajasthan
+487557,WEST,Coimbatore,Sikkim
+487559,SOUTH,Jabalpur,Tamil Nadu
+487561,NORTH,Gwalior,Telangana
+487563,CENTRAL,Vijayawada,Tripura
+487565,EAST,Madurai,Uttar Pradesh
+487567,WEST,Guwahati,Uttarakhand
+487569,SOUTH,Chandigarh,West Bengal
+487571,NORTH,Hubli-Dharwad,Andaman and Nicobar Islands
+487573,CENTRAL,Amroha,Chandigarh
+487575,EAST,Moradabad,Dadra and Nagar Haveli and Daman and Diu
+487577,WEST,Gurgaon,Lakshadweep
+487579,SOUTH,Aligarh,Delhi
+487581,NORTH,Solapur,Puducherry
+487583,CENTRAL,Ranchi,Ladakh
+487585,EAST,Jalandhar,Jammu and Kashmir
+487587,WEST,Tiruchirappalli,Maharashtra
+487589,SOUTH,Bhubaneswar,Delhi
+487591,NORTH,Salem,Karnataka
+487593,CENTRAL,Mysore,Andhra Pradesh
+487595,EAST,Thiruvananthapuram,Arunachal Pradesh
+487597,WEST,Tiruppur,Assam
+487599,SOUTH,Gwalior,Bihar
+487601,NORTH,Chandrapur,Chhattisgarh
+487603,CENTRAL,Mumbai,Goa
+487605,EAST,Delhi,Gujarat
+487607,WEST,Bangalore,Haryana
+487609,SOUTH,Hyderabad,Himachal Pradesh
+487611,NORTH,Ahmedabad,Jharkhand
+487613,CENTRAL,Chennai,Karnataka
+487615,EAST,Kolkata,Kerala
+487617,WEST,Surat,Madhya Pradesh
+487619,SOUTH,Pune,Maharashtra
+487621,NORTH,Jaipur,Manipur
+487623,CENTRAL,Lucknow,Meghalaya
+487625,EAST,Kanpur,Mizoram
+487627,WEST,Nagpur,Nagaland
+487629,SOUTH,Indore,Odisha
+487631,NORTH,Thane,Punjab
+487633,CENTRAL,Bhopal,Rajasthan
+487635,EAST,Visakhapatnam,Sikkim
+487637,WEST,Vadodara,Tamil Nadu
+487639,SOUTH,Firozabad,Telangana
+487641,NORTH,Ludhiana,Tripura
+487643,CENTRAL,Rajkot,Uttar Pradesh
+487645,EAST,Agra,Uttarakhand
+487647,WEST,Siliguri,West Bengal
+487649,SOUTH,Nashik,Andaman and Nicobar Islands
+487651,NORTH,Faridabad,Chandigarh
+487653,CENTRAL,Patna,Dadra and Nagar Haveli and Daman and Diu
+487655,EAST,Meerut,Lakshadweep
+487657,WEST,Kalyan-Dombivli,Delhi
+487659,SOUTH,Vasai-Virar,Puducherry
+487661,NORTH,Varanasi,Ladakh
+487663,CENTRAL,Srinagar,Jammu and Kashmir
+487665,EAST,Dhanbad,Maharashtra
+487667,WEST,Jodhpur,Delhi
+487669,SOUTH,Amritsar,Karnataka
+487671,NORTH,Raipur,Andhra Pradesh
+487673,CENTRAL,Allahabad,Arunachal Pradesh
+487675,EAST,Coimbatore,Assam
+487677,WEST,Jabalpur,Bihar
+487679,SOUTH,Gwalior,Chhattisgarh
+487681,NORTH,Vijayawada,Goa
+487683,CENTRAL,Madurai,Gujarat
+487685,EAST,Guwahati,Haryana
+487687,WEST,Chandigarh,Himachal Pradesh
+487689,SOUTH,Hubli-Dharwad,Jharkhand
+487691,NORTH,Amroha,Karnataka
+487693,CENTRAL,Moradabad,Kerala
+487695,EAST,Gurgaon,Madhya Pradesh
+487697,WEST,Aligarh,Maharashtra
+487699,SOUTH,Solapur,Manipur
+487701,NORTH,Ranchi,Meghalaya
+487703,CENTRAL,Jalandhar,Mizoram
+487705,EAST,Tiruchirappalli,Nagaland
+487707,WEST,Bhubaneswar,Odisha
+487709,SOUTH,Salem,Punjab
+487711,NORTH,Mysore,Rajasthan
+487713,CENTRAL,Thiruvananthapuram,Sikkim
+487715,EAST,Tiruppur,Tamil Nadu
+487717,WEST,Gwalior,Telangana
+487719,SOUTH,Chandrapur,Tripura
+487721,NORTH,Mumbai,Uttar Pradesh
+487723,CENTRAL,Delhi,Uttarakhand
+487725,EAST,Bangalore,West Bengal
+487727,WEST,Hyderabad,Andaman and Nicobar Islands
+487729,SOUTH,Ahmedabad,Chandigarh
+487731,NORTH,Chennai,Dadra and Nagar Haveli and Daman and Diu
+487733,CENTRAL,Kolkata,Lakshadweep
+487735,EAST,Surat,Delhi
+487737,WEST,Pune,Puducherry
+487739,SOUTH,Jaipur,Ladakh
+487741,NORTH,Lucknow,Jammu and Kashmir
+487743,CENTRAL,Kanpur,Maharashtra
+487745,EAST,Nagpur,Delhi
+487747,WEST,Indore,Karnataka
+487749,SOUTH,Thane,Andhra Pradesh
+487751,NORTH,Bhopal,Arunachal Pradesh
+487753,CENTRAL,Visakhapatnam,Assam
+487755,EAST,Vadodara,Bihar
+487757,WEST,Firozabad,Chhattisgarh
+487759,SOUTH,Ludhiana,Goa
+487761,NORTH,Rajkot,Gujarat
+487763,CENTRAL,Agra,Haryana
+487765,EAST,Siliguri,Himachal Pradesh
+487767,WEST,Nashik,Jharkhand
+487769,SOUTH,Faridabad,Karnataka
+487771,NORTH,Patna,Kerala
+487773,CENTRAL,Meerut,Madhya Pradesh
+487775,EAST,Kalyan-Dombivli,Maharashtra
+487777,WEST,Vasai-Virar,Manipur
+487779,SOUTH,Varanasi,Meghalaya
+487781,NORTH,Srinagar,Mizoram
+487783,CENTRAL,Dhanbad,Nagaland
+487785,EAST,Jodhpur,Odisha
+487787,WEST,Amritsar,Punjab
+487789,SOUTH,Raipur,Rajasthan
+487791,NORTH,Allahabad,Sikkim
+487793,CENTRAL,Coimbatore,Tamil Nadu
+487795,EAST,Jabalpur,Telangana
+487797,WEST,Gwalior,Tripura
+487799,SOUTH,Vijayawada,Uttar Pradesh
+487801,NORTH,Madurai,Uttarakhand
+487803,CENTRAL,Guwahati,West Bengal
+487805,EAST,Chandigarh,Andaman and Nicobar Islands
+487807,WEST,Hubli-Dharwad,Chandigarh
+487809,SOUTH,Amroha,Dadra and Nagar Haveli and Daman and Diu
+487811,NORTH,Moradabad,Lakshadweep
+487813,CENTRAL,Gurgaon,Delhi
+487815,EAST,Aligarh,Puducherry
+487817,WEST,Solapur,Ladakh
+487819,SOUTH,Ranchi,Jammu and Kashmir
+487821,NORTH,Jalandhar,Maharashtra
+487823,CENTRAL,Tiruchirappalli,Delhi
+487825,EAST,Bhubaneswar,Karnataka
+487827,WEST,Salem,Andhra Pradesh
+487829,SOUTH,Mysore,Arunachal Pradesh
+487831,NORTH,Thiruvananthapuram,Assam
+487833,CENTRAL,Tiruppur,Bihar
+487835,EAST,Gwalior,Chhattisgarh
+487837,WEST,Chandrapur,Goa
+487839,SOUTH,Mumbai,Gujarat
+487841,NORTH,Delhi,Haryana
+487843,CENTRAL,Bangalore,Himachal Pradesh
+487845,EAST,Hyderabad,Jharkhand
+487847,WEST,Ahmedabad,Karnataka
+487849,SOUTH,Chennai,Kerala
+487851,NORTH,Kolkata,Madhya Pradesh
+487853,CENTRAL,Surat,Maharashtra
+487855,EAST,Pune,Manipur
+487857,WEST,Jaipur,Meghalaya
+487859,SOUTH,Lucknow,Mizoram
+487861,NORTH,Kanpur,Nagaland
+487863,CENTRAL,Nagpur,Odisha
+487865,EAST,Indore,Punjab
+487867,WEST,Thane,Rajasthan
+487869,SOUTH,Bhopal,Sikkim
+487871,NORTH,Visakhapatnam,Tamil Nadu
+487873,CENTRAL,Vadodara,Telangana
+487875,EAST,Firozabad,Tripura
+487877,WEST,Ludhiana,Uttar Pradesh
+487879,SOUTH,Rajkot,Uttarakhand
+487881,NORTH,Agra,West Bengal
+487883,CENTRAL,Siliguri,Andaman and Nicobar Islands
+487885,EAST,Nashik,Chandigarh
+487887,WEST,Faridabad,Dadra and Nagar Haveli and Daman and Diu
+487889,SOUTH,Patna,Lakshadweep
+487891,NORTH,Meerut,Delhi
+487893,CENTRAL,Kalyan-Dombivli,Puducherry
+487895,EAST,Vasai-Virar,Ladakh
+487897,WEST,Varanasi,Jammu and Kashmir
+487899,SOUTH,Srinagar,Maharashtra
+487901,NORTH,Dhanbad,Delhi
+487903,CENTRAL,Jodhpur,Karnataka
+487905,EAST,Amritsar,Andhra Pradesh
+487907,WEST,Raipur,Arunachal Pradesh
+487909,SOUTH,Allahabad,Assam
+487911,NORTH,Coimbatore,Bihar
+487913,CENTRAL,Jabalpur,Chhattisgarh
+487915,EAST,Gwalior,Goa
+487917,WEST,Vijayawada,Gujarat
+487919,SOUTH,Madurai,Haryana
+487921,NORTH,Guwahati,Himachal Pradesh
+487923,CENTRAL,Chandigarh,Jharkhand
+487925,EAST,Hubli-Dharwad,Karnataka
+487927,WEST,Amroha,Kerala
+487929,SOUTH,Moradabad,Madhya Pradesh
+487931,NORTH,Gurgaon,Maharashtra
+487933,CENTRAL,Aligarh,Manipur
+487935,EAST,Solapur,Meghalaya
+487937,WEST,Ranchi,Mizoram
+487939,SOUTH,Jalandhar,Nagaland
+487941,NORTH,Tiruchirappalli,Odisha
+487943,CENTRAL,Bhubaneswar,Punjab
+487945,EAST,Salem,Rajasthan
+487947,WEST,Mysore,Sikkim
+487949,SOUTH,Thiruvananthapuram,Tamil Nadu
+487951,NORTH,Tiruppur,Telangana
+487953,CENTRAL,Gwalior,Tripura
+487955,EAST,Chandrapur,Uttar Pradesh
+487957,WEST,Mumbai,Uttarakhand
+487959,SOUTH,Delhi,West Bengal
+487961,NORTH,Bangalore,Andaman and Nicobar Islands
+487963,CENTRAL,Hyderabad,Chandigarh
+487965,EAST,Ahmedabad,Dadra and Nagar Haveli and Daman and Diu
+487967,WEST,Chennai,Lakshadweep
+487969,SOUTH,Kolkata,Delhi
+487971,NORTH,Surat,Puducherry
+487973,CENTRAL,Pune,Ladakh
+487975,EAST,Jaipur,Jammu and Kashmir
+487977,WEST,Lucknow,Maharashtra
+487979,SOUTH,Kanpur,Delhi
+487981,NORTH,Nagpur,Karnataka
+487983,CENTRAL,Indore,Andhra Pradesh
+487985,EAST,Thane,Arunachal Pradesh
+487987,WEST,Bhopal,Assam
+487989,SOUTH,Visakhapatnam,Bihar
+487991,NORTH,Vadodara,Chhattisgarh
+487993,CENTRAL,Firozabad,Goa
+487995,EAST,Ludhiana,Gujarat
+487997,WEST,Rajkot,Haryana
+487999,SOUTH,Agra,Himachal Pradesh
+488001,NORTH,Siliguri,Jharkhand
+488003,CENTRAL,Nashik,Karnataka
+488005,EAST,Faridabad,Kerala
+488007,WEST,Patna,Madhya Pradesh
+488009,SOUTH,Meerut,Maharashtra
+488011,NORTH,Kalyan-Dombivli,Manipur
+488013,CENTRAL,Vasai-Virar,Meghalaya
+488015,EAST,Varanasi,Mizoram
+488017,WEST,Srinagar,Nagaland
+488019,SOUTH,Dhanbad,Odisha
+488021,NORTH,Jodhpur,Punjab
+488023,CENTRAL,Amritsar,Rajasthan
+488025,EAST,Raipur,Sikkim
+488027,WEST,Allahabad,Tamil Nadu
+488029,SOUTH,Coimbatore,Telangana
+488031,NORTH,Jabalpur,Tripura
+488033,CENTRAL,Gwalior,Uttar Pradesh
+488035,EAST,Vijayawada,Uttarakhand
+488037,WEST,Madurai,West Bengal
+488039,SOUTH,Guwahati,Andaman and Nicobar Islands
+488041,NORTH,Chandigarh,Chandigarh
+488043,CENTRAL,Hubli-Dharwad,Dadra and Nagar Haveli and Daman and Diu
+488045,EAST,Amroha,Lakshadweep
+488047,WEST,Moradabad,Delhi
+488049,SOUTH,Gurgaon,Puducherry
+488051,NORTH,Aligarh,Ladakh
+488053,CENTRAL,Solapur,Jammu and Kashmir
+488055,EAST,Ranchi,Maharashtra
+488057,WEST,Jalandhar,Delhi
+488059,SOUTH,Tiruchirappalli,Karnataka
+488061,NORTH,Bhubaneswar,Andhra Pradesh
+488063,CENTRAL,Salem,Arunachal Pradesh
+488065,EAST,Mysore,Assam
+488067,WEST,Thiruvananthapuram,Bihar
+488069,SOUTH,Tiruppur,Chhattisgarh
+488071,NORTH,Gwalior,Goa
+488073,CENTRAL,Chandrapur,Gujarat
+488075,EAST,Mumbai,Haryana
+488077,WEST,Delhi,Himachal Pradesh
+488079,SOUTH,Bangalore,Jharkhand
+488081,NORTH,Hyderabad,Karnataka
+488083,CENTRAL,Ahmedabad,Kerala
+488085,EAST,Chennai,Madhya Pradesh
+488087,WEST,Kolkata,Maharashtra
+488089,SOUTH,Surat,Manipur
+488091,NORTH,Pune,Meghalaya
+488093,CENTRAL,Jaipur,Mizoram
+488095,EAST,Lucknow,Nagaland
+488097,WEST,Kanpur,Odisha
+488099,SOUTH,Nagpur,Punjab
+488101,NORTH,Indore,Rajasthan
+488103,CENTRAL,Thane,Sikkim
+488105,EAST,Bhopal,Tamil Nadu
+488107,WEST,Visakhapatnam,Telangana
+488109,SOUTH,Vadodara,Tripura
+488111,NORTH,Firozabad,Uttar Pradesh
+488113,CENTRAL,Ludhiana,Uttarakhand
+488115,EAST,Rajkot,West Bengal
+488117,WEST,Agra,Andaman and Nicobar Islands
+488119,SOUTH,Siliguri,Chandigarh
+488121,NORTH,Nashik,Dadra and Nagar Haveli and Daman and Diu
+488123,CENTRAL,Faridabad,Lakshadweep
+488125,EAST,Patna,Delhi
+488127,WEST,Meerut,Puducherry
+488129,SOUTH,Kalyan-Dombivli,Ladakh
+488131,NORTH,Vasai-Virar,Jammu and Kashmir
+488133,CENTRAL,Varanasi,Maharashtra
+488135,EAST,Srinagar,Delhi
+488137,WEST,Dhanbad,Karnataka
+488139,SOUTH,Jodhpur,Andhra Pradesh
+488141,NORTH,Amritsar,Arunachal Pradesh
+488143,CENTRAL,Raipur,Assam
+488145,EAST,Allahabad,Bihar
+488147,WEST,Coimbatore,Chhattisgarh
+488149,SOUTH,Jabalpur,Goa
+488151,NORTH,Gwalior,Gujarat
+488153,CENTRAL,Vijayawada,Haryana
+488155,EAST,Madurai,Himachal Pradesh
+488157,WEST,Guwahati,Jharkhand
+488159,SOUTH,Chandigarh,Karnataka
+488161,NORTH,Hubli-Dharwad,Kerala
+488163,CENTRAL,Amroha,Madhya Pradesh
+488165,EAST,Moradabad,Maharashtra
+488167,WEST,Gurgaon,Manipur
+488169,SOUTH,Aligarh,Meghalaya
+488171,NORTH,Solapur,Mizoram
+488173,CENTRAL,Ranchi,Nagaland
+488175,EAST,Jalandhar,Odisha
+488177,WEST,Tiruchirappalli,Punjab
+488179,SOUTH,Bhubaneswar,Rajasthan
+488181,NORTH,Salem,Sikkim
+488183,CENTRAL,Mysore,Tamil Nadu
+488185,EAST,Thiruvananthapuram,Telangana
+488187,WEST,Tiruppur,Tripura
+488189,SOUTH,Gwalior,Uttar Pradesh
+488191,NORTH,Chandrapur,Uttarakhand
+488193,CENTRAL,Mumbai,West Bengal
+488195,EAST,Delhi,Andaman and Nicobar Islands
+488197,WEST,Bangalore,Chandigarh
+488199,SOUTH,Hyderabad,Dadra and Nagar Haveli and Daman and Diu
+488201,NORTH,Ahmedabad,Lakshadweep
+488203,CENTRAL,Chennai,Delhi
+488205,EAST,Kolkata,Puducherry
+488207,WEST,Surat,Ladakh
+488209,SOUTH,Pune,Jammu and Kashmir
+488211,NORTH,Jaipur,Maharashtra
+488213,CENTRAL,Lucknow,Delhi
+488215,EAST,Kanpur,Karnataka
+488217,WEST,Nagpur,Andhra Pradesh
+488219,SOUTH,Indore,Arunachal Pradesh
+488221,NORTH,Thane,Assam
+488223,CENTRAL,Bhopal,Bihar
+488225,EAST,Visakhapatnam,Chhattisgarh
+488227,WEST,Vadodara,Goa
+488229,SOUTH,Firozabad,Gujarat
+488231,NORTH,Ludhiana,Haryana
+488233,CENTRAL,Rajkot,Himachal Pradesh
+488235,EAST,Agra,Jharkhand
+488237,WEST,Siliguri,Karnataka
+488239,SOUTH,Nashik,Kerala
+488241,NORTH,Faridabad,Madhya Pradesh
+488243,CENTRAL,Patna,Maharashtra
+488245,EAST,Meerut,Manipur
+488247,WEST,Kalyan-Dombivli,Meghalaya
+488249,SOUTH,Vasai-Virar,Mizoram
+488251,NORTH,Varanasi,Nagaland
+488253,CENTRAL,Srinagar,Odisha
+488255,EAST,Dhanbad,Punjab
+488257,WEST,Jodhpur,Rajasthan
+488259,SOUTH,Amritsar,Sikkim
+488261,NORTH,Raipur,Tamil Nadu
+488263,CENTRAL,Allahabad,Telangana
+488265,EAST,Coimbatore,Tripura
+488267,WEST,Jabalpur,Uttar Pradesh
+488269,SOUTH,Gwalior,Uttarakhand
+488271,NORTH,Vijayawada,West Bengal
+488273,CENTRAL,Madurai,Andaman and Nicobar Islands
+488275,EAST,Guwahati,Chandigarh
+488277,WEST,Chandigarh,Dadra and Nagar Haveli and Daman and Diu
+488279,SOUTH,Hubli-Dharwad,Lakshadweep
+488281,NORTH,Amroha,Delhi
+488283,CENTRAL,Moradabad,Puducherry
+488285,EAST,Gurgaon,Ladakh
+488287,WEST,Aligarh,Jammu and Kashmir
+488289,SOUTH,Solapur,Maharashtra
+488291,NORTH,Ranchi,Delhi
+488293,CENTRAL,Jalandhar,Karnataka
+488295,EAST,Tiruchirappalli,Andhra Pradesh
+488297,WEST,Bhubaneswar,Arunachal Pradesh
+488299,SOUTH,Salem,Assam
+488301,NORTH,Mysore,Bihar
+488303,CENTRAL,Thiruvananthapuram,Chhattisgarh
+488305,EAST,Tiruppur,Goa
+488307,WEST,Gwalior,Gujarat
+488309,SOUTH,Chandrapur,Haryana
+488311,NORTH,Mumbai,Himachal Pradesh
+488313,CENTRAL,Delhi,Jharkhand
+488315,EAST,Bangalore,Karnataka
+488317,WEST,Hyderabad,Kerala
+488319,SOUTH,Ahmedabad,Madhya Pradesh
+488321,NORTH,Chennai,Maharashtra
+488323,CENTRAL,Kolkata,Manipur
+488325,EAST,Surat,Meghalaya
+488327,WEST,Pune,Mizoram
+488329,SOUTH,Jaipur,Nagaland
+488331,NORTH,Lucknow,Odisha
+488333,CENTRAL,Kanpur,Punjab
+488335,EAST,Nagpur,Rajasthan
+488337,WEST,Indore,Sikkim
+488339,SOUTH,Thane,Tamil Nadu
+488341,NORTH,Bhopal,Telangana
+488343,CENTRAL,Visakhapatnam,Tripura
+488345,EAST,Vadodara,Uttar Pradesh
+488347,WEST,Firozabad,Uttarakhand
+488349,SOUTH,Ludhiana,West Bengal
+488351,NORTH,Rajkot,Andaman and Nicobar Islands
+488353,CENTRAL,Agra,Chandigarh
+488355,EAST,Siliguri,Dadra and Nagar Haveli and Daman and Diu
+488357,WEST,Nashik,Lakshadweep
+488359,SOUTH,Faridabad,Delhi
+488361,NORTH,Patna,Puducherry
+488363,CENTRAL,Meerut,Ladakh
+488365,EAST,Kalyan-Dombivli,Jammu and Kashmir
+488367,WEST,Vasai-Virar,Maharashtra
+488369,SOUTH,Varanasi,Delhi
+488371,NORTH,Srinagar,Karnataka
+488373,CENTRAL,Dhanbad,Andhra Pradesh
+488375,EAST,Jodhpur,Arunachal Pradesh
+488377,WEST,Amritsar,Assam
+488379,SOUTH,Raipur,Bihar
+488381,NORTH,Allahabad,Chhattisgarh
+488383,CENTRAL,Coimbatore,Goa
+488385,EAST,Jabalpur,Gujarat
+488387,WEST,Gwalior,Haryana
+488389,SOUTH,Vijayawada,Himachal Pradesh
+488391,NORTH,Madurai,Jharkhand
+488393,CENTRAL,Guwahati,Karnataka
+488395,EAST,Chandigarh,Kerala
+488397,WEST,Hubli-Dharwad,Madhya Pradesh
+488399,SOUTH,Amroha,Maharashtra
+488401,NORTH,Moradabad,Manipur
+488403,CENTRAL,Gurgaon,Meghalaya
+488405,EAST,Aligarh,Mizoram
+488407,WEST,Solapur,Nagaland
+488409,SOUTH,Ranchi,Odisha
+488411,NORTH,Jalandhar,Punjab
+488413,CENTRAL,Tiruchirappalli,Rajasthan
+488415,EAST,Bhubaneswar,Sikkim
+488417,WEST,Salem,Tamil Nadu
+488419,SOUTH,Mysore,Telangana
+488421,NORTH,Thiruvananthapuram,Tripura
+488423,CENTRAL,Tiruppur,Uttar Pradesh
+488425,EAST,Gwalior,Uttarakhand
+488427,WEST,Chandrapur,West Bengal
+488429,SOUTH,Mumbai,Andaman and Nicobar Islands
+488431,NORTH,Delhi,Chandigarh
+488433,CENTRAL,Bangalore,Dadra and Nagar Haveli and Daman and Diu
+488435,EAST,Hyderabad,Lakshadweep
+488437,WEST,Ahmedabad,Delhi
+488439,SOUTH,Chennai,Puducherry
+488441,NORTH,Kolkata,Ladakh
+488443,CENTRAL,Surat,Jammu and Kashmir
+488445,EAST,Pune,Maharashtra
+488447,WEST,Jaipur,Delhi
+488449,SOUTH,Lucknow,Karnataka
+488451,NORTH,Kanpur,Andhra Pradesh
+488453,CENTRAL,Nagpur,Arunachal Pradesh
+488455,EAST,Indore,Assam
+488457,WEST,Thane,Bihar
+488459,SOUTH,Bhopal,Chhattisgarh
+488461,NORTH,Visakhapatnam,Goa
+488463,CENTRAL,Vadodara,Gujarat
+488465,EAST,Firozabad,Haryana
+488467,WEST,Ludhiana,Himachal Pradesh
+488469,SOUTH,Rajkot,Jharkhand
+488471,NORTH,Agra,Karnataka
+488473,CENTRAL,Siliguri,Kerala
+488475,EAST,Nashik,Madhya Pradesh
+488477,WEST,Faridabad,Maharashtra
+488479,SOUTH,Patna,Manipur
+488481,NORTH,Meerut,Meghalaya
+488483,CENTRAL,Kalyan-Dombivli,Mizoram
+488485,EAST,Vasai-Virar,Nagaland
+488487,WEST,Varanasi,Odisha
+488489,SOUTH,Srinagar,Punjab
+488491,NORTH,Dhanbad,Rajasthan
+488493,CENTRAL,Jodhpur,Sikkim
+488495,EAST,Amritsar,Tamil Nadu
+488497,WEST,Raipur,Telangana
+488499,SOUTH,Allahabad,Tripura
+488501,NORTH,Coimbatore,Uttar Pradesh
+488503,CENTRAL,Jabalpur,Uttarakhand
+488505,EAST,Gwalior,West Bengal
+488507,WEST,Vijayawada,Andaman and Nicobar Islands
+488509,SOUTH,Madurai,Chandigarh
+488511,NORTH,Guwahati,Dadra and Nagar Haveli and Daman and Diu
+488513,CENTRAL,Chandigarh,Lakshadweep
+488515,EAST,Hubli-Dharwad,Delhi
+488517,WEST,Amroha,Puducherry
+488519,SOUTH,Moradabad,Ladakh
+488521,NORTH,Gurgaon,Jammu and Kashmir
+488523,CENTRAL,Aligarh,Maharashtra
+488525,EAST,Solapur,Delhi
+488527,WEST,Ranchi,Karnataka
+488529,SOUTH,Jalandhar,Andhra Pradesh
+488531,NORTH,Tiruchirappalli,Arunachal Pradesh
+488533,CENTRAL,Bhubaneswar,Assam
+488535,EAST,Salem,Bihar
+488537,WEST,Mysore,Chhattisgarh
+488539,SOUTH,Thiruvananthapuram,Goa
+488541,NORTH,Tiruppur,Gujarat
+488543,CENTRAL,Gwalior,Haryana
+488545,EAST,Chandrapur,Himachal Pradesh
+488547,WEST,Mumbai,Jharkhand
+488549,SOUTH,Delhi,Karnataka
+488551,NORTH,Bangalore,Kerala
+488553,CENTRAL,Hyderabad,Madhya Pradesh
+488555,EAST,Ahmedabad,Maharashtra
+488557,WEST,Chennai,Manipur
+488559,SOUTH,Kolkata,Meghalaya
+488561,NORTH,Surat,Mizoram
+488563,CENTRAL,Pune,Nagaland
+488565,EAST,Jaipur,Odisha
+488567,WEST,Lucknow,Punjab
+488569,SOUTH,Kanpur,Rajasthan
+488571,NORTH,Nagpur,Sikkim
+488573,CENTRAL,Indore,Tamil Nadu
+488575,EAST,Thane,Telangana
+488577,WEST,Bhopal,Tripura
+488579,SOUTH,Visakhapatnam,Uttar Pradesh
+488581,NORTH,Vadodara,Uttarakhand
+488583,CENTRAL,Firozabad,West Bengal
+488585,EAST,Ludhiana,Andaman and Nicobar Islands
+488587,WEST,Rajkot,Chandigarh
+488589,SOUTH,Agra,Dadra and Nagar Haveli and Daman and Diu
+488591,NORTH,Siliguri,Lakshadweep
+488593,CENTRAL,Nashik,Delhi
+488595,EAST,Faridabad,Puducherry
+488597,WEST,Patna,Ladakh
+488599,SOUTH,Meerut,Jammu and Kashmir
+488601,NORTH,Kalyan-Dombivli,Maharashtra
+488603,CENTRAL,Vasai-Virar,Delhi
+488605,EAST,Varanasi,Karnataka
+488607,WEST,Srinagar,Andhra Pradesh
+488609,SOUTH,Dhanbad,Arunachal Pradesh
+488611,NORTH,Jodhpur,Assam
+488613,CENTRAL,Amritsar,Bihar
+488615,EAST,Raipur,Chhattisgarh
+488617,WEST,Allahabad,Goa
+488619,SOUTH,Coimbatore,Gujarat
+488621,NORTH,Jabalpur,Haryana
+488623,CENTRAL,Gwalior,Himachal Pradesh
+488625,EAST,Vijayawada,Jharkhand
+488627,WEST,Madurai,Karnataka
+488629,SOUTH,Guwahati,Kerala
+488631,NORTH,Chandigarh,Madhya Pradesh
+488633,CENTRAL,Hubli-Dharwad,Maharashtra
+488635,EAST,Amroha,Manipur
+488637,WEST,Moradabad,Meghalaya
+488639,SOUTH,Gurgaon,Mizoram
+488641,NORTH,Aligarh,Nagaland
+488643,CENTRAL,Solapur,Odisha
+488645,EAST,Ranchi,Punjab
+488647,WEST,Jalandhar,Rajasthan
+488649,SOUTH,Tiruchirappalli,Sikkim
+488651,NORTH,Bhubaneswar,Tamil Nadu
+488653,CENTRAL,Salem,Telangana
+488655,EAST,Mysore,Tripura
+488657,WEST,Thiruvananthapuram,Uttar Pradesh
+488659,SOUTH,Tiruppur,Uttarakhand
+488661,NORTH,Gwalior,West Bengal
+488663,CENTRAL,Chandrapur,Andaman and Nicobar Islands
+488665,EAST,Mumbai,Chandigarh
+488667,WEST,Delhi,Dadra and Nagar Haveli and Daman and Diu
+488669,SOUTH,Bangalore,Lakshadweep
+488671,NORTH,Hyderabad,Delhi
+488673,CENTRAL,Ahmedabad,Puducherry
+488675,EAST,Chennai,Ladakh
+488677,WEST,Kolkata,Jammu and Kashmir
+488679,SOUTH,Surat,Maharashtra
+488681,NORTH,Pune,Delhi
+488683,CENTRAL,Jaipur,Karnataka
+488685,EAST,Lucknow,Andhra Pradesh
+488687,WEST,Kanpur,Arunachal Pradesh
+488689,SOUTH,Nagpur,Assam
+488691,NORTH,Indore,Bihar
+488693,CENTRAL,Thane,Chhattisgarh
+488695,EAST,Bhopal,Goa
+488697,WEST,Visakhapatnam,Gujarat
+488699,SOUTH,Vadodara,Haryana
+488701,NORTH,Firozabad,Himachal Pradesh
+488703,CENTRAL,Ludhiana,Jharkhand
+488705,EAST,Rajkot,Karnataka
+488707,WEST,Agra,Kerala
+488709,SOUTH,Siliguri,Madhya Pradesh
+488711,NORTH,Nashik,Maharashtra
+488713,CENTRAL,Faridabad,Manipur
+488715,EAST,Patna,Meghalaya
+488717,WEST,Meerut,Mizoram
+488719,SOUTH,Kalyan-Dombivli,Nagaland
+488721,NORTH,Vasai-Virar,Odisha
+488723,CENTRAL,Varanasi,Punjab
+488725,EAST,Srinagar,Rajasthan
+488727,WEST,Dhanbad,Sikkim
+488729,SOUTH,Jodhpur,Tamil Nadu
+488731,NORTH,Amritsar,Telangana
+488733,CENTRAL,Raipur,Tripura
+488735,EAST,Allahabad,Uttar Pradesh
+488737,WEST,Coimbatore,Uttarakhand
+488739,SOUTH,Jabalpur,West Bengal
+488741,NORTH,Gwalior,Andaman and Nicobar Islands
+488743,CENTRAL,Vijayawada,Chandigarh
+488745,EAST,Madurai,Dadra and Nagar Haveli and Daman and Diu
+488747,WEST,Guwahati,Lakshadweep
+488749,SOUTH,Chandigarh,Delhi
+488751,NORTH,Hubli-Dharwad,Puducherry
+488753,CENTRAL,Amroha,Ladakh
+488755,EAST,Moradabad,Jammu and Kashmir
+488757,WEST,Gurgaon,Maharashtra
+488759,SOUTH,Aligarh,Delhi
+488761,NORTH,Solapur,Karnataka
+488763,CENTRAL,Ranchi,Andhra Pradesh
+488765,EAST,Jalandhar,Arunachal Pradesh
+488767,WEST,Tiruchirappalli,Assam
+488769,SOUTH,Bhubaneswar,Bihar
+488771,NORTH,Salem,Chhattisgarh
+488773,CENTRAL,Mysore,Goa
+488775,EAST,Thiruvananthapuram,Gujarat
+488777,WEST,Tiruppur,Haryana
+488779,SOUTH,Gwalior,Himachal Pradesh
+488781,NORTH,Chandrapur,Jharkhand
+488783,CENTRAL,Mumbai,Karnataka
+488785,EAST,Delhi,Kerala
+488787,WEST,Bangalore,Madhya Pradesh
+488789,SOUTH,Hyderabad,Maharashtra
+488791,NORTH,Ahmedabad,Manipur
+488793,CENTRAL,Chennai,Meghalaya
+488795,EAST,Kolkata,Mizoram
+488797,WEST,Surat,Nagaland
+488799,SOUTH,Pune,Odisha
+488801,NORTH,Jaipur,Punjab
+488803,CENTRAL,Lucknow,Rajasthan
+488805,EAST,Kanpur,Sikkim
+488807,WEST,Nagpur,Tamil Nadu
+488809,SOUTH,Indore,Telangana
+488811,NORTH,Thane,Tripura
+488813,CENTRAL,Bhopal,Uttar Pradesh
+488815,EAST,Visakhapatnam,Uttarakhand
+488817,WEST,Vadodara,West Bengal
+488819,SOUTH,Firozabad,Andaman and Nicobar Islands
+488821,NORTH,Ludhiana,Chandigarh
+488823,CENTRAL,Rajkot,Dadra and Nagar Haveli and Daman and Diu
+488825,EAST,Agra,Lakshadweep
+488827,WEST,Siliguri,Delhi
+488829,SOUTH,Nashik,Puducherry
+488831,NORTH,Faridabad,Ladakh
+488833,CENTRAL,Patna,Jammu and Kashmir
+488835,EAST,Meerut,Maharashtra
+488837,WEST,Kalyan-Dombivli,Delhi
+488839,SOUTH,Vasai-Virar,Karnataka
+488841,NORTH,Varanasi,Andhra Pradesh
+488843,CENTRAL,Srinagar,Arunachal Pradesh
+488845,EAST,Dhanbad,Assam
+488847,WEST,Jodhpur,Bihar
+488849,SOUTH,Amritsar,Chhattisgarh
+488851,NORTH,Raipur,Goa
+488853,CENTRAL,Allahabad,Gujarat
+488855,EAST,Coimbatore,Haryana
+488857,WEST,Jabalpur,Himachal Pradesh
+488859,SOUTH,Gwalior,Jharkhand
+488861,NORTH,Vijayawada,Karnataka
+488863,CENTRAL,Madurai,Kerala
+488865,EAST,Guwahati,Madhya Pradesh
+488867,WEST,Chandigarh,Maharashtra
+488869,SOUTH,Hubli-Dharwad,Manipur
+488871,NORTH,Amroha,Meghalaya
+488873,CENTRAL,Moradabad,Mizoram
+488875,EAST,Gurgaon,Nagaland
+488877,WEST,Aligarh,Odisha
+488879,SOUTH,Solapur,Punjab
+488881,NORTH,Ranchi,Rajasthan
+488883,CENTRAL,Jalandhar,Sikkim
+488885,EAST,Tiruchirappalli,Tamil Nadu
+488887,WEST,Bhubaneswar,Telangana
+488889,SOUTH,Salem,Tripura
+488891,NORTH,Mysore,Uttar Pradesh
+488893,CENTRAL,Thiruvananthapuram,Uttarakhand
+488895,EAST,Tiruppur,West Bengal
+488897,WEST,Gwalior,Andaman and Nicobar Islands
+488899,SOUTH,Chandrapur,Chandigarh
+488901,NORTH,Mumbai,Dadra and Nagar Haveli and Daman and Diu
+488903,CENTRAL,Delhi,Lakshadweep
+488905,EAST,Bangalore,Delhi
+488907,WEST,Hyderabad,Puducherry
+488909,SOUTH,Ahmedabad,Ladakh
+488911,NORTH,Chennai,Jammu and Kashmir
+488913,CENTRAL,Kolkata,Maharashtra
+488915,EAST,Surat,Delhi
+488917,WEST,Pune,Karnataka
+488919,SOUTH,Jaipur,Andhra Pradesh
+488921,NORTH,Lucknow,Arunachal Pradesh
+488923,CENTRAL,Kanpur,Assam
+488925,EAST,Nagpur,Bihar
+488927,WEST,Indore,Chhattisgarh
+488929,SOUTH,Thane,Goa
+488931,NORTH,Bhopal,Gujarat
+488933,CENTRAL,Visakhapatnam,Haryana
+488935,EAST,Vadodara,Himachal Pradesh
+488937,WEST,Firozabad,Jharkhand
+488939,SOUTH,Ludhiana,Karnataka
+488941,NORTH,Rajkot,Kerala
+488943,CENTRAL,Agra,Madhya Pradesh
+488945,EAST,Siliguri,Maharashtra
+488947,WEST,Nashik,Manipur
+488949,SOUTH,Faridabad,Meghalaya
+488951,NORTH,Patna,Mizoram
+488953,CENTRAL,Meerut,Nagaland
+488955,EAST,Kalyan-Dombivli,Odisha
+488957,WEST,Vasai-Virar,Punjab
+488959,SOUTH,Varanasi,Rajasthan
+488961,NORTH,Srinagar,Sikkim
+488963,CENTRAL,Dhanbad,Tamil Nadu
+488965,EAST,Jodhpur,Telangana
+488967,WEST,Amritsar,Tripura
+488969,SOUTH,Raipur,Uttar Pradesh
+488971,NORTH,Allahabad,Uttarakhand
+488973,CENTRAL,Coimbatore,West Bengal
+488975,EAST,Jabalpur,Andaman and Nicobar Islands
+488977,WEST,Gwalior,Chandigarh
+488979,SOUTH,Vijayawada,Dadra and Nagar Haveli and Daman and Diu
+488981,NORTH,Madurai,Lakshadweep
+488983,CENTRAL,Guwahati,Delhi
+488985,EAST,Chandigarh,Puducherry
+488987,WEST,Hubli-Dharwad,Ladakh
+488989,SOUTH,Amroha,Jammu and Kashmir
+488991,NORTH,Moradabad,Maharashtra
+488993,CENTRAL,Gurgaon,Delhi
+488995,EAST,Aligarh,Karnataka
+488997,WEST,Solapur,Andhra Pradesh
+488999,SOUTH,Ranchi,Arunachal Pradesh
+489001,NORTH,Jalandhar,Assam
+489003,CENTRAL,Tiruchirappalli,Bihar
+489005,EAST,Bhubaneswar,Chhattisgarh
+489007,WEST,Salem,Goa
+489009,SOUTH,Mysore,Gujarat
+489011,NORTH,Thiruvananthapuram,Haryana
+489013,CENTRAL,Tiruppur,Himachal Pradesh
+489015,EAST,Gwalior,Jharkhand
+489017,WEST,Chandrapur,Karnataka
+489019,SOUTH,Mumbai,Kerala
+489021,NORTH,Delhi,Madhya Pradesh
+489023,CENTRAL,Bangalore,Maharashtra
+489025,EAST,Hyderabad,Manipur
+489027,WEST,Ahmedabad,Meghalaya
+489029,SOUTH,Chennai,Mizoram
+489031,NORTH,Kolkata,Nagaland
+489033,CENTRAL,Surat,Odisha
+489035,EAST,Pune,Punjab
+489037,WEST,Jaipur,Rajasthan
+489039,SOUTH,Lucknow,Sikkim
+489041,NORTH,Kanpur,Tamil Nadu
+489043,CENTRAL,Nagpur,Telangana
+489045,EAST,Indore,Tripura
+489047,WEST,Thane,Uttar Pradesh
+489049,SOUTH,Bhopal,Uttarakhand
+489051,NORTH,Visakhapatnam,West Bengal
+489053,CENTRAL,Vadodara,Andaman and Nicobar Islands
+489055,EAST,Firozabad,Chandigarh
+489057,WEST,Ludhiana,Dadra and Nagar Haveli and Daman and Diu
+489059,SOUTH,Rajkot,Lakshadweep
+489061,NORTH,Agra,Delhi
+489063,CENTRAL,Siliguri,Puducherry
+489065,EAST,Nashik,Ladakh
+489067,WEST,Faridabad,Jammu and Kashmir
+489069,SOUTH,Patna,Maharashtra
+489071,NORTH,Meerut,Delhi
+489073,CENTRAL,Kalyan-Dombivli,Karnataka
+489075,EAST,Vasai-Virar,Andhra Pradesh
+489077,WEST,Varanasi,Arunachal Pradesh
+489079,SOUTH,Srinagar,Assam
+489081,NORTH,Dhanbad,Bihar
+489083,CENTRAL,Jodhpur,Chhattisgarh
+489085,EAST,Amritsar,Goa
+489087,WEST,Raipur,Gujarat
+489089,SOUTH,Allahabad,Haryana
+489091,NORTH,Coimbatore,Himachal Pradesh
+489093,CENTRAL,Jabalpur,Jharkhand
+489095,EAST,Gwalior,Karnataka
+489097,WEST,Vijayawada,Kerala
+489099,SOUTH,Madurai,Madhya Pradesh
+489101,NORTH,Guwahati,Maharashtra
+489103,CENTRAL,Chandigarh,Manipur
+489105,EAST,Hubli-Dharwad,Meghalaya
+489107,WEST,Amroha,Mizoram
+489109,SOUTH,Moradabad,Nagaland
+489111,NORTH,Gurgaon,Odisha
+489113,CENTRAL,Aligarh,Punjab
+489115,EAST,Solapur,Rajasthan
+489117,WEST,Ranchi,Sikkim
+489119,SOUTH,Jalandhar,Tamil Nadu
+489121,NORTH,Tiruchirappalli,Telangana
+489123,CENTRAL,Bhubaneswar,Tripura
+489125,EAST,Salem,Uttar Pradesh
+489127,WEST,Mysore,Uttarakhand
+489129,SOUTH,Thiruvananthapuram,West Bengal
+489131,NORTH,Tiruppur,Andaman and Nicobar Islands
+489133,CENTRAL,Gwalior,Chandigarh
+489135,EAST,Chandrapur,Dadra and Nagar Haveli and Daman and Diu
+489137,WEST,Mumbai,Lakshadweep
+489139,SOUTH,Delhi,Delhi
+489141,NORTH,Bangalore,Puducherry
+489143,CENTRAL,Hyderabad,Ladakh
+489145,EAST,Ahmedabad,Jammu and Kashmir
+489147,WEST,Chennai,Maharashtra
+489149,SOUTH,Kolkata,Delhi
+489151,NORTH,Surat,Karnataka
+489153,CENTRAL,Pune,Andhra Pradesh
+489155,EAST,Jaipur,Arunachal Pradesh
+489157,WEST,Lucknow,Assam
+489159,SOUTH,Kanpur,Bihar
+489161,NORTH,Nagpur,Chhattisgarh
+489163,CENTRAL,Indore,Goa
+489165,EAST,Thane,Gujarat
+489167,WEST,Bhopal,Haryana
+489169,SOUTH,Visakhapatnam,Himachal Pradesh
+489171,NORTH,Vadodara,Jharkhand
+489173,CENTRAL,Firozabad,Karnataka
+489175,EAST,Ludhiana,Kerala
+489177,WEST,Rajkot,Madhya Pradesh
+489179,SOUTH,Agra,Maharashtra
+489181,NORTH,Siliguri,Manipur
+489183,CENTRAL,Nashik,Meghalaya
+489185,EAST,Faridabad,Mizoram
+489187,WEST,Patna,Nagaland
+489189,SOUTH,Meerut,Odisha
+489191,NORTH,Kalyan-Dombivli,Punjab
+489193,CENTRAL,Vasai-Virar,Rajasthan
+489195,EAST,Varanasi,Sikkim
+489197,WEST,Srinagar,Tamil Nadu
+489199,SOUTH,Dhanbad,Telangana
+489201,NORTH,Jodhpur,Tripura
+489203,CENTRAL,Amritsar,Uttar Pradesh
+489205,EAST,Raipur,Uttarakhand
+489207,WEST,Allahabad,West Bengal
+489209,SOUTH,Coimbatore,Andaman and Nicobar Islands
+489211,NORTH,Jabalpur,Chandigarh
+489213,CENTRAL,Gwalior,Dadra and Nagar Haveli and Daman and Diu
+489215,EAST,Vijayawada,Lakshadweep
+489217,WEST,Madurai,Delhi
+489219,SOUTH,Guwahati,Puducherry
+489221,NORTH,Chandigarh,Ladakh
+489223,CENTRAL,Hubli-Dharwad,Jammu and Kashmir
+489225,EAST,Amroha,Maharashtra
+489227,WEST,Moradabad,Delhi
+489229,SOUTH,Gurgaon,Karnataka
+489231,NORTH,Aligarh,Andhra Pradesh
+489233,CENTRAL,Solapur,Arunachal Pradesh
+489235,EAST,Ranchi,Assam
+489237,WEST,Jalandhar,Bihar
+489239,SOUTH,Tiruchirappalli,Chhattisgarh
+489241,NORTH,Bhubaneswar,Goa
+489243,CENTRAL,Salem,Gujarat
+489245,EAST,Mysore,Haryana
+489247,WEST,Thiruvananthapuram,Himachal Pradesh
+489249,SOUTH,Tiruppur,Jharkhand
+489251,NORTH,Gwalior,Karnataka
+489253,CENTRAL,Chandrapur,Kerala
+489255,EAST,Mumbai,Madhya Pradesh
+489257,WEST,Delhi,Maharashtra
+489259,SOUTH,Bangalore,Manipur
+489261,NORTH,Hyderabad,Meghalaya
+489263,CENTRAL,Ahmedabad,Mizoram
+489265,EAST,Chennai,Nagaland
+489267,WEST,Kolkata,Odisha
+489269,SOUTH,Surat,Punjab
+489271,NORTH,Pune,Rajasthan
+489273,CENTRAL,Jaipur,Sikkim
+489275,EAST,Lucknow,Tamil Nadu
+489277,WEST,Kanpur,Telangana
+489279,SOUTH,Nagpur,Tripura
+489281,NORTH,Indore,Uttar Pradesh
+489283,CENTRAL,Thane,Uttarakhand
+489285,EAST,Bhopal,West Bengal
+489287,WEST,Visakhapatnam,Andaman and Nicobar Islands
+489289,SOUTH,Vadodara,Chandigarh
+489291,NORTH,Firozabad,Dadra and Nagar Haveli and Daman and Diu
+489293,CENTRAL,Ludhiana,Lakshadweep
+489295,EAST,Rajkot,Delhi
+489297,WEST,Agra,Puducherry
+489299,SOUTH,Siliguri,Ladakh
+489301,NORTH,Nashik,Jammu and Kashmir
+489303,CENTRAL,Faridabad,Maharashtra
+489305,EAST,Patna,Delhi
+489307,WEST,Meerut,Karnataka
+489309,SOUTH,Kalyan-Dombivli,Andhra Pradesh
+489311,NORTH,Vasai-Virar,Arunachal Pradesh
+489313,CENTRAL,Varanasi,Assam
+489315,EAST,Srinagar,Bihar
+489317,WEST,Dhanbad,Chhattisgarh
+489319,SOUTH,Jodhpur,Goa
+489321,NORTH,Amritsar,Gujarat
+489323,CENTRAL,Raipur,Haryana
+489325,EAST,Allahabad,Himachal Pradesh
+489327,WEST,Coimbatore,Jharkhand
+489329,SOUTH,Jabalpur,Karnataka
+489331,NORTH,Gwalior,Kerala
+489333,CENTRAL,Vijayawada,Madhya Pradesh
+489335,EAST,Madurai,Maharashtra
+489337,WEST,Guwahati,Manipur
+489339,SOUTH,Chandigarh,Meghalaya
+489341,NORTH,Hubli-Dharwad,Mizoram
+489343,CENTRAL,Amroha,Nagaland
+489345,EAST,Moradabad,Odisha
+489347,WEST,Gurgaon,Punjab
+489349,SOUTH,Aligarh,Rajasthan
+489351,NORTH,Solapur,Sikkim
+489353,CENTRAL,Ranchi,Tamil Nadu
+489355,EAST,Jalandhar,Telangana
+489357,WEST,Tiruchirappalli,Tripura
+489359,SOUTH,Bhubaneswar,Uttar Pradesh
+489361,NORTH,Salem,Uttarakhand
+489363,CENTRAL,Mysore,West Bengal
+489365,EAST,Thiruvananthapuram,Andaman and Nicobar Islands
+489367,WEST,Tiruppur,Chandigarh
+489369,SOUTH,Gwalior,Dadra and Nagar Haveli and Daman and Diu
+489371,NORTH,Chandrapur,Lakshadweep
+489373,CENTRAL,Mumbai,Delhi
+489375,EAST,Delhi,Puducherry
+489377,WEST,Bangalore,Ladakh
+489379,SOUTH,Hyderabad,Jammu and Kashmir
+489381,NORTH,Ahmedabad,Maharashtra
+489383,CENTRAL,Chennai,Delhi
+489385,EAST,Kolkata,Karnataka
+489387,WEST,Surat,Andhra Pradesh
+489389,SOUTH,Pune,Arunachal Pradesh
+489391,NORTH,Jaipur,Assam
+489393,CENTRAL,Lucknow,Bihar
+489395,EAST,Kanpur,Chhattisgarh
+489397,WEST,Nagpur,Goa
+489399,SOUTH,Indore,Gujarat
+489401,NORTH,Thane,Haryana
+489403,CENTRAL,Bhopal,Himachal Pradesh
+489405,EAST,Visakhapatnam,Jharkhand
+489407,WEST,Vadodara,Karnataka
+489409,SOUTH,Firozabad,Kerala
+489411,NORTH,Ludhiana,Madhya Pradesh
+489413,CENTRAL,Rajkot,Maharashtra
+489415,EAST,Agra,Manipur
+489417,WEST,Siliguri,Meghalaya
+489419,SOUTH,Nashik,Mizoram
+489421,NORTH,Faridabad,Nagaland
+489423,CENTRAL,Patna,Odisha
+489425,EAST,Meerut,Punjab
+489427,WEST,Kalyan-Dombivli,Rajasthan
+489429,SOUTH,Vasai-Virar,Sikkim
+489431,NORTH,Varanasi,Tamil Nadu
+489433,CENTRAL,Srinagar,Telangana
+489435,EAST,Dhanbad,Tripura
+489437,WEST,Jodhpur,Uttar Pradesh
+489439,SOUTH,Amritsar,Uttarakhand
+489441,NORTH,Raipur,West Bengal
+489443,CENTRAL,Allahabad,Andaman and Nicobar Islands
+489445,EAST,Coimbatore,Chandigarh
+489447,WEST,Jabalpur,Dadra and Nagar Haveli and Daman and Diu
+489449,SOUTH,Gwalior,Lakshadweep
+489451,NORTH,Vijayawada,Delhi
+489453,CENTRAL,Madurai,Puducherry
+489455,EAST,Guwahati,Ladakh
+489457,WEST,Chandigarh,Jammu and Kashmir
+489459,SOUTH,Hubli-Dharwad,Maharashtra
+489461,NORTH,Amroha,Delhi
+489463,CENTRAL,Moradabad,Karnataka
+489465,EAST,Gurgaon,Andhra Pradesh
+489467,WEST,Aligarh,Arunachal Pradesh
+489469,SOUTH,Solapur,Assam
+489471,NORTH,Ranchi,Bihar
+489473,CENTRAL,Jalandhar,Chhattisgarh
+489475,EAST,Tiruchirappalli,Goa
+489477,WEST,Bhubaneswar,Gujarat
+489479,SOUTH,Salem,Haryana
+489481,NORTH,Mysore,Himachal Pradesh
+489483,CENTRAL,Thiruvananthapuram,Jharkhand
+489485,EAST,Tiruppur,Karnataka
+489487,WEST,Gwalior,Kerala
+489489,SOUTH,Chandrapur,Madhya Pradesh
+489491,NORTH,Mumbai,Maharashtra
+489493,CENTRAL,Delhi,Manipur
+489495,EAST,Bangalore,Meghalaya
+489497,WEST,Hyderabad,Mizoram
+489499,SOUTH,Ahmedabad,Nagaland
+489501,NORTH,Chennai,Odisha
+489503,CENTRAL,Kolkata,Punjab
+489505,EAST,Surat,Rajasthan
+489507,WEST,Pune,Sikkim
+489509,SOUTH,Jaipur,Tamil Nadu
+489511,NORTH,Lucknow,Telangana
+489513,CENTRAL,Kanpur,Tripura
+489515,EAST,Nagpur,Uttar Pradesh
+489517,WEST,Indore,Uttarakhand
+489519,SOUTH,Thane,West Bengal
+489521,NORTH,Bhopal,Andaman and Nicobar Islands
+489523,CENTRAL,Visakhapatnam,Chandigarh
+489525,EAST,Vadodara,Dadra and Nagar Haveli and Daman and Diu
+489527,WEST,Firozabad,Lakshadweep
+489529,SOUTH,Ludhiana,Delhi
+489531,NORTH,Rajkot,Puducherry
+489533,CENTRAL,Agra,Ladakh
+489535,EAST,Siliguri,Jammu and Kashmir
+489537,WEST,Nashik,Maharashtra
+489539,SOUTH,Faridabad,Delhi
+489541,NORTH,Patna,Karnataka
+489543,CENTRAL,Meerut,Andhra Pradesh
+489545,EAST,Kalyan-Dombivli,Arunachal Pradesh
+489547,WEST,Vasai-Virar,Assam
+489549,SOUTH,Varanasi,Bihar
+489551,NORTH,Srinagar,Chhattisgarh
+489553,CENTRAL,Dhanbad,Goa
+489555,EAST,Jodhpur,Gujarat
+489557,WEST,Amritsar,Haryana
+489559,SOUTH,Raipur,Himachal Pradesh
+489561,NORTH,Allahabad,Jharkhand
+489563,CENTRAL,Coimbatore,Karnataka
+489565,EAST,Jabalpur,Kerala
+489567,WEST,Gwalior,Madhya Pradesh
+489569,SOUTH,Vijayawada,Maharashtra
+489571,NORTH,Madurai,Manipur
+489573,CENTRAL,Guwahati,Meghalaya
+489575,EAST,Chandigarh,Mizoram
+489577,WEST,Hubli-Dharwad,Nagaland
+489579,SOUTH,Amroha,Odisha
+489581,NORTH,Moradabad,Punjab
+489583,CENTRAL,Gurgaon,Rajasthan
+489585,EAST,Aligarh,Sikkim
+489587,WEST,Solapur,Tamil Nadu
+489589,SOUTH,Ranchi,Telangana
+489591,NORTH,Jalandhar,Tripura
+489593,CENTRAL,Tiruchirappalli,Uttar Pradesh
+489595,EAST,Bhubaneswar,Uttarakhand
+489597,WEST,Salem,West Bengal
+489599,SOUTH,Mysore,Andaman and Nicobar Islands
+489601,NORTH,Thiruvananthapuram,Chandigarh
+489603,CENTRAL,Tiruppur,Dadra and Nagar Haveli and Daman and Diu
+489605,EAST,Gwalior,Lakshadweep
+489607,WEST,Chandrapur,Delhi
+489609,SOUTH,Mumbai,Puducherry
+489611,NORTH,Delhi,Ladakh
+489613,CENTRAL,Bangalore,Jammu and Kashmir
+489615,EAST,Hyderabad,Maharashtra
+489617,WEST,Ahmedabad,Delhi
+489619,SOUTH,Chennai,Karnataka
+489621,NORTH,Kolkata,Andhra Pradesh
+489623,CENTRAL,Surat,Arunachal Pradesh
+489625,EAST,Pune,Assam
+489627,WEST,Jaipur,Bihar
+489629,SOUTH,Lucknow,Chhattisgarh
+489631,NORTH,Kanpur,Goa
+489633,CENTRAL,Nagpur,Gujarat
+489635,EAST,Indore,Haryana
+489637,WEST,Thane,Himachal Pradesh
+489639,SOUTH,Bhopal,Jharkhand
+489641,NORTH,Visakhapatnam,Karnataka
+489643,CENTRAL,Vadodara,Kerala
+489645,EAST,Firozabad,Madhya Pradesh
+489647,WEST,Ludhiana,Maharashtra
+489649,SOUTH,Rajkot,Manipur
+489651,NORTH,Agra,Meghalaya
+489653,CENTRAL,Siliguri,Mizoram
+489655,EAST,Nashik,Nagaland
+489657,WEST,Faridabad,Odisha
+489659,SOUTH,Patna,Punjab
+489661,NORTH,Meerut,Rajasthan
+489663,CENTRAL,Kalyan-Dombivli,Sikkim
+489665,EAST,Vasai-Virar,Tamil Nadu
+489667,WEST,Varanasi,Telangana
+489669,SOUTH,Srinagar,Tripura
+489671,NORTH,Dhanbad,Uttar Pradesh
+489673,CENTRAL,Jodhpur,Uttarakhand
+489675,EAST,Amritsar,West Bengal
+489677,WEST,Raipur,Andaman and Nicobar Islands
+489679,SOUTH,Allahabad,Chandigarh
+489681,NORTH,Coimbatore,Dadra and Nagar Haveli and Daman and Diu
+489683,CENTRAL,Jabalpur,Lakshadweep
+489685,EAST,Gwalior,Delhi
+489687,WEST,Vijayawada,Puducherry
+489689,SOUTH,Madurai,Ladakh
+489691,NORTH,Guwahati,Jammu and Kashmir
+489693,CENTRAL,Chandigarh,Maharashtra
+489695,EAST,Hubli-Dharwad,Delhi
+489697,WEST,Amroha,Karnataka
+489699,SOUTH,Moradabad,Andhra Pradesh
+489701,NORTH,Gurgaon,Arunachal Pradesh
+489703,CENTRAL,Aligarh,Assam
+489705,EAST,Solapur,Bihar
+489707,WEST,Ranchi,Chhattisgarh
+489709,SOUTH,Jalandhar,Goa
+489711,NORTH,Tiruchirappalli,Gujarat
+489713,CENTRAL,Bhubaneswar,Haryana
+489715,EAST,Salem,Himachal Pradesh
+489717,WEST,Mysore,Jharkhand
+489719,SOUTH,Thiruvananthapuram,Karnataka
+489721,NORTH,Tiruppur,Kerala
+489723,CENTRAL,Gwalior,Madhya Pradesh
+489725,EAST,Chandrapur,Maharashtra
+489727,WEST,Mumbai,Manipur
+489729,SOUTH,Delhi,Meghalaya
+489731,NORTH,Bangalore,Mizoram
+489733,CENTRAL,Hyderabad,Nagaland
+489735,EAST,Ahmedabad,Odisha
+489737,WEST,Chennai,Punjab
+489739,SOUTH,Kolkata,Rajasthan
+489741,NORTH,Surat,Sikkim
+489743,CENTRAL,Pune,Tamil Nadu
+489745,EAST,Jaipur,Telangana
+489747,WEST,Lucknow,Tripura
+489749,SOUTH,Kanpur,Uttar Pradesh
+489751,NORTH,Nagpur,Uttarakhand
+489753,CENTRAL,Indore,West Bengal
+489755,EAST,Thane,Andaman and Nicobar Islands
+489757,WEST,Bhopal,Chandigarh
+489759,SOUTH,Visakhapatnam,Dadra and Nagar Haveli and Daman and Diu
+489761,NORTH,Vadodara,Lakshadweep
+489763,CENTRAL,Firozabad,Delhi
+489765,EAST,Ludhiana,Puducherry
+489767,WEST,Rajkot,Ladakh
+489769,SOUTH,Agra,Jammu and Kashmir
+489771,NORTH,Siliguri,Maharashtra
+489773,CENTRAL,Nashik,Delhi
+489775,EAST,Faridabad,Karnataka
+489777,WEST,Patna,Andhra Pradesh
+489779,SOUTH,Meerut,Arunachal Pradesh
+489781,NORTH,Kalyan-Dombivli,Assam
+489783,CENTRAL,Vasai-Virar,Bihar
+489785,EAST,Varanasi,Chhattisgarh
+489787,WEST,Srinagar,Goa
+489789,SOUTH,Dhanbad,Gujarat
+489791,NORTH,Jodhpur,Haryana
+489793,CENTRAL,Amritsar,Himachal Pradesh
+489795,EAST,Raipur,Jharkhand
+489797,WEST,Allahabad,Karnataka
+489799,SOUTH,Coimbatore,Kerala
+489801,NORTH,Jabalpur,Madhya Pradesh
+489803,CENTRAL,Gwalior,Maharashtra
+489805,EAST,Vijayawada,Manipur
+489807,WEST,Madurai,Meghalaya
+489809,SOUTH,Guwahati,Mizoram
+489811,NORTH,Chandigarh,Nagaland
+489813,CENTRAL,Hubli-Dharwad,Odisha
+489815,EAST,Amroha,Punjab
+489817,WEST,Moradabad,Rajasthan
+489819,SOUTH,Gurgaon,Sikkim
+489821,NORTH,Aligarh,Tamil Nadu
+489823,CENTRAL,Solapur,Telangana
+489825,EAST,Ranchi,Tripura
+489827,WEST,Jalandhar,Uttar Pradesh
+489829,SOUTH,Tiruchirappalli,Uttarakhand
+489831,NORTH,Bhubaneswar,West Bengal
+489833,CENTRAL,Salem,Andaman and Nicobar Islands
+489835,EAST,Mysore,Chandigarh
+489837,WEST,Thiruvananthapuram,Dadra and Nagar Haveli and Daman and Diu
+489839,SOUTH,Tiruppur,Lakshadweep
+489841,NORTH,Gwalior,Delhi
+489843,CENTRAL,Chandrapur,Puducherry
+489845,EAST,Mumbai,Ladakh
+489847,WEST,Delhi,Jammu and Kashmir
+489849,SOUTH,Bangalore,Maharashtra
+489851,NORTH,Hyderabad,Delhi
+489853,CENTRAL,Ahmedabad,Karnataka
+489855,EAST,Chennai,Andhra Pradesh
+489857,WEST,Kolkata,Arunachal Pradesh
+489859,SOUTH,Surat,Assam
+489861,NORTH,Pune,Bihar
+489863,CENTRAL,Jaipur,Chhattisgarh
+489865,EAST,Lucknow,Goa
+489867,WEST,Kanpur,Gujarat
+489869,SOUTH,Nagpur,Haryana
+489871,NORTH,Indore,Himachal Pradesh
+489873,CENTRAL,Thane,Jharkhand
+489875,EAST,Bhopal,Karnataka
+489877,WEST,Visakhapatnam,Kerala
+489879,SOUTH,Vadodara,Madhya Pradesh
+489881,NORTH,Firozabad,Maharashtra
+489883,CENTRAL,Ludhiana,Manipur
+489885,EAST,Rajkot,Meghalaya
+489887,WEST,Agra,Mizoram
+489889,SOUTH,Siliguri,Nagaland
+489891,NORTH,Nashik,Odisha
+489893,CENTRAL,Faridabad,Punjab
+489895,EAST,Patna,Rajasthan
+489897,WEST,Meerut,Sikkim
+489899,SOUTH,Kalyan-Dombivli,Tamil Nadu
+489901,NORTH,Vasai-Virar,Telangana
+489903,CENTRAL,Varanasi,Tripura
+489905,EAST,Srinagar,Uttar Pradesh
+489907,WEST,Dhanbad,Uttarakhand
+489909,SOUTH,Jodhpur,West Bengal
+489911,NORTH,Amritsar,Andaman and Nicobar Islands
+489913,CENTRAL,Raipur,Chandigarh
+489915,EAST,Allahabad,Dadra and Nagar Haveli and Daman and Diu
+489917,WEST,Coimbatore,Lakshadweep
+489919,SOUTH,Jabalpur,Delhi
+489921,NORTH,Gwalior,Puducherry
+489923,CENTRAL,Vijayawada,Ladakh
+489925,EAST,Madurai,Jammu and Kashmir
+489927,WEST,Guwahati,Maharashtra
+489929,SOUTH,Chandigarh,Delhi
+489931,NORTH,Hubli-Dharwad,Karnataka
+489933,CENTRAL,Amroha,Andhra Pradesh
+489935,EAST,Moradabad,Arunachal Pradesh
+489937,WEST,Gurgaon,Assam
+489939,SOUTH,Aligarh,Bihar
+489941,NORTH,Solapur,Chhattisgarh
+489943,CENTRAL,Ranchi,Goa
+489945,EAST,Jalandhar,Gujarat
+489947,WEST,Tiruchirappalli,Haryana
+489949,SOUTH,Bhubaneswar,Himachal Pradesh
+489951,NORTH,Salem,Jharkhand
+489953,CENTRAL,Mysore,Karnataka
+489955,EAST,Thiruvananthapuram,Kerala
+489957,WEST,Tiruppur,Madhya Pradesh
+489959,SOUTH,Gwalior,Maharashtra
+489961,NORTH,Chandrapur,Manipur
+489963,CENTRAL,Mumbai,Meghalaya
+489965,EAST,Delhi,Mizoram
+489967,WEST,Bangalore,Nagaland
+489969,SOUTH,Hyderabad,Odisha
+489971,NORTH,Ahmedabad,Punjab
+489973,CENTRAL,Chennai,Rajasthan
+489975,EAST,Kolkata,Sikkim
+489977,WEST,Surat,Tamil Nadu
+489979,SOUTH,Pune,Telangana
+489981,NORTH,Jaipur,Tripura
+489983,CENTRAL,Lucknow,Uttar Pradesh
+489985,EAST,Kanpur,Uttarakhand
+489987,WEST,Nagpur,West Bengal
+489989,SOUTH,Indore,Andaman and Nicobar Islands
+489991,NORTH,Thane,Chandigarh
+489993,CENTRAL,Bhopal,Dadra and Nagar Haveli and Daman and Diu
+489995,EAST,Visakhapatnam,Lakshadweep
+489997,WEST,Vadodara,Delhi
+489999,SOUTH,Firozabad,Puducherry
+490001,NORTH,Ludhiana,Ladakh
+490003,CENTRAL,Rajkot,Jammu and Kashmir
+490005,EAST,Agra,Maharashtra
+490007,WEST,Siliguri,Delhi
+490009,SOUTH,Nashik,Karnataka
+490011,NORTH,Faridabad,Andhra Pradesh
+490013,CENTRAL,Patna,Arunachal Pradesh
+490015,EAST,Meerut,Assam
+490017,WEST,Kalyan-Dombivli,Bihar
+490019,SOUTH,Vasai-Virar,Chhattisgarh
+490021,NORTH,Varanasi,Goa
+490023,CENTRAL,Srinagar,Gujarat
+490025,EAST,Dhanbad,Haryana
+490027,WEST,Jodhpur,Himachal Pradesh
+490029,SOUTH,Amritsar,Jharkhand
+490031,NORTH,Raipur,Karnataka
+490033,CENTRAL,Allahabad,Kerala
+490035,EAST,Coimbatore,Madhya Pradesh
+490037,WEST,Jabalpur,Maharashtra
+490039,SOUTH,Gwalior,Manipur
+490041,NORTH,Vijayawada,Meghalaya
+490043,CENTRAL,Madurai,Mizoram
+490045,EAST,Guwahati,Nagaland
+490047,WEST,Chandigarh,Odisha
+490049,SOUTH,Hubli-Dharwad,Punjab
+490051,NORTH,Amroha,Rajasthan
+490053,CENTRAL,Moradabad,Sikkim
+490055,EAST,Gurgaon,Tamil Nadu
+490057,WEST,Aligarh,Telangana
+490059,SOUTH,Solapur,Tripura
+490061,NORTH,Ranchi,Uttar Pradesh
+490063,CENTRAL,Jalandhar,Uttarakhand
+490065,EAST,Tiruchirappalli,West Bengal
+490067,WEST,Bhubaneswar,Andaman and Nicobar Islands
+490069,SOUTH,Salem,Chandigarh
+490071,NORTH,Mysore,Dadra and Nagar Haveli and Daman and Diu
+490073,CENTRAL,Thiruvananthapuram,Lakshadweep
+490075,EAST,Tiruppur,Delhi
+490077,WEST,Gwalior,Puducherry
+490079,SOUTH,Chandrapur,Ladakh
+490081,NORTH,Mumbai,Jammu and Kashmir
+490083,CENTRAL,Delhi,Maharashtra
+490085,EAST,Bangalore,Delhi
+490087,WEST,Hyderabad,Karnataka
+490089,SOUTH,Ahmedabad,Andhra Pradesh
+490091,NORTH,Chennai,Arunachal Pradesh
+490093,CENTRAL,Kolkata,Assam
+490095,EAST,Surat,Bihar
+490097,WEST,Pune,Chhattisgarh
+490099,SOUTH,Jaipur,Goa
+490101,NORTH,Lucknow,Gujarat
+490103,CENTRAL,Kanpur,Haryana
+490105,EAST,Nagpur,Himachal Pradesh
+490107,WEST,Indore,Jharkhand
+490109,SOUTH,Thane,Karnataka
+490111,NORTH,Bhopal,Kerala
+490113,CENTRAL,Visakhapatnam,Madhya Pradesh
+490115,EAST,Vadodara,Maharashtra
+490117,WEST,Firozabad,Manipur
+490119,SOUTH,Ludhiana,Meghalaya
+490121,NORTH,Rajkot,Mizoram
+490123,CENTRAL,Agra,Nagaland
+490125,EAST,Siliguri,Odisha
+490127,WEST,Nashik,Punjab
+490129,SOUTH,Faridabad,Rajasthan
+490131,NORTH,Patna,Sikkim
+490133,CENTRAL,Meerut,Tamil Nadu
+490135,EAST,Kalyan-Dombivli,Telangana
+490137,WEST,Vasai-Virar,Tripura
+490139,SOUTH,Varanasi,Uttar Pradesh
+490141,NORTH,Srinagar,Uttarakhand
+490143,CENTRAL,Dhanbad,West Bengal
+490145,EAST,Jodhpur,Andaman and Nicobar Islands
+490147,WEST,Amritsar,Chandigarh
+490149,SOUTH,Raipur,Dadra and Nagar Haveli and Daman and Diu
+490151,NORTH,Allahabad,Lakshadweep
+490153,CENTRAL,Coimbatore,Delhi
+490155,EAST,Jabalpur,Puducherry
+490157,WEST,Gwalior,Ladakh
+490159,SOUTH,Vijayawada,Jammu and Kashmir
+490161,NORTH,Madurai,Maharashtra
+490163,CENTRAL,Guwahati,Delhi
+490165,EAST,Chandigarh,Karnataka
+490167,WEST,Hubli-Dharwad,Andhra Pradesh
+490169,SOUTH,Amroha,Arunachal Pradesh
+490171,NORTH,Moradabad,Assam
+490173,CENTRAL,Gurgaon,Bihar
+490175,EAST,Aligarh,Chhattisgarh
+490177,WEST,Solapur,Goa
+490179,SOUTH,Ranchi,Gujarat
+490181,NORTH,Jalandhar,Haryana
+490183,CENTRAL,Tiruchirappalli,Himachal Pradesh
+490185,EAST,Bhubaneswar,Jharkhand
+490187,WEST,Salem,Karnataka
+490189,SOUTH,Mysore,Kerala
+490191,NORTH,Thiruvananthapuram,Madhya Pradesh
+490193,CENTRAL,Tiruppur,Maharashtra
+490195,EAST,Gwalior,Manipur
+490197,WEST,Chandrapur,Meghalaya
+490199,SOUTH,Mumbai,Mizoram
+490201,NORTH,Delhi,Nagaland
+490203,CENTRAL,Bangalore,Odisha
+490205,EAST,Hyderabad,Punjab
+490207,WEST,Ahmedabad,Rajasthan
+490209,SOUTH,Chennai,Sikkim
+490211,NORTH,Kolkata,Tamil Nadu
+490213,CENTRAL,Surat,Telangana
+490215,EAST,Pune,Tripura
+490217,WEST,Jaipur,Uttar Pradesh
+490219,SOUTH,Lucknow,Uttarakhand
+490221,NORTH,Kanpur,West Bengal
+490223,CENTRAL,Nagpur,Andaman and Nicobar Islands
+490225,EAST,Indore,Chandigarh
+490227,WEST,Thane,Dadra and Nagar Haveli and Daman and Diu
+490229,SOUTH,Bhopal,Lakshadweep
+490231,NORTH,Visakhapatnam,Delhi
+490233,CENTRAL,Vadodara,Puducherry
+490235,EAST,Firozabad,Ladakh
+490237,WEST,Ludhiana,Jammu and Kashmir
+490239,SOUTH,Rajkot,Maharashtra
+490241,NORTH,Agra,Delhi
+490243,CENTRAL,Siliguri,Karnataka
+490245,EAST,Nashik,Andhra Pradesh
+490247,WEST,Faridabad,Arunachal Pradesh
+490249,SOUTH,Patna,Assam
+490251,NORTH,Meerut,Bihar
+490253,CENTRAL,Kalyan-Dombivli,Chhattisgarh
+490255,EAST,Vasai-Virar,Goa
+490257,WEST,Varanasi,Gujarat
+490259,SOUTH,Srinagar,Haryana
+490261,NORTH,Dhanbad,Himachal Pradesh
+490263,CENTRAL,Jodhpur,Jharkhand
+490265,EAST,Amritsar,Karnataka
+490267,WEST,Raipur,Kerala
+490269,SOUTH,Allahabad,Madhya Pradesh
+490271,NORTH,Coimbatore,Maharashtra
+490273,CENTRAL,Jabalpur,Manipur
+490275,EAST,Gwalior,Meghalaya
+490277,WEST,Vijayawada,Mizoram
+490279,SOUTH,Madurai,Nagaland
+490281,NORTH,Guwahati,Odisha
+490283,CENTRAL,Chandigarh,Punjab
+490285,EAST,Hubli-Dharwad,Rajasthan
+490287,WEST,Amroha,Sikkim
+490289,SOUTH,Moradabad,Tamil Nadu
+490291,NORTH,Gurgaon,Telangana
+490293,CENTRAL,Aligarh,Tripura
+490295,EAST,Solapur,Uttar Pradesh
+490297,WEST,Ranchi,Uttarakhand
+490299,SOUTH,Jalandhar,West Bengal
+490301,NORTH,Tiruchirappalli,Andaman and Nicobar Islands
+490303,CENTRAL,Bhubaneswar,Chandigarh
+490305,EAST,Salem,Dadra and Nagar Haveli and Daman and Diu
+490307,WEST,Mysore,Lakshadweep
+490309,SOUTH,Thiruvananthapuram,Delhi
+490311,NORTH,Tiruppur,Puducherry
+490313,CENTRAL,Gwalior,Ladakh
+490315,EAST,Chandrapur,Jammu and Kashmir
+490317,WEST,Mumbai,Maharashtra
+490319,SOUTH,Delhi,Delhi
+490321,NORTH,Bangalore,Karnataka
+490323,CENTRAL,Hyderabad,Andhra Pradesh
+490325,EAST,Ahmedabad,Arunachal Pradesh
+490327,WEST,Chennai,Assam
+490329,SOUTH,Kolkata,Bihar
+490331,NORTH,Surat,Chhattisgarh
+490333,CENTRAL,Pune,Goa
+490335,EAST,Jaipur,Gujarat
+490337,WEST,Lucknow,Haryana
+490339,SOUTH,Kanpur,Himachal Pradesh
+490341,NORTH,Nagpur,Jharkhand
+490343,CENTRAL,Indore,Karnataka
+490345,EAST,Thane,Kerala
+490347,WEST,Bhopal,Madhya Pradesh
+490349,SOUTH,Visakhapatnam,Maharashtra
+490351,NORTH,Vadodara,Manipur
+490353,CENTRAL,Firozabad,Meghalaya
+490355,EAST,Ludhiana,Mizoram
+490357,WEST,Rajkot,Nagaland
+490359,SOUTH,Agra,Odisha
+490361,NORTH,Siliguri,Punjab
+490363,CENTRAL,Nashik,Rajasthan
+490365,EAST,Faridabad,Sikkim
+490367,WEST,Patna,Tamil Nadu
+490369,SOUTH,Meerut,Telangana
+490371,NORTH,Kalyan-Dombivli,Tripura
+490373,CENTRAL,Vasai-Virar,Uttar Pradesh
+490375,EAST,Varanasi,Uttarakhand
+490377,WEST,Srinagar,West Bengal
+490379,SOUTH,Dhanbad,Andaman and Nicobar Islands
+490381,NORTH,Jodhpur,Chandigarh
+490383,CENTRAL,Amritsar,Dadra and Nagar Haveli and Daman and Diu
+490385,EAST,Raipur,Lakshadweep
+490387,WEST,Allahabad,Delhi
+490389,SOUTH,Coimbatore,Puducherry
+490391,NORTH,Jabalpur,Ladakh
+490393,CENTRAL,Gwalior,Jammu and Kashmir
+490395,EAST,Vijayawada,Maharashtra
+490397,WEST,Madurai,Delhi
+490399,SOUTH,Guwahati,Karnataka
+490401,NORTH,Chandigarh,Andhra Pradesh
+490403,CENTRAL,Hubli-Dharwad,Arunachal Pradesh
+490405,EAST,Amroha,Assam
+490407,WEST,Moradabad,Bihar
+490409,SOUTH,Gurgaon,Chhattisgarh
+490411,NORTH,Aligarh,Goa
+490413,CENTRAL,Solapur,Gujarat
+490415,EAST,Ranchi,Haryana
+490417,WEST,Jalandhar,Himachal Pradesh
+490419,SOUTH,Tiruchirappalli,Jharkhand
+490421,NORTH,Bhubaneswar,Karnataka
+490423,CENTRAL,Salem,Kerala
+490425,EAST,Mysore,Madhya Pradesh
+490427,WEST,Thiruvananthapuram,Maharashtra
+490429,SOUTH,Tiruppur,Manipur
+490431,NORTH,Gwalior,Meghalaya
+490433,CENTRAL,Chandrapur,Mizoram
+490435,EAST,Mumbai,Nagaland
+490437,WEST,Delhi,Odisha
+490439,SOUTH,Bangalore,Punjab
+490441,NORTH,Hyderabad,Rajasthan
+490443,CENTRAL,Ahmedabad,Sikkim
+490445,EAST,Chennai,Tamil Nadu
+490447,WEST,Kolkata,Telangana
+490449,SOUTH,Surat,Tripura
+490451,NORTH,Pune,Uttar Pradesh
+490453,CENTRAL,Jaipur,Uttarakhand
+490455,EAST,Lucknow,West Bengal
+490457,WEST,Kanpur,Andaman and Nicobar Islands
+490459,SOUTH,Nagpur,Chandigarh
+490461,NORTH,Indore,Dadra and Nagar Haveli and Daman and Diu
+490463,CENTRAL,Thane,Lakshadweep
+490465,EAST,Bhopal,Delhi
+490467,WEST,Visakhapatnam,Puducherry
+490469,SOUTH,Vadodara,Ladakh
+490471,NORTH,Firozabad,Jammu and Kashmir
+490473,CENTRAL,Ludhiana,Maharashtra
+490475,EAST,Rajkot,Delhi
+490477,WEST,Agra,Karnataka
+490479,SOUTH,Siliguri,Andhra Pradesh
+490481,NORTH,Nashik,Arunachal Pradesh
+490483,CENTRAL,Faridabad,Assam
+490485,EAST,Patna,Bihar
+490487,WEST,Meerut,Chhattisgarh
+490489,SOUTH,Kalyan-Dombivli,Goa
+490491,NORTH,Vasai-Virar,Gujarat
+490493,CENTRAL,Varanasi,Haryana
+490495,EAST,Srinagar,Himachal Pradesh
+490497,WEST,Dhanbad,Jharkhand
+490499,SOUTH,Jodhpur,Karnataka
+490501,NORTH,Amritsar,Kerala
+490503,CENTRAL,Raipur,Madhya Pradesh
+490505,EAST,Allahabad,Maharashtra
+490507,WEST,Coimbatore,Manipur
+490509,SOUTH,Jabalpur,Meghalaya
+490511,NORTH,Gwalior,Mizoram
+490513,CENTRAL,Vijayawada,Nagaland
+490515,EAST,Madurai,Odisha
+490517,WEST,Guwahati,Punjab
+490519,SOUTH,Chandigarh,Rajasthan
+490521,NORTH,Hubli-Dharwad,Sikkim
+490523,CENTRAL,Amroha,Tamil Nadu
+490525,EAST,Moradabad,Telangana
+490527,WEST,Gurgaon,Tripura
+490529,SOUTH,Aligarh,Uttar Pradesh
+490531,NORTH,Solapur,Uttarakhand
+490533,CENTRAL,Ranchi,West Bengal
+490535,EAST,Jalandhar,Andaman and Nicobar Islands
+490537,WEST,Tiruchirappalli,Chandigarh
+490539,SOUTH,Bhubaneswar,Dadra and Nagar Haveli and Daman and Diu
+490541,NORTH,Salem,Lakshadweep
+490543,CENTRAL,Mysore,Delhi
+490545,EAST,Thiruvananthapuram,Puducherry
+490547,WEST,Tiruppur,Ladakh
+490549,SOUTH,Gwalior,Jammu and Kashmir
+490551,NORTH,Chandrapur,Maharashtra
+490553,CENTRAL,Mumbai,Delhi
+490555,EAST,Delhi,Karnataka
+490557,WEST,Bangalore,Andhra Pradesh
+490559,SOUTH,Hyderabad,Arunachal Pradesh
+490561,NORTH,Ahmedabad,Assam
+490563,CENTRAL,Chennai,Bihar
+490565,EAST,Kolkata,Chhattisgarh
+490567,WEST,Surat,Goa
+490569,SOUTH,Pune,Gujarat
+490571,NORTH,Jaipur,Haryana
+490573,CENTRAL,Lucknow,Himachal Pradesh
+490575,EAST,Kanpur,Jharkhand
+490577,WEST,Nagpur,Karnataka
+490579,SOUTH,Indore,Kerala
+490581,NORTH,Thane,Madhya Pradesh
+490583,CENTRAL,Bhopal,Maharashtra
+490585,EAST,Visakhapatnam,Manipur
+490587,WEST,Vadodara,Meghalaya
+490589,SOUTH,Firozabad,Mizoram
+490591,NORTH,Ludhiana,Nagaland
+490593,CENTRAL,Rajkot,Odisha
+490595,EAST,Agra,Punjab
+490597,WEST,Siliguri,Rajasthan
+490599,SOUTH,Nashik,Sikkim
+490601,NORTH,Faridabad,Tamil Nadu
+490603,CENTRAL,Patna,Telangana
+490605,EAST,Meerut,Tripura
+490607,WEST,Kalyan-Dombivli,Uttar Pradesh
+490609,SOUTH,Vasai-Virar,Uttarakhand
+490611,NORTH,Varanasi,West Bengal
+490613,CENTRAL,Srinagar,Andaman and Nicobar Islands
+490615,EAST,Dhanbad,Chandigarh
+490617,WEST,Jodhpur,Dadra and Nagar Haveli and Daman and Diu
+490619,SOUTH,Amritsar,Lakshadweep
+490621,NORTH,Raipur,Delhi
+490623,CENTRAL,Allahabad,Puducherry
+490625,EAST,Coimbatore,Ladakh
+490627,WEST,Jabalpur,Jammu and Kashmir
+490629,SOUTH,Gwalior,Maharashtra
+490631,NORTH,Vijayawada,Delhi
+490633,CENTRAL,Madurai,Karnataka
+490635,EAST,Guwahati,Andhra Pradesh
+490637,WEST,Chandigarh,Arunachal Pradesh
+490639,SOUTH,Hubli-Dharwad,Assam
+490641,NORTH,Amroha,Bihar
+490643,CENTRAL,Moradabad,Chhattisgarh
+490645,EAST,Gurgaon,Goa
+490647,WEST,Aligarh,Gujarat
+490649,SOUTH,Solapur,Haryana
+490651,NORTH,Ranchi,Himachal Pradesh
+490653,CENTRAL,Jalandhar,Jharkhand
+490655,EAST,Tiruchirappalli,Karnataka
+490657,WEST,Bhubaneswar,Kerala
+490659,SOUTH,Salem,Madhya Pradesh
+490661,NORTH,Mysore,Maharashtra
+490663,CENTRAL,Thiruvananthapuram,Manipur
+490665,EAST,Tiruppur,Meghalaya
+490667,WEST,Gwalior,Mizoram
+490669,SOUTH,Chandrapur,Nagaland
+490671,NORTH,Mumbai,Odisha
+490673,CENTRAL,Delhi,Punjab
+490675,EAST,Bangalore,Rajasthan
+490677,WEST,Hyderabad,Sikkim
+490679,SOUTH,Ahmedabad,Tamil Nadu
+490681,NORTH,Chennai,Telangana
+490683,CENTRAL,Kolkata,Tripura
+490685,EAST,Surat,Uttar Pradesh
+490687,WEST,Pune,Uttarakhand
+490689,SOUTH,Jaipur,West Bengal
+490691,NORTH,Lucknow,Andaman and Nicobar Islands
+490693,CENTRAL,Kanpur,Chandigarh
+490695,EAST,Nagpur,Dadra and Nagar Haveli and Daman and Diu
+490697,WEST,Indore,Lakshadweep
+490699,SOUTH,Thane,Delhi
+490701,NORTH,Bhopal,Puducherry
+490703,CENTRAL,Visakhapatnam,Ladakh
+490705,EAST,Vadodara,Jammu and Kashmir
+490707,WEST,Firozabad,Maharashtra
+490709,SOUTH,Ludhiana,Delhi
+490711,NORTH,Rajkot,Karnataka
+490713,CENTRAL,Agra,Andhra Pradesh
+490715,EAST,Siliguri,Arunachal Pradesh
+490717,WEST,Nashik,Assam
+490719,SOUTH,Faridabad,Bihar
+490721,NORTH,Patna,Chhattisgarh
+490723,CENTRAL,Meerut,Goa
+490725,EAST,Kalyan-Dombivli,Gujarat
+490727,WEST,Vasai-Virar,Haryana
+490729,SOUTH,Varanasi,Himachal Pradesh
+490731,NORTH,Srinagar,Jharkhand
+490733,CENTRAL,Dhanbad,Karnataka
+490735,EAST,Jodhpur,Kerala
+490737,WEST,Amritsar,Madhya Pradesh
+490739,SOUTH,Raipur,Maharashtra
+490741,NORTH,Allahabad,Manipur
+490743,CENTRAL,Coimbatore,Meghalaya
+490745,EAST,Jabalpur,Mizoram
+490747,WEST,Gwalior,Nagaland
+490749,SOUTH,Vijayawada,Odisha
+490751,NORTH,Madurai,Punjab
+490753,CENTRAL,Guwahati,Rajasthan
+490755,EAST,Chandigarh,Sikkim
+490757,WEST,Hubli-Dharwad,Tamil Nadu
+490759,SOUTH,Amroha,Telangana
+490761,NORTH,Moradabad,Tripura
+490763,CENTRAL,Gurgaon,Uttar Pradesh
+490765,EAST,Aligarh,Uttarakhand
+490767,WEST,Solapur,West Bengal
+490769,SOUTH,Ranchi,Andaman and Nicobar Islands
+490771,NORTH,Jalandhar,Chandigarh
+490773,CENTRAL,Tiruchirappalli,Dadra and Nagar Haveli and Daman and Diu
+490775,EAST,Bhubaneswar,Lakshadweep
+490777,WEST,Salem,Delhi
+490779,SOUTH,Mysore,Puducherry
+490781,NORTH,Thiruvananthapuram,Ladakh
+490783,CENTRAL,Tiruppur,Jammu and Kashmir
+490785,EAST,Gwalior,Maharashtra
+490787,WEST,Chandrapur,Delhi
+490789,SOUTH,Mumbai,Karnataka
+490791,NORTH,Delhi,Andhra Pradesh
+490793,CENTRAL,Bangalore,Arunachal Pradesh
+490795,EAST,Hyderabad,Assam
+490797,WEST,Ahmedabad,Bihar
+490799,SOUTH,Chennai,Chhattisgarh
+490801,NORTH,Kolkata,Goa
+490803,CENTRAL,Surat,Gujarat
+490805,EAST,Pune,Haryana
+490807,WEST,Jaipur,Himachal Pradesh
+490809,SOUTH,Lucknow,Jharkhand
+490811,NORTH,Kanpur,Karnataka
+490813,CENTRAL,Nagpur,Kerala
+490815,EAST,Indore,Madhya Pradesh
+490817,WEST,Thane,Maharashtra
+490819,SOUTH,Bhopal,Manipur
+490821,NORTH,Visakhapatnam,Meghalaya
+490823,CENTRAL,Vadodara,Mizoram
+490825,EAST,Firozabad,Nagaland
+490827,WEST,Ludhiana,Odisha
+490829,SOUTH,Rajkot,Punjab
+490831,NORTH,Agra,Rajasthan
+490833,CENTRAL,Siliguri,Sikkim
+490835,EAST,Nashik,Tamil Nadu
+490837,WEST,Faridabad,Telangana
+490839,SOUTH,Patna,Tripura
+490841,NORTH,Meerut,Uttar Pradesh
+490843,CENTRAL,Kalyan-Dombivli,Uttarakhand
+490845,EAST,Vasai-Virar,West Bengal
+490847,WEST,Varanasi,Andaman and Nicobar Islands
+490849,SOUTH,Srinagar,Chandigarh
+490851,NORTH,Dhanbad,Dadra and Nagar Haveli and Daman and Diu
+490853,CENTRAL,Jodhpur,Lakshadweep
+490855,EAST,Amritsar,Delhi
+490857,WEST,Raipur,Puducherry
+490859,SOUTH,Allahabad,Ladakh
+490861,NORTH,Coimbatore,Jammu and Kashmir
+490863,CENTRAL,Jabalpur,Maharashtra
+490865,EAST,Gwalior,Delhi
+490867,WEST,Vijayawada,Karnataka
+490869,SOUTH,Madurai,Andhra Pradesh
+490871,NORTH,Guwahati,Arunachal Pradesh
+490873,CENTRAL,Chandigarh,Assam
+490875,EAST,Hubli-Dharwad,Bihar
+490877,WEST,Amroha,Chhattisgarh
+490879,SOUTH,Moradabad,Goa
+490881,NORTH,Gurgaon,Gujarat
+490883,CENTRAL,Aligarh,Haryana
+490885,EAST,Solapur,Himachal Pradesh
+490887,WEST,Ranchi,Jharkhand
+490889,SOUTH,Jalandhar,Karnataka
+490891,NORTH,Tiruchirappalli,Kerala
+490893,CENTRAL,Bhubaneswar,Madhya Pradesh
+490895,EAST,Salem,Maharashtra
+490897,WEST,Mysore,Manipur
+490899,SOUTH,Thiruvananthapuram,Meghalaya
+490901,NORTH,Tiruppur,Mizoram
+490903,CENTRAL,Gwalior,Nagaland
+490905,EAST,Chandrapur,Odisha
+490907,WEST,Mumbai,Punjab
+490909,SOUTH,Delhi,Rajasthan
+490911,NORTH,Bangalore,Sikkim
+490913,CENTRAL,Hyderabad,Tamil Nadu
+490915,EAST,Ahmedabad,Telangana
+490917,WEST,Chennai,Tripura
+490919,SOUTH,Kolkata,Uttar Pradesh
+490921,NORTH,Surat,Uttarakhand
+490923,CENTRAL,Pune,West Bengal
+490925,EAST,Jaipur,Andaman and Nicobar Islands
+490927,WEST,Lucknow,Chandigarh
+490929,SOUTH,Kanpur,Dadra and Nagar Haveli and Daman and Diu
+490931,NORTH,Nagpur,Lakshadweep
+490933,CENTRAL,Indore,Delhi
+490935,EAST,Thane,Puducherry
+490937,WEST,Bhopal,Ladakh
+490939,SOUTH,Visakhapatnam,Jammu and Kashmir
+490941,NORTH,Vadodara,Maharashtra
+490943,CENTRAL,Firozabad,Delhi
+490945,EAST,Ludhiana,Karnataka
+490947,WEST,Rajkot,Andhra Pradesh
+490949,SOUTH,Agra,Arunachal Pradesh
+490951,NORTH,Siliguri,Assam
+490953,CENTRAL,Nashik,Bihar
+490955,EAST,Faridabad,Chhattisgarh
+490957,WEST,Patna,Goa
+490959,SOUTH,Meerut,Gujarat
+490961,NORTH,Kalyan-Dombivli,Haryana
+490963,CENTRAL,Vasai-Virar,Himachal Pradesh
+490965,EAST,Varanasi,Jharkhand
+490967,WEST,Srinagar,Karnataka
+490969,SOUTH,Dhanbad,Kerala
+490971,NORTH,Jodhpur,Madhya Pradesh
+490973,CENTRAL,Amritsar,Maharashtra
+490975,EAST,Raipur,Manipur
+490977,WEST,Allahabad,Meghalaya
+490979,SOUTH,Coimbatore,Mizoram
+490981,NORTH,Jabalpur,Nagaland
+490983,CENTRAL,Gwalior,Odisha
+490985,EAST,Vijayawada,Punjab
+490987,WEST,Madurai,Rajasthan
+490989,SOUTH,Guwahati,Sikkim
+490991,NORTH,Chandigarh,Tamil Nadu
+490993,CENTRAL,Hubli-Dharwad,Telangana
+490995,EAST,Amroha,Tripura
+490997,WEST,Moradabad,Uttar Pradesh
+490999,SOUTH,Gurgaon,Uttarakhand
+491001,NORTH,Aligarh,West Bengal
+491003,CENTRAL,Solapur,Andaman and Nicobar Islands
+491005,EAST,Ranchi,Chandigarh
+491007,WEST,Jalandhar,Dadra and Nagar Haveli and Daman and Diu
+491009,SOUTH,Tiruchirappalli,Lakshadweep
+491011,NORTH,Bhubaneswar,Delhi
+491013,CENTRAL,Salem,Puducherry
+491015,EAST,Mysore,Ladakh
+491017,WEST,Thiruvananthapuram,Jammu and Kashmir
+491019,SOUTH,Tiruppur,Maharashtra
+491021,NORTH,Gwalior,Delhi
+491023,CENTRAL,Chandrapur,Karnataka
+491025,EAST,Mumbai,Andhra Pradesh
+491027,WEST,Delhi,Arunachal Pradesh
+491029,SOUTH,Bangalore,Assam
+491031,NORTH,Hyderabad,Bihar
+491033,CENTRAL,Ahmedabad,Chhattisgarh
+491035,EAST,Chennai,Goa
+491037,WEST,Kolkata,Gujarat
+491039,SOUTH,Surat,Haryana
+491041,NORTH,Pune,Himachal Pradesh
+491043,CENTRAL,Jaipur,Jharkhand
+491045,EAST,Lucknow,Karnataka
+491047,WEST,Kanpur,Kerala
+491049,SOUTH,Nagpur,Madhya Pradesh
+491051,NORTH,Indore,Maharashtra
+491053,CENTRAL,Thane,Manipur
+491055,EAST,Bhopal,Meghalaya
+491057,WEST,Visakhapatnam,Mizoram
+491059,SOUTH,Vadodara,Nagaland
+491061,NORTH,Firozabad,Odisha
+491063,CENTRAL,Ludhiana,Punjab
+491065,EAST,Rajkot,Rajasthan
+491067,WEST,Agra,Sikkim
+491069,SOUTH,Siliguri,Tamil Nadu
+491071,NORTH,Nashik,Telangana
+491073,CENTRAL,Faridabad,Tripura
+491075,EAST,Patna,Uttar Pradesh
+491077,WEST,Meerut,Uttarakhand
+491079,SOUTH,Kalyan-Dombivli,West Bengal
+491081,NORTH,Vasai-Virar,Andaman and Nicobar Islands
+491083,CENTRAL,Varanasi,Chandigarh
+491085,EAST,Srinagar,Dadra and Nagar Haveli and Daman and Diu
+491087,WEST,Dhanbad,Lakshadweep
+491089,SOUTH,Jodhpur,Delhi
+491091,NORTH,Amritsar,Puducherry
+491093,CENTRAL,Raipur,Ladakh
+491095,EAST,Allahabad,Jammu and Kashmir
+491097,WEST,Coimbatore,Maharashtra
+491099,SOUTH,Jabalpur,Delhi
+491101,NORTH,Gwalior,Karnataka
+491103,CENTRAL,Vijayawada,Andhra Pradesh
+491105,EAST,Madurai,Arunachal Pradesh
+491107,WEST,Guwahati,Assam
+491109,SOUTH,Chandigarh,Bihar
+491111,NORTH,Hubli-Dharwad,Chhattisgarh
+491113,CENTRAL,Amroha,Goa
+491115,EAST,Moradabad,Gujarat
+491117,WEST,Gurgaon,Haryana
+491119,SOUTH,Aligarh,Himachal Pradesh
+491121,NORTH,Solapur,Jharkhand
+491123,CENTRAL,Ranchi,Karnataka
+491125,EAST,Jalandhar,Kerala
+491127,WEST,Tiruchirappalli,Madhya Pradesh
+491129,SOUTH,Bhubaneswar,Maharashtra
+491131,NORTH,Salem,Manipur
+491133,CENTRAL,Mysore,Meghalaya
+491135,EAST,Thiruvananthapuram,Mizoram
+491137,WEST,Tiruppur,Nagaland
+491139,SOUTH,Gwalior,Odisha
+491141,NORTH,Chandrapur,Punjab
+491143,CENTRAL,Mumbai,Rajasthan
+491145,EAST,Delhi,Sikkim
+491147,WEST,Bangalore,Tamil Nadu
+491149,SOUTH,Hyderabad,Telangana
+491151,NORTH,Ahmedabad,Tripura
+491153,CENTRAL,Chennai,Uttar Pradesh
+491155,EAST,Kolkata,Uttarakhand
+491157,WEST,Surat,West Bengal
+491159,SOUTH,Pune,Andaman and Nicobar Islands
+491161,NORTH,Jaipur,Chandigarh
+491163,CENTRAL,Lucknow,Dadra and Nagar Haveli and Daman and Diu
+491165,EAST,Kanpur,Lakshadweep
+491167,WEST,Nagpur,Delhi
+491169,SOUTH,Indore,Puducherry
+491171,NORTH,Thane,Ladakh
+491173,CENTRAL,Bhopal,Jammu and Kashmir
+491175,EAST,Visakhapatnam,Maharashtra
+491177,WEST,Vadodara,Delhi
+491179,SOUTH,Firozabad,Karnataka
+491181,NORTH,Ludhiana,Andhra Pradesh
+491183,CENTRAL,Rajkot,Arunachal Pradesh
+491185,EAST,Agra,Assam
+491187,WEST,Siliguri,Bihar
+491189,SOUTH,Nashik,Chhattisgarh
+491191,NORTH,Faridabad,Goa
+491193,CENTRAL,Patna,Gujarat
+491195,EAST,Meerut,Haryana
+491197,WEST,Kalyan-Dombivli,Himachal Pradesh
+491199,SOUTH,Vasai-Virar,Jharkhand
+491201,NORTH,Varanasi,Karnataka
+491203,CENTRAL,Srinagar,Kerala
+491205,EAST,Dhanbad,Madhya Pradesh
+491207,WEST,Jodhpur,Maharashtra
+491209,SOUTH,Amritsar,Manipur
+491211,NORTH,Raipur,Meghalaya
+491213,CENTRAL,Allahabad,Mizoram
+491215,EAST,Coimbatore,Nagaland
+491217,WEST,Jabalpur,Odisha
+491219,SOUTH,Gwalior,Punjab
+491221,NORTH,Vijayawada,Rajasthan
+491223,CENTRAL,Madurai,Sikkim
+491225,EAST,Guwahati,Tamil Nadu
+491227,WEST,Chandigarh,Telangana
+491229,SOUTH,Hubli-Dharwad,Tripura
+491231,NORTH,Amroha,Uttar Pradesh
+491233,CENTRAL,Moradabad,Uttarakhand
+491235,EAST,Gurgaon,West Bengal
+491237,WEST,Aligarh,Andaman and Nicobar Islands
+491239,SOUTH,Solapur,Chandigarh
+491241,NORTH,Ranchi,Dadra and Nagar Haveli and Daman and Diu
+491243,CENTRAL,Jalandhar,Lakshadweep
+491245,EAST,Tiruchirappalli,Delhi
+491247,WEST,Bhubaneswar,Puducherry
+491249,SOUTH,Salem,Ladakh
+491251,NORTH,Mysore,Jammu and Kashmir
+491253,CENTRAL,Thiruvananthapuram,Maharashtra
+491255,EAST,Tiruppur,Delhi
+491257,WEST,Gwalior,Karnataka
+491259,SOUTH,Chandrapur,Andhra Pradesh
+491261,NORTH,Mumbai,Arunachal Pradesh
+491263,CENTRAL,Delhi,Assam
+491265,EAST,Bangalore,Bihar
+491267,WEST,Hyderabad,Chhattisgarh
+491269,SOUTH,Ahmedabad,Goa
+491271,NORTH,Chennai,Gujarat
+491273,CENTRAL,Kolkata,Haryana
+491275,EAST,Surat,Himachal Pradesh
+491277,WEST,Pune,Jharkhand
+491279,SOUTH,Jaipur,Karnataka
+491281,NORTH,Lucknow,Kerala
+491283,CENTRAL,Kanpur,Madhya Pradesh
+491285,EAST,Nagpur,Maharashtra
+491287,WEST,Indore,Manipur
+491289,SOUTH,Thane,Meghalaya
+491291,NORTH,Bhopal,Mizoram
+491293,CENTRAL,Visakhapatnam,Nagaland
+491295,EAST,Vadodara,Odisha
+491297,WEST,Firozabad,Punjab
+491299,SOUTH,Ludhiana,Rajasthan
+491301,NORTH,Rajkot,Sikkim
+491303,CENTRAL,Agra,Tamil Nadu
+491305,EAST,Siliguri,Telangana
+491307,WEST,Nashik,Tripura
+491309,SOUTH,Faridabad,Uttar Pradesh
+491311,NORTH,Patna,Uttarakhand
+491313,CENTRAL,Meerut,West Bengal
+491315,EAST,Kalyan-Dombivli,Andaman and Nicobar Islands
+491317,WEST,Vasai-Virar,Chandigarh
+491319,SOUTH,Varanasi,Dadra and Nagar Haveli and Daman and Diu
+491321,NORTH,Srinagar,Lakshadweep
+491323,CENTRAL,Dhanbad,Delhi
+491325,EAST,Jodhpur,Puducherry
+491327,WEST,Amritsar,Ladakh
+491329,SOUTH,Raipur,Jammu and Kashmir
+491331,NORTH,Allahabad,Maharashtra
+491333,CENTRAL,Coimbatore,Delhi
+491335,EAST,Jabalpur,Karnataka
+491337,WEST,Gwalior,Andhra Pradesh
+491339,SOUTH,Vijayawada,Arunachal Pradesh
+491341,NORTH,Madurai,Assam
+491343,CENTRAL,Guwahati,Bihar
+491345,EAST,Chandigarh,Chhattisgarh
+491347,WEST,Hubli-Dharwad,Goa
+491349,SOUTH,Amroha,Gujarat
+491351,NORTH,Moradabad,Haryana
+491353,CENTRAL,Gurgaon,Himachal Pradesh
+491355,EAST,Aligarh,Jharkhand
+491357,WEST,Solapur,Karnataka
+491359,SOUTH,Ranchi,Kerala
+491361,NORTH,Jalandhar,Madhya Pradesh
+491363,CENTRAL,Tiruchirappalli,Maharashtra
+491365,EAST,Bhubaneswar,Manipur
+491367,WEST,Salem,Meghalaya
+491369,SOUTH,Mysore,Mizoram
+491371,NORTH,Thiruvananthapuram,Nagaland
+491373,CENTRAL,Tiruppur,Odisha
+491375,EAST,Gwalior,Punjab
+491377,WEST,Chandrapur,Rajasthan
+491379,SOUTH,Mumbai,Sikkim
+491381,NORTH,Delhi,Tamil Nadu
+491383,CENTRAL,Bangalore,Telangana
+491385,EAST,Hyderabad,Tripura
+491387,WEST,Ahmedabad,Uttar Pradesh
+491389,SOUTH,Chennai,Uttarakhand
+491391,NORTH,Kolkata,West Bengal
+491393,CENTRAL,Surat,Andaman and Nicobar Islands
+491395,EAST,Pune,Chandigarh
+491397,WEST,Jaipur,Dadra and Nagar Haveli and Daman and Diu
+491399,SOUTH,Lucknow,Lakshadweep
+491401,NORTH,Kanpur,Delhi
+491403,CENTRAL,Nagpur,Puducherry
+491405,EAST,Indore,Ladakh
+491407,WEST,Thane,Jammu and Kashmir
+491409,SOUTH,Bhopal,Maharashtra
+491411,NORTH,Visakhapatnam,Delhi
+491413,CENTRAL,Vadodara,Karnataka
+491415,EAST,Firozabad,Andhra Pradesh
+491417,WEST,Ludhiana,Arunachal Pradesh
+491419,SOUTH,Rajkot,Assam
+491421,NORTH,Agra,Bihar
+491423,CENTRAL,Siliguri,Chhattisgarh
+491425,EAST,Nashik,Goa
+491427,WEST,Faridabad,Gujarat
+491429,SOUTH,Patna,Haryana
+491431,NORTH,Meerut,Himachal Pradesh
+491433,CENTRAL,Kalyan-Dombivli,Jharkhand
+491435,EAST,Vasai-Virar,Karnataka
+491437,WEST,Varanasi,Kerala
+491439,SOUTH,Srinagar,Madhya Pradesh
+491441,NORTH,Dhanbad,Maharashtra
+491443,CENTRAL,Jodhpur,Manipur
+491445,EAST,Amritsar,Meghalaya
+491447,WEST,Raipur,Mizoram
+491449,SOUTH,Allahabad,Nagaland
+491451,NORTH,Coimbatore,Odisha
+491453,CENTRAL,Jabalpur,Punjab
+491455,EAST,Gwalior,Rajasthan
+491457,WEST,Vijayawada,Sikkim
+491459,SOUTH,Madurai,Tamil Nadu
+491461,NORTH,Guwahati,Telangana
+491463,CENTRAL,Chandigarh,Tripura
+491465,EAST,Hubli-Dharwad,Uttar Pradesh
+491467,WEST,Amroha,Uttarakhand
+491469,SOUTH,Moradabad,West Bengal
+491471,NORTH,Gurgaon,Andaman and Nicobar Islands
+491473,CENTRAL,Aligarh,Chandigarh
+491475,EAST,Solapur,Dadra and Nagar Haveli and Daman and Diu
+491477,WEST,Ranchi,Lakshadweep
+491479,SOUTH,Jalandhar,Delhi
+491481,NORTH,Tiruchirappalli,Puducherry
+491483,CENTRAL,Bhubaneswar,Ladakh
+491485,EAST,Salem,Jammu and Kashmir
+491487,WEST,Mysore,Maharashtra
+491489,SOUTH,Thiruvananthapuram,Delhi
+491491,NORTH,Tiruppur,Karnataka
+491493,CENTRAL,Gwalior,Andhra Pradesh
+491495,EAST,Chandrapur,Arunachal Pradesh
+491497,WEST,Mumbai,Assam
+491499,SOUTH,Delhi,Bihar
+491501,NORTH,Bangalore,Chhattisgarh
+491503,CENTRAL,Hyderabad,Goa
+491505,EAST,Ahmedabad,Gujarat
+491507,WEST,Chennai,Haryana
+491509,SOUTH,Kolkata,Himachal Pradesh
+491511,NORTH,Surat,Jharkhand
+491513,CENTRAL,Pune,Karnataka
+491515,EAST,Jaipur,Kerala
+491517,WEST,Lucknow,Madhya Pradesh
+491519,SOUTH,Kanpur,Maharashtra
+491521,NORTH,Nagpur,Manipur
+491523,CENTRAL,Indore,Meghalaya
+491525,EAST,Thane,Mizoram
+491527,WEST,Bhopal,Nagaland
+491529,SOUTH,Visakhapatnam,Odisha
+491531,NORTH,Vadodara,Punjab
+491533,CENTRAL,Firozabad,Rajasthan
+491535,EAST,Ludhiana,Sikkim
+491537,WEST,Rajkot,Tamil Nadu
+491539,SOUTH,Agra,Telangana
+491541,NORTH,Siliguri,Tripura
+491543,CENTRAL,Nashik,Uttar Pradesh
+491545,EAST,Faridabad,Uttarakhand
+491547,WEST,Patna,West Bengal
+491549,SOUTH,Meerut,Andaman and Nicobar Islands
+491551,NORTH,Kalyan-Dombivli,Chandigarh
+491553,CENTRAL,Vasai-Virar,Dadra and Nagar Haveli and Daman and Diu
+491555,EAST,Varanasi,Lakshadweep
+491557,WEST,Srinagar,Delhi
+491559,SOUTH,Dhanbad,Puducherry
+491561,NORTH,Jodhpur,Ladakh
+491563,CENTRAL,Amritsar,Jammu and Kashmir
+491565,EAST,Raipur,Maharashtra
+491567,WEST,Allahabad,Delhi
+491569,SOUTH,Coimbatore,Karnataka
+491571,NORTH,Jabalpur,Andhra Pradesh
+491573,CENTRAL,Gwalior,Arunachal Pradesh
+491575,EAST,Vijayawada,Assam
+491577,WEST,Madurai,Bihar
+491579,SOUTH,Guwahati,Chhattisgarh
+491581,NORTH,Chandigarh,Goa
+491583,CENTRAL,Hubli-Dharwad,Gujarat
+491585,EAST,Amroha,Haryana
+491587,WEST,Moradabad,Himachal Pradesh
+491589,SOUTH,Gurgaon,Jharkhand
+491591,NORTH,Aligarh,Karnataka
+491593,CENTRAL,Solapur,Kerala
+491595,EAST,Ranchi,Madhya Pradesh
+491597,WEST,Jalandhar,Maharashtra
+491599,SOUTH,Tiruchirappalli,Manipur
+491601,NORTH,Bhubaneswar,Meghalaya
+491603,CENTRAL,Salem,Mizoram
+491605,EAST,Mysore,Nagaland
+491607,WEST,Thiruvananthapuram,Odisha
+491609,SOUTH,Tiruppur,Punjab
+491611,NORTH,Gwalior,Rajasthan
+491613,CENTRAL,Chandrapur,Sikkim
+491615,EAST,Mumbai,Tamil Nadu
+491617,WEST,Delhi,Telangana
+491619,SOUTH,Bangalore,Tripura
+491621,NORTH,Hyderabad,Uttar Pradesh
+491623,CENTRAL,Ahmedabad,Uttarakhand
+491625,EAST,Chennai,West Bengal
+491627,WEST,Kolkata,Andaman and Nicobar Islands
+491629,SOUTH,Surat,Chandigarh
+491631,NORTH,Pune,Dadra and Nagar Haveli and Daman and Diu
+491633,CENTRAL,Jaipur,Lakshadweep
+491635,EAST,Lucknow,Delhi
+491637,WEST,Kanpur,Puducherry
+491639,SOUTH,Nagpur,Ladakh
+491641,NORTH,Indore,Jammu and Kashmir
+491643,CENTRAL,Thane,Maharashtra
+491645,EAST,Bhopal,Delhi
+491647,WEST,Visakhapatnam,Karnataka
+491649,SOUTH,Vadodara,Andhra Pradesh
+491651,NORTH,Firozabad,Arunachal Pradesh
+491653,CENTRAL,Ludhiana,Assam
+491655,EAST,Rajkot,Bihar
+491657,WEST,Agra,Chhattisgarh
+491659,SOUTH,Siliguri,Goa
+491661,NORTH,Nashik,Gujarat
+491663,CENTRAL,Faridabad,Haryana
+491665,EAST,Patna,Himachal Pradesh
+491667,WEST,Meerut,Jharkhand
+491669,SOUTH,Kalyan-Dombivli,Karnataka
+491671,NORTH,Vasai-Virar,Kerala
+491673,CENTRAL,Varanasi,Madhya Pradesh
+491675,EAST,Srinagar,Maharashtra
+491677,WEST,Dhanbad,Manipur
+491679,SOUTH,Jodhpur,Meghalaya
+491681,NORTH,Amritsar,Mizoram
+491683,CENTRAL,Raipur,Nagaland
+491685,EAST,Allahabad,Odisha
+491687,WEST,Coimbatore,Punjab
+491689,SOUTH,Jabalpur,Rajasthan
+491691,NORTH,Gwalior,Sikkim
+491693,CENTRAL,Vijayawada,Tamil Nadu
+491695,EAST,Madurai,Telangana
+491697,WEST,Guwahati,Tripura
+491699,SOUTH,Chandigarh,Uttar Pradesh
+491701,NORTH,Hubli-Dharwad,Uttarakhand
+491703,CENTRAL,Amroha,West Bengal
+491705,EAST,Moradabad,Andaman and Nicobar Islands
+491707,WEST,Gurgaon,Chandigarh
+491709,SOUTH,Aligarh,Dadra and Nagar Haveli and Daman and Diu
+491711,NORTH,Solapur,Lakshadweep
+491713,CENTRAL,Ranchi,Delhi
+491715,EAST,Jalandhar,Puducherry
+491717,WEST,Tiruchirappalli,Ladakh
+491719,SOUTH,Bhubaneswar,Jammu and Kashmir
+491721,NORTH,Salem,Maharashtra
+491723,CENTRAL,Mysore,Delhi
+491725,EAST,Thiruvananthapuram,Karnataka
+491727,WEST,Tiruppur,Andhra Pradesh
+491729,SOUTH,Gwalior,Arunachal Pradesh
+491731,NORTH,Chandrapur,Assam
+491733,CENTRAL,Mumbai,Bihar
+491735,EAST,Delhi,Chhattisgarh
+491737,WEST,Bangalore,Goa
+491739,SOUTH,Hyderabad,Gujarat
+491741,NORTH,Ahmedabad,Haryana
+491743,CENTRAL,Chennai,Himachal Pradesh
+491745,EAST,Kolkata,Jharkhand
+491747,WEST,Surat,Karnataka
+491749,SOUTH,Pune,Kerala
+491751,NORTH,Jaipur,Madhya Pradesh
+491753,CENTRAL,Lucknow,Maharashtra
+491755,EAST,Kanpur,Manipur
+491757,WEST,Nagpur,Meghalaya
+491759,SOUTH,Indore,Mizoram
+491761,NORTH,Thane,Nagaland
+491763,CENTRAL,Bhopal,Odisha
+491765,EAST,Visakhapatnam,Punjab
+491767,WEST,Vadodara,Rajasthan
+491769,SOUTH,Firozabad,Sikkim
+491771,NORTH,Ludhiana,Tamil Nadu
+491773,CENTRAL,Rajkot,Telangana
+491775,EAST,Agra,Tripura
+491777,WEST,Siliguri,Uttar Pradesh
+491779,SOUTH,Nashik,Uttarakhand
+491781,NORTH,Faridabad,West Bengal
+491783,CENTRAL,Patna,Andaman and Nicobar Islands
+491785,EAST,Meerut,Chandigarh
+491787,WEST,Kalyan-Dombivli,Dadra and Nagar Haveli and Daman and Diu
+491789,SOUTH,Vasai-Virar,Lakshadweep
+491791,NORTH,Varanasi,Delhi
+491793,CENTRAL,Srinagar,Puducherry
+491795,EAST,Dhanbad,Ladakh
+491797,WEST,Jodhpur,Jammu and Kashmir
+491799,SOUTH,Amritsar,Maharashtra
+491801,NORTH,Raipur,Delhi
+491803,CENTRAL,Allahabad,Karnataka
+491805,EAST,Coimbatore,Andhra Pradesh
+491807,WEST,Jabalpur,Arunachal Pradesh
+491809,SOUTH,Gwalior,Assam
+491811,NORTH,Vijayawada,Bihar
+491813,CENTRAL,Madurai,Chhattisgarh
+491815,EAST,Guwahati,Goa
+491817,WEST,Chandigarh,Gujarat
+491819,SOUTH,Hubli-Dharwad,Haryana
+491821,NORTH,Amroha,Himachal Pradesh
+491823,CENTRAL,Moradabad,Jharkhand
+491825,EAST,Gurgaon,Karnataka
+491827,WEST,Aligarh,Kerala
+491829,SOUTH,Solapur,Madhya Pradesh
+491831,NORTH,Ranchi,Maharashtra
+491833,CENTRAL,Jalandhar,Manipur
+491835,EAST,Tiruchirappalli,Meghalaya
+491837,WEST,Bhubaneswar,Mizoram
+491839,SOUTH,Salem,Nagaland
+491841,NORTH,Mysore,Odisha
+491843,CENTRAL,Thiruvananthapuram,Punjab
+491845,EAST,Tiruppur,Rajasthan
+491847,WEST,Gwalior,Sikkim
+491849,SOUTH,Chandrapur,Tamil Nadu
+491851,NORTH,Mumbai,Telangana
+491853,CENTRAL,Delhi,Tripura
+491855,EAST,Bangalore,Uttar Pradesh
+491857,WEST,Hyderabad,Uttarakhand
+491859,SOUTH,Ahmedabad,West Bengal
+491861,NORTH,Chennai,Andaman and Nicobar Islands
+491863,CENTRAL,Kolkata,Chandigarh
+491865,EAST,Surat,Dadra and Nagar Haveli and Daman and Diu
+491867,WEST,Pune,Lakshadweep
+491869,SOUTH,Jaipur,Delhi
+491871,NORTH,Lucknow,Puducherry
+491873,CENTRAL,Kanpur,Ladakh
+491875,EAST,Nagpur,Jammu and Kashmir
+491877,WEST,Indore,Maharashtra
+491879,SOUTH,Thane,Delhi
+491881,NORTH,Bhopal,Karnataka
+491883,CENTRAL,Visakhapatnam,Andhra Pradesh
+491885,EAST,Vadodara,Arunachal Pradesh
+491887,WEST,Firozabad,Assam
+491889,SOUTH,Ludhiana,Bihar
+491891,NORTH,Rajkot,Chhattisgarh
+491893,CENTRAL,Agra,Goa
+491895,EAST,Siliguri,Gujarat
+491897,WEST,Nashik,Haryana
+491899,SOUTH,Faridabad,Himachal Pradesh
+491901,NORTH,Patna,Jharkhand
+491903,CENTRAL,Meerut,Karnataka
+491905,EAST,Kalyan-Dombivli,Kerala
+491907,WEST,Vasai-Virar,Madhya Pradesh
+491909,SOUTH,Varanasi,Maharashtra
+491911,NORTH,Srinagar,Manipur
+491913,CENTRAL,Dhanbad,Meghalaya
+491915,EAST,Jodhpur,Mizoram
+491917,WEST,Amritsar,Nagaland
+491919,SOUTH,Raipur,Odisha
+491921,NORTH,Allahabad,Punjab
+491923,CENTRAL,Coimbatore,Rajasthan
+491925,EAST,Jabalpur,Sikkim
+491927,WEST,Gwalior,Tamil Nadu
+491929,SOUTH,Vijayawada,Telangana
+491931,NORTH,Madurai,Tripura
+491933,CENTRAL,Guwahati,Uttar Pradesh
+491935,EAST,Chandigarh,Uttarakhand
+491937,WEST,Hubli-Dharwad,West Bengal
+491939,SOUTH,Amroha,Andaman and Nicobar Islands
+491941,NORTH,Moradabad,Chandigarh
+491943,CENTRAL,Gurgaon,Dadra and Nagar Haveli and Daman and Diu
+491945,EAST,Aligarh,Lakshadweep
+491947,WEST,Solapur,Delhi
+491949,SOUTH,Ranchi,Puducherry
+491951,NORTH,Jalandhar,Ladakh
+491953,CENTRAL,Tiruchirappalli,Jammu and Kashmir
+491955,EAST,Bhubaneswar,Maharashtra
+491957,WEST,Salem,Delhi
+491959,SOUTH,Mysore,Karnataka
+491961,NORTH,Thiruvananthapuram,Andhra Pradesh
+491963,CENTRAL,Tiruppur,Arunachal Pradesh
+491965,EAST,Gwalior,Assam
+491967,WEST,Chandrapur,Bihar
+491969,SOUTH,Mumbai,Chhattisgarh
+491971,NORTH,Delhi,Goa
+491973,CENTRAL,Bangalore,Gujarat
+491975,EAST,Hyderabad,Haryana
+491977,WEST,Ahmedabad,Himachal Pradesh
+491979,SOUTH,Chennai,Jharkhand
+491981,NORTH,Kolkata,Karnataka
+491983,CENTRAL,Surat,Kerala
+491985,EAST,Pune,Madhya Pradesh
+491987,WEST,Jaipur,Maharashtra
+491989,SOUTH,Lucknow,Manipur
+491991,NORTH,Kanpur,Meghalaya
+491993,CENTRAL,Nagpur,Mizoram
+491995,EAST,Indore,Nagaland
+491997,WEST,Thane,Odisha
+491999,SOUTH,Bhopal,Punjab
+492001,NORTH,Visakhapatnam,Rajasthan
+492003,CENTRAL,Vadodara,Sikkim
+492005,EAST,Firozabad,Tamil Nadu
+492007,WEST,Ludhiana,Telangana
+492009,SOUTH,Rajkot,Tripura
+492011,NORTH,Agra,Uttar Pradesh
+492013,CENTRAL,Siliguri,Uttarakhand
+492015,EAST,Nashik,West Bengal
+492017,WEST,Faridabad,Andaman and Nicobar Islands
+492019,SOUTH,Patna,Chandigarh
+492021,NORTH,Meerut,Dadra and Nagar Haveli and Daman and Diu
+492023,CENTRAL,Kalyan-Dombivli,Lakshadweep
+492025,EAST,Vasai-Virar,Delhi
+492027,WEST,Varanasi,Puducherry
+492029,SOUTH,Srinagar,Ladakh
+492031,NORTH,Dhanbad,Jammu and Kashmir
+492033,CENTRAL,Jodhpur,Maharashtra
+492035,EAST,Amritsar,Delhi
+492037,WEST,Raipur,Karnataka
+492039,SOUTH,Allahabad,Andhra Pradesh
+492041,NORTH,Coimbatore,Arunachal Pradesh
+492043,CENTRAL,Jabalpur,Assam
+492045,EAST,Gwalior,Bihar
+492047,WEST,Vijayawada,Chhattisgarh
+492049,SOUTH,Madurai,Goa
+492051,NORTH,Guwahati,Gujarat
+492053,CENTRAL,Chandigarh,Haryana
+492055,EAST,Hubli-Dharwad,Himachal Pradesh
+492057,WEST,Amroha,Jharkhand
+492059,SOUTH,Moradabad,Karnataka
+492061,NORTH,Gurgaon,Kerala
+492063,CENTRAL,Aligarh,Madhya Pradesh
+492065,EAST,Solapur,Maharashtra
+492067,WEST,Ranchi,Manipur
+492069,SOUTH,Jalandhar,Meghalaya
+492071,NORTH,Tiruchirappalli,Mizoram
+492073,CENTRAL,Bhubaneswar,Nagaland
+492075,EAST,Salem,Odisha
+492077,WEST,Mysore,Punjab
+492079,SOUTH,Thiruvananthapuram,Rajasthan
+492081,NORTH,Tiruppur,Sikkim
+492083,CENTRAL,Gwalior,Tamil Nadu
+492085,EAST,Chandrapur,Telangana
+492087,WEST,Mumbai,Tripura
+492089,SOUTH,Delhi,Uttar Pradesh
+492091,NORTH,Bangalore,Uttarakhand
+492093,CENTRAL,Hyderabad,West Bengal
+492095,EAST,Ahmedabad,Andaman and Nicobar Islands
+492097,WEST,Chennai,Chandigarh
+492099,SOUTH,Kolkata,Dadra and Nagar Haveli and Daman and Diu
+492101,NORTH,Surat,Lakshadweep
+492103,CENTRAL,Pune,Delhi
+492105,EAST,Jaipur,Puducherry
+492107,WEST,Lucknow,Ladakh
+492109,SOUTH,Kanpur,Jammu and Kashmir
+492111,NORTH,Nagpur,Maharashtra
+492113,CENTRAL,Indore,Delhi
+492115,EAST,Thane,Karnataka
+492117,WEST,Bhopal,Andhra Pradesh
+492119,SOUTH,Visakhapatnam,Arunachal Pradesh
+492121,NORTH,Vadodara,Assam
+492123,CENTRAL,Firozabad,Bihar
+492125,EAST,Ludhiana,Chhattisgarh
+492127,WEST,Rajkot,Goa
+492129,SOUTH,Agra,Gujarat
+492131,NORTH,Siliguri,Haryana
+492133,CENTRAL,Nashik,Himachal Pradesh
+492135,EAST,Faridabad,Jharkhand
+492137,WEST,Patna,Karnataka
+492139,SOUTH,Meerut,Kerala
+492141,NORTH,Kalyan-Dombivli,Madhya Pradesh
+492143,CENTRAL,Vasai-Virar,Maharashtra
+492145,EAST,Varanasi,Manipur
+492147,WEST,Srinagar,Meghalaya
+492149,SOUTH,Dhanbad,Mizoram
+492151,NORTH,Jodhpur,Nagaland
+492153,CENTRAL,Amritsar,Odisha
+492155,EAST,Raipur,Punjab
+492157,WEST,Allahabad,Rajasthan
+492159,SOUTH,Coimbatore,Sikkim
+492161,NORTH,Jabalpur,Tamil Nadu
+492163,CENTRAL,Gwalior,Telangana
+492165,EAST,Vijayawada,Tripura
+492167,WEST,Madurai,Uttar Pradesh
+492169,SOUTH,Guwahati,Uttarakhand
+492171,NORTH,Chandigarh,West Bengal
+492173,CENTRAL,Hubli-Dharwad,Andaman and Nicobar Islands
+492175,EAST,Amroha,Chandigarh
+492177,WEST,Moradabad,Dadra and Nagar Haveli and Daman and Diu
+492179,SOUTH,Gurgaon,Lakshadweep
+492181,NORTH,Aligarh,Delhi
+492183,CENTRAL,Solapur,Puducherry
+492185,EAST,Ranchi,Ladakh
+492187,WEST,Jalandhar,Jammu and Kashmir
+492189,SOUTH,Tiruchirappalli,Maharashtra
+492191,NORTH,Bhubaneswar,Delhi
+492193,CENTRAL,Salem,Karnataka
+492195,EAST,Mysore,Andhra Pradesh
+492197,WEST,Thiruvananthapuram,Arunachal Pradesh
+492199,SOUTH,Tiruppur,Assam
+492201,NORTH,Gwalior,Bihar
+492203,CENTRAL,Chandrapur,Chhattisgarh
+492205,EAST,Mumbai,Goa
+492207,WEST,Delhi,Gujarat
+492209,SOUTH,Bangalore,Haryana
+492211,NORTH,Hyderabad,Himachal Pradesh
+492213,CENTRAL,Ahmedabad,Jharkhand
+492215,EAST,Chennai,Karnataka
+492217,WEST,Kolkata,Kerala
+492219,SOUTH,Surat,Madhya Pradesh
+492221,NORTH,Pune,Maharashtra
+492223,CENTRAL,Jaipur,Manipur
+492225,EAST,Lucknow,Meghalaya
+492227,WEST,Kanpur,Mizoram
+492229,SOUTH,Nagpur,Nagaland
+492231,NORTH,Indore,Odisha
+492233,CENTRAL,Thane,Punjab
+492235,EAST,Bhopal,Rajasthan
+492237,WEST,Visakhapatnam,Sikkim
+492239,SOUTH,Vadodara,Tamil Nadu
+492241,NORTH,Firozabad,Telangana
+492243,CENTRAL,Ludhiana,Tripura
+492245,EAST,Rajkot,Uttar Pradesh
+492247,WEST,Agra,Uttarakhand
+492249,SOUTH,Siliguri,West Bengal
+492251,NORTH,Nashik,Andaman and Nicobar Islands
+492253,CENTRAL,Faridabad,Chandigarh
+492255,EAST,Patna,Dadra and Nagar Haveli and Daman and Diu
+492257,WEST,Meerut,Lakshadweep
+492259,SOUTH,Kalyan-Dombivli,Delhi
+492261,NORTH,Vasai-Virar,Puducherry
+492263,CENTRAL,Varanasi,Ladakh
+492265,EAST,Srinagar,Jammu and Kashmir
+492267,WEST,Dhanbad,Maharashtra
+492269,SOUTH,Jodhpur,Delhi
+492271,NORTH,Amritsar,Karnataka
+492273,CENTRAL,Raipur,Andhra Pradesh
+492275,EAST,Allahabad,Arunachal Pradesh
+492277,WEST,Coimbatore,Assam
+492279,SOUTH,Jabalpur,Bihar
+492281,NORTH,Gwalior,Chhattisgarh
+492283,CENTRAL,Vijayawada,Goa
+492285,EAST,Madurai,Gujarat
+492287,WEST,Guwahati,Haryana
+492289,SOUTH,Chandigarh,Himachal Pradesh
+492291,NORTH,Hubli-Dharwad,Jharkhand
+492293,CENTRAL,Amroha,Karnataka
+492295,EAST,Moradabad,Kerala
+492297,WEST,Gurgaon,Madhya Pradesh
+492299,SOUTH,Aligarh,Maharashtra
+492301,NORTH,Solapur,Manipur
+492303,CENTRAL,Ranchi,Meghalaya
+492305,EAST,Jalandhar,Mizoram
+492307,WEST,Tiruchirappalli,Nagaland
+492309,SOUTH,Bhubaneswar,Odisha
+492311,NORTH,Salem,Punjab
+492313,CENTRAL,Mysore,Rajasthan
+492315,EAST,Thiruvananthapuram,Sikkim
+492317,WEST,Tiruppur,Tamil Nadu
+492319,SOUTH,Gwalior,Telangana
+492321,NORTH,Chandrapur,Tripura
+492323,CENTRAL,Mumbai,Uttar Pradesh
+492325,EAST,Delhi,Uttarakhand
+492327,WEST,Bangalore,West Bengal
+492329,SOUTH,Hyderabad,Andaman and Nicobar Islands
+492331,NORTH,Ahmedabad,Chandigarh
+492333,CENTRAL,Chennai,Dadra and Nagar Haveli and Daman and Diu
+492335,EAST,Kolkata,Lakshadweep
+492337,WEST,Surat,Delhi
+492339,SOUTH,Pune,Puducherry
+492341,NORTH,Jaipur,Ladakh
+492343,CENTRAL,Lucknow,Jammu and Kashmir
+492345,EAST,Kanpur,Maharashtra
+492347,WEST,Nagpur,Delhi
+492349,SOUTH,Indore,Karnataka
+492351,NORTH,Thane,Andhra Pradesh
+492353,CENTRAL,Bhopal,Arunachal Pradesh
+492355,EAST,Visakhapatnam,Assam
+492357,WEST,Vadodara,Bihar
+492359,SOUTH,Firozabad,Chhattisgarh
+492361,NORTH,Ludhiana,Goa
+492363,CENTRAL,Rajkot,Gujarat
+492365,EAST,Agra,Haryana
+492367,WEST,Siliguri,Himachal Pradesh
+492369,SOUTH,Nashik,Jharkhand
+492371,NORTH,Faridabad,Karnataka
+492373,CENTRAL,Patna,Kerala
+492375,EAST,Meerut,Madhya Pradesh
+492377,WEST,Kalyan-Dombivli,Maharashtra
+492379,SOUTH,Vasai-Virar,Manipur
+492381,NORTH,Varanasi,Meghalaya
+492383,CENTRAL,Srinagar,Mizoram
+492385,EAST,Dhanbad,Nagaland
+492387,WEST,Jodhpur,Odisha
+492389,SOUTH,Amritsar,Punjab
+492391,NORTH,Raipur,Rajasthan
+492393,CENTRAL,Allahabad,Sikkim
+492395,EAST,Coimbatore,Tamil Nadu
+492397,WEST,Jabalpur,Telangana
+492399,SOUTH,Gwalior,Tripura
+492401,NORTH,Vijayawada,Uttar Pradesh
+492403,CENTRAL,Madurai,Uttarakhand
+492405,EAST,Guwahati,West Bengal
+492407,WEST,Chandigarh,Andaman and Nicobar Islands
+492409,SOUTH,Hubli-Dharwad,Chandigarh
+492411,NORTH,Amroha,Dadra and Nagar Haveli and Daman and Diu
+492413,CENTRAL,Moradabad,Lakshadweep
+492415,EAST,Gurgaon,Delhi
+492417,WEST,Aligarh,Puducherry
+492419,SOUTH,Solapur,Ladakh
+492421,NORTH,Ranchi,Jammu and Kashmir
+492423,CENTRAL,Jalandhar,Maharashtra
+492425,EAST,Tiruchirappalli,Delhi
+492427,WEST,Bhubaneswar,Karnataka
+492429,SOUTH,Salem,Andhra Pradesh
+492431,NORTH,Mysore,Arunachal Pradesh
+492433,CENTRAL,Thiruvananthapuram,Assam
+492435,EAST,Tiruppur,Bihar
+492437,WEST,Gwalior,Chhattisgarh
+492439,SOUTH,Chandrapur,Goa
+492441,NORTH,Mumbai,Gujarat
+492443,CENTRAL,Delhi,Haryana
+492445,EAST,Bangalore,Himachal Pradesh
+492447,WEST,Hyderabad,Jharkhand
+492449,SOUTH,Ahmedabad,Karnataka
+492451,NORTH,Chennai,Kerala
+492453,CENTRAL,Kolkata,Madhya Pradesh
+492455,EAST,Surat,Maharashtra
+492457,WEST,Pune,Manipur
+492459,SOUTH,Jaipur,Meghalaya
+492461,NORTH,Lucknow,Mizoram
+492463,CENTRAL,Kanpur,Nagaland
+492465,EAST,Nagpur,Odisha
+492467,WEST,Indore,Punjab
+492469,SOUTH,Thane,Rajasthan
+492471,NORTH,Bhopal,Sikkim
+492473,CENTRAL,Visakhapatnam,Tamil Nadu
+492475,EAST,Vadodara,Telangana
+492477,WEST,Firozabad,Tripura
+492479,SOUTH,Ludhiana,Uttar Pradesh
+492481,NORTH,Rajkot,Uttarakhand
+492483,CENTRAL,Agra,West Bengal
+492485,EAST,Siliguri,Andaman and Nicobar Islands
+492487,WEST,Nashik,Chandigarh
+492489,SOUTH,Faridabad,Dadra and Nagar Haveli and Daman and Diu
+492491,NORTH,Patna,Lakshadweep
+492493,CENTRAL,Meerut,Delhi
+492495,EAST,Kalyan-Dombivli,Puducherry
+492497,WEST,Vasai-Virar,Ladakh
+492499,SOUTH,Varanasi,Jammu and Kashmir
+492501,NORTH,Srinagar,Maharashtra
+492503,CENTRAL,Dhanbad,Delhi
+492505,EAST,Jodhpur,Karnataka
+492507,WEST,Amritsar,Andhra Pradesh
+492509,SOUTH,Raipur,Arunachal Pradesh
+492511,NORTH,Allahabad,Assam
+492513,CENTRAL,Coimbatore,Bihar
+492515,EAST,Jabalpur,Chhattisgarh
+492517,WEST,Gwalior,Goa
+492519,SOUTH,Vijayawada,Gujarat
+492521,NORTH,Madurai,Haryana
+492523,CENTRAL,Guwahati,Himachal Pradesh
+492525,EAST,Chandigarh,Jharkhand
+492527,WEST,Hubli-Dharwad,Karnataka
+492529,SOUTH,Amroha,Kerala
+492531,NORTH,Moradabad,Madhya Pradesh
+492533,CENTRAL,Gurgaon,Maharashtra
+492535,EAST,Aligarh,Manipur
+492537,WEST,Solapur,Meghalaya
+492539,SOUTH,Ranchi,Mizoram
+492541,NORTH,Jalandhar,Nagaland
+492543,CENTRAL,Tiruchirappalli,Odisha
+492545,EAST,Bhubaneswar,Punjab
+492547,WEST,Salem,Rajasthan
+492549,SOUTH,Mysore,Sikkim
+492551,NORTH,Thiruvananthapuram,Tamil Nadu
+492553,CENTRAL,Tiruppur,Telangana
+492555,EAST,Gwalior,Tripura
+492557,WEST,Chandrapur,Uttar Pradesh
+492559,SOUTH,Mumbai,Uttarakhand
+492561,NORTH,Delhi,West Bengal
+492563,CENTRAL,Bangalore,Andaman and Nicobar Islands
+492565,EAST,Hyderabad,Chandigarh
+492567,WEST,Ahmedabad,Dadra and Nagar Haveli and Daman and Diu
+492569,SOUTH,Chennai,Lakshadweep
+492571,NORTH,Kolkata,Delhi
+492573,CENTRAL,Surat,Puducherry
+492575,EAST,Pune,Ladakh
+492577,WEST,Jaipur,Jammu and Kashmir
+492579,SOUTH,Lucknow,Maharashtra
+492581,NORTH,Kanpur,Delhi
+492583,CENTRAL,Nagpur,Karnataka
+492585,EAST,Indore,Andhra Pradesh
+492587,WEST,Thane,Arunachal Pradesh
+492589,SOUTH,Bhopal,Assam
+492591,NORTH,Visakhapatnam,Bihar
+492593,CENTRAL,Vadodara,Chhattisgarh
+492595,EAST,Firozabad,Goa
+492597,WEST,Ludhiana,Gujarat
+492599,SOUTH,Rajkot,Haryana
+492601,NORTH,Agra,Himachal Pradesh
+492603,CENTRAL,Siliguri,Jharkhand
+492605,EAST,Nashik,Karnataka
+492607,WEST,Faridabad,Kerala
+492609,SOUTH,Patna,Madhya Pradesh
+492611,NORTH,Meerut,Maharashtra
+492613,CENTRAL,Kalyan-Dombivli,Manipur
+492615,EAST,Vasai-Virar,Meghalaya
+492617,WEST,Varanasi,Mizoram
+492619,SOUTH,Srinagar,Nagaland
+492621,NORTH,Dhanbad,Odisha
+492623,CENTRAL,Jodhpur,Punjab
+492625,EAST,Amritsar,Rajasthan
+492627,WEST,Raipur,Sikkim
+492629,SOUTH,Allahabad,Tamil Nadu
+492631,NORTH,Coimbatore,Telangana
+492633,CENTRAL,Jabalpur,Tripura
+492635,EAST,Gwalior,Uttar Pradesh
+492637,WEST,Vijayawada,Uttarakhand
+492639,SOUTH,Madurai,West Bengal
+492641,NORTH,Guwahati,Andaman and Nicobar Islands
+492643,CENTRAL,Chandigarh,Chandigarh
+492645,EAST,Hubli-Dharwad,Dadra and Nagar Haveli and Daman and Diu
+492647,WEST,Amroha,Lakshadweep
+492649,SOUTH,Moradabad,Delhi
+492651,NORTH,Gurgaon,Puducherry
+492653,CENTRAL,Aligarh,Ladakh
+492655,EAST,Solapur,Jammu and Kashmir
+492657,WEST,Ranchi,Maharashtra
+492659,SOUTH,Jalandhar,Delhi
+492661,NORTH,Tiruchirappalli,Karnataka
+492663,CENTRAL,Bhubaneswar,Andhra Pradesh
+492665,EAST,Salem,Arunachal Pradesh
+492667,WEST,Mysore,Assam
+492669,SOUTH,Thiruvananthapuram,Bihar
+492671,NORTH,Tiruppur,Chhattisgarh
+492673,CENTRAL,Gwalior,Goa
+492675,EAST,Chandrapur,Gujarat
+492677,WEST,Mumbai,Haryana
+492679,SOUTH,Delhi,Himachal Pradesh
+492681,NORTH,Bangalore,Jharkhand
+492683,CENTRAL,Hyderabad,Karnataka
+492685,EAST,Ahmedabad,Kerala
+492687,WEST,Chennai,Madhya Pradesh
+492689,SOUTH,Kolkata,Maharashtra
+492691,NORTH,Surat,Manipur
+492693,CENTRAL,Pune,Meghalaya
+492695,EAST,Jaipur,Mizoram
+492697,WEST,Lucknow,Nagaland
+492699,SOUTH,Kanpur,Odisha
+492701,NORTH,Nagpur,Punjab
+492703,CENTRAL,Indore,Rajasthan
+492705,EAST,Thane,Sikkim
+492707,WEST,Bhopal,Tamil Nadu
+492709,SOUTH,Visakhapatnam,Telangana
+492711,NORTH,Vadodara,Tripura
+492713,CENTRAL,Firozabad,Uttar Pradesh
+492715,EAST,Ludhiana,Uttarakhand
+492717,WEST,Rajkot,West Bengal
+492719,SOUTH,Agra,Andaman and Nicobar Islands
+492721,NORTH,Siliguri,Chandigarh
+492723,CENTRAL,Nashik,Dadra and Nagar Haveli and Daman and Diu
+492725,EAST,Faridabad,Lakshadweep
+492727,WEST,Patna,Delhi
+492729,SOUTH,Meerut,Puducherry
+492731,NORTH,Kalyan-Dombivli,Ladakh
+492733,CENTRAL,Vasai-Virar,Jammu and Kashmir
+492735,EAST,Varanasi,Maharashtra
+492737,WEST,Srinagar,Delhi
+492739,SOUTH,Dhanbad,Karnataka
+492741,NORTH,Jodhpur,Andhra Pradesh
+492743,CENTRAL,Amritsar,Arunachal Pradesh
+492745,EAST,Raipur,Assam
+492747,WEST,Allahabad,Bihar
+492749,SOUTH,Coimbatore,Chhattisgarh
+492751,NORTH,Jabalpur,Goa
+492753,CENTRAL,Gwalior,Gujarat
+492755,EAST,Vijayawada,Haryana
+492757,WEST,Madurai,Himachal Pradesh
+492759,SOUTH,Guwahati,Jharkhand
+492761,NORTH,Chandigarh,Karnataka
+492763,CENTRAL,Hubli-Dharwad,Kerala
+492765,EAST,Amroha,Madhya Pradesh
+492767,WEST,Moradabad,Maharashtra
+492769,SOUTH,Gurgaon,Manipur
+492771,NORTH,Aligarh,Meghalaya
+492773,CENTRAL,Solapur,Mizoram
+492775,EAST,Ranchi,Nagaland
+492777,WEST,Jalandhar,Odisha
+492779,SOUTH,Tiruchirappalli,Punjab
+492781,NORTH,Bhubaneswar,Rajasthan
+492783,CENTRAL,Salem,Sikkim
+492785,EAST,Mysore,Tamil Nadu
+492787,WEST,Thiruvananthapuram,Telangana
+492789,SOUTH,Tiruppur,Tripura
+492791,NORTH,Gwalior,Uttar Pradesh
+492793,CENTRAL,Chandrapur,Uttarakhand
+492795,EAST,Mumbai,West Bengal
+492797,WEST,Delhi,Andaman and Nicobar Islands
+492799,SOUTH,Bangalore,Chandigarh
+492801,NORTH,Hyderabad,Dadra and Nagar Haveli and Daman and Diu
+492803,CENTRAL,Ahmedabad,Lakshadweep
+492805,EAST,Chennai,Delhi
+492807,WEST,Kolkata,Puducherry
+492809,SOUTH,Surat,Ladakh
+492811,NORTH,Pune,Jammu and Kashmir
+492813,CENTRAL,Jaipur,Maharashtra
+492815,EAST,Lucknow,Delhi
+492817,WEST,Kanpur,Karnataka
+492819,SOUTH,Nagpur,Andhra Pradesh
+492821,NORTH,Indore,Arunachal Pradesh
+492823,CENTRAL,Thane,Assam
+492825,EAST,Bhopal,Bihar
+492827,WEST,Visakhapatnam,Chhattisgarh
+492829,SOUTH,Vadodara,Goa
+492831,NORTH,Firozabad,Gujarat
+492833,CENTRAL,Ludhiana,Haryana
+492835,EAST,Rajkot,Himachal Pradesh
+492837,WEST,Agra,Jharkhand
+492839,SOUTH,Siliguri,Karnataka
+492841,NORTH,Nashik,Kerala
+492843,CENTRAL,Faridabad,Madhya Pradesh
+492845,EAST,Patna,Maharashtra
+492847,WEST,Meerut,Manipur
+492849,SOUTH,Kalyan-Dombivli,Meghalaya
+492851,NORTH,Vasai-Virar,Mizoram
+492853,CENTRAL,Varanasi,Nagaland
+492855,EAST,Srinagar,Odisha
+492857,WEST,Dhanbad,Punjab
+492859,SOUTH,Jodhpur,Rajasthan
+492861,NORTH,Amritsar,Sikkim
+492863,CENTRAL,Raipur,Tamil Nadu
+492865,EAST,Allahabad,Telangana
+492867,WEST,Coimbatore,Tripura
+492869,SOUTH,Jabalpur,Uttar Pradesh
+492871,NORTH,Gwalior,Uttarakhand
+492873,CENTRAL,Vijayawada,West Bengal
+492875,EAST,Madurai,Andaman and Nicobar Islands
+492877,WEST,Guwahati,Chandigarh
+492879,SOUTH,Chandigarh,Dadra and Nagar Haveli and Daman and Diu
+492881,NORTH,Hubli-Dharwad,Lakshadweep
+492883,CENTRAL,Amroha,Delhi
+492885,EAST,Moradabad,Puducherry
+492887,WEST,Gurgaon,Ladakh
+492889,SOUTH,Aligarh,Jammu and Kashmir
+492891,NORTH,Solapur,Maharashtra
+492893,CENTRAL,Ranchi,Delhi
+492895,EAST,Jalandhar,Karnataka
+492897,WEST,Tiruchirappalli,Andhra Pradesh
+492899,SOUTH,Bhubaneswar,Arunachal Pradesh
+492901,NORTH,Salem,Assam
+492903,CENTRAL,Mysore,Bihar
+492905,EAST,Thiruvananthapuram,Chhattisgarh
+492907,WEST,Tiruppur,Goa
+492909,SOUTH,Gwalior,Gujarat
+492911,NORTH,Chandrapur,Haryana
+492913,CENTRAL,Mumbai,Himachal Pradesh
+492915,EAST,Delhi,Jharkhand
+492917,WEST,Bangalore,Karnataka
+492919,SOUTH,Hyderabad,Kerala
+492921,NORTH,Ahmedabad,Madhya Pradesh
+492923,CENTRAL,Chennai,Maharashtra
+492925,EAST,Kolkata,Manipur
+492927,WEST,Surat,Meghalaya
+492929,SOUTH,Pune,Mizoram
+492931,NORTH,Jaipur,Nagaland
+492933,CENTRAL,Lucknow,Odisha
+492935,EAST,Kanpur,Punjab
+492937,WEST,Nagpur,Rajasthan
+492939,SOUTH,Indore,Sikkim
+492941,NORTH,Thane,Tamil Nadu
+492943,CENTRAL,Bhopal,Telangana
+492945,EAST,Visakhapatnam,Tripura
+492947,WEST,Vadodara,Uttar Pradesh
+492949,SOUTH,Firozabad,Uttarakhand
+492951,NORTH,Ludhiana,West Bengal
+492953,CENTRAL,Rajkot,Andaman and Nicobar Islands
+492955,EAST,Agra,Chandigarh
+492957,WEST,Siliguri,Dadra and Nagar Haveli and Daman and Diu
+492959,SOUTH,Nashik,Lakshadweep
+492961,NORTH,Faridabad,Delhi
+492963,CENTRAL,Patna,Puducherry
+492965,EAST,Meerut,Ladakh
+492967,WEST,Kalyan-Dombivli,Jammu and Kashmir
+492969,SOUTH,Vasai-Virar,Maharashtra
+492971,NORTH,Varanasi,Delhi
+492973,CENTRAL,Srinagar,Karnataka
+492975,EAST,Dhanbad,Andhra Pradesh
+492977,WEST,Jodhpur,Arunachal Pradesh
+492979,SOUTH,Amritsar,Assam
+492981,NORTH,Raipur,Bihar
+492983,CENTRAL,Allahabad,Chhattisgarh
+492985,EAST,Coimbatore,Goa
+492987,WEST,Jabalpur,Gujarat
+492989,SOUTH,Gwalior,Haryana
+492991,NORTH,Vijayawada,Himachal Pradesh
+492993,CENTRAL,Madurai,Jharkhand
+492995,EAST,Guwahati,Karnataka
+492997,WEST,Chandigarh,Kerala
+492999,SOUTH,Hubli-Dharwad,Madhya Pradesh
+493001,NORTH,Amroha,Maharashtra
+493003,CENTRAL,Moradabad,Manipur
+493005,EAST,Gurgaon,Meghalaya
+493007,WEST,Aligarh,Mizoram
+493009,SOUTH,Solapur,Nagaland
+493011,NORTH,Ranchi,Odisha
+493013,CENTRAL,Jalandhar,Punjab
+493015,EAST,Tiruchirappalli,Rajasthan
+493017,WEST,Bhubaneswar,Sikkim
+493019,SOUTH,Salem,Tamil Nadu
+493021,NORTH,Mysore,Telangana
+493023,CENTRAL,Thiruvananthapuram,Tripura
+493025,EAST,Tiruppur,Uttar Pradesh
+493027,WEST,Gwalior,Uttarakhand
+493029,SOUTH,Chandrapur,West Bengal
+493031,NORTH,Mumbai,Andaman and Nicobar Islands
+493033,CENTRAL,Delhi,Chandigarh
+493035,EAST,Bangalore,Dadra and Nagar Haveli and Daman and Diu
+493037,WEST,Hyderabad,Lakshadweep
+493039,SOUTH,Ahmedabad,Delhi
+493041,NORTH,Chennai,Puducherry
+493043,CENTRAL,Kolkata,Ladakh
+493045,EAST,Surat,Jammu and Kashmir
+493047,WEST,Pune,Maharashtra
+493049,SOUTH,Jaipur,Delhi
+493051,NORTH,Lucknow,Karnataka
+493053,CENTRAL,Kanpur,Andhra Pradesh
+493055,EAST,Nagpur,Arunachal Pradesh
+493057,WEST,Indore,Assam
+493059,SOUTH,Thane,Bihar
+493061,NORTH,Bhopal,Chhattisgarh
+493063,CENTRAL,Visakhapatnam,Goa
+493065,EAST,Vadodara,Gujarat
+493067,WEST,Firozabad,Haryana
+493069,SOUTH,Ludhiana,Himachal Pradesh
+493071,NORTH,Rajkot,Jharkhand
+493073,CENTRAL,Agra,Karnataka
+493075,EAST,Siliguri,Kerala
+493077,WEST,Nashik,Madhya Pradesh
+493079,SOUTH,Faridabad,Maharashtra
+493081,NORTH,Patna,Manipur
+493083,CENTRAL,Meerut,Meghalaya
+493085,EAST,Kalyan-Dombivli,Mizoram
+493087,WEST,Vasai-Virar,Nagaland
+493089,SOUTH,Varanasi,Odisha
+493091,NORTH,Srinagar,Punjab
+493093,CENTRAL,Dhanbad,Rajasthan
+493095,EAST,Jodhpur,Sikkim
+493097,WEST,Amritsar,Tamil Nadu
+493099,SOUTH,Raipur,Telangana
+493101,NORTH,Allahabad,Tripura
+493103,CENTRAL,Coimbatore,Uttar Pradesh
+493105,EAST,Jabalpur,Uttarakhand
+493107,WEST,Gwalior,West Bengal
+493109,SOUTH,Vijayawada,Andaman and Nicobar Islands
+493111,NORTH,Madurai,Chandigarh
+493113,CENTRAL,Guwahati,Dadra and Nagar Haveli and Daman and Diu
+493115,EAST,Chandigarh,Lakshadweep
+493117,WEST,Hubli-Dharwad,Delhi
+493119,SOUTH,Amroha,Puducherry
+493121,NORTH,Moradabad,Ladakh
+493123,CENTRAL,Gurgaon,Jammu and Kashmir
+493125,EAST,Aligarh,Maharashtra
+493127,WEST,Solapur,Delhi
+493129,SOUTH,Ranchi,Karnataka
+493131,NORTH,Jalandhar,Andhra Pradesh
+493133,CENTRAL,Tiruchirappalli,Arunachal Pradesh
+493135,EAST,Bhubaneswar,Assam
+493137,WEST,Salem,Bihar
+493139,SOUTH,Mysore,Chhattisgarh
+493141,NORTH,Thiruvananthapuram,Goa
+493143,CENTRAL,Tiruppur,Gujarat
+493145,EAST,Gwalior,Haryana
+493147,WEST,Chandrapur,Himachal Pradesh
+493149,SOUTH,Mumbai,Jharkhand
+493151,NORTH,Delhi,Karnataka
+493153,CENTRAL,Bangalore,Kerala
+493155,EAST,Hyderabad,Madhya Pradesh
+493157,WEST,Ahmedabad,Maharashtra
+493159,SOUTH,Chennai,Manipur
+493161,NORTH,Kolkata,Meghalaya
+493163,CENTRAL,Surat,Mizoram
+493165,EAST,Pune,Nagaland
+493167,WEST,Jaipur,Odisha
+493169,SOUTH,Lucknow,Punjab
+493171,NORTH,Kanpur,Rajasthan
+493173,CENTRAL,Nagpur,Sikkim
+493175,EAST,Indore,Tamil Nadu
+493177,WEST,Thane,Telangana
+493179,SOUTH,Bhopal,Tripura
+493181,NORTH,Visakhapatnam,Uttar Pradesh
+493183,CENTRAL,Vadodara,Uttarakhand
+493185,EAST,Firozabad,West Bengal
+493187,WEST,Ludhiana,Andaman and Nicobar Islands
+493189,SOUTH,Rajkot,Chandigarh
+493191,NORTH,Agra,Dadra and Nagar Haveli and Daman and Diu
+493193,CENTRAL,Siliguri,Lakshadweep
+493195,EAST,Nashik,Delhi
+493197,WEST,Faridabad,Puducherry
+493199,SOUTH,Patna,Ladakh
+493201,NORTH,Meerut,Jammu and Kashmir
+493203,CENTRAL,Kalyan-Dombivli,Maharashtra
+493205,EAST,Vasai-Virar,Delhi
+493207,WEST,Varanasi,Karnataka
+493209,SOUTH,Srinagar,Andhra Pradesh
+493211,NORTH,Dhanbad,Arunachal Pradesh
+493213,CENTRAL,Jodhpur,Assam
+493215,EAST,Amritsar,Bihar
+493217,WEST,Raipur,Chhattisgarh
+493219,SOUTH,Allahabad,Goa
+493221,NORTH,Coimbatore,Gujarat
+493223,CENTRAL,Jabalpur,Haryana
+493225,EAST,Gwalior,Himachal Pradesh
+493227,WEST,Vijayawada,Jharkhand
+493229,SOUTH,Madurai,Karnataka
+493231,NORTH,Guwahati,Kerala
+493233,CENTRAL,Chandigarh,Madhya Pradesh
+493235,EAST,Hubli-Dharwad,Maharashtra
+493237,WEST,Amroha,Manipur
+493239,SOUTH,Moradabad,Meghalaya
+493241,NORTH,Gurgaon,Mizoram
+493243,CENTRAL,Aligarh,Nagaland
+493245,EAST,Solapur,Odisha
+493247,WEST,Ranchi,Punjab
+493249,SOUTH,Jalandhar,Rajasthan
+493251,NORTH,Tiruchirappalli,Sikkim
+493253,CENTRAL,Bhubaneswar,Tamil Nadu
+493255,EAST,Salem,Telangana
+493257,WEST,Mysore,Tripura
+493259,SOUTH,Thiruvananthapuram,Uttar Pradesh
+493261,NORTH,Tiruppur,Uttarakhand
+493263,CENTRAL,Gwalior,West Bengal
+493265,EAST,Chandrapur,Andaman and Nicobar Islands
+493267,WEST,Mumbai,Chandigarh
+493269,SOUTH,Delhi,Dadra and Nagar Haveli and Daman and Diu
+493271,NORTH,Bangalore,Lakshadweep
+493273,CENTRAL,Hyderabad,Delhi
+493275,EAST,Ahmedabad,Puducherry
+493277,WEST,Chennai,Ladakh
+493279,SOUTH,Kolkata,Jammu and Kashmir
+493281,NORTH,Surat,Maharashtra
+493283,CENTRAL,Pune,Delhi
+493285,EAST,Jaipur,Karnataka
+493287,WEST,Lucknow,Andhra Pradesh
+493289,SOUTH,Kanpur,Arunachal Pradesh
+493291,NORTH,Nagpur,Assam
+493293,CENTRAL,Indore,Bihar
+493295,EAST,Thane,Chhattisgarh
+493297,WEST,Bhopal,Goa
+493299,SOUTH,Visakhapatnam,Gujarat
+493301,NORTH,Vadodara,Haryana
+493303,CENTRAL,Firozabad,Himachal Pradesh
+493305,EAST,Ludhiana,Jharkhand
+493307,WEST,Rajkot,Karnataka
+493309,SOUTH,Agra,Kerala
+493311,NORTH,Siliguri,Madhya Pradesh
+493313,CENTRAL,Nashik,Maharashtra
+493315,EAST,Faridabad,Manipur
+493317,WEST,Patna,Meghalaya
+493319,SOUTH,Meerut,Mizoram
+493321,NORTH,Kalyan-Dombivli,Nagaland
+493323,CENTRAL,Vasai-Virar,Odisha
+493325,EAST,Varanasi,Punjab
+493327,WEST,Srinagar,Rajasthan
+493329,SOUTH,Dhanbad,Sikkim
+493331,NORTH,Jodhpur,Tamil Nadu
+493333,CENTRAL,Amritsar,Telangana
+493335,EAST,Raipur,Tripura
+493337,WEST,Allahabad,Uttar Pradesh
+493339,SOUTH,Coimbatore,Uttarakhand
+493341,NORTH,Jabalpur,West Bengal
+493343,CENTRAL,Gwalior,Andaman and Nicobar Islands
+493345,EAST,Vijayawada,Chandigarh
+493347,WEST,Madurai,Dadra and Nagar Haveli and Daman and Diu
+493349,SOUTH,Guwahati,Lakshadweep
+493351,NORTH,Chandigarh,Delhi
+493353,CENTRAL,Hubli-Dharwad,Puducherry
+493355,EAST,Amroha,Ladakh
+493357,WEST,Moradabad,Jammu and Kashmir
+493359,SOUTH,Gurgaon,Maharashtra
+493361,NORTH,Aligarh,Delhi
+493363,CENTRAL,Solapur,Karnataka
+493365,EAST,Ranchi,Andhra Pradesh
+493367,WEST,Jalandhar,Arunachal Pradesh
+493369,SOUTH,Tiruchirappalli,Assam
+493371,NORTH,Bhubaneswar,Bihar
+493373,CENTRAL,Salem,Chhattisgarh
+493375,EAST,Mysore,Goa
+493377,WEST,Thiruvananthapuram,Gujarat
+493379,SOUTH,Tiruppur,Haryana
+493381,NORTH,Gwalior,Himachal Pradesh
+493383,CENTRAL,Chandrapur,Jharkhand
+493385,EAST,Mumbai,Karnataka
+493387,WEST,Delhi,Kerala
+493389,SOUTH,Bangalore,Madhya Pradesh
+493391,NORTH,Hyderabad,Maharashtra
+493393,CENTRAL,Ahmedabad,Manipur
+493395,EAST,Chennai,Meghalaya
+493397,WEST,Kolkata,Mizoram
+493399,SOUTH,Surat,Nagaland
+493401,NORTH,Pune,Odisha
+493403,CENTRAL,Jaipur,Punjab
+493405,EAST,Lucknow,Rajasthan
+493407,WEST,Kanpur,Sikkim
+493409,SOUTH,Nagpur,Tamil Nadu
+493411,NORTH,Indore,Telangana
+493413,CENTRAL,Thane,Tripura
+493415,EAST,Bhopal,Uttar Pradesh
+493417,WEST,Visakhapatnam,Uttarakhand
+493419,SOUTH,Vadodara,West Bengal
+493421,NORTH,Firozabad,Andaman and Nicobar Islands
+493423,CENTRAL,Ludhiana,Chandigarh
+493425,EAST,Rajkot,Dadra and Nagar Haveli and Daman and Diu
+493427,WEST,Agra,Lakshadweep
+493429,SOUTH,Siliguri,Delhi
+493431,NORTH,Nashik,Puducherry
+493433,CENTRAL,Faridabad,Ladakh
+493435,EAST,Patna,Jammu and Kashmir
+493437,WEST,Meerut,Maharashtra
+493439,SOUTH,Kalyan-Dombivli,Delhi
+493441,NORTH,Vasai-Virar,Karnataka
+493443,CENTRAL,Varanasi,Andhra Pradesh
+493445,EAST,Srinagar,Arunachal Pradesh
+493447,WEST,Dhanbad,Assam
+493449,SOUTH,Jodhpur,Bihar
+493451,NORTH,Amritsar,Chhattisgarh
+493453,CENTRAL,Raipur,Goa
+493455,EAST,Allahabad,Gujarat
+493457,WEST,Coimbatore,Haryana
+493459,SOUTH,Jabalpur,Himachal Pradesh
+493461,NORTH,Gwalior,Jharkhand
+493463,CENTRAL,Vijayawada,Karnataka
+493465,EAST,Madurai,Kerala
+493467,WEST,Guwahati,Madhya Pradesh
+493469,SOUTH,Chandigarh,Maharashtra
+493471,NORTH,Hubli-Dharwad,Manipur
+493473,CENTRAL,Amroha,Meghalaya
+493475,EAST,Moradabad,Mizoram
+493477,WEST,Gurgaon,Nagaland
+493479,SOUTH,Aligarh,Odisha
+493481,NORTH,Solapur,Punjab
+493483,CENTRAL,Ranchi,Rajasthan
+493485,EAST,Jalandhar,Sikkim
+493487,WEST,Tiruchirappalli,Tamil Nadu
+493489,SOUTH,Bhubaneswar,Telangana
+493491,NORTH,Salem,Tripura
+493493,CENTRAL,Mysore,Uttar Pradesh
+493495,EAST,Thiruvananthapuram,Uttarakhand
+493497,WEST,Tiruppur,West Bengal
+493499,SOUTH,Gwalior,Andaman and Nicobar Islands
+493501,NORTH,Chandrapur,Chandigarh
+493503,CENTRAL,Mumbai,Dadra and Nagar Haveli and Daman and Diu
+493505,EAST,Delhi,Lakshadweep
+493507,WEST,Bangalore,Delhi
+493509,SOUTH,Hyderabad,Puducherry
+493511,NORTH,Ahmedabad,Ladakh
+493513,CENTRAL,Chennai,Jammu and Kashmir
+493515,EAST,Kolkata,Maharashtra
+493517,WEST,Surat,Delhi
+493519,SOUTH,Pune,Karnataka
+493521,NORTH,Jaipur,Andhra Pradesh
+493523,CENTRAL,Lucknow,Arunachal Pradesh
+493525,EAST,Kanpur,Assam
+493527,WEST,Nagpur,Bihar
+493529,SOUTH,Indore,Chhattisgarh
+493531,NORTH,Thane,Goa
+493533,CENTRAL,Bhopal,Gujarat
+493535,EAST,Visakhapatnam,Haryana
+493537,WEST,Vadodara,Himachal Pradesh
+493539,SOUTH,Firozabad,Jharkhand
+493541,NORTH,Ludhiana,Karnataka
+493543,CENTRAL,Rajkot,Kerala
+493545,EAST,Agra,Madhya Pradesh
+493547,WEST,Siliguri,Maharashtra
+493549,SOUTH,Nashik,Manipur
+493551,NORTH,Faridabad,Meghalaya
+493553,CENTRAL,Patna,Mizoram
+493555,EAST,Meerut,Nagaland
+493557,WEST,Kalyan-Dombivli,Odisha
+493559,SOUTH,Vasai-Virar,Punjab
+493561,NORTH,Varanasi,Rajasthan
+493563,CENTRAL,Srinagar,Sikkim
+493565,EAST,Dhanbad,Tamil Nadu
+493567,WEST,Jodhpur,Telangana
+493569,SOUTH,Amritsar,Tripura
+493571,NORTH,Raipur,Uttar Pradesh
+493573,CENTRAL,Allahabad,Uttarakhand
+493575,EAST,Coimbatore,West Bengal
+493577,WEST,Jabalpur,Andaman and Nicobar Islands
+493579,SOUTH,Gwalior,Chandigarh
+493581,NORTH,Vijayawada,Dadra and Nagar Haveli and Daman and Diu
+493583,CENTRAL,Madurai,Lakshadweep
+493585,EAST,Guwahati,Delhi
+493587,WEST,Chandigarh,Puducherry
+493589,SOUTH,Hubli-Dharwad,Ladakh
+493591,NORTH,Amroha,Jammu and Kashmir
+493593,CENTRAL,Moradabad,Maharashtra
+493595,EAST,Gurgaon,Delhi
+493597,WEST,Aligarh,Karnataka
+493599,SOUTH,Solapur,Andhra Pradesh
+493601,NORTH,Ranchi,Arunachal Pradesh
+493603,CENTRAL,Jalandhar,Assam
+493605,EAST,Tiruchirappalli,Bihar
+493607,WEST,Bhubaneswar,Chhattisgarh
+493609,SOUTH,Salem,Goa
+493611,NORTH,Mysore,Gujarat
+493613,CENTRAL,Thiruvananthapuram,Haryana
+493615,EAST,Tiruppur,Himachal Pradesh
+493617,WEST,Gwalior,Jharkhand
+493619,SOUTH,Chandrapur,Karnataka
+493621,NORTH,Mumbai,Kerala
+493623,CENTRAL,Delhi,Madhya Pradesh
+493625,EAST,Bangalore,Maharashtra
+493627,WEST,Hyderabad,Manipur
+493629,SOUTH,Ahmedabad,Meghalaya
+493631,NORTH,Chennai,Mizoram
+493633,CENTRAL,Kolkata,Nagaland
+493635,EAST,Surat,Odisha
+493637,WEST,Pune,Punjab
+493639,SOUTH,Jaipur,Rajasthan
+493641,NORTH,Lucknow,Sikkim
+493643,CENTRAL,Kanpur,Tamil Nadu
+493645,EAST,Nagpur,Telangana
+493647,WEST,Indore,Tripura
+493649,SOUTH,Thane,Uttar Pradesh
+493651,NORTH,Bhopal,Uttarakhand
+493653,CENTRAL,Visakhapatnam,West Bengal
+493655,EAST,Vadodara,Andaman and Nicobar Islands
+493657,WEST,Firozabad,Chandigarh
+493659,SOUTH,Ludhiana,Dadra and Nagar Haveli and Daman and Diu
+493661,NORTH,Rajkot,Lakshadweep
+493663,CENTRAL,Agra,Delhi
+493665,EAST,Siliguri,Puducherry
+493667,WEST,Nashik,Ladakh
+493669,SOUTH,Faridabad,Jammu and Kashmir
+493671,NORTH,Patna,Maharashtra
+493673,CENTRAL,Meerut,Delhi
+493675,EAST,Kalyan-Dombivli,Karnataka
+493677,WEST,Vasai-Virar,Andhra Pradesh
+493679,SOUTH,Varanasi,Arunachal Pradesh
+493681,NORTH,Srinagar,Assam
+493683,CENTRAL,Dhanbad,Bihar
+493685,EAST,Jodhpur,Chhattisgarh
+493687,WEST,Amritsar,Goa
+493689,SOUTH,Raipur,Gujarat
+493691,NORTH,Allahabad,Haryana
+493693,CENTRAL,Coimbatore,Himachal Pradesh
+493695,EAST,Jabalpur,Jharkhand
+493697,WEST,Gwalior,Karnataka
+493699,SOUTH,Vijayawada,Kerala
+493701,NORTH,Madurai,Madhya Pradesh
+493703,CENTRAL,Guwahati,Maharashtra
+493705,EAST,Chandigarh,Manipur
+493707,WEST,Hubli-Dharwad,Meghalaya
+493709,SOUTH,Amroha,Mizoram
+493711,NORTH,Moradabad,Nagaland
+493713,CENTRAL,Gurgaon,Odisha
+493715,EAST,Aligarh,Punjab
+493717,WEST,Solapur,Rajasthan
+493719,SOUTH,Ranchi,Sikkim
+493721,NORTH,Jalandhar,Tamil Nadu
+493723,CENTRAL,Tiruchirappalli,Telangana
+493725,EAST,Bhubaneswar,Tripura
+493727,WEST,Salem,Uttar Pradesh
+493729,SOUTH,Mysore,Uttarakhand
+493731,NORTH,Thiruvananthapuram,West Bengal
+493733,CENTRAL,Tiruppur,Andaman and Nicobar Islands
+493735,EAST,Gwalior,Chandigarh
+493737,WEST,Chandrapur,Dadra and Nagar Haveli and Daman and Diu
+493739,SOUTH,Mumbai,Lakshadweep
+493741,NORTH,Delhi,Delhi
+493743,CENTRAL,Bangalore,Puducherry
+493745,EAST,Hyderabad,Ladakh
+493747,WEST,Ahmedabad,Jammu and Kashmir
+493749,SOUTH,Chennai,Maharashtra
+493751,NORTH,Kolkata,Delhi
+493753,CENTRAL,Surat,Karnataka
+493755,EAST,Pune,Andhra Pradesh
+493757,WEST,Jaipur,Arunachal Pradesh
+493759,SOUTH,Lucknow,Assam
+493761,NORTH,Kanpur,Bihar
+493763,CENTRAL,Nagpur,Chhattisgarh
+493765,EAST,Indore,Goa
+493767,WEST,Thane,Gujarat
+493769,SOUTH,Bhopal,Haryana
+493771,NORTH,Visakhapatnam,Himachal Pradesh
+493773,CENTRAL,Vadodara,Jharkhand
+493775,EAST,Firozabad,Karnataka
+493777,WEST,Ludhiana,Kerala
+493779,SOUTH,Rajkot,Madhya Pradesh
+493781,NORTH,Agra,Maharashtra
+493783,CENTRAL,Siliguri,Manipur
+493785,EAST,Nashik,Meghalaya
+493787,WEST,Faridabad,Mizoram
+493789,SOUTH,Patna,Nagaland
+493791,NORTH,Meerut,Odisha
+493793,CENTRAL,Kalyan-Dombivli,Punjab
+493795,EAST,Vasai-Virar,Rajasthan
+493797,WEST,Varanasi,Sikkim
+493799,SOUTH,Srinagar,Tamil Nadu
+493801,NORTH,Dhanbad,Telangana
+493803,CENTRAL,Jodhpur,Tripura
+493805,EAST,Amritsar,Uttar Pradesh
+493807,WEST,Raipur,Uttarakhand
+493809,SOUTH,Allahabad,West Bengal
+493811,NORTH,Coimbatore,Andaman and Nicobar Islands
+493813,CENTRAL,Jabalpur,Chandigarh
+493815,EAST,Gwalior,Dadra and Nagar Haveli and Daman and Diu
+493817,WEST,Vijayawada,Lakshadweep
+493819,SOUTH,Madurai,Delhi
+493821,NORTH,Guwahati,Puducherry
+493823,CENTRAL,Chandigarh,Ladakh
+493825,EAST,Hubli-Dharwad,Jammu and Kashmir
+493827,WEST,Amroha,Maharashtra
+493829,SOUTH,Moradabad,Delhi
+493831,NORTH,Gurgaon,Karnataka
+493833,CENTRAL,Aligarh,Andhra Pradesh
+493835,EAST,Solapur,Arunachal Pradesh
+493837,WEST,Ranchi,Assam
+493839,SOUTH,Jalandhar,Bihar
+493841,NORTH,Tiruchirappalli,Chhattisgarh
+493843,CENTRAL,Bhubaneswar,Goa
+493845,EAST,Salem,Gujarat
+493847,WEST,Mysore,Haryana
+493849,SOUTH,Thiruvananthapuram,Himachal Pradesh
+493851,NORTH,Tiruppur,Jharkhand
+493853,CENTRAL,Gwalior,Karnataka
+493855,EAST,Chandrapur,Kerala
+493857,WEST,Mumbai,Madhya Pradesh
+493859,SOUTH,Delhi,Maharashtra
+493861,NORTH,Bangalore,Manipur
+493863,CENTRAL,Hyderabad,Meghalaya
+493865,EAST,Ahmedabad,Mizoram
+493867,WEST,Chennai,Nagaland
+493869,SOUTH,Kolkata,Odisha
+493871,NORTH,Surat,Punjab
+493873,CENTRAL,Pune,Rajasthan
+493875,EAST,Jaipur,Sikkim
+493877,WEST,Lucknow,Tamil Nadu
+493879,SOUTH,Kanpur,Telangana
+493881,NORTH,Nagpur,Tripura
+493883,CENTRAL,Indore,Uttar Pradesh
+493885,EAST,Thane,Uttarakhand
+493887,WEST,Bhopal,West Bengal
+493889,SOUTH,Visakhapatnam,Andaman and Nicobar Islands
+493891,NORTH,Vadodara,Chandigarh
+493893,CENTRAL,Firozabad,Dadra and Nagar Haveli and Daman and Diu
+493895,EAST,Ludhiana,Lakshadweep
+493897,WEST,Rajkot,Delhi
+493899,SOUTH,Agra,Puducherry
+493901,NORTH,Siliguri,Ladakh
+493903,CENTRAL,Nashik,Jammu and Kashmir
+493905,EAST,Faridabad,Maharashtra
+493907,WEST,Patna,Delhi
+493909,SOUTH,Meerut,Karnataka
+493911,NORTH,Kalyan-Dombivli,Andhra Pradesh
+493913,CENTRAL,Vasai-Virar,Arunachal Pradesh
+493915,EAST,Varanasi,Assam
+493917,WEST,Srinagar,Bihar
+493919,SOUTH,Dhanbad,Chhattisgarh
+493921,NORTH,Jodhpur,Goa
+493923,CENTRAL,Amritsar,Gujarat
+493925,EAST,Raipur,Haryana
+493927,WEST,Allahabad,Himachal Pradesh
+493929,SOUTH,Coimbatore,Jharkhand
+493931,NORTH,Jabalpur,Karnataka
+493933,CENTRAL,Gwalior,Kerala
+493935,EAST,Vijayawada,Madhya Pradesh
+493937,WEST,Madurai,Maharashtra
+493939,SOUTH,Guwahati,Manipur
+493941,NORTH,Chandigarh,Meghalaya
+493943,CENTRAL,Hubli-Dharwad,Mizoram
+493945,EAST,Amroha,Nagaland
+493947,WEST,Moradabad,Odisha
+493949,SOUTH,Gurgaon,Punjab
+493951,NORTH,Aligarh,Rajasthan
+493953,CENTRAL,Solapur,Sikkim
+493955,EAST,Ranchi,Tamil Nadu
+493957,WEST,Jalandhar,Telangana
+493959,SOUTH,Tiruchirappalli,Tripura
+493961,NORTH,Bhubaneswar,Uttar Pradesh
+493963,CENTRAL,Salem,Uttarakhand
+493965,EAST,Mysore,West Bengal
+493967,WEST,Thiruvananthapuram,Andaman and Nicobar Islands
+493969,SOUTH,Tiruppur,Chandigarh
+493971,NORTH,Gwalior,Dadra and Nagar Haveli and Daman and Diu
+493973,CENTRAL,Chandrapur,Lakshadweep
+493975,EAST,Mumbai,Delhi
+493977,WEST,Delhi,Puducherry
+493979,SOUTH,Bangalore,Ladakh
+493981,NORTH,Hyderabad,Jammu and Kashmir
+493983,CENTRAL,Ahmedabad,Maharashtra
+493985,EAST,Chennai,Delhi
+493987,WEST,Kolkata,Karnataka
+493989,SOUTH,Surat,Andhra Pradesh
+493991,NORTH,Pune,Arunachal Pradesh
+493993,CENTRAL,Jaipur,Assam
+493995,EAST,Lucknow,Bihar
+493997,WEST,Kanpur,Chhattisgarh
+493999,SOUTH,Nagpur,Goa
+494001,NORTH,Indore,Gujarat
+494003,CENTRAL,Thane,Haryana
+494005,EAST,Bhopal,Himachal Pradesh
+494007,WEST,Visakhapatnam,Jharkhand
+494009,SOUTH,Vadodara,Karnataka
+494011,NORTH,Firozabad,Kerala
+494013,CENTRAL,Ludhiana,Madhya Pradesh
+494015,EAST,Rajkot,Maharashtra
+494017,WEST,Agra,Manipur
+494019,SOUTH,Siliguri,Meghalaya
+494021,NORTH,Nashik,Mizoram
+494023,CENTRAL,Faridabad,Nagaland
+494025,EAST,Patna,Odisha
+494027,WEST,Meerut,Punjab
+494029,SOUTH,Kalyan-Dombivli,Rajasthan
+494031,NORTH,Vasai-Virar,Sikkim
+494033,CENTRAL,Varanasi,Tamil Nadu
+494035,EAST,Srinagar,Telangana
+494037,WEST,Dhanbad,Tripura
+494039,SOUTH,Jodhpur,Uttar Pradesh
+494041,NORTH,Amritsar,Uttarakhand
+494043,CENTRAL,Raipur,West Bengal
+494045,EAST,Allahabad,Andaman and Nicobar Islands
+494047,WEST,Coimbatore,Chandigarh
+494049,SOUTH,Jabalpur,Dadra and Nagar Haveli and Daman and Diu
+494051,NORTH,Gwalior,Lakshadweep
+494053,CENTRAL,Vijayawada,Delhi
+494055,EAST,Madurai,Puducherry
+494057,WEST,Guwahati,Ladakh
+494059,SOUTH,Chandigarh,Jammu and Kashmir
+494061,NORTH,Hubli-Dharwad,Maharashtra
+494063,CENTRAL,Amroha,Delhi
+494065,EAST,Moradabad,Karnataka
+494067,WEST,Gurgaon,Andhra Pradesh
+494069,SOUTH,Aligarh,Arunachal Pradesh
+494071,NORTH,Solapur,Assam
+494073,CENTRAL,Ranchi,Bihar
+494075,EAST,Jalandhar,Chhattisgarh
+494077,WEST,Tiruchirappalli,Goa
+494079,SOUTH,Bhubaneswar,Gujarat
+494081,NORTH,Salem,Haryana
+494083,CENTRAL,Mysore,Himachal Pradesh
+494085,EAST,Thiruvananthapuram,Jharkhand
+494087,WEST,Tiruppur,Karnataka
+494089,SOUTH,Gwalior,Kerala
+494091,NORTH,Chandrapur,Madhya Pradesh
+494093,CENTRAL,Mumbai,Maharashtra
+494095,EAST,Delhi,Manipur
+494097,WEST,Bangalore,Meghalaya
+494099,SOUTH,Hyderabad,Mizoram
+494101,NORTH,Ahmedabad,Nagaland
+494103,CENTRAL,Chennai,Odisha
+494105,EAST,Kolkata,Punjab
+494107,WEST,Surat,Rajasthan
+494109,SOUTH,Pune,Sikkim
+494111,NORTH,Jaipur,Tamil Nadu
+494113,CENTRAL,Lucknow,Telangana
+494115,EAST,Kanpur,Tripura
+494117,WEST,Nagpur,Uttar Pradesh
+494119,SOUTH,Indore,Uttarakhand
+494121,NORTH,Thane,West Bengal
+494123,CENTRAL,Bhopal,Andaman and Nicobar Islands
+494125,EAST,Visakhapatnam,Chandigarh
+494127,WEST,Vadodara,Dadra and Nagar Haveli and Daman and Diu
+494129,SOUTH,Firozabad,Lakshadweep
+494131,NORTH,Ludhiana,Delhi
+494133,CENTRAL,Rajkot,Puducherry
+494135,EAST,Agra,Ladakh
+494137,WEST,Siliguri,Jammu and Kashmir
+494139,SOUTH,Nashik,Maharashtra
+494141,NORTH,Faridabad,Delhi
+494143,CENTRAL,Patna,Karnataka
+494145,EAST,Meerut,Andhra Pradesh
+494147,WEST,Kalyan-Dombivli,Arunachal Pradesh
+494149,SOUTH,Vasai-Virar,Assam
+494151,NORTH,Varanasi,Bihar
+494153,CENTRAL,Srinagar,Chhattisgarh
+494155,EAST,Dhanbad,Goa
+494157,WEST,Jodhpur,Gujarat
+494159,SOUTH,Amritsar,Haryana
+494161,NORTH,Raipur,Himachal Pradesh
+494163,CENTRAL,Allahabad,Jharkhand
+494165,EAST,Coimbatore,Karnataka
+494167,WEST,Jabalpur,Kerala
+494169,SOUTH,Gwalior,Madhya Pradesh
+494171,NORTH,Vijayawada,Maharashtra
+494173,CENTRAL,Madurai,Manipur
+494175,EAST,Guwahati,Meghalaya
+494177,WEST,Chandigarh,Mizoram
+494179,SOUTH,Hubli-Dharwad,Nagaland
+494181,NORTH,Amroha,Odisha
+494183,CENTRAL,Moradabad,Punjab
+494185,EAST,Gurgaon,Rajasthan
+494187,WEST,Aligarh,Sikkim
+494189,SOUTH,Solapur,Tamil Nadu
+494191,NORTH,Ranchi,Telangana
+494193,CENTRAL,Jalandhar,Tripura
+494195,EAST,Tiruchirappalli,Uttar Pradesh
+494197,WEST,Bhubaneswar,Uttarakhand
+494199,SOUTH,Salem,West Bengal
+494201,NORTH,Mysore,Andaman and Nicobar Islands
+494203,CENTRAL,Thiruvananthapuram,Chandigarh
+494205,EAST,Tiruppur,Dadra and Nagar Haveli and Daman and Diu
+494207,WEST,Gwalior,Lakshadweep
+494209,SOUTH,Chandrapur,Delhi
+494211,NORTH,Mumbai,Puducherry
+494213,CENTRAL,Delhi,Ladakh
+494215,EAST,Bangalore,Jammu and Kashmir
+494217,WEST,Hyderabad,Maharashtra
+494219,SOUTH,Ahmedabad,Delhi
+494221,NORTH,Chennai,Karnataka
+494223,CENTRAL,Kolkata,Andhra Pradesh
+494225,EAST,Surat,Arunachal Pradesh
+494227,WEST,Pune,Assam
+494229,SOUTH,Jaipur,Bihar
+494231,NORTH,Lucknow,Chhattisgarh
+494233,CENTRAL,Kanpur,Goa
+494235,EAST,Nagpur,Gujarat
+494237,WEST,Indore,Haryana
+494239,SOUTH,Thane,Himachal Pradesh
+494241,NORTH,Bhopal,Jharkhand
+494243,CENTRAL,Visakhapatnam,Karnataka
+494245,EAST,Vadodara,Kerala
+494247,WEST,Firozabad,Madhya Pradesh
+494249,SOUTH,Ludhiana,Maharashtra
+494251,NORTH,Rajkot,Manipur
+494253,CENTRAL,Agra,Meghalaya
+494255,EAST,Siliguri,Mizoram
+494257,WEST,Nashik,Nagaland
+494259,SOUTH,Faridabad,Odisha
+494261,NORTH,Patna,Punjab
+494263,CENTRAL,Meerut,Rajasthan
+494265,EAST,Kalyan-Dombivli,Sikkim
+494267,WEST,Vasai-Virar,Tamil Nadu
+494269,SOUTH,Varanasi,Telangana
+494271,NORTH,Srinagar,Tripura
+494273,CENTRAL,Dhanbad,Uttar Pradesh
+494275,EAST,Jodhpur,Uttarakhand
+494277,WEST,Amritsar,West Bengal
+494279,SOUTH,Raipur,Andaman and Nicobar Islands
+494281,NORTH,Allahabad,Chandigarh
+494283,CENTRAL,Coimbatore,Dadra and Nagar Haveli and Daman and Diu
+494285,EAST,Jabalpur,Lakshadweep
+494287,WEST,Gwalior,Delhi
+494289,SOUTH,Vijayawada,Puducherry
+494291,NORTH,Madurai,Ladakh
+494293,CENTRAL,Guwahati,Jammu and Kashmir
+494295,EAST,Chandigarh,Maharashtra
+494297,WEST,Hubli-Dharwad,Delhi
+494299,SOUTH,Amroha,Karnataka
+494301,NORTH,Moradabad,Andhra Pradesh
+494303,CENTRAL,Gurgaon,Arunachal Pradesh
+494305,EAST,Aligarh,Assam
+494307,WEST,Solapur,Bihar
+494309,SOUTH,Ranchi,Chhattisgarh
+494311,NORTH,Jalandhar,Goa
+494313,CENTRAL,Tiruchirappalli,Gujarat
+494315,EAST,Bhubaneswar,Haryana
+494317,WEST,Salem,Himachal Pradesh
+494319,SOUTH,Mysore,Jharkhand
+494321,NORTH,Thiruvananthapuram,Karnataka
+494323,CENTRAL,Tiruppur,Kerala
+494325,EAST,Gwalior,Madhya Pradesh
+494327,WEST,Chandrapur,Maharashtra
+494329,SOUTH,Mumbai,Manipur
+494331,NORTH,Delhi,Meghalaya
+494333,CENTRAL,Bangalore,Mizoram
+494335,EAST,Hyderabad,Nagaland
+494337,WEST,Ahmedabad,Odisha
+494339,SOUTH,Chennai,Punjab
+494341,NORTH,Kolkata,Rajasthan
+494343,CENTRAL,Surat,Sikkim
+494345,EAST,Pune,Tamil Nadu
+494347,WEST,Jaipur,Telangana
+494349,SOUTH,Lucknow,Tripura
+494351,NORTH,Kanpur,Uttar Pradesh
+494353,CENTRAL,Nagpur,Uttarakhand
+494355,EAST,Indore,West Bengal
+494357,WEST,Thane,Andaman and Nicobar Islands
+494359,SOUTH,Bhopal,Chandigarh
+494361,NORTH,Visakhapatnam,Dadra and Nagar Haveli and Daman and Diu
+494363,CENTRAL,Vadodara,Lakshadweep
+494365,EAST,Firozabad,Delhi
+494367,WEST,Ludhiana,Puducherry
+494369,SOUTH,Rajkot,Ladakh
+494371,NORTH,Agra,Jammu and Kashmir
+494373,CENTRAL,Siliguri,Maharashtra
+494375,EAST,Nashik,Delhi
+494377,WEST,Faridabad,Karnataka
+494379,SOUTH,Patna,Andhra Pradesh
+494381,NORTH,Meerut,Arunachal Pradesh
+494383,CENTRAL,Kalyan-Dombivli,Assam
+494385,EAST,Vasai-Virar,Bihar
+494387,WEST,Varanasi,Chhattisgarh
+494389,SOUTH,Srinagar,Goa
+494391,NORTH,Dhanbad,Gujarat
+494393,CENTRAL,Jodhpur,Haryana
+494395,EAST,Amritsar,Himachal Pradesh
+494397,WEST,Raipur,Jharkhand
+494399,SOUTH,Allahabad,Karnataka
+494401,NORTH,Coimbatore,Kerala
+494403,CENTRAL,Jabalpur,Madhya Pradesh
+494405,EAST,Gwalior,Maharashtra
+494407,WEST,Vijayawada,Manipur
+494409,SOUTH,Madurai,Meghalaya
+494411,NORTH,Guwahati,Mizoram
+494413,CENTRAL,Chandigarh,Nagaland
+494415,EAST,Hubli-Dharwad,Odisha
+494417,WEST,Amroha,Punjab
+494419,SOUTH,Moradabad,Rajasthan
+494421,NORTH,Gurgaon,Sikkim
+494423,CENTRAL,Aligarh,Tamil Nadu
+494425,EAST,Solapur,Telangana
+494427,WEST,Ranchi,Tripura
+494429,SOUTH,Jalandhar,Uttar Pradesh
+494431,NORTH,Tiruchirappalli,Uttarakhand
+494433,CENTRAL,Bhubaneswar,West Bengal
+494435,EAST,Salem,Andaman and Nicobar Islands
+494437,WEST,Mysore,Chandigarh
+494439,SOUTH,Thiruvananthapuram,Dadra and Nagar Haveli and Daman and Diu
+494441,NORTH,Tiruppur,Lakshadweep
+494443,CENTRAL,Gwalior,Delhi
+494445,EAST,Chandrapur,Puducherry
+494447,WEST,Mumbai,Ladakh
+494449,SOUTH,Delhi,Jammu and Kashmir
+494451,NORTH,Bangalore,Maharashtra
+494453,CENTRAL,Hyderabad,Delhi
+494455,EAST,Ahmedabad,Karnataka
+494457,WEST,Chennai,Andhra Pradesh
+494459,SOUTH,Kolkata,Arunachal Pradesh
+494461,NORTH,Surat,Assam
+494463,CENTRAL,Pune,Bihar
+494465,EAST,Jaipur,Chhattisgarh
+494467,WEST,Lucknow,Goa
+494469,SOUTH,Kanpur,Gujarat
+494471,NORTH,Nagpur,Haryana
+494473,CENTRAL,Indore,Himachal Pradesh
+494475,EAST,Thane,Jharkhand
+494477,WEST,Bhopal,Karnataka
+494479,SOUTH,Visakhapatnam,Kerala
+494481,NORTH,Vadodara,Madhya Pradesh
+494483,CENTRAL,Firozabad,Maharashtra
+494485,EAST,Ludhiana,Manipur
+494487,WEST,Rajkot,Meghalaya
+494489,SOUTH,Agra,Mizoram
+494491,NORTH,Siliguri,Nagaland
+494493,CENTRAL,Nashik,Odisha
+494495,EAST,Faridabad,Punjab
+494497,WEST,Patna,Rajasthan
+494499,SOUTH,Meerut,Sikkim
+494501,NORTH,Kalyan-Dombivli,Tamil Nadu
+494503,CENTRAL,Vasai-Virar,Telangana
+494505,EAST,Varanasi,Tripura
+494507,WEST,Srinagar,Uttar Pradesh
+494509,SOUTH,Dhanbad,Uttarakhand
+494511,NORTH,Jodhpur,West Bengal
+494513,CENTRAL,Amritsar,Andaman and Nicobar Islands
+494515,EAST,Raipur,Chandigarh
+494517,WEST,Allahabad,Dadra and Nagar Haveli and Daman and Diu
+494519,SOUTH,Coimbatore,Lakshadweep
+494521,NORTH,Jabalpur,Delhi
+494523,CENTRAL,Gwalior,Puducherry
+494525,EAST,Vijayawada,Ladakh
+494527,WEST,Madurai,Jammu and Kashmir
+494529,SOUTH,Guwahati,Maharashtra
+494531,NORTH,Chandigarh,Delhi
+494533,CENTRAL,Hubli-Dharwad,Karnataka
+494535,EAST,Amroha,Andhra Pradesh
+494537,WEST,Moradabad,Arunachal Pradesh
+494539,SOUTH,Gurgaon,Assam
+494541,NORTH,Aligarh,Bihar
+494543,CENTRAL,Solapur,Chhattisgarh
+494545,EAST,Ranchi,Goa
+494547,WEST,Jalandhar,Gujarat
+494549,SOUTH,Tiruchirappalli,Haryana
+494551,NORTH,Bhubaneswar,Himachal Pradesh
+494553,CENTRAL,Salem,Jharkhand
+494555,EAST,Mysore,Karnataka
+494557,WEST,Thiruvananthapuram,Kerala
+494559,SOUTH,Tiruppur,Madhya Pradesh
+494561,NORTH,Gwalior,Maharashtra
+494563,CENTRAL,Chandrapur,Manipur
+494565,EAST,Mumbai,Meghalaya
+494567,WEST,Delhi,Mizoram
+494569,SOUTH,Bangalore,Nagaland
+494571,NORTH,Hyderabad,Odisha
+494573,CENTRAL,Ahmedabad,Punjab
+494575,EAST,Chennai,Rajasthan
+494577,WEST,Kolkata,Sikkim
+494579,SOUTH,Surat,Tamil Nadu
+494581,NORTH,Pune,Telangana
+494583,CENTRAL,Jaipur,Tripura
+494585,EAST,Lucknow,Uttar Pradesh
+494587,WEST,Kanpur,Uttarakhand
+494589,SOUTH,Nagpur,West Bengal
+494591,NORTH,Indore,Andaman and Nicobar Islands
+494593,CENTRAL,Thane,Chandigarh
+494595,EAST,Bhopal,Dadra and Nagar Haveli and Daman and Diu
+494597,WEST,Visakhapatnam,Lakshadweep
+494599,SOUTH,Vadodara,Delhi
+494601,NORTH,Firozabad,Puducherry
+494603,CENTRAL,Ludhiana,Ladakh
+494605,EAST,Rajkot,Jammu and Kashmir
+494607,WEST,Agra,Maharashtra
+494609,SOUTH,Siliguri,Delhi
+494611,NORTH,Nashik,Karnataka
+494613,CENTRAL,Faridabad,Andhra Pradesh
+494615,EAST,Patna,Arunachal Pradesh
+494617,WEST,Meerut,Assam
+494619,SOUTH,Kalyan-Dombivli,Bihar
+494621,NORTH,Vasai-Virar,Chhattisgarh
+494623,CENTRAL,Varanasi,Goa
+494625,EAST,Srinagar,Gujarat
+494627,WEST,Dhanbad,Haryana
+494629,SOUTH,Jodhpur,Himachal Pradesh
+494631,NORTH,Amritsar,Jharkhand
+494633,CENTRAL,Raipur,Karnataka
+494635,EAST,Allahabad,Kerala
+494637,WEST,Coimbatore,Madhya Pradesh
+494639,SOUTH,Jabalpur,Maharashtra
+494641,NORTH,Gwalior,Manipur
+494643,CENTRAL,Vijayawada,Meghalaya
+494645,EAST,Madurai,Mizoram
+494647,WEST,Guwahati,Nagaland
+494649,SOUTH,Chandigarh,Odisha
+494651,NORTH,Hubli-Dharwad,Punjab
+494653,CENTRAL,Amroha,Rajasthan
+494655,EAST,Moradabad,Sikkim
+494657,WEST,Gurgaon,Tamil Nadu
+494659,SOUTH,Aligarh,Telangana
+494661,NORTH,Solapur,Tripura
+494663,CENTRAL,Ranchi,Uttar Pradesh
+494665,EAST,Jalandhar,Uttarakhand
+494667,WEST,Tiruchirappalli,West Bengal
+494669,SOUTH,Bhubaneswar,Andaman and Nicobar Islands
+494671,NORTH,Salem,Chandigarh
+494673,CENTRAL,Mysore,Dadra and Nagar Haveli and Daman and Diu
+494675,EAST,Thiruvananthapuram,Lakshadweep
+494677,WEST,Tiruppur,Delhi
+494679,SOUTH,Gwalior,Puducherry
+494681,NORTH,Chandrapur,Ladakh
+494683,CENTRAL,Mumbai,Jammu and Kashmir
+494685,EAST,Delhi,Maharashtra
+494687,WEST,Bangalore,Delhi
+494689,SOUTH,Hyderabad,Karnataka
+494691,NORTH,Ahmedabad,Andhra Pradesh
+494693,CENTRAL,Chennai,Arunachal Pradesh
+494695,EAST,Kolkata,Assam
+494697,WEST,Surat,Bihar
+494699,SOUTH,Pune,Chhattisgarh
+494701,NORTH,Jaipur,Goa
+494703,CENTRAL,Lucknow,Gujarat
+494705,EAST,Kanpur,Haryana
+494707,WEST,Nagpur,Himachal Pradesh
+494709,SOUTH,Indore,Jharkhand
+494711,NORTH,Thane,Karnataka
+494713,CENTRAL,Bhopal,Kerala
+494715,EAST,Visakhapatnam,Madhya Pradesh
+494717,WEST,Vadodara,Maharashtra
+494719,SOUTH,Firozabad,Manipur
+494721,NORTH,Ludhiana,Meghalaya
+494723,CENTRAL,Rajkot,Mizoram
+494725,EAST,Agra,Nagaland
+494727,WEST,Siliguri,Odisha
+494729,SOUTH,Nashik,Punjab
+494731,NORTH,Faridabad,Rajasthan
+494733,CENTRAL,Patna,Sikkim
+494735,EAST,Meerut,Tamil Nadu
+494737,WEST,Kalyan-Dombivli,Telangana
+494739,SOUTH,Vasai-Virar,Tripura
+494741,NORTH,Varanasi,Uttar Pradesh
+494743,CENTRAL,Srinagar,Uttarakhand
+494745,EAST,Dhanbad,West Bengal
+494747,WEST,Jodhpur,Andaman and Nicobar Islands
+494749,SOUTH,Amritsar,Chandigarh
+494751,NORTH,Raipur,Dadra and Nagar Haveli and Daman and Diu
+494753,CENTRAL,Allahabad,Lakshadweep
+494755,EAST,Coimbatore,Delhi
+494757,WEST,Jabalpur,Puducherry
+494759,SOUTH,Gwalior,Ladakh
+494761,NORTH,Vijayawada,Jammu and Kashmir
+494763,CENTRAL,Madurai,Maharashtra
+494765,EAST,Guwahati,Delhi
+494767,WEST,Chandigarh,Karnataka
+494769,SOUTH,Hubli-Dharwad,Andhra Pradesh
+494771,NORTH,Amroha,Arunachal Pradesh
+494773,CENTRAL,Moradabad,Assam
+494775,EAST,Gurgaon,Bihar
+494777,WEST,Aligarh,Chhattisgarh
+494779,SOUTH,Solapur,Goa
+494781,NORTH,Ranchi,Gujarat
+494783,CENTRAL,Jalandhar,Haryana
+494785,EAST,Tiruchirappalli,Himachal Pradesh
+494787,WEST,Bhubaneswar,Jharkhand
+494789,SOUTH,Salem,Karnataka
+494791,NORTH,Mysore,Kerala
+494793,CENTRAL,Thiruvananthapuram,Madhya Pradesh
+494795,EAST,Tiruppur,Maharashtra
+494797,WEST,Gwalior,Manipur
+494799,SOUTH,Chandrapur,Meghalaya
+494801,NORTH,Mumbai,Mizoram
+494803,CENTRAL,Delhi,Nagaland
+494805,EAST,Bangalore,Odisha
+494807,WEST,Hyderabad,Punjab
+494809,SOUTH,Ahmedabad,Rajasthan
+494811,NORTH,Chennai,Sikkim
+494813,CENTRAL,Kolkata,Tamil Nadu
+494815,EAST,Surat,Telangana
+494817,WEST,Pune,Tripura
+494819,SOUTH,Jaipur,Uttar Pradesh
+494821,NORTH,Lucknow,Uttarakhand
+494823,CENTRAL,Kanpur,West Bengal
+494825,EAST,Nagpur,Andaman and Nicobar Islands
+494827,WEST,Indore,Chandigarh
+494829,SOUTH,Thane,Dadra and Nagar Haveli and Daman and Diu
+494831,NORTH,Bhopal,Lakshadweep
+494833,CENTRAL,Visakhapatnam,Delhi
+494835,EAST,Vadodara,Puducherry
+494837,WEST,Firozabad,Ladakh
+494839,SOUTH,Ludhiana,Jammu and Kashmir
+494841,NORTH,Rajkot,Maharashtra
+494843,CENTRAL,Agra,Delhi
+494845,EAST,Siliguri,Karnataka
+494847,WEST,Nashik,Andhra Pradesh
+494849,SOUTH,Faridabad,Arunachal Pradesh
+494851,NORTH,Patna,Assam
+494853,CENTRAL,Meerut,Bihar
+494855,EAST,Kalyan-Dombivli,Chhattisgarh
+494857,WEST,Vasai-Virar,Goa
+494859,SOUTH,Varanasi,Gujarat
+494861,NORTH,Srinagar,Haryana
+494863,CENTRAL,Dhanbad,Himachal Pradesh
+494865,EAST,Jodhpur,Jharkhand
+494867,WEST,Amritsar,Karnataka
+494869,SOUTH,Raipur,Kerala
+494871,NORTH,Allahabad,Madhya Pradesh
+494873,CENTRAL,Coimbatore,Maharashtra
+494875,EAST,Jabalpur,Manipur
+494877,WEST,Gwalior,Meghalaya
+494879,SOUTH,Vijayawada,Mizoram
+494881,NORTH,Madurai,Nagaland
+494883,CENTRAL,Guwahati,Odisha
+494885,EAST,Chandigarh,Punjab
+494887,WEST,Hubli-Dharwad,Rajasthan
+494889,SOUTH,Amroha,Sikkim
+494891,NORTH,Moradabad,Tamil Nadu
+494893,CENTRAL,Gurgaon,Telangana
+494895,EAST,Aligarh,Tripura
+494897,WEST,Solapur,Uttar Pradesh
+494899,SOUTH,Ranchi,Uttarakhand
+494901,NORTH,Jalandhar,West Bengal
+494903,CENTRAL,Tiruchirappalli,Andaman and Nicobar Islands
+494905,EAST,Bhubaneswar,Chandigarh
+494907,WEST,Salem,Dadra and Nagar Haveli and Daman and Diu
+494909,SOUTH,Mysore,Lakshadweep
+494911,NORTH,Thiruvananthapuram,Delhi
+494913,CENTRAL,Tiruppur,Puducherry
+494915,EAST,Gwalior,Ladakh
+494917,WEST,Chandrapur,Jammu and Kashmir
+494919,SOUTH,Mumbai,Maharashtra
+494921,NORTH,Delhi,Delhi
+494923,CENTRAL,Bangalore,Karnataka
+494925,EAST,Hyderabad,Andhra Pradesh
+494927,WEST,Ahmedabad,Arunachal Pradesh
+494929,SOUTH,Chennai,Assam
+494931,NORTH,Kolkata,Bihar
+494933,CENTRAL,Surat,Chhattisgarh
+494935,EAST,Pune,Goa
+494937,WEST,Jaipur,Gujarat
+494939,SOUTH,Lucknow,Haryana
+494941,NORTH,Kanpur,Himachal Pradesh
+494943,CENTRAL,Nagpur,Jharkhand
+494945,EAST,Indore,Karnataka
+494947,WEST,Thane,Kerala
+494949,SOUTH,Bhopal,Madhya Pradesh
+494951,NORTH,Visakhapatnam,Maharashtra
+494953,CENTRAL,Vadodara,Manipur
+494955,EAST,Firozabad,Meghalaya
+494957,WEST,Ludhiana,Mizoram
+494959,SOUTH,Rajkot,Nagaland
+494961,NORTH,Agra,Odisha
+494963,CENTRAL,Siliguri,Punjab
+494965,EAST,Nashik,Rajasthan
+494967,WEST,Faridabad,Sikkim
+494969,SOUTH,Patna,Tamil Nadu
+494971,NORTH,Meerut,Telangana
+494973,CENTRAL,Kalyan-Dombivli,Tripura
+494975,EAST,Vasai-Virar,Uttar Pradesh
+494977,WEST,Varanasi,Uttarakhand
+494979,SOUTH,Srinagar,West Bengal
+494981,NORTH,Dhanbad,Andaman and Nicobar Islands
+494983,CENTRAL,Jodhpur,Chandigarh
+494985,EAST,Amritsar,Dadra and Nagar Haveli and Daman and Diu
+494987,WEST,Raipur,Lakshadweep
+494989,SOUTH,Allahabad,Delhi
+494991,NORTH,Coimbatore,Puducherry
+494993,CENTRAL,Jabalpur,Ladakh
+494995,EAST,Gwalior,Jammu and Kashmir
+494997,WEST,Vijayawada,Maharashtra
+494999,SOUTH,Madurai,Delhi
+495001,NORTH,Guwahati,Karnataka
+495003,CENTRAL,Chandigarh,Andhra Pradesh
+495005,EAST,Hubli-Dharwad,Arunachal Pradesh
+495007,WEST,Amroha,Assam
+495009,SOUTH,Moradabad,Bihar
+495011,NORTH,Gurgaon,Chhattisgarh
+495013,CENTRAL,Aligarh,Goa
+495015,EAST,Solapur,Gujarat
+495017,WEST,Ranchi,Haryana
+495019,SOUTH,Jalandhar,Himachal Pradesh
+495021,NORTH,Tiruchirappalli,Jharkhand
+495023,CENTRAL,Bhubaneswar,Karnataka
+495025,EAST,Salem,Kerala
+495027,WEST,Mysore,Madhya Pradesh
+495029,SOUTH,Thiruvananthapuram,Maharashtra
+495031,NORTH,Tiruppur,Manipur
+495033,CENTRAL,Gwalior,Meghalaya
+495035,EAST,Chandrapur,Mizoram
+495037,WEST,Mumbai,Nagaland
+495039,SOUTH,Delhi,Odisha
+495041,NORTH,Bangalore,Punjab
+495043,CENTRAL,Hyderabad,Rajasthan
+495045,EAST,Ahmedabad,Sikkim
+495047,WEST,Chennai,Tamil Nadu
+495049,SOUTH,Kolkata,Telangana
+495051,NORTH,Surat,Tripura
+495053,CENTRAL,Pune,Uttar Pradesh
+495055,EAST,Jaipur,Uttarakhand
+495057,WEST,Lucknow,West Bengal
+495059,SOUTH,Kanpur,Andaman and Nicobar Islands
+495061,NORTH,Nagpur,Chandigarh
+495063,CENTRAL,Indore,Dadra and Nagar Haveli and Daman and Diu
+495065,EAST,Thane,Lakshadweep
+495067,WEST,Bhopal,Delhi
+495069,SOUTH,Visakhapatnam,Puducherry
+495071,NORTH,Vadodara,Ladakh
+495073,CENTRAL,Firozabad,Jammu and Kashmir
+495075,EAST,Ludhiana,Maharashtra
+495077,WEST,Rajkot,Delhi
+495079,SOUTH,Agra,Karnataka
+495081,NORTH,Siliguri,Andhra Pradesh
+495083,CENTRAL,Nashik,Arunachal Pradesh
+495085,EAST,Faridabad,Assam
+495087,WEST,Patna,Bihar
+495089,SOUTH,Meerut,Chhattisgarh
+495091,NORTH,Kalyan-Dombivli,Goa
+495093,CENTRAL,Vasai-Virar,Gujarat
+495095,EAST,Varanasi,Haryana
+495097,WEST,Srinagar,Himachal Pradesh
+495099,SOUTH,Dhanbad,Jharkhand
+495101,NORTH,Jodhpur,Karnataka
+495103,CENTRAL,Amritsar,Kerala
+495105,EAST,Raipur,Madhya Pradesh
+495107,WEST,Allahabad,Maharashtra
+495109,SOUTH,Coimbatore,Manipur
+495111,NORTH,Jabalpur,Meghalaya
+495113,CENTRAL,Gwalior,Mizoram
+495115,EAST,Vijayawada,Nagaland
+495117,WEST,Madurai,Odisha
+495119,SOUTH,Guwahati,Punjab
+495121,NORTH,Chandigarh,Rajasthan
+495123,CENTRAL,Hubli-Dharwad,Sikkim
+495125,EAST,Amroha,Tamil Nadu
+495127,WEST,Moradabad,Telangana
+495129,SOUTH,Gurgaon,Tripura
+495131,NORTH,Aligarh,Uttar Pradesh
+495133,CENTRAL,Solapur,Uttarakhand
+495135,EAST,Ranchi,West Bengal
+495137,WEST,Jalandhar,Andaman and Nicobar Islands
+495139,SOUTH,Tiruchirappalli,Chandigarh
+495141,NORTH,Bhubaneswar,Dadra and Nagar Haveli and Daman and Diu
+495143,CENTRAL,Salem,Lakshadweep
+495145,EAST,Mysore,Delhi
+495147,WEST,Thiruvananthapuram,Puducherry
+495149,SOUTH,Tiruppur,Ladakh
+495151,NORTH,Gwalior,Jammu and Kashmir
+495153,CENTRAL,Chandrapur,Maharashtra
+495155,EAST,Mumbai,Delhi
+495157,WEST,Delhi,Karnataka
+495159,SOUTH,Bangalore,Andhra Pradesh
+495161,NORTH,Hyderabad,Arunachal Pradesh
+495163,CENTRAL,Ahmedabad,Assam
+495165,EAST,Chennai,Bihar
+495167,WEST,Kolkata,Chhattisgarh
+495169,SOUTH,Surat,Goa
+495171,NORTH,Pune,Gujarat
+495173,CENTRAL,Jaipur,Haryana
+495175,EAST,Lucknow,Himachal Pradesh
+495177,WEST,Kanpur,Jharkhand
+495179,SOUTH,Nagpur,Karnataka
+495181,NORTH,Indore,Kerala
+495183,CENTRAL,Thane,Madhya Pradesh
+495185,EAST,Bhopal,Maharashtra
+495187,WEST,Visakhapatnam,Manipur
+495189,SOUTH,Vadodara,Meghalaya
+495191,NORTH,Firozabad,Mizoram
+495193,CENTRAL,Ludhiana,Nagaland
+495195,EAST,Rajkot,Odisha
+495197,WEST,Agra,Punjab
+495199,SOUTH,Siliguri,Rajasthan
+495201,NORTH,Nashik,Sikkim
+495203,CENTRAL,Faridabad,Tamil Nadu
+495205,EAST,Patna,Telangana
+495207,WEST,Meerut,Tripura
+495209,SOUTH,Kalyan-Dombivli,Uttar Pradesh
+495211,NORTH,Vasai-Virar,Uttarakhand
+495213,CENTRAL,Varanasi,West Bengal
+495215,EAST,Srinagar,Andaman and Nicobar Islands
+495217,WEST,Dhanbad,Chandigarh
+495219,SOUTH,Jodhpur,Dadra and Nagar Haveli and Daman and Diu
+495221,NORTH,Amritsar,Lakshadweep
+495223,CENTRAL,Raipur,Delhi
+495225,EAST,Allahabad,Puducherry
+495227,WEST,Coimbatore,Ladakh
+495229,SOUTH,Jabalpur,Jammu and Kashmir
+495231,NORTH,Gwalior,Maharashtra
+495233,CENTRAL,Vijayawada,Delhi
+495235,EAST,Madurai,Karnataka
+495237,WEST,Guwahati,Andhra Pradesh
+495239,SOUTH,Chandigarh,Arunachal Pradesh
+495241,NORTH,Hubli-Dharwad,Assam
+495243,CENTRAL,Amroha,Bihar
+495245,EAST,Moradabad,Chhattisgarh
+495247,WEST,Gurgaon,Goa
+495249,SOUTH,Aligarh,Gujarat
+495251,NORTH,Solapur,Haryana
+495253,CENTRAL,Ranchi,Himachal Pradesh
+495255,EAST,Jalandhar,Jharkhand
+495257,WEST,Tiruchirappalli,Karnataka
+495259,SOUTH,Bhubaneswar,Kerala
+495261,NORTH,Salem,Madhya Pradesh
+495263,CENTRAL,Mysore,Maharashtra
+495265,EAST,Thiruvananthapuram,Manipur
+495267,WEST,Tiruppur,Meghalaya
+495269,SOUTH,Gwalior,Mizoram
+495271,NORTH,Chandrapur,Nagaland
+495273,CENTRAL,Mumbai,Odisha
+495275,EAST,Delhi,Punjab
+495277,WEST,Bangalore,Rajasthan
+495279,SOUTH,Hyderabad,Sikkim
+495281,NORTH,Ahmedabad,Tamil Nadu
+495283,CENTRAL,Chennai,Telangana
+495285,EAST,Kolkata,Tripura
+495287,WEST,Surat,Uttar Pradesh
+495289,SOUTH,Pune,Uttarakhand
+495291,NORTH,Jaipur,West Bengal
+495293,CENTRAL,Lucknow,Andaman and Nicobar Islands
+495295,EAST,Kanpur,Chandigarh
+495297,WEST,Nagpur,Dadra and Nagar Haveli and Daman and Diu
+495299,SOUTH,Indore,Lakshadweep
+495301,NORTH,Thane,Delhi
+495303,CENTRAL,Bhopal,Puducherry
+495305,EAST,Visakhapatnam,Ladakh
+495307,WEST,Vadodara,Jammu and Kashmir
+495309,SOUTH,Firozabad,Maharashtra
+495311,NORTH,Ludhiana,Delhi
+495313,CENTRAL,Rajkot,Karnataka
+495315,EAST,Agra,Andhra Pradesh
+495317,WEST,Siliguri,Arunachal Pradesh
+495319,SOUTH,Nashik,Assam
+495321,NORTH,Faridabad,Bihar
+495323,CENTRAL,Patna,Chhattisgarh
+495325,EAST,Meerut,Goa
+495327,WEST,Kalyan-Dombivli,Gujarat
+495329,SOUTH,Vasai-Virar,Haryana
+495331,NORTH,Varanasi,Himachal Pradesh
+495333,CENTRAL,Srinagar,Jharkhand
+495335,EAST,Dhanbad,Karnataka
+495337,WEST,Jodhpur,Kerala
+495339,SOUTH,Amritsar,Madhya Pradesh
+495341,NORTH,Raipur,Maharashtra
+495343,CENTRAL,Allahabad,Manipur
+495345,EAST,Coimbatore,Meghalaya
+495347,WEST,Jabalpur,Mizoram
+495349,SOUTH,Gwalior,Nagaland
+495351,NORTH,Vijayawada,Odisha
+495353,CENTRAL,Madurai,Punjab
+495355,EAST,Guwahati,Rajasthan
+495357,WEST,Chandigarh,Sikkim
+495359,SOUTH,Hubli-Dharwad,Tamil Nadu
+495361,NORTH,Amroha,Telangana
+495363,CENTRAL,Moradabad,Tripura
+495365,EAST,Gurgaon,Uttar Pradesh
+495367,WEST,Aligarh,Uttarakhand
+495369,SOUTH,Solapur,West Bengal
+495371,NORTH,Ranchi,Andaman and Nicobar Islands
+495373,CENTRAL,Jalandhar,Chandigarh
+495375,EAST,Tiruchirappalli,Dadra and Nagar Haveli and Daman and Diu
+495377,WEST,Bhubaneswar,Lakshadweep
+495379,SOUTH,Salem,Delhi
+495381,NORTH,Mysore,Puducherry
+495383,CENTRAL,Thiruvananthapuram,Ladakh
+495385,EAST,Tiruppur,Jammu and Kashmir
+495387,WEST,Gwalior,Maharashtra
+495389,SOUTH,Chandrapur,Delhi
+495391,NORTH,Mumbai,Karnataka
+495393,CENTRAL,Delhi,Andhra Pradesh
+495395,EAST,Bangalore,Arunachal Pradesh
+495397,WEST,Hyderabad,Assam
+495399,SOUTH,Ahmedabad,Bihar
+495401,NORTH,Chennai,Chhattisgarh
+495403,CENTRAL,Kolkata,Goa
+495405,EAST,Surat,Gujarat
+495407,WEST,Pune,Haryana
+495409,SOUTH,Jaipur,Himachal Pradesh
+495411,NORTH,Lucknow,Jharkhand
+495413,CENTRAL,Kanpur,Karnataka
+495415,EAST,Nagpur,Kerala
+495417,WEST,Indore,Madhya Pradesh
+495419,SOUTH,Thane,Maharashtra
+495421,NORTH,Bhopal,Manipur
+495423,CENTRAL,Visakhapatnam,Meghalaya
+495425,EAST,Vadodara,Mizoram
+495427,WEST,Firozabad,Nagaland
+495429,SOUTH,Ludhiana,Odisha
+495431,NORTH,Rajkot,Punjab
+495433,CENTRAL,Agra,Rajasthan
+495435,EAST,Siliguri,Sikkim
+495437,WEST,Nashik,Tamil Nadu
+495439,SOUTH,Faridabad,Telangana
+495441,NORTH,Patna,Tripura
+495443,CENTRAL,Meerut,Uttar Pradesh
+495445,EAST,Kalyan-Dombivli,Uttarakhand
+495447,WEST,Vasai-Virar,West Bengal
+495449,SOUTH,Varanasi,Andaman and Nicobar Islands
+495451,NORTH,Srinagar,Chandigarh
+495453,CENTRAL,Dhanbad,Dadra and Nagar Haveli and Daman and Diu
+495455,EAST,Jodhpur,Lakshadweep
+495457,WEST,Amritsar,Delhi
+495459,SOUTH,Raipur,Puducherry
+495461,NORTH,Allahabad,Ladakh
+495463,CENTRAL,Coimbatore,Jammu and Kashmir
+495465,EAST,Jabalpur,Maharashtra
+495467,WEST,Gwalior,Delhi
+495469,SOUTH,Vijayawada,Karnataka
+495471,NORTH,Madurai,Andhra Pradesh
+495473,CENTRAL,Guwahati,Arunachal Pradesh
+495475,EAST,Chandigarh,Assam
+495477,WEST,Hubli-Dharwad,Bihar
+495479,SOUTH,Amroha,Chhattisgarh
+495481,NORTH,Moradabad,Goa
+495483,CENTRAL,Gurgaon,Gujarat
+495485,EAST,Aligarh,Haryana
+495487,WEST,Solapur,Himachal Pradesh
+495489,SOUTH,Ranchi,Jharkhand
+495491,NORTH,Jalandhar,Karnataka
+495493,CENTRAL,Tiruchirappalli,Kerala
+495495,EAST,Bhubaneswar,Madhya Pradesh
+495497,WEST,Salem,Maharashtra
+495499,SOUTH,Mysore,Manipur
+495501,NORTH,Thiruvananthapuram,Meghalaya
+495503,CENTRAL,Tiruppur,Mizoram
+495505,EAST,Gwalior,Nagaland
+495507,WEST,Chandrapur,Odisha
+495509,SOUTH,Mumbai,Punjab
+495511,NORTH,Delhi,Rajasthan
+495513,CENTRAL,Bangalore,Sikkim
+495515,EAST,Hyderabad,Tamil Nadu
+495517,WEST,Ahmedabad,Telangana
+495519,SOUTH,Chennai,Tripura
+495521,NORTH,Kolkata,Uttar Pradesh
+495523,CENTRAL,Surat,Uttarakhand
+495525,EAST,Pune,West Bengal
+495527,WEST,Jaipur,Andaman and Nicobar Islands
+495529,SOUTH,Lucknow,Chandigarh
+495531,NORTH,Kanpur,Dadra and Nagar Haveli and Daman and Diu
+495533,CENTRAL,Nagpur,Lakshadweep
+495535,EAST,Indore,Delhi
+495537,WEST,Thane,Puducherry
+495539,SOUTH,Bhopal,Ladakh
+495541,NORTH,Visakhapatnam,Jammu and Kashmir
+495543,CENTRAL,Vadodara,Maharashtra
+495545,EAST,Firozabad,Delhi
+495547,WEST,Ludhiana,Karnataka
+495549,SOUTH,Rajkot,Andhra Pradesh
+495551,NORTH,Agra,Arunachal Pradesh
+495553,CENTRAL,Siliguri,Assam
+495555,EAST,Nashik,Bihar
+495557,WEST,Faridabad,Chhattisgarh
+495559,SOUTH,Patna,Goa
+495561,NORTH,Meerut,Gujarat
+495563,CENTRAL,Kalyan-Dombivli,Haryana
+495565,EAST,Vasai-Virar,Himachal Pradesh
+495567,WEST,Varanasi,Jharkhand
+495569,SOUTH,Srinagar,Karnataka
+495571,NORTH,Dhanbad,Kerala
+495573,CENTRAL,Jodhpur,Madhya Pradesh
+495575,EAST,Amritsar,Maharashtra
+495577,WEST,Raipur,Manipur
+495579,SOUTH,Allahabad,Meghalaya
+495581,NORTH,Coimbatore,Mizoram
+495583,CENTRAL,Jabalpur,Nagaland
+495585,EAST,Gwalior,Odisha
+495587,WEST,Vijayawada,Punjab
+495589,SOUTH,Madurai,Rajasthan
+495591,NORTH,Guwahati,Sikkim
+495593,CENTRAL,Chandigarh,Tamil Nadu
+495595,EAST,Hubli-Dharwad,Telangana
+495597,WEST,Amroha,Tripura
+495599,SOUTH,Moradabad,Uttar Pradesh
+495601,NORTH,Gurgaon,Uttarakhand
+495603,CENTRAL,Aligarh,West Bengal
+495605,EAST,Solapur,Andaman and Nicobar Islands
+495607,WEST,Ranchi,Chandigarh
+495609,SOUTH,Jalandhar,Dadra and Nagar Haveli and Daman and Diu
+495611,NORTH,Tiruchirappalli,Lakshadweep
+495613,CENTRAL,Bhubaneswar,Delhi
+495615,EAST,Salem,Puducherry
+495617,WEST,Mysore,Ladakh
+495619,SOUTH,Thiruvananthapuram,Jammu and Kashmir
+495621,NORTH,Tiruppur,Maharashtra
+495623,CENTRAL,Gwalior,Delhi
+495625,EAST,Chandrapur,Karnataka
+495627,WEST,Mumbai,Andhra Pradesh
+495629,SOUTH,Delhi,Arunachal Pradesh
+495631,NORTH,Bangalore,Assam
+495633,CENTRAL,Hyderabad,Bihar
+495635,EAST,Ahmedabad,Chhattisgarh
+495637,WEST,Chennai,Goa
+495639,SOUTH,Kolkata,Gujarat
+495641,NORTH,Surat,Haryana
+495643,CENTRAL,Pune,Himachal Pradesh
+495645,EAST,Jaipur,Jharkhand
+495647,WEST,Lucknow,Karnataka
+495649,SOUTH,Kanpur,Kerala
+495651,NORTH,Nagpur,Madhya Pradesh
+495653,CENTRAL,Indore,Maharashtra
+495655,EAST,Thane,Manipur
+495657,WEST,Bhopal,Meghalaya
+495659,SOUTH,Visakhapatnam,Mizoram
+495661,NORTH,Vadodara,Nagaland
+495663,CENTRAL,Firozabad,Odisha
+495665,EAST,Ludhiana,Punjab
+495667,WEST,Rajkot,Rajasthan
+495669,SOUTH,Agra,Sikkim
+495671,NORTH,Siliguri,Tamil Nadu
+495673,CENTRAL,Nashik,Telangana
+495675,EAST,Faridabad,Tripura
+495677,WEST,Patna,Uttar Pradesh
+495679,SOUTH,Meerut,Uttarakhand
+495681,NORTH,Kalyan-Dombivli,West Bengal
+495683,CENTRAL,Vasai-Virar,Andaman and Nicobar Islands
+495685,EAST,Varanasi,Chandigarh
+495687,WEST,Srinagar,Dadra and Nagar Haveli and Daman and Diu
+495689,SOUTH,Dhanbad,Lakshadweep
+495691,NORTH,Jodhpur,Delhi
+495693,CENTRAL,Amritsar,Puducherry
+495695,EAST,Raipur,Ladakh
+495697,WEST,Allahabad,Jammu and Kashmir
+495699,SOUTH,Coimbatore,Maharashtra
+495701,NORTH,Jabalpur,Delhi
+495703,CENTRAL,Gwalior,Karnataka
+495705,EAST,Vijayawada,Andhra Pradesh
+495707,WEST,Madurai,Arunachal Pradesh
+495709,SOUTH,Guwahati,Assam
+495711,NORTH,Chandigarh,Bihar
+495713,CENTRAL,Hubli-Dharwad,Chhattisgarh
+495715,EAST,Amroha,Goa
+495717,WEST,Moradabad,Gujarat
+495719,SOUTH,Gurgaon,Haryana
+495721,NORTH,Aligarh,Himachal Pradesh
+495723,CENTRAL,Solapur,Jharkhand
+495725,EAST,Ranchi,Karnataka
+495727,WEST,Jalandhar,Kerala
+495729,SOUTH,Tiruchirappalli,Madhya Pradesh
+495731,NORTH,Bhubaneswar,Maharashtra
+495733,CENTRAL,Salem,Manipur
+495735,EAST,Mysore,Meghalaya
+495737,WEST,Thiruvananthapuram,Mizoram
+495739,SOUTH,Tiruppur,Nagaland
+495741,NORTH,Gwalior,Odisha
+495743,CENTRAL,Chandrapur,Punjab
+495745,EAST,Mumbai,Rajasthan
+495747,WEST,Delhi,Sikkim
+495749,SOUTH,Bangalore,Tamil Nadu
+495751,NORTH,Hyderabad,Telangana
+495753,CENTRAL,Ahmedabad,Tripura
+495755,EAST,Chennai,Uttar Pradesh
+495757,WEST,Kolkata,Uttarakhand
+495759,SOUTH,Surat,West Bengal
+495761,NORTH,Pune,Andaman and Nicobar Islands
+495763,CENTRAL,Jaipur,Chandigarh
+495765,EAST,Lucknow,Dadra and Nagar Haveli and Daman and Diu
+495767,WEST,Kanpur,Lakshadweep
+495769,SOUTH,Nagpur,Delhi
+495771,NORTH,Indore,Puducherry
+495773,CENTRAL,Thane,Ladakh
+495775,EAST,Bhopal,Jammu and Kashmir
+495777,WEST,Visakhapatnam,Maharashtra
+495779,SOUTH,Vadodara,Delhi
+495781,NORTH,Firozabad,Karnataka
+495783,CENTRAL,Ludhiana,Andhra Pradesh
+495785,EAST,Rajkot,Arunachal Pradesh
+495787,WEST,Agra,Assam
+495789,SOUTH,Siliguri,Bihar
+495791,NORTH,Nashik,Chhattisgarh
+495793,CENTRAL,Faridabad,Goa
+495795,EAST,Patna,Gujarat
+495797,WEST,Meerut,Haryana
+495799,SOUTH,Kalyan-Dombivli,Himachal Pradesh
+495801,NORTH,Vasai-Virar,Jharkhand
+495803,CENTRAL,Varanasi,Karnataka
+495805,EAST,Srinagar,Kerala
+495807,WEST,Dhanbad,Madhya Pradesh
+495809,SOUTH,Jodhpur,Maharashtra
+495811,NORTH,Amritsar,Manipur
+495813,CENTRAL,Raipur,Meghalaya
+495815,EAST,Allahabad,Mizoram
+495817,WEST,Coimbatore,Nagaland
+495819,SOUTH,Jabalpur,Odisha
+495821,NORTH,Gwalior,Punjab
+495823,CENTRAL,Vijayawada,Rajasthan
+495825,EAST,Madurai,Sikkim
+495827,WEST,Guwahati,Tamil Nadu
+495829,SOUTH,Chandigarh,Telangana
+495831,NORTH,Hubli-Dharwad,Tripura
+495833,CENTRAL,Amroha,Uttar Pradesh
+495835,EAST,Moradabad,Uttarakhand
+495837,WEST,Gurgaon,West Bengal
+495839,SOUTH,Aligarh,Andaman and Nicobar Islands
+495841,NORTH,Solapur,Chandigarh
+495843,CENTRAL,Ranchi,Dadra and Nagar Haveli and Daman and Diu
+495845,EAST,Jalandhar,Lakshadweep
+495847,WEST,Tiruchirappalli,Delhi
+495849,SOUTH,Bhubaneswar,Puducherry
+495851,NORTH,Salem,Ladakh
+495853,CENTRAL,Mysore,Jammu and Kashmir
+495855,EAST,Thiruvananthapuram,Maharashtra
+495857,WEST,Tiruppur,Delhi
+495859,SOUTH,Gwalior,Karnataka
+495861,NORTH,Chandrapur,Andhra Pradesh
+495863,CENTRAL,Mumbai,Arunachal Pradesh
+495865,EAST,Delhi,Assam
+495867,WEST,Bangalore,Bihar
+495869,SOUTH,Hyderabad,Chhattisgarh
+495871,NORTH,Ahmedabad,Goa
+495873,CENTRAL,Chennai,Gujarat
+495875,EAST,Kolkata,Haryana
+495877,WEST,Surat,Himachal Pradesh
+495879,SOUTH,Pune,Jharkhand
+495881,NORTH,Jaipur,Karnataka
+495883,CENTRAL,Lucknow,Kerala
+495885,EAST,Kanpur,Madhya Pradesh
+495887,WEST,Nagpur,Maharashtra
+495889,SOUTH,Indore,Manipur
+495891,NORTH,Thane,Meghalaya
+495893,CENTRAL,Bhopal,Mizoram
+495895,EAST,Visakhapatnam,Nagaland
+495897,WEST,Vadodara,Odisha
+495899,SOUTH,Firozabad,Punjab
+495901,NORTH,Ludhiana,Rajasthan
+495903,CENTRAL,Rajkot,Sikkim
+495905,EAST,Agra,Tamil Nadu
+495907,WEST,Siliguri,Telangana
+495909,SOUTH,Nashik,Tripura
+495911,NORTH,Faridabad,Uttar Pradesh
+495913,CENTRAL,Patna,Uttarakhand
+495915,EAST,Meerut,West Bengal
+495917,WEST,Kalyan-Dombivli,Andaman and Nicobar Islands
+495919,SOUTH,Vasai-Virar,Chandigarh
+495921,NORTH,Varanasi,Dadra and Nagar Haveli and Daman and Diu
+495923,CENTRAL,Srinagar,Lakshadweep
+495925,EAST,Dhanbad,Delhi
+495927,WEST,Jodhpur,Puducherry
+495929,SOUTH,Amritsar,Ladakh
+495931,NORTH,Raipur,Jammu and Kashmir
+495933,CENTRAL,Allahabad,Maharashtra
+495935,EAST,Coimbatore,Delhi
+495937,WEST,Jabalpur,Karnataka
+495939,SOUTH,Gwalior,Andhra Pradesh
+495941,NORTH,Vijayawada,Arunachal Pradesh
+495943,CENTRAL,Madurai,Assam
+495945,EAST,Guwahati,Bihar
+495947,WEST,Chandigarh,Chhattisgarh
+495949,SOUTH,Hubli-Dharwad,Goa
+495951,NORTH,Amroha,Gujarat
+495953,CENTRAL,Moradabad,Haryana
+495955,EAST,Gurgaon,Himachal Pradesh
+495957,WEST,Aligarh,Jharkhand
+495959,SOUTH,Solapur,Karnataka
+495961,NORTH,Ranchi,Kerala
+495963,CENTRAL,Jalandhar,Madhya Pradesh
+495965,EAST,Tiruchirappalli,Maharashtra
+495967,WEST,Bhubaneswar,Manipur
+495969,SOUTH,Salem,Meghalaya
+495971,NORTH,Mysore,Mizoram
+495973,CENTRAL,Thiruvananthapuram,Nagaland
+495975,EAST,Tiruppur,Odisha
+495977,WEST,Gwalior,Punjab
+495979,SOUTH,Chandrapur,Rajasthan
+495981,NORTH,Mumbai,Sikkim
+495983,CENTRAL,Delhi,Tamil Nadu
+495985,EAST,Bangalore,Telangana
+495987,WEST,Hyderabad,Tripura
+495989,SOUTH,Ahmedabad,Uttar Pradesh
+495991,NORTH,Chennai,Uttarakhand
+495993,CENTRAL,Kolkata,West Bengal
+495995,EAST,Surat,Andaman and Nicobar Islands
+495997,WEST,Pune,Chandigarh
+495999,SOUTH,Jaipur,Dadra and Nagar Haveli and Daman and Diu
+496001,NORTH,Lucknow,Lakshadweep
+496003,CENTRAL,Kanpur,Delhi
+496005,EAST,Nagpur,Puducherry
+496007,WEST,Indore,Ladakh
+496009,SOUTH,Thane,Jammu and Kashmir
+496011,NORTH,Bhopal,Maharashtra
+496013,CENTRAL,Visakhapatnam,Delhi
+496015,EAST,Vadodara,Karnataka
+496017,WEST,Firozabad,Andhra Pradesh
+496019,SOUTH,Ludhiana,Arunachal Pradesh
+496021,NORTH,Rajkot,Assam
+496023,CENTRAL,Agra,Bihar
+496025,EAST,Siliguri,Chhattisgarh
+496027,WEST,Nashik,Goa
+496029,SOUTH,Faridabad,Gujarat
+496031,NORTH,Patna,Haryana
+496033,CENTRAL,Meerut,Himachal Pradesh
+496035,EAST,Kalyan-Dombivli,Jharkhand
+496037,WEST,Vasai-Virar,Karnataka
+496039,SOUTH,Varanasi,Kerala
+496041,NORTH,Srinagar,Madhya Pradesh
+496043,CENTRAL,Dhanbad,Maharashtra
+496045,EAST,Jodhpur,Manipur
+496047,WEST,Amritsar,Meghalaya
+496049,SOUTH,Raipur,Mizoram
+496051,NORTH,Allahabad,Nagaland
+496053,CENTRAL,Coimbatore,Odisha
+496055,EAST,Jabalpur,Punjab
+496057,WEST,Gwalior,Rajasthan
+496059,SOUTH,Vijayawada,Sikkim
+496061,NORTH,Madurai,Tamil Nadu
+496063,CENTRAL,Guwahati,Telangana
+496065,EAST,Chandigarh,Tripura
+496067,WEST,Hubli-Dharwad,Uttar Pradesh
+496069,SOUTH,Amroha,Uttarakhand
+496071,NORTH,Moradabad,West Bengal
+496073,CENTRAL,Gurgaon,Andaman and Nicobar Islands
+496075,EAST,Aligarh,Chandigarh
+496077,WEST,Solapur,Dadra and Nagar Haveli and Daman and Diu
+496079,SOUTH,Ranchi,Lakshadweep
+496081,NORTH,Jalandhar,Delhi
+496083,CENTRAL,Tiruchirappalli,Puducherry
+496085,EAST,Bhubaneswar,Ladakh
+496087,WEST,Salem,Jammu and Kashmir
+496089,SOUTH,Mysore,Maharashtra
+496091,NORTH,Thiruvananthapuram,Delhi
+496093,CENTRAL,Tiruppur,Karnataka
+496095,EAST,Gwalior,Andhra Pradesh
+496097,WEST,Chandrapur,Arunachal Pradesh
+496099,SOUTH,Mumbai,Assam
+496101,NORTH,Delhi,Bihar
+496103,CENTRAL,Bangalore,Chhattisgarh
+496105,EAST,Hyderabad,Goa
+496107,WEST,Ahmedabad,Gujarat
+496109,SOUTH,Chennai,Haryana
+496111,NORTH,Kolkata,Himachal Pradesh
+496113,CENTRAL,Surat,Jharkhand
+496115,EAST,,Karnataka
+496117,WEST,,Kerala
+496119,SOUTH,,Madhya Pradesh
+496121,NORTH,,Maharashtra
+496123,CENTRAL,,Manipur
+496125,EAST,,Meghalaya
+496127,WEST,,Mizoram
+496129,SOUTH,,Nagaland
+496131,NORTH,,Odisha
+496133,CENTRAL,,Punjab
+496135,EAST,,Rajasthan
+496137,WEST,,Sikkim
+496139,SOUTH,,Tamil Nadu
+496141,NORTH,,Telangana
+496143,CENTRAL,,Tripura
+496145,EAST,,Uttar Pradesh
+496147,WEST,,Uttarakhand
+496149,SOUTH,,West Bengal
+496151,NORTH,,Andaman and Nicobar Islands
+496153,CENTRAL,,Chandigarh
+496155,EAST,,Dadra and Nagar Haveli and Daman and Diu
+496157,WEST,,Lakshadweep
+496159,SOUTH,,Delhi
+496161,NORTH,,Puducherry
+496163,CENTRAL,,Ladakh
+496165,EAST,,Jammu and Kashmir
+496167,WEST,,Maharashtra
+496169,SOUTH,,Delhi
+496171,NORTH,,Karnataka
+496173,CENTRAL,,Andhra Pradesh
+496175,EAST,,Arunachal Pradesh
+496177,WEST,,Assam
+496179,SOUTH,,Bihar
+496181,NORTH,,Chhattisgarh
+496183,CENTRAL,,Goa
+496185,EAST,,Gujarat
+496187,WEST,,Haryana
+496189,SOUTH,,Himachal Pradesh
+496191,NORTH,,Jharkhand
+496193,CENTRAL,,Karnataka
+496195,EAST,,Kerala
+496197,WEST,,Madhya Pradesh
+496199,SOUTH,,Maharashtra
+496201,NORTH,,Manipur
+496203,CENTRAL,,Meghalaya
+496205,EAST,,Mizoram
+496207,WEST,,Nagaland
+496209,SOUTH,,Odisha
+496211,NORTH,,Punjab
+496213,CENTRAL,,Rajasthan
+496215,EAST,,Sikkim
+496217,WEST,,Tamil Nadu
+496219,SOUTH,,Telangana
+496221,NORTH,,Tripura
+496223,CENTRAL,,Uttar Pradesh
+496225,EAST,,Uttarakhand
+496227,WEST,,West Bengal
+496229,SOUTH,,Andaman and Nicobar Islands
+496231,NORTH,,Chandigarh
+496233,CENTRAL,,Dadra and Nagar Haveli and Daman and Diu
+496235,EAST,,Lakshadweep
+496237,WEST,,Delhi
+496239,SOUTH,,Puducherry
+496241,NORTH,,Ladakh
+496243,CENTRAL,,Jammu and Kashmir
+496245,EAST,,Maharashtra
+496247,WEST,,Delhi
+496249,SOUTH,,Karnataka
+496251,NORTH,,Andhra Pradesh
+496253,CENTRAL,,Arunachal Pradesh
+496255,EAST,,Assam
+496257,WEST,,Bihar
+496259,SOUTH,,Chhattisgarh
+496261,NORTH,,Goa
+496263,CENTRAL,,Gujarat
+496265,EAST,,Haryana
+496267,WEST,,Himachal Pradesh
+496269,SOUTH,,Jharkhand
+496271,NORTH,,Karnataka
+496273,CENTRAL,,Kerala
+496275,EAST,,Madhya Pradesh
+496277,WEST,,Maharashtra
+496279,SOUTH,,Manipur
+496281,NORTH,,Meghalaya
+496283,CENTRAL,,Mizoram
+496285,EAST,,Nagaland
+496287,WEST,,Odisha
+496289,SOUTH,,Punjab
+496291,NORTH,,Rajasthan
+496293,CENTRAL,,Sikkim
+496295,EAST,,Tamil Nadu
+496297,WEST,,Telangana
+496299,SOUTH,,Tripura
+496301,NORTH,,Uttar Pradesh
+496303,CENTRAL,,Uttarakhand
+496305,EAST,,West Bengal
+496307,WEST,,Andaman and Nicobar Islands
+496309,SOUTH,,Chandigarh
+496311,NORTH,,Dadra and Nagar Haveli and Daman and Diu
+496313,CENTRAL,,Lakshadweep
+496315,EAST,,Delhi
+496317,WEST,,Puducherry
+496319,SOUTH,,Ladakh
+496321,NORTH,,Jammu and Kashmir
+496323,CENTRAL,,Maharashtra
+496325,EAST,,Delhi
+496327,WEST,,Karnataka
+496329,SOUTH,,Andhra Pradesh
+496331,NORTH,,Arunachal Pradesh
+496333,CENTRAL,,Assam
+496335,EAST,,Bihar
+496337,WEST,,Chhattisgarh
+496339,SOUTH,,Goa
+496341,NORTH,,Gujarat
+496343,CENTRAL,,Haryana
+496345,EAST,,Himachal Pradesh
+496347,WEST,,Jharkhand
+496349,SOUTH,,Karnataka
+496351,NORTH,,Kerala
+496353,CENTRAL,,Madhya Pradesh
+496355,EAST,,Maharashtra
+496357,WEST,,Manipur
+496359,SOUTH,,Meghalaya
+496361,NORTH,,Mizoram
+496363,CENTRAL,,Nagaland
+496365,EAST,,Odisha
+496367,WEST,,Punjab
+496369,SOUTH,,Rajasthan
+496371,NORTH,,Sikkim
+496373,CENTRAL,,Tamil Nadu
+496375,EAST,,Telangana
+496377,WEST,,Tripura
+496379,SOUTH,,Uttar Pradesh
+496381,NORTH,,Uttarakhand
+496383,CENTRAL,,West Bengal
+496385,EAST,,Andaman and Nicobar Islands
+496387,WEST,,Chandigarh
+496389,SOUTH,,Dadra and Nagar Haveli and Daman and Diu
+496391,NORTH,,Lakshadweep
+496393,CENTRAL,,Delhi
+496395,EAST,,Puducherry
+496397,WEST,,Ladakh
+496399,SOUTH,,Jammu and Kashmir
+496401,NORTH,,Maharashtra
+496403,CENTRAL,,Delhi
+496405,EAST,,Karnataka
+496407,WEST,,Andhra Pradesh
+496409,SOUTH,,Arunachal Pradesh
+496411,NORTH,,Assam
+496413,CENTRAL,,Bihar
+496415,EAST,,Chhattisgarh
+496417,WEST,,Goa
+496419,SOUTH,,Gujarat
+496421,NORTH,,Haryana
+496423,CENTRAL,,Himachal Pradesh
+496425,EAST,,Jharkhand
+496427,WEST,,Karnataka
+496429,SOUTH,,Kerala
+496431,NORTH,,Madhya Pradesh
+496433,CENTRAL,,Maharashtra
+496435,EAST,,Manipur
+496437,WEST,,Meghalaya
+496439,SOUTH,,Mizoram
+496441,NORTH,,Nagaland
+496443,CENTRAL,,Odisha
+496445,EAST,,Punjab
+496447,WEST,,Rajasthan
+496449,SOUTH,,Sikkim
+496451,NORTH,,Tamil Nadu
+496453,CENTRAL,,Telangana
+496455,EAST,,Tripura
+496457,WEST,,Uttar Pradesh
+496459,SOUTH,,Uttarakhand
+496461,NORTH,,West Bengal
+496463,CENTRAL,,Andaman and Nicobar Islands
+496465,EAST,,Chandigarh
+496467,WEST,,Dadra and Nagar Haveli and Daman and Diu
+496469,SOUTH,,Lakshadweep
+496471,NORTH,,Delhi
+496473,CENTRAL,,Puducherry
+496475,EAST,,Ladakh
+496477,WEST,,Jammu and Kashmir
+496479,SOUTH,,Maharashtra
+496481,NORTH,,Delhi
+496483,CENTRAL,,Karnataka
+496485,EAST,,Andhra Pradesh
+496487,WEST,,Arunachal Pradesh
+496489,SOUTH,,Assam
+496491,NORTH,,Bihar
+496493,CENTRAL,,Chhattisgarh
+496495,EAST,,Goa
+496497,WEST,,Gujarat
+496499,SOUTH,,Haryana
+496501,NORTH,,Himachal Pradesh
+496503,CENTRAL,,Jharkhand
+496505,EAST,,Karnataka
+496507,WEST,,Kerala
+496509,SOUTH,,Madhya Pradesh
+496511,NORTH,,Maharashtra
+496513,CENTRAL,,Manipur
+496515,EAST,,Meghalaya
+496517,WEST,,Mizoram
+496519,SOUTH,,Nagaland
+496521,NORTH,,Odisha
+496523,CENTRAL,,Punjab
+496525,EAST,,Rajasthan
+496527,WEST,,Sikkim
+496529,SOUTH,,Tamil Nadu
+496531,NORTH,,Telangana
+496533,CENTRAL,,Tripura
+496535,EAST,,Uttar Pradesh
+496537,WEST,,Uttarakhand
+496539,SOUTH,,West Bengal
+496541,NORTH,,Andaman and Nicobar Islands
+496543,CENTRAL,,Chandigarh
+496545,EAST,,Dadra and Nagar Haveli and Daman and Diu
+496547,WEST,,Lakshadweep
+496549,SOUTH,,Delhi
+496551,NORTH,,Puducherry
+496553,CENTRAL,,Ladakh
+496555,EAST,,Jammu and Kashmir
+496557,WEST,,Maharashtra
+496559,SOUTH,,Delhi
+496561,NORTH,,Karnataka
+496563,CENTRAL,,Andhra Pradesh
+496565,EAST,,Arunachal Pradesh
+496567,WEST,,Assam
+496569,SOUTH,,Bihar
+496571,NORTH,,Chhattisgarh
+496573,CENTRAL,,Goa
+496575,EAST,,Gujarat
+496577,WEST,,Haryana
+496579,SOUTH,,Himachal Pradesh
+496581,NORTH,,Jharkhand
+496583,CENTRAL,,Karnataka
+496585,EAST,,Kerala
+496587,WEST,,Madhya Pradesh
+496589,SOUTH,,Maharashtra
+496591,NORTH,,Manipur
+496593,CENTRAL,,Meghalaya
+496595,EAST,,Mizoram
+496597,WEST,,Nagaland
+496599,SOUTH,,Odisha
+496601,NORTH,,Punjab
+496603,CENTRAL,,Rajasthan
+496605,EAST,,Sikkim
+496607,WEST,,Tamil Nadu
+496609,SOUTH,,Telangana
+496611,NORTH,,Tripura
+496613,CENTRAL,,Uttar Pradesh
+496615,EAST,,Uttarakhand
+496617,WEST,,West Bengal
+496619,SOUTH,,Andaman and Nicobar Islands
+496621,NORTH,,Chandigarh
+496623,CENTRAL,,Dadra and Nagar Haveli and Daman and Diu
+496625,EAST,,Lakshadweep
+496627,WEST,,Delhi
+496629,SOUTH,,Puducherry
+496631,NORTH,,Ladakh
+496633,CENTRAL,,Jammu and Kashmir
+496635,EAST,,Maharashtra
+496637,WEST,,Delhi
+496639,SOUTH,,Karnataka
+496641,NORTH,,Andhra Pradesh
+496643,CENTRAL,,Arunachal Pradesh
+496645,EAST,,Assam
+496647,WEST,,Bihar
+496649,SOUTH,,Chhattisgarh
+496651,NORTH,,Goa
+496653,CENTRAL,,Gujarat
+496655,EAST,,Haryana
+496657,WEST,,Himachal Pradesh
+496659,SOUTH,,Jharkhand
+496661,NORTH,,Karnataka
+496663,CENTRAL,,Kerala
+496665,EAST,,Madhya Pradesh
+496667,WEST,,Maharashtra
+496669,SOUTH,,Manipur
+496671,NORTH,,Meghalaya
+496673,CENTRAL,,Mizoram
+496675,EAST,,Nagaland
+496677,WEST,,Odisha
+496679,SOUTH,,Punjab
+496681,NORTH,,Rajasthan
+496683,CENTRAL,,Sikkim
+496685,EAST,,Tamil Nadu
+496687,WEST,,Telangana
+496689,SOUTH,,Tripura
+496691,NORTH,,Uttar Pradesh
+496693,CENTRAL,,Uttarakhand
+496695,EAST,,West Bengal
+496697,WEST,,Andaman and Nicobar Islands
+496699,SOUTH,,Chandigarh
+496701,NORTH,,Dadra and Nagar Haveli and Daman and Diu
+496703,CENTRAL,,Lakshadweep
+496705,EAST,,Delhi
+496707,WEST,,Puducherry
+496709,SOUTH,,Ladakh
+496711,NORTH,,Jammu and Kashmir
+496713,CENTRAL,,Maharashtra
+496715,EAST,,Delhi
+496717,WEST,,Karnataka
+496719,SOUTH,,Andhra Pradesh
+496721,NORTH,,Arunachal Pradesh
+496723,CENTRAL,,Assam
+496725,EAST,,Bihar
+496727,WEST,,Chhattisgarh
+496729,SOUTH,,Goa
+496731,NORTH,,Gujarat
+496733,CENTRAL,,Haryana
+496735,EAST,,Himachal Pradesh
+496737,WEST,,Jharkhand
+496739,SOUTH,,Karnataka
+496741,NORTH,,Kerala
+496743,CENTRAL,,Madhya Pradesh
+496745,EAST,,Maharashtra
+496747,WEST,,Manipur
+496749,SOUTH,,Meghalaya
+496751,NORTH,,Mizoram
+496753,CENTRAL,,Nagaland
+496755,EAST,,Odisha
+496757,WEST,,Punjab
+496759,SOUTH,,Rajasthan
+496761,NORTH,,Sikkim
+496763,CENTRAL,,Tamil Nadu
+496765,EAST,,Telangana
+496767,WEST,,Tripura
+496769,SOUTH,,Uttar Pradesh
+496771,NORTH,,Uttarakhand
+496773,CENTRAL,,West Bengal
+496775,EAST,,Andaman and Nicobar Islands
+496777,WEST,,Chandigarh
+496779,SOUTH,,Dadra and Nagar Haveli and Daman and Diu
+496781,NORTH,,Lakshadweep
+496783,CENTRAL,,Delhi
+496785,EAST,,Puducherry
+496787,WEST,,Ladakh
+496789,SOUTH,,Jammu and Kashmir
+496791,NORTH,,Maharashtra
+496793,CENTRAL,,Delhi
+496795,EAST,,Karnataka
+496797,WEST,,Andhra Pradesh
+496799,SOUTH,,Arunachal Pradesh
+496801,NORTH,,Assam
+496803,CENTRAL,,Bihar
+496805,EAST,,Chhattisgarh
+496807,WEST,,Goa
+496809,SOUTH,,Gujarat
+496811,NORTH,,Haryana
+496813,CENTRAL,,Himachal Pradesh
+496815,EAST,,Jharkhand
+496817,WEST,,Karnataka
+496819,SOUTH,,Kerala
+496821,NORTH,,Madhya Pradesh
+496823,CENTRAL,,Maharashtra
+496825,EAST,,Manipur
+496827,WEST,,Meghalaya
+496829,SOUTH,,Mizoram
+496831,NORTH,,Nagaland
+496833,CENTRAL,,Odisha
+496835,EAST,,Punjab
+496837,WEST,,Rajasthan
+496839,SOUTH,,Sikkim
+496841,NORTH,,Tamil Nadu
+496843,CENTRAL,,Telangana
+496845,EAST,,Tripura
+496847,WEST,,Uttar Pradesh
+496849,SOUTH,,Uttarakhand
+496851,NORTH,,West Bengal
+496853,CENTRAL,,Andaman and Nicobar Islands
+496855,EAST,,Chandigarh
+496857,WEST,,Dadra and Nagar Haveli and Daman and Diu
+496859,SOUTH,,Lakshadweep
+496861,NORTH,,Delhi
+496863,CENTRAL,,Puducherry
+496865,EAST,,Ladakh
+496867,WEST,,Jammu and Kashmir
+496869,SOUTH,,Maharashtra
+496871,NORTH,,Delhi
+496873,CENTRAL,,Karnataka
+496875,EAST,,Andhra Pradesh
+496877,WEST,,Arunachal Pradesh
+496879,SOUTH,,Assam
+496881,NORTH,,Bihar
+496883,CENTRAL,,Chhattisgarh
+496885,EAST,,Goa
+496887,WEST,,Gujarat
+496889,SOUTH,,Haryana
+496891,NORTH,,Himachal Pradesh
+496893,CENTRAL,,Jharkhand
+496895,EAST,,Karnataka
+496897,WEST,,Kerala
+496899,SOUTH,,Madhya Pradesh
+496901,NORTH,,Maharashtra
+496903,CENTRAL,,Manipur
+496905,EAST,,Meghalaya
+496907,WEST,,Mizoram
+496909,SOUTH,,Nagaland
+496911,NORTH,,Odisha
+496913,CENTRAL,,Punjab
+496915,EAST,,Rajasthan
+496917,WEST,,Sikkim
+496919,SOUTH,,Tamil Nadu
+496921,NORTH,,Telangana
+496923,CENTRAL,,Tripura
+496925,EAST,,Uttar Pradesh
+496927,WEST,,Uttarakhand
+496929,SOUTH,,West Bengal
+496931,NORTH,,Andaman and Nicobar Islands
+496933,CENTRAL,,Chandigarh
+496935,EAST,,Dadra and Nagar Haveli and Daman and Diu
+496937,WEST,,Lakshadweep
+496939,SOUTH,,Delhi
+496941,NORTH,,Puducherry
+496943,CENTRAL,,Ladakh
+496945,EAST,,Jammu and Kashmir
+496947,WEST,,Maharashtra
+496949,SOUTH,,Delhi
+496951,NORTH,,Karnataka
+496953,CENTRAL,,Andhra Pradesh
+496955,EAST,,Arunachal Pradesh
+496957,WEST,,Assam
+496959,SOUTH,,Bihar
+496961,NORTH,,Chhattisgarh
+496963,CENTRAL,,Goa
+496965,EAST,,Gujarat
+496967,WEST,,Haryana
+496969,SOUTH,,Himachal Pradesh
+496971,NORTH,,Jharkhand
+496973,CENTRAL,,Karnataka
+496975,EAST,,Kerala
+496977,WEST,,Madhya Pradesh
+496979,SOUTH,,Maharashtra
+496981,NORTH,,Manipur
+496983,CENTRAL,,Meghalaya
+496985,EAST,,Mizoram
+496987,WEST,,Nagaland
+496989,SOUTH,,Odisha
+496991,NORTH,,Punjab
+496993,CENTRAL,,Rajasthan
+496995,EAST,,Sikkim
+496997,WEST,,Tamil Nadu
+496999,SOUTH,,Telangana
+497001,NORTH,,Tripura
+497003,CENTRAL,,Uttar Pradesh
+497005,EAST,,Uttarakhand
+497007,WEST,,West Bengal
+497009,SOUTH,,Andaman and Nicobar Islands
+497011,NORTH,,Chandigarh
+497013,CENTRAL,,Dadra and Nagar Haveli and Daman and Diu
+497015,EAST,,Lakshadweep
+497017,WEST,,Delhi
+497019,SOUTH,,Puducherry
+497021,NORTH,,Ladakh
+497023,CENTRAL,,Jammu and Kashmir
+497025,EAST,,Maharashtra
+497027,WEST,,Delhi
+497029,SOUTH,,Karnataka
+497031,NORTH,,Andhra Pradesh
+497033,CENTRAL,,Arunachal Pradesh
+497035,EAST,,Assam
+497037,WEST,,Bihar
+497039,SOUTH,,Chhattisgarh
+497041,NORTH,,Goa
+497043,CENTRAL,,Gujarat
+497045,EAST,,Haryana
+497047,WEST,,Himachal Pradesh
+497049,SOUTH,,Jharkhand
+497051,NORTH,,Karnataka
+497053,CENTRAL,,Kerala
+497055,EAST,,Madhya Pradesh
+497057,WEST,,Maharashtra
+497059,SOUTH,,Manipur
+497061,NORTH,,Meghalaya
+497063,CENTRAL,,Mizoram
+497065,EAST,,Nagaland
